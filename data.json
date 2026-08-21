@@ -33,9 +33,9 @@
       "medium": 57
     },
     "factCheckVerdictCounts": {
-      "corrected": 88,
+      "corrected": 89,
       "unverifiable": 1,
-      "verified": 32
+      "verified": 31
     }
   },
   "seasons": [
@@ -4715,36 +4715,57 @@
       "name": "Truckfly",
       "formerNamesOrPivots": [],
       "founders": [
-        "Maxime Legardez"
+        "Benoît Joncquez",
+        "Corentin Smith",
+        "Arthur Ouaki",
+        "Paul-Hubert des Minières"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
-      "statusAsOf": "2026-08-21",
-      "statusDetails": "Acquisition par Michelin en 2022.",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Truckfly a été acquis par Michelin le 26 juillet 2018.",
       "website": "https://www.truckfly.com",
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.michelin.com/en/publications/group/truckfly-acquisition"
+        "foundersOrStatus": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20150191_0001_p000.pdf"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
+      "notes": "Maxime Legardez, précédemment attribué à cette fiche, est le fondateur de Convargo et non de Truckfly.",
       "factCheck": {
-        "verdict": "verified",
-        "checkedAt": "2026-08-21",
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
         "fields": {
           "cohort": "verified",
           "identity": "verified",
-          "founders": "verified",
-          "status": "verified",
+          "founders": "corrected",
+          "status": "corrected",
           "website": "verified",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 1,
+        "evidenceCount": 6,
         "auditFile": "factcheck/batch-03.json"
-      }
+      },
+      "founderProfiles": [
+        {
+          "name": "Benoît Joncquez",
+          "linkedin": "https://www.linkedin.com/in/benoit-joncquez"
+        },
+        {
+          "name": "Corentin Smith",
+          "linkedin": "https://fr.linkedin.com/in/corentinsmith"
+        },
+        {
+          "name": "Arthur Ouaki",
+          "linkedin": "https://fr.linkedin.com/in/aouaki"
+        },
+        {
+          "name": "Paul-Hubert des Minières",
+          "linkedin": "https://es.linkedin.com/in/paul-hubert-des-mini%C3%A8res-29097796"
+        }
+      ]
     },
     {
       "id": "s8-willty",

@@ -1309,30 +1309,114 @@
   },
   {
     "id": "s8-truckfly",
-    "overallVerdict": "verified",
-    "checkedAt": "2026-08-21",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-22",
     "fields": {
       "cohort": "verified",
       "identity": "verified",
-      "founders": "verified",
-      "status": "verified",
+      "founders": "corrected",
+      "status": "corrected",
       "website": "verified",
       "seenInPhoto": "unverifiable"
     },
-    "proposedPatch": {},
+    "proposedPatch": {
+      "founders": [
+        "Benoît Joncquez",
+        "Corentin Smith",
+        "Arthur Ouaki",
+        "Paul-Hubert des Minières"
+      ],
+      "foundersPubliclyIdentified": true,
+      "founderProfiles": [
+        {
+          "name": "Benoît Joncquez",
+          "linkedin": "https://www.linkedin.com/in/benoit-joncquez"
+        },
+        {
+          "name": "Corentin Smith",
+          "linkedin": "https://fr.linkedin.com/in/corentinsmith"
+        },
+        {
+          "name": "Arthur Ouaki",
+          "linkedin": "https://fr.linkedin.com/in/aouaki"
+        },
+        {
+          "name": "Paul-Hubert des Minières",
+          "linkedin": "https://es.linkedin.com/in/paul-hubert-des-mini%C3%A8res-29097796"
+        }
+      ],
+      "status": "exit",
+      "statusLabel": "Exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Truckfly a été acquis par Michelin le 26 juillet 2018.",
+      "notes": "Maxime Legardez, précédemment attribué à cette fiche, est le fondateur de Convargo et non de Truckfly."
+    },
     "sources": [
       {
-        "url": "https://www.michelin.com/en/publications/group/truckfly-acquisition",
-        "title": "Michelin acquires Truckfly",
+        "url": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20150191_0001_p000.pdf",
+        "title": "Avis de constitution de Truckfly",
+        "publisher": "BODACC / DILA",
+        "sourceType": "official-registry",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders",
+          "identity"
+        ]
+      },
+      {
+        "url": "https://www.universite-paris-saclay.fr/formation/entrepreneuriat-etudiant/success-stories-etudiantes/en-2015",
+        "title": "Success stories étudiantes — 2015",
+        "publisher": "Université Paris-Saclay",
+        "sourceType": "official-university",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders",
+          "identity"
+        ]
+      },
+      {
+        "url": "https://www.trasportoeuropa.it/notizie/autisti/truckfly-lapplicazione-per-la-sosta-dei-camion/",
+        "title": "Truckfly, l'applicazione per la sosta dei camion",
+        "publisher": "TrasportoEuropa",
+        "sourceType": "contemporary-press",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders"
+        ]
+      },
+      {
+        "url": "https://www.linkedin.com/posts/benoit-joncquez_celebrating-3-huge-milestones-this-month-activity-7369742887904882688-weZX",
+        "title": "Dix ans de Truckfly",
+        "publisher": "Benoît Joncquez / LinkedIn",
+        "sourceType": "founder-primary",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders",
+          "acquisition"
+        ]
+      },
+      {
+        "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/c/OTC_MICP.PA_2018.pdf",
+        "title": "Michelin 2018 annual report",
         "publisher": "Michelin",
-        "sourceType": "acquirer announcement",
-        "accessedAt": "2026-08-21",
+        "sourceType": "acquirer-primary",
+        "accessedAt": "2026-08-22",
         "supports": [
           "acquisition"
         ]
+      },
+      {
+        "url": "https://alumni.edhec.edu/fr/article/portrait-d-entrepreneur-maxime-legardez-nous-presente-convargo/24/08/2016/18548",
+        "title": "Maxime Legardez présente Convargo",
+        "publisher": "EDHEC Alumni",
+        "sourceType": "contemporary-founder-interview",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "mistakenIdentity"
+        ]
       }
     ],
-    "notes": null
+    "notes": "Le BODACC et Paris-Saclay confirment Benoît Joncquez et Corentin Smith dès la création; la presse contemporaine ajoute Arthur Ouaki. Benoît Joncquez identifie rétrospectivement l'équipe de départ complète avec Paul-Hubert des Minières."
   },
   {
     "id": "s8-willty",
