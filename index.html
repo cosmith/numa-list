@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Le répertoire des startups passées par Le Camping / NUMA Paris entre 2011 et 2016.">
+    <meta name="theme-color" content="#f5f0e6">
+    <title>Ce qu'ils sont devenus — Le Camping / NUMA Paris</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#directory">Aller à la liste</a>
+
+    <header class="site-header">
+      <p class="eyebrow">Archives indépendantes</p>
+      <nav aria-label="Navigation principale">
+        <a href="#about">À propos</a>
+        <a href="https://github.com/cosmith/camping/edit/main/data.json" rel="noreferrer">Corriger les données sur GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-title-wrap">
+          <h1 id="page-title"><span>Ce qu’ils sont</span><span>devenus</span></h1>
+          <p class="stamp" aria-label="121 startups, 9 promotions">
+            <span>121 startups</span>
+            <span>9 promotions</span>
+          </p>
+        </div>
+        <p class="lede">Le répertoire des startups passées par <span>Le Camping<wbr> / NUMA Paris</span>, de 2011 à 2016.</p>
+      </section>
+
+      <section class="directory" id="directory" aria-labelledby="directory-title">
+        <h2 class="visually-hidden" id="directory-title">Répertoire des startups</h2>
+
+        <div class="search-wrap">
+          <label for="search">Rechercher dans les archives</label>
+          <input id="search" type="search" autocomplete="off" placeholder="Une startup, un fondateur ou un ancien nom…">
+        </div>
+
+        <div class="filters" aria-label="Filtres du répertoire">
+          <div class="status-filters" role="group" aria-label="Filtrer par devenir">
+            <button class="filter is-active" type="button" data-status="all" aria-pressed="true">Toutes <span>121</span></button>
+            <button class="filter" type="button" data-status="active" aria-pressed="false">En activité <span>34</span></button>
+            <button class="filter" type="button" data-status="exit" aria-pressed="false">Exit <span>32</span></button>
+            <button class="filter" type="button" data-status="stopped" aria-pressed="false">Stoppées <span>55</span></button>
+          </div>
+
+          <div class="season-filter">
+            <span class="season-label">Saison</span>
+            <div class="season-options" role="group" aria-label="Filtrer par saison">
+              <button class="season is-active" type="button" data-season="all" aria-pressed="true">Toutes</button>
+              <button class="season" type="button" data-season="1" aria-pressed="false">01</button>
+              <button class="season" type="button" data-season="2" aria-pressed="false">02</button>
+              <button class="season" type="button" data-season="3" aria-pressed="false">03</button>
+              <button class="season" type="button" data-season="4" aria-pressed="false">04</button>
+              <button class="season" type="button" data-season="5" aria-pressed="false">05</button>
+              <button class="season" type="button" data-season="6" aria-pressed="false">06</button>
+              <button class="season" type="button" data-season="7" aria-pressed="false">07</button>
+              <button class="season" type="button" data-season="8" aria-pressed="false">08</button>
+              <button class="season" type="button" data-season="9" aria-pressed="false">09</button>
+            </div>
+          </div>
+        </div>
+
+        <p class="results-summary" id="results-summary" role="status" aria-live="polite">Chargement des archives…</p>
+
+        <div class="list-head" aria-hidden="true">
+          <span>#</span>
+          <span>Startup</span>
+          <span>Saison</span>
+          <span>Fondateurs</span>
+          <span>Devenir</span>
+          <span></span>
+        </div>
+        <div class="startup-list" id="startup-list"></div>
+
+        <div class="empty-state" id="empty-state" hidden>
+          <p>Aucune startup ne correspond à cette recherche.</p>
+          <button type="button" id="reset-filters">Effacer les filtres</button>
+        </div>
+      </section>
+
+      <section class="about" id="about" aria-labelledby="about-title">
+        <p class="section-number">À propos</p>
+        <div>
+          <h2 id="about-title">Une archive ouverte</h2>
+          <p>Ce site documente les 121 startups sélectionnées dans les neuf promotions du Camping, devenu le programme d’accélération de NUMA Paris.</p>
+          <p>Les trajectoires évoluent et les sources peuvent manquer. Une information te semble inexacte ou incomplète&nbsp;?</p>
+          <a class="contribute-link" href="https://github.com/cosmith/camping/edit/main/data.json" rel="noreferrer">Proposer une correction sur GitHub</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Données vérifiées au <time id="data-date">21 août 2026</time>.</p>
+      <a href="https://github.com/cosmith/camping" rel="noreferrer">Code et données sur GitHub</a>
+    </footer>
+
+    <template id="startup-template">
+      <article class="startup-entry">
+        <button class="startup-row" type="button" aria-expanded="false">
+          <span class="startup-index"></span>
+          <span class="startup-identity">
+            <strong class="startup-name"></strong>
+            <small class="startup-mobile-meta"></small>
+          </span>
+          <span class="startup-season"></span>
+          <span class="startup-founders"></span>
+          <span class="startup-status"></span>
+          <span class="details-label">Voir</span>
+        </button>
+        <div class="startup-details" hidden></div>
+      </article>
+    </template>
+  </body>
+</html>
