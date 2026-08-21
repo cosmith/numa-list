@@ -6,16 +6,21 @@ Vérification effectuée le 21 août 2026 à partir de sources web, sans navigat
 
 - 40 fiches contrôlées
 - 7 vérifiées
-- 21 corrigées
-- 10 non vérifiables
-- 2 conflictuelles
+- 32 corrigées
+- 1 non vérifiable
 
 ## Corrections marquantes
 
 - Pricing Assistant : ajout de Martin de Charette et Sylvain Zimmer.
 - Zéro-Gâchis / Smartway : ajout de Christophe Ménez.
 - Agriconomie : cofondateur corrigé en Clément Le Fournis; activité actuelle sous le nom Agryco.
-- Popp! : le nom de cohorte était Popp!, avec Wepopp comme nom/domaine ultérieur.
+- Wepopp : trois cofondateurs rétablis; Popp! conservé comme nom de sélection.
+- Lingocracy : Maxime Vandegeerde et Yaoyan Yang confirmés par le JDN et le BODACC; Eric Burdier écarté.
+- Melusyn, SOAP/Znappit et SportDub : équipes fondatrices retrouvées dans la presse de l'époque.
+- Hublo : Léo-Paul Goffic, Cyril Gantzer et Etienne Le Scaon confirmés pour l'outil analytics, distinct de la healthtech actuelle.
+- Krack : quatre fondateurs retrouvés sous le nom Indy Trackers; projet toujours actif sous le nom Krak.
+- Takes / TakeTracker : quatre créateurs confirmés et radiation de la société documentée.
+- Read, Budeal, CloudOrbit et Filoute : fondateurs ajoutés à partir de sources nominatives et de registres.
 - LocalEyes, TasteHit, Tripndrive, CityTaps et Lendosphere : fondateurs publics ajoutés.
 - Realytics : quatre cofondateurs et acquisition 2022 par smartclip/RTL précisés.
 - Streamroot : fondateurs corrigés en Pierre-Louis Théron, Nikolay Rodionov et Axel Delmas.
@@ -24,8 +29,8 @@ Vérification effectuée le 21 août 2026 à partir de sources web, sans navigat
 
 ## Conflits et réserves
 
-- SOAP / Znappit : les sources de cohorte nomment Znappit; le pivot vers SOAP n'a pas été prouvé.
-- Takes : les sources contemporaines emploient TakeTracker ou TakeTakr.
+- SOAP / Znappit : FrenchWeb nomme les trois fondateurs et l'archive officielle du Camping documente le renommage en SOAP.
+- Budeal : Stéphane Perrin est identifié comme créateur, mais la source mentionne un second associé sans le nommer.
 - Nunki : les sources de cohorte décrivent une application d'agrégation d'actualité, alors que la fiche actuelle décrit une solution de veille des risques; pivot possible mais non documenté.
 - Les valeurs `seenInPhoto: false` restent invérifiables par nature. Les valeurs `true` ne sont validées que lorsqu'une source consultée contient une photo légendée ou une image d'équipe pertinente.
 

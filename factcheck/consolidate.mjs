@@ -28,7 +28,20 @@ for (const startup of data.startups) {
 
   const before = {};
   const after = {};
-  for (const [key, value] of Object.entries(audit.proposedPatch ?? {})) {
+  const proposedPatch = { ...(audit.proposedPatch ?? {}) };
+  const additionalFounderSource = audit.additionalFounderSources?.[0];
+  const embeddedFounderSource = audit.sources.find((source) =>
+    source.supports?.some((support) => /founder|fondateur|team|officer/i.test(support)),
+  )?.url;
+  const founderSource = additionalFounderSource ?? embeddedFounderSource;
+  if (proposedPatch.founders && founderSource) {
+    proposedPatch.sources = {
+      ...startup.sources,
+      foundersOrStatus: founderSource,
+    };
+  }
+
+  for (const [key, value] of Object.entries(proposedPatch)) {
     if (JSON.stringify(startup[key]) !== JSON.stringify(value)) {
       before[key] = startup[key] ?? null;
       after[key] = value;
@@ -42,7 +55,7 @@ for (const startup of data.startups) {
     verdict: audit.overallVerdict,
     checkedAt: audit.checkedAt,
     fields: audit.fields,
-    evidenceCount: audit.sources.length,
+    evidenceCount: audit.sources.length + (audit.additionalFounderSources?.length ?? 0),
     auditFile: audit.auditFile,
   };
 

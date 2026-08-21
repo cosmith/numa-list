@@ -44,12 +44,19 @@ const makeDetails = (startup) => {
     sourceLink(startup.sources?.cohort, "Sélection"),
     sourceLink(startup.sources?.foundersOrStatus, "Parcours"),
   ].filter(Boolean).join(" · ") || "—";
+  const founderProfiles = startup.founderProfiles?.length
+    ? startup.founderProfiles
+      .map(({ name, linkedin }) => sourceLink(linkedin, name))
+      .filter(Boolean)
+      .join(" · ")
+    : "";
 
   return `<div class="detail-grid">
     ${detailItem("Détail", escapeHtml(startup.statusDetails || "Information non documentée."), "detail-wide")}
     ${startup.status === "exit" ? detailItem("Acquéreur", escapeHtml(startup.acquirer || "Non identifié / non documenté")) : ""}
     ${detailItem("Ancien nom / pivot", pivots)}
     ${detailItem("Site web", website)}
+    ${detailItem("LinkedIn des fondateurs", founderProfiles)}
     ${detailItem("Sources", sources, "detail-wide")}
     ${detailItem("Niveau de confiance", escapeHtml(startup.confidenceLabel || "Non renseigné"))}
   </div>`;

@@ -13,7 +13,7 @@
   },
   {
     "id":"s1-beansight","overallVerdict":"corrected","checkedAt":"2026-08-21",
-    "fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"corrected","website":"verified","seenInPhoto":"unverifiable"},"proposedPatch":{"founders":["Guillaume Wolf","Steren Giannini","Cyril Dorsaz","Jean-Baptiste Claramonte"],"statusDetails":"Projet devenu open source en 2014; service historique aujourd’hui hors ligne."},
+    "fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"corrected","website":"verified","seenInPhoto":"unverifiable"},"proposedPatch":{"founders":["Guillaume Wolf","Steren Giannini","Cyril Dorsaz","Jean-Baptiste Claramonte"],"founderProfiles":[{"name":"Steren Giannini","linkedin":"https://www.linkedin.com/in/steren"}],"statusDetails":"Projet devenu open source en 2014; service historique aujourd’hui hors ligne."},
     "sources":[{"url":"https://labs.steren.fr/2014/05/14/beansight-is-now-open-source/","title":"Beansight is now open source","publisher":"Steren Giannini","sourceType":"founder-primary","accessedAt":"2026-08-21","supports":["status","statusDetails"]},{"url":"https://www.maddyness.com/2011/12/09/beansight/","title":"Beansight","publisher":"Maddyness","sourceType":"press","accessedAt":"2026-08-21","supports":["season","name","founders"]}],
     "notes":"La date d'arrêt 2011 est fausse: le projet a encore été publié en open source en 2014."
   },

@@ -1,42 +1,1952 @@
 [
-  {"id":"s4-lingocracy","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/","title":"Le Camping dévoile ses nouveaux campeurs","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://wydden.com/nouvelle-promo-saison-4-de-laccelerateur-le-camping/","title":"Nouvelle promo saison 4","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name"]}],"notes":"Aucune source récente fiable trouvée pour prouver l'arrêt, les fondateurs ou l'absence de site."},
-  {"id":"s4-melusyn","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/","title":"Le Camping dévoile ses nouveaux campeurs","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://www.journaldunet.com/web-tech/start-up/1108405-decouvrez-la-nouvelle-promotion-du-camping-en-video/","title":"Découvrez la nouvelle promotion du Camping","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name"]}],"notes":"L'absence de trace actuelle ne suffit pas à établir juridiquement l'arrêt."},
-  {"id":"s4-pricing-assistant","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Martin de Charette","Sylvain Zimmer"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://sylvainzimmer.com/blog/2019/06/pricing-assistant-joins-contentsquare/","title":"Pricing Assistant joins Contentsquare","publisher":"Sylvain Zimmer","sourceType":"founder/primary","accessedAt":"2026-08-21","supports":["cohort","founders","acquisition","photo"]},{"url":"https://contentsquare.com/company/","title":"Contentsquare company timeline","publisher":"Contentsquare","sourceType":"acquirer/primary","accessedAt":"2026-08-21","supports":["acquisition","year"]}],"notes":"Acquisition confirmée en 2019; les deux cofondateurs étaient absents."},
-  {"id":"s4-smiirl","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"verified","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://www.smiirl.com/en/home","title":"Smiirl home and story","publisher":"Smiirl","sourceType":"company/primary","accessedAt":"2026-08-21","supports":["status","website","founders"]},{"url":"https://www.maddyness.com/2023/12/06/10-ans-apres-son-seed-smiirl-leve-une-serie-a/","title":"10 ans après son seed, Smiirl lève une Série A","publisher":"Maddyness","sourceType":"press","accessedAt":"2026-08-21","supports":["founders","season","status","photo"]}],"notes":"Activité et commercialisation confirmées."},
-  {"id":"s4-soap","overallVerdict":"conflicting","checkedAt":"2026-08-21","fields":{"season":"verified","name":"conflicting","formerNamesOrPivots":"conflicting","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/","title":"Le Camping dévoile ses nouveaux campeurs","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","Znappit name"]},{"url":"https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/","title":"Le Camping : les 12 startups de saison 4","publisher":"UnSimpleClic","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","Znappit name","znapp.it"]}],"notes":"Les sources contemporaines nomment Znappit; aucune source fiable trouvée pour établir le pivot vers SOAP. Ne pas inverser les noms sans preuve supplémentaire."},
-  {"id":"s4-sportdub","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/","title":"Le Camping dévoile ses nouveaux campeurs","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/","title":"Le Camping saison 4","publisher":"UnSimpleClic","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","historical website"]}],"notes":"Statut actuel non prouvé."},
-  {"id":"s4-wepopp","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"corrected","formerNamesOrPivots":"corrected","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{"name":"Popp!","formerNamesOrPivots":["Wepopp"]},"sources":[{"url":"https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/","title":"Le Camping dévoile ses nouveaux campeurs","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","Popp! name","product"]},{"url":"https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/","title":"Le Camping saison 4","publisher":"UnSimpleClic","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["Popp! name","wepopp.com"]}],"notes":"Le nom à l'entrée en cohorte était Popp!, avec wepopp.com comme domaine."},
-  {"id":"s4-zero-gachis","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Paul-Adrien Ménez","Christophe Ménez"]},"sources":[{"url":"https://smartway.ai/news/to-support-its-growth-in-france-and-speed-up-international-development-zero-gachis-raises-eu10m-and-becomes-smartway","title":"Zéro-Gâchis becomes Smartway","publisher":"Smartway","sourceType":"company/primary","accessedAt":"2026-08-21","supports":["pivot","founders","status","website"]},{"url":"https://www.ca-idia.com/actualite/pour-accompagner-sa-croissance-en-france-et-accelerer-a-linternational-zero-gachis-leve-10me-et-devient-smartway/","title":"Zéro-Gâchis devient Smartway","publisher":"IDIA","sourceType":"investor","accessedAt":"2026-08-21","supports":["pivot","activity"]}],"notes":"Le second cofondateur Christophe Ménez manquait."},
-  {"id":"s5-agriconomie","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"corrected","founders":"corrected","status":"verified","statusDetails":"corrected","website":"corrected","seenInPhoto":"verified"},"proposedPatch":{"formerNamesOrPivots":["Agryco"],"founders":["Paolin Pascot","Dinh Nguyen","Clément Le Fournis"],"statusDetails":"Place de marché agricole active sous le nom Agryco.","website":"https://www.agryco.com"},"sources":[{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups sélectionnées saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","founders","photo"]},{"url":"https://innovafeed.com/wp-content/uploads/2025/01/FR-CP-Innovafeed-x-Agryco-30012025.pdf","title":"Innovafeed x Agryco","publisher":"Innovafeed/Agryco","sourceType":"company press release","accessedAt":"2026-08-21","supports":["Agryco name","founders","active status"]}],"notes":"Clément Ray est erroné; le cofondateur est Clément Le Fournis. Agriconomie utilise désormais Agryco."},
-  {"id":"s5-artips","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"unverifiable","statusDetails":"unverifiable","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Coline Debayle","Jean Perret","Gérard Marié"]},"sources":[{"url":"https://www.artips.fr/qui-sommes-nous","title":"Qui sommes-nous ?","publisher":"Artips","sourceType":"company/primary","accessedAt":"2026-08-21","supports":["origins","founders","website"]},{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]}],"notes":"La source de cohorte compte Gérard Marié parmi les fondateurs. L'intégration à Beaux Arts n'a pas été confirmée par une source primaire dans cette passe."},
-  {"id":"s5-bandsquare","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"corrected","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{"founders":["Antoine Labbé","Chloé Julien"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","founders","photo"]},{"url":"https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/","title":"Le Camping 5th Demo Day","publisher":"TechCrunch","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]}],"notes":"Fondateurs identifiés; aucune preuve satisfaisante de l'acquisition alléguée."},
-  {"id":"s5-hublo","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/","title":"Le Camping 5th Demo Day","publisher":"TechCrunch","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://www.journaldunet.com/start-up/1134272-l-accelerateur-le-camping-fete-ses-trois-ans/","title":"Le Camping fête ses trois ans","publisher":"Journal du Net","sourceType":"press","accessedAt":"2026-08-21","supports":["season context"]}],"notes":"Homonyme healthtech important; statut et fondateurs du Hublo analytics non établis."},
-  {"id":"s5-krack","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"conflicting","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/","title":"Le Camping 5th Demo Day","publisher":"TechCrunch","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["same project under Indytrackers","team","photo"]}],"notes":"La relation Krack/Indytrackers/Wodd est probable mais insuffisamment documentée pour une correction automatique."},
-  {"id":"s5-localeyes","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Olivier Mougenot","Colin Valière","Livio Lumbroso"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://content.bemyeye.com/blog/localeyes-series-b-funding/amp/","title":"BeMyEye acquires LocalEyes","publisher":"BeMyEye","sourceType":"acquirer/primary","accessedAt":"2026-08-21","supports":["acquisition","status"]},{"url":"https://techcrunch.com/2016/05/19/keep-your-eyes-on-the-prize/","title":"BeMyEye acquires French competitor LocalEyes","publisher":"TechCrunch","sourceType":"press","accessedAt":"2026-08-21","supports":["acquisition","founders"]}],"notes":"Fondateurs ajoutés; acquisition 2016 confirmée."},
-  {"id":"s5-qleek","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"verified","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://www.thepitch.show/108-Qleek-part-three-a-postmortem-and-a-comeback","title":"Qleek Part III: A Postmortem","publisher":"The Pitch","sourceType":"founder interview","accessedAt":"2026-08-21","supports":["founders","shutdown during Covid"]},{"url":"https://www.epita.fr/2014/05/20/start-up-camping-qleek-le-renouveau-du-support-physique/","title":"Qleek : un Epitéen relance le support physique","publisher":"EPITA","sourceType":"institutional profile","accessedAt":"2026-08-21","supports":["season","name","founder","photo"]}],"notes":"Arrêt pendant la pandémie confirmé par un entretien rétrospectif des fondateurs."},
-  {"id":"s5-realytics","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"corrected","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Guillaume Belmas","Sébastien Monteil","Vincent Nguyen-Huu","Gregory Bittan"],"statusDetails":"Acquise par smartclip (groupe RTL) en 2022; marque et offre maintenues lors de l'acquisition."},"sources":[{"url":"https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/","title":"smartclip acquires Realytics","publisher":"smartclip/RTL","sourceType":"acquirer/primary","accessedAt":"2026-08-21","supports":["acquisition","founders","brand status"]},{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]}],"notes":"Trois cofondateurs manquaient et le détail d'exit était trop vague."},
-  {"id":"s5-streamroot","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Pierre-Louis Théron","Nikolay Rodionov","Axel Delmas"]},"sources":[{"url":"https://partechpartners.com/companies/streamroot","title":"Streamroot","publisher":"Partech","sourceType":"investor","accessedAt":"2026-08-21","supports":["founders","acquisition","photo"]},{"url":"https://news.lumen.com/CenturyLink-acquires-Streamroot","title":"CenturyLink acquires Streamroot","publisher":"Lumen/CenturyLink","sourceType":"acquirer/primary","accessedAt":"2026-08-21","supports":["acquisition","year"]}],"notes":"Nicolas Weil et Clément Artur étaient erronés; les cofondateurs confirmés sont Théron, Rodionov et Delmas."},
-  {"id":"s5-takes","overallVerdict":"conflicting","checkedAt":"2026-08-21","fields":{"season":"verified","name":"conflicting","formerNamesOrPivots":"conflicting","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["TakeTracker name","founders"]},{"url":"https://www.maddyness.com/2013/11/22/le-camping-saison-5/","title":"Le Camping saison 5","publisher":"Maddyness/L'Atelier","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["TakeTakr spelling","product"]}],"notes":"Les sources contemporaines parlent de TakeTracker/TakeTakr, pas de Takes. Une clarification de la chaîne de renommage est nécessaire."},
-  {"id":"s5-tastehit","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Alexei Kounine","Harold Christopher Burger"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://wellfound.com/company/tastehit/people","title":"TasteHit people","publisher":"Wellfound","sourceType":"company profile","accessedAt":"2026-08-21","supports":["founders","acquisition"]},{"url":"https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/","title":"12 startups saison 5","publisher":"Wydden","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]}],"notes":"Les deux cofondateurs étaient absents."},
-  {"id":"s5-tripndrive","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["François-Xavier Leduc","Arthur de Keyzer","Nicolas Cosme"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://www.tripndrive.com/en/news/","title":"About Tripndrive","publisher":"Tripndrive","sourceType":"company/primary","accessedAt":"2026-08-21","supports":["founders","season","name"]},{"url":"https://www.largus.fr/pros/actualite-automobile/autopartage-travelcar-rachete-son-concurrent-tripndrive-8488388.html","title":"TravelCar rachète Tripndrive","publisher":"L'Argus","sourceType":"press","accessedAt":"2026-08-21","supports":["liquidation","acquisition"]}],"notes":"Fondateurs ajoutés; rachat par TravelCar après liquidation confirmé."},
-  {"id":"s6-soundsgood","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"verified","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://www.believe.com/who-we-are/","title":"Believe history","publisher":"Believe","sourceType":"acquirer/primary","accessedAt":"2026-08-21","supports":["acquisition","year"]},{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]}],"notes":"Acquisition par Believe en 2020 confirmée; la plateforme gratuite a ensuite été suspendue."},
-  {"id":"s6-uniquesound","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"corrected","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{"founders":["Romain Cochet","Julien Declercq","Cédric Laruelle"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","team"]},{"url":"https://www.maddyness.com/2014/09/04/lecamping-saison6/","title":"12 startups de la saison 6","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]}],"notes":"Équipe fondatrice identifiée; acquisition non confirmée par une source fiable retrouvée."},
-  {"id":"s6-sharette","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"verified","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.maddyness.com/2016/06/13/consocollab-citygoo-soffre-specialiste-covoiturage-sharette-se-constitue-flotte-de-100-000-utilisateurs/","title":"Citygoo s'offre Sharette","publisher":"Maddyness","sourceType":"press","accessedAt":"2026-08-21","supports":["acquisition","year","founder"]},{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","team"]}],"notes":"Acquisition/intégration à Citygoo confirmée."},
-  {"id":"s6-drust","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"verified","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]},{"url":"https://www.eu-startups.com/2016/11/the-french-startup-that-wants-you-to-become-a-superdriver-interview-with-the-co-founder-and-ceo-of-drust/","title":"Interview with Drust co-founder","publisher":"EU-Startups","sourceType":"founder interview","accessedAt":"2026-08-21","supports":["founders","product"]}],"notes":"Fondateurs confirmés; l'arrêt actuel reste une inférence par absence de présence exploitable."},
-  {"id":"s6-sharepay","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["David Finel","Jonas Braoudé"]},"sources":[{"url":"https://www.frenchweb.fr/linxo-soffre-sharepay-pour-accelerer-dans-le-paiement/321870","title":"Linxo s'offre Sharepay","publisher":"FrenchWeb","sourceType":"press","accessedAt":"2026-08-21","supports":["founders","acquisition"]},{"url":"https://www.latribune.fr/entreprises-finance/banques-finance/fintech-sharepay-disparait-au-profit-des-ambitions-de-linxo-dans-les-paiements-825536.html","title":"Sharepay disparaît","publisher":"La Tribune","sourceType":"press","accessedAt":"2026-08-21","supports":["founders","service shutdown"]}],"notes":"Les sources convergent sur Finel et Braoudé; Armenak Mayalian n'est pas étayé comme fondateur."},
-  {"id":"s6-pulpix","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"corrected","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Sabry Otmani","Denis Vilar"],"foundersPubliclyIdentified":true,"statusDetails":"Acquisition par Adyoulike en 2019."},"sources":[{"url":"https://www.ycombinator.com/companies/pulpix","title":"Pulpix","publisher":"Y Combinator","sourceType":"accelerator/primary profile","accessedAt":"2026-08-21","supports":["founders","acquired status","Adyoulike 2019"]},{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]}],"notes":"La mention « Teads en 2016 » n'est pas confirmée; le profil YC officiel indique Adyoulike en 2019."},
-  {"id":"s6-smyle","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"corrected","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{"founders":["Augustin Marty","Aloïs Brunel","Vincent Delaitre"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","team"]},{"url":"https://www.maddyness.com/2014/09/04/lecamping-saison6/","title":"12 startups saison 6","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["name","product","historical website"]}],"notes":"Équipe fondatrice ajoutée; arrêt non démontré formellement."},
-  {"id":"s6-tiller-systems","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{"founders":["Josef Bovet","Scott Gordon","Dimitri Farber","Vincent Oliveira"]},"sources":[{"url":"https://www.sumup.com/fr-fr/press/sumup-acquiert-le-francais-tiller/","title":"SumUp acquiert Tiller","publisher":"SumUp","sourceType":"acquirer/primary","accessedAt":"2026-08-21","supports":["acquisition","year"]},{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","team","photo"]}],"notes":"Liste de fondateurs complétée; acquisition 2021 confirmée par SumUp."},
-  {"id":"s6-kokot","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"verified","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://www.maddyness.com/2014/09/04/lecamping-saison6/","title":"12 startups saison 6","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","product"]},{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]}],"notes":"Cohorte et fondateurs solides; arrêt actuel non prouvé par une source primaire."},
-  {"id":"s6-nunki","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"corrected","status":"conflicting","statusDetails":"conflicting","website":"conflicting","seenInPhoto":"verified"},"proposedPatch":{"founders":["Quentin Lhomme","Jean-Baptiste Janvier","Quentin Lainé"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","founders","photo"]},{"url":"https://www.maddyness.com/2014/09/04/lecamping-saison6/","title":"12 startups saison 6","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["historical product","historical website"]}],"notes":"Les sources historiques décrivent une app d'agrégation d'actualité, pas clairement la solution actuelle de risque; possible pivot non documenté."},
-  {"id":"s6-artchy","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"corrected","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{"founders":["Mélanie Rozencwaig","Jhava Chikli","Tran Nguyen Ngoc"]},"sources":[{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","team","photo"]},{"url":"https://www.maddyness.com/2014/09/04/lecamping-saison6/","title":"12 startups saison 6","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["name","product","historical website"]}],"notes":"Les trois membres fondateurs ont été rétablis; le pivot Archive Valley et son statut actuel demandent une source primaire accessible."},
-  {"id":"s6-jam","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"verified","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/","title":"Le Camping saison 6","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","Marjolaine Grondin","photo"]},{"url":"https://www.maddyness.com/2014/09/04/lecamping-saison6/","title":"12 startups saison 6","publisher":"Maddyness","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["name","founder","historical product"]}],"notes":"La fermeture du chatbot n'a pas été suffisamment sourcée dans cette passe."},
-  {"id":"s7-read","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"conflicting","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/","title":"25 lauréats du programme Numa","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","Read name","product"]},{"url":"https://www.itespresso.fr/start-up-le-programme-numa-sprint-inaugure-sa-7eme-saison-97065.html/amp","title":"Numa Sprint inaugure sa saison 7","publisher":"ITespresso","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["Addr/Read name","season"]}],"notes":"Une source donne Addr/Read; relation de nom à clarifier. Statut non prouvé."},
-  {"id":"s7-budeal","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/","title":"25 lauréats du programme Numa","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://www.itespresso.fr/start-up-le-programme-numa-sprint-inaugure-sa-7eme-saison-97065.html/amp","title":"Numa Sprint saison 7","publisher":"ITespresso","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name"]}],"notes":"Statut et fondateurs non retrouvés dans des sources fiables."},
-  {"id":"s7-citytaps","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"unverifiable"},"proposedPatch":{"founders":["Grégoire Landel"],"foundersPubliclyIdentified":true},"sources":[{"url":"https://www.citytaps.org","title":"CityTaps","publisher":"CityTaps","sourceType":"company/primary","accessedAt":"2026-08-21","supports":["active status","website","product"]},{"url":"https://wellfound.com/company/citytaps/people","title":"CityTaps people","publisher":"Wellfound","sourceType":"company profile","accessedAt":"2026-08-21","supports":["founder"]}],"notes":"Fondateur ajouté; activité et site confirmés."},
-  {"id":"s7-cloudorbit","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"unverifiable","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/","title":"25 lauréats Numa","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://www.itespresso.fr/start-up-le-programme-numa-sprint-inaugure-sa-7eme-saison-97065.html/amp","title":"Numa Sprint saison 7","publisher":"ITespresso","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]}],"notes":"Résultats actuels dominés par des homonymes; impossible d'établir le statut."},
-  {"id":"s7-coursierprive-com","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"corrected","founders":"verified","status":"verified","statusDetails":"corrected","website":"unverifiable","seenInPhoto":"verified"},"proposedPatch":{"formerNamesOrPivots":["Swoopin"],"statusDetails":"CoursierPrivé.com est devenu Swoopin; liquidation judiciaire prononcée en novembre 2022."},"sources":[{"url":"https://www.pappers.fr/entreprise/swoopin-804046795","title":"SWOOPIN (COURSIERPRIVE.COM)","publisher":"Pappers","sourceType":"public registry aggregator","accessedAt":"2026-08-21","supports":["legal identity","trade name","registry status"]},{"url":"https://supplychainmagazine.fr/nl/2022/swoopin-se-cherche-un-repreneur/","title":"Swoopin se cherche un repreneur","publisher":"Supply Chain Magazine","sourceType":"trade press","accessedAt":"2026-08-21","supports":["liquidation","founder","pivot"]}],"notes":"Le devenir Swoopin et la liquidation sont plus précis que « non retrouvé comme activité autonome »."},
-  {"id":"s7-corilla","overallVerdict":"verified","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"verified","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"verified"},"proposedPatch":{},"sources":[{"url":"https://medium.com/corilla-blog/deciding-the-future-of-corilla-930e9e2b0332","title":"Deciding the future of Corilla","publisher":"Corilla / David Ryan","sourceType":"founder/primary","accessedAt":"2026-08-21","supports":["shutdown/wind-down","founder"]},{"url":"https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/","title":"25 lauréats Numa","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]}],"notes":"Le fondateur décrit lui-même la mise en maintenance minimale puis l'arrêt du modèle actif."},
-  {"id":"s7-filoute","overallVerdict":"unverifiable","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"unverifiable","founders":"partially verified","status":"unverifiable","statusDetails":"unverifiable","website":"unverifiable","seenInPhoto":"unverifiable"},"proposedPatch":{},"sources":[{"url":"https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/","title":"25 lauréats Numa","publisher":"Journal du Net","sourceType":"press/cohort","accessedAt":"2026-08-21","supports":["season","name","product"]},{"url":"https://app.dealroom.co/companies/filoute","title":"Filoute company profile","publisher":"Dealroom","sourceType":"company database","accessedAt":"2026-08-21","supports":["two-founder origin"]}],"notes":"Domitille est plausible mais une seconde cofondatrice (« Flo ») apparaît; identité complète et statut non suffisamment établis."},
-  {"id":"s7-lendosphere","overallVerdict":"corrected","checkedAt":"2026-08-21","fields":{"season":"verified","name":"verified","formerNamesOrPivots":"verified","founders":"corrected","status":"verified","statusDetails":"verified","website":"verified","seenInPhoto":"unverifiable"},"proposedPatch":{"founders":["Laure Verhaeghe","Amaury Blais"]},"sources":[{"url":"https://www.lendosphere.com/infos/qui-sommes-nous?locale=fr","title":"Qui sommes-nous ?","publisher":"Lendosphere","sourceType":"company/primary","accessedAt":"2026-08-21","supports":["founders","active status","website"]},{"url":"https://financeparticipative.org/team/laure-verhaeghe/","title":"Laure Verhaeghe","publisher":"Financement Participatif France","sourceType":"industry association","accessedAt":"2026-08-21","supports":["founders","founding year"]}],"notes":"Amaury Blais manquait; activité actuelle confirmée par le site et l'acquisition récente de Lendopolis."}
+  {
+    "id": "s4-lingocracy",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Maxime Vandegeerde",
+        "Yaoyan Yang"
+      ],
+      "foundersPubliclyIdentified": true,
+      "statusDetails": "Société dissoute en janvier 2016; clôture de liquidation prononcée en juin 2016."
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/web-tech/start-up/1108405-decouvrez-la-nouvelle-promotion-du-camping-en-video/1108415-lingocracy",
+        "title": "Lingocracy : transformer le contenu Web en cours de langue",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "founders",
+          "product"
+        ]
+      },
+      {
+        "url": "https://entreprises.lefigaro.fr/lingocracy-75/entreprise-792828543",
+        "title": "Lingocracy (792 828 543)",
+        "publisher": "Le Figaro Entreprises / BODACC",
+        "sourceType": "public registry aggregator",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "legal identity",
+          "founding officers",
+          "dissolution",
+          "liquidation"
+        ]
+      }
+    ],
+    "notes": "Le Journal du Net et l'avis BODACC de création convergent sur Maxime Vandegeerde et Yaoyan Yang. Eric Burdier, parfois donné par des annuaires, n'apparaît pas dans ces sources contemporaines."
+  },
+  {
+    "id": "s4-melusyn",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Octave Bory-Bert",
+        "Alexandre Péron",
+        "Hugo Cordier",
+        "Chloé Oternaud"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.frenchweb.fr/lancement-de-melusyn-la-gestion-de-tournages-de-fiction-en-mode-cloud/95641",
+        "title": "Lancement de Melusyn",
+        "publisher": "FrenchWeb",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "launch",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.itespresso.fr/levee-fonds-melusyn-plante-decor-122958.html",
+        "title": "Levée de fonds : Melusyn plante le décor",
+        "publisher": "ITespresso",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "four founders",
+          "funding",
+          "product"
+        ]
+      }
+    ],
+    "notes": "FrenchWeb identifie les deux initiateurs en 2013; ITespresso attribue ensuite explicitement la fondation aux quatre membres de l'équipe."
+  },
+  {
+    "id": "s4-pricing-assistant",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Martin de Charette",
+        "Sylvain Zimmer"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://sylvainzimmer.com/blog/2019/06/pricing-assistant-joins-contentsquare/",
+        "title": "Pricing Assistant joins Contentsquare",
+        "publisher": "Sylvain Zimmer",
+        "sourceType": "founder/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "cohort",
+          "founders",
+          "acquisition",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://contentsquare.com/company/",
+        "title": "Contentsquare company timeline",
+        "publisher": "Contentsquare",
+        "sourceType": "acquirer/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "year"
+        ]
+      }
+    ],
+    "notes": "Acquisition confirmée en 2019; les deux cofondateurs étaient absents."
+  },
+  {
+    "id": "s4-smiirl",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "verified",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.smiirl.com/en/home",
+        "title": "Smiirl home and story",
+        "publisher": "Smiirl",
+        "sourceType": "company/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "status",
+          "website",
+          "founders"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2023/12/06/10-ans-apres-son-seed-smiirl-leve-une-serie-a/",
+        "title": "10 ans après son seed, Smiirl lève une Série A",
+        "publisher": "Maddyness",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "season",
+          "status",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Activité et commercialisation confirmées."
+  },
+  {
+    "id": "s4-soap",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Victor Grange",
+        "Adrien Dupuy",
+        "Nicolas Garnault"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+        "title": "Le Camping dévoile ses nouveaux campeurs",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "Znappit name"
+        ]
+      },
+      {
+        "url": "https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/",
+        "title": "Le Camping : les 12 startups de saison 4",
+        "publisher": "UnSimpleClic",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "Znappit name",
+          "znapp.it"
+        ]
+      }
+      ,
+      {
+        "url": "https://www.frenchweb.fr/bon-app-znappit-realise-des-montages-collaboratifs-de-videos-lors-devenements/134338",
+        "title": "Znappit réalise des montages collaboratifs de vidéos",
+        "publisher": "FrenchWeb",
+        "sourceType": "press/founder interview",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "Znappit name",
+          "creation date"
+        ]
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/gh-pages/startups.json",
+        "title": "Le Camping Mafia — startups.json",
+        "publisher": "Le Camping",
+        "sourceType": "accelerator/primary archive",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "SOAP name",
+          "former Znappit name",
+          "season"
+        ]
+      }
+    ],
+    "notes": "FrenchWeb nomme les trois fondateurs de Znappit en novembre 2013; l'archive officielle du Camping enregistre ensuite la fiche sous « SOAP (ex znappit) »."
+  },
+  {
+    "id": "s4-sportdub",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Rodolphe Darves-Bornoz",
+        "Marc-Antoine Lacroix"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+        "title": "Le Camping dévoile ses nouveaux campeurs",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/",
+        "title": "Le Camping saison 4",
+        "publisher": "UnSimpleClic",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "historical website"
+        ]
+      }
+    ],
+    "notes": "Le Master DMC et Wydden convergent sur Rodolphe Darves-Bornoz et Marc-Antoine Lacroix.",
+    "additionalFounderSources": [
+      "https://www.master-dmc.fr/post/archives-de-la-promotion-2012-2013",
+      "https://wydden.com/la-france-a-dincroyables-start-up-sportdub-une-autre-facon-de-voir-un-match/"
+    ]
+  },
+  {
+    "id": "s4-wepopp",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "corrected",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "name": "Wepopp",
+      "formerNamesOrPivots": [
+        "Popp!"
+      ],
+      "founders": [
+        "Julien Hobeika",
+        "Nicolas Marlier",
+        "Guillaume Michiels"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+        "title": "Le Camping dévoile ses nouveaux campeurs",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "Popp! name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/",
+        "title": "Le Camping saison 4",
+        "publisher": "UnSimpleClic",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "Popp! name",
+          "wepopp.com"
+        ]
+      }
+    ],
+    "notes": "Rude Baguette et CroissancePlus nomment Julien Hobeika, Nicolas Marlier et Guillaume Michiels. Wepopp est retenu comme nom principal, Popp! comme nom de sélection.",
+    "additionalFounderSources": [
+      "https://www.rudebaguette.com/en/2013/10/wepopp-looks-to-mobile-to-disrupt-how-we-organize-events-with-friends/",
+      "https://www.croissanceplus.com/wp-content/uploads/2016/04/Cplus04-ALL-pap.pdf"
+    ]
+  },
+  {
+    "id": "s4-zero-gachis",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Paul-Adrien Ménez",
+        "Christophe Ménez"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://smartway.ai/news/to-support-its-growth-in-france-and-speed-up-international-development-zero-gachis-raises-eu10m-and-becomes-smartway",
+        "title": "Zéro-Gâchis becomes Smartway",
+        "publisher": "Smartway",
+        "sourceType": "company/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "pivot",
+          "founders",
+          "status",
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.ca-idia.com/actualite/pour-accompagner-sa-croissance-en-france-et-accelerer-a-linternational-zero-gachis-leve-10me-et-devient-smartway/",
+        "title": "Zéro-Gâchis devient Smartway",
+        "publisher": "IDIA",
+        "sourceType": "investor",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "pivot",
+          "activity"
+        ]
+      }
+    ],
+    "notes": "Le second cofondateur Christophe Ménez manquait."
+  },
+  {
+    "id": "s5-agriconomie",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "corrected",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "corrected",
+      "website": "corrected",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "formerNamesOrPivots": [
+        "Agryco"
+      ],
+      "founders": [
+        "Paolin Pascot",
+        "Dinh Nguyen",
+        "Clément Le Fournis"
+      ],
+      "statusDetails": "Place de marché agricole active sous le nom Agryco.",
+      "website": "https://www.agryco.com"
+    },
+    "sources": [
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups sélectionnées saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "founders",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://innovafeed.com/wp-content/uploads/2025/01/FR-CP-Innovafeed-x-Agryco-30012025.pdf",
+        "title": "Innovafeed x Agryco",
+        "publisher": "Innovafeed/Agryco",
+        "sourceType": "company press release",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "Agryco name",
+          "founders",
+          "active status"
+        ]
+      }
+    ],
+    "notes": "Clément Ray est erroné; le cofondateur est Clément Le Fournis. Agriconomie utilise désormais Agryco."
+  },
+  {
+    "id": "s5-artips",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Coline Debayle",
+        "Jean Perret",
+        "Gérard Marié"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.artips.fr/qui-sommes-nous",
+        "title": "Qui sommes-nous ?",
+        "publisher": "Artips",
+        "sourceType": "company/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "origins",
+          "founders",
+          "website"
+        ]
+      },
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "La source de cohorte compte Gérard Marié parmi les fondateurs. L'intégration à Beaux Arts n'a pas été confirmée par une source primaire dans cette passe."
+  },
+  {
+    "id": "s5-bandsquare",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Antoine Labbé",
+        "Chloé Julien"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "founders",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/",
+        "title": "Le Camping 5th Demo Day",
+        "publisher": "TechCrunch",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      }
+    ],
+    "notes": "Fondateurs identifiés; aucune preuve satisfaisante de l'acquisition alléguée."
+  },
+  {
+    "id": "s5-hublo",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Léo-Paul Goffic",
+        "Cyril Gantzer",
+        "Etienne Le Scaon"
+      ],
+      "foundersPubliclyIdentified": true,
+      "founderProfiles": [
+        {
+          "name": "Cyril Gantzer",
+          "linkedin": "https://www.linkedin.com/in/cyrilgantzer"
+        }
+      ],
+      "statusDetails": "Hublo analytics a été radiée en juin 2016; ne pas confondre avec la healthtech Hublo actuelle."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/",
+        "title": "Le Camping 5th Demo Day",
+        "publisher": "TechCrunch",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1134272-l-accelerateur-le-camping-fete-ses-trois-ans/",
+        "title": "Le Camping fête ses trois ans",
+        "publisher": "Journal du Net",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season context"
+        ]
+      }
+    ],
+    "notes": "Wydden nomme les trois cofondateurs; TechCrunch interviewe Cyril Gantzer et le RNE confirme les trois dirigeants dès la création ainsi que la radiation.",
+    "additionalFounderSources": [
+      "https://techcrunch.com/2014/03/19/hublo-is-the-web-analytics-tool-for-the-rest-of-us/",
+      "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+      "https://www.pappers.fr/entreprise/hublo-799323753"
+    ]
+  },
+  {
+    "id": "s5-krack",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "corrected",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "corrected",
+      "website": "corrected",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "formerNamesOrPivots": ["Indy Trackers", "Wodd", "Krak"],
+      "founders": ["Martin Joubert", "Kevin Straszburger", "Tristan Nicolas", "Damien Cavailles"],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusLabel": "En activité",
+      "statusDetails": "Le projet de capteur Indy Trackers/Krack a évolué vers Krak, communauté et cartographie mondiale du skateboard.",
+      "website": "https://skatekrak.com"
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/",
+        "title": "Le Camping 5th Demo Day",
+        "publisher": "TechCrunch",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "same project under Indytrackers",
+          "team",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Wydden fournit les quatre fondateurs de l'équipe Indy Trackers; WIRED et l'histoire officielle de Krak confirment la continuité du projet et son activité actuelle.",
+    "additionalFounderSources": ["https://www.wired.com/story/trick-tracker/", "https://skatekrak.com/call-to-adventure"]
+  },
+  {
+    "id": "s5-localeyes",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Olivier Mougenot",
+        "Colin Valière",
+        "Livio Lumbroso"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://content.bemyeye.com/blog/localeyes-series-b-funding/amp/",
+        "title": "BeMyEye acquires LocalEyes",
+        "publisher": "BeMyEye",
+        "sourceType": "acquirer/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "status"
+        ]
+      },
+      {
+        "url": "https://techcrunch.com/2016/05/19/keep-your-eyes-on-the-prize/",
+        "title": "BeMyEye acquires French competitor LocalEyes",
+        "publisher": "TechCrunch",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "founders"
+        ]
+      }
+    ],
+    "notes": "Fondateurs ajoutés; acquisition 2016 confirmée."
+  },
+  {
+    "id": "s5-qleek",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "verified",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.thepitch.show/108-Qleek-part-three-a-postmortem-and-a-comeback",
+        "title": "Qleek Part III: A Postmortem",
+        "publisher": "The Pitch",
+        "sourceType": "founder interview",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "shutdown during Covid"
+        ]
+      },
+      {
+        "url": "https://www.epita.fr/2014/05/20/start-up-camping-qleek-le-renouveau-du-support-physique/",
+        "title": "Qleek : un Epitéen relance le support physique",
+        "publisher": "EPITA",
+        "sourceType": "institutional profile",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "founder",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Arrêt pendant la pandémie confirmé par un entretien rétrospectif des fondateurs."
+  },
+  {
+    "id": "s5-realytics",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "corrected",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Guillaume Belmas",
+        "Sébastien Monteil",
+        "Vincent Nguyen-Huu",
+        "Gregory Bittan"
+      ],
+      "statusDetails": "Acquise par smartclip (groupe RTL) en 2022; marque et offre maintenues lors de l'acquisition."
+    },
+    "sources": [
+      {
+        "url": "https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/",
+        "title": "smartclip acquires Realytics",
+        "publisher": "smartclip/RTL",
+        "sourceType": "acquirer/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "founders",
+          "brand status"
+        ]
+      },
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Trois cofondateurs manquaient et le détail d'exit était trop vague."
+  },
+  {
+    "id": "s5-streamroot",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Pierre-Louis Théron",
+        "Nikolay Rodionov",
+        "Axel Delmas"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://partechpartners.com/companies/streamroot",
+        "title": "Streamroot",
+        "publisher": "Partech",
+        "sourceType": "investor",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "acquisition",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://news.lumen.com/CenturyLink-acquires-Streamroot",
+        "title": "CenturyLink acquires Streamroot",
+        "publisher": "Lumen/CenturyLink",
+        "sourceType": "acquirer/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "year"
+        ]
+      }
+    ],
+    "notes": "Nicolas Weil et Clément Artur étaient erronés; les cofondateurs confirmés sont Théron, Rodionov et Delmas."
+  },
+  {
+    "id": "s5-takes",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "corrected",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "formerNamesOrPivots": ["TakeTracker"],
+      "founders": ["Jonathan Asquier", "Alexis Ohayon", "Anaël Beutot", "Elie Siauve"],
+      "foundersPubliclyIdentified": true,
+      "statusDetails": "La société TakeTracker a été radiée du RCS en juin 2015."
+    },
+    "sources": [
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "TakeTracker name",
+          "founders"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2013/11/22/le-camping-saison-5/",
+        "title": "Le Camping saison 5",
+        "publisher": "Maddyness/L'Atelier",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "TakeTakr spelling",
+          "product"
+        ]
+      }
+    ],
+    "notes": "Le Journal du Net nomme les quatre créateurs; TechCrunch documente Takes.io pendant la même cohorte et le BODACC confirme l'identité TakeTracker et sa radiation.",
+    "additionalFounderSources": ["https://www.journaldunet.com/web-tech/start-up/1131258-video-decouvrez-les-start-up-de-la-5e-saison-du-camping/1131278-taketracker", "https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/", "https://entreprises.lefigaro.fr/taketracker-75/entreprise-789674868"]
+  },
+  {
+    "id": "s5-tastehit",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Alexei Kounine",
+        "Harold Christopher Burger"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://wellfound.com/company/tastehit/people",
+        "title": "TasteHit people",
+        "publisher": "Wellfound",
+        "sourceType": "company profile",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "acquisition"
+        ]
+      },
+      {
+        "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+        "title": "12 startups saison 5",
+        "publisher": "Wydden",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Les deux cofondateurs étaient absents."
+  },
+  {
+    "id": "s5-tripndrive",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "François-Xavier Leduc",
+        "Arthur de Keyzer",
+        "Nicolas Cosme"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.tripndrive.com/en/news/",
+        "title": "About Tripndrive",
+        "publisher": "Tripndrive",
+        "sourceType": "company/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "season",
+          "name"
+        ]
+      },
+      {
+        "url": "https://www.largus.fr/pros/actualite-automobile/autopartage-travelcar-rachete-son-concurrent-tripndrive-8488388.html",
+        "title": "TravelCar rachète Tripndrive",
+        "publisher": "L'Argus",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "liquidation",
+          "acquisition"
+        ]
+      }
+    ],
+    "notes": "Fondateurs ajoutés; rachat par TravelCar après liquidation confirmé."
+  },
+  {
+    "id": "s6-soundsgood",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "verified",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.believe.com/who-we-are/",
+        "title": "Believe history",
+        "publisher": "Believe",
+        "sourceType": "acquirer/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "year"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Acquisition par Believe en 2020 confirmée; la plateforme gratuite a ensuite été suspendue."
+  },
+  {
+    "id": "s6-uniquesound",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Romain Cochet",
+        "Julien Declercq",
+        "Cédric Laruelle"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "team"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "title": "12 startups de la saison 6",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      }
+    ],
+    "notes": "Équipe fondatrice identifiée; acquisition non confirmée par une source fiable retrouvée."
+  },
+  {
+    "id": "s6-sharette",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "verified",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.maddyness.com/2016/06/13/consocollab-citygoo-soffre-specialiste-covoiturage-sharette-se-constitue-flotte-de-100-000-utilisateurs/",
+        "title": "Citygoo s'offre Sharette",
+        "publisher": "Maddyness",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "year",
+          "founder"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "team"
+        ]
+      }
+    ],
+    "notes": "Acquisition/intégration à Citygoo confirmée."
+  },
+  {
+    "id": "s6-drust",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "verified",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://www.eu-startups.com/2016/11/the-french-startup-that-wants-you-to-become-a-superdriver-interview-with-the-co-founder-and-ceo-of-drust/",
+        "title": "Interview with Drust co-founder",
+        "publisher": "EU-Startups",
+        "sourceType": "founder interview",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "product"
+        ]
+      }
+    ],
+    "notes": "Fondateurs confirmés; l'arrêt actuel reste une inférence par absence de présence exploitable."
+  },
+  {
+    "id": "s6-sharepay",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "David Finel",
+        "Jonas Braoudé"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.frenchweb.fr/linxo-soffre-sharepay-pour-accelerer-dans-le-paiement/321870",
+        "title": "Linxo s'offre Sharepay",
+        "publisher": "FrenchWeb",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "acquisition"
+        ]
+      },
+      {
+        "url": "https://www.latribune.fr/entreprises-finance/banques-finance/fintech-sharepay-disparait-au-profit-des-ambitions-de-linxo-dans-les-paiements-825536.html",
+        "title": "Sharepay disparaît",
+        "publisher": "La Tribune",
+        "sourceType": "press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "service shutdown"
+        ]
+      }
+    ],
+    "notes": "Les sources convergent sur Finel et Braoudé; Armenak Mayalian n'est pas étayé comme fondateur."
+  },
+  {
+    "id": "s6-pulpix",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "corrected",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Sabry Otmani",
+        "Denis Vilar"
+      ],
+      "foundersPubliclyIdentified": true,
+      "statusDetails": "Acquisition par Adyoulike en 2019."
+    },
+    "sources": [
+      {
+        "url": "https://www.ycombinator.com/companies/pulpix",
+        "title": "Pulpix",
+        "publisher": "Y Combinator",
+        "sourceType": "accelerator/primary profile",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "acquired status",
+          "Adyoulike 2019"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "La mention « Teads en 2016 » n'est pas confirmée; le profil YC officiel indique Adyoulike en 2019."
+  },
+  {
+    "id": "s6-smyle",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Augustin Marty",
+        "Aloïs Brunel",
+        "Vincent Delaitre"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "team"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "title": "12 startups saison 6",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "name",
+          "product",
+          "historical website"
+        ]
+      }
+    ],
+    "notes": "Équipe fondatrice ajoutée; arrêt non démontré formellement."
+  },
+  {
+    "id": "s6-tiller-systems",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Josef Bovet",
+        "Scott Gordon",
+        "Dimitri Farber",
+        "Vincent Oliveira"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.sumup.com/fr-fr/press/sumup-acquiert-le-francais-tiller/",
+        "title": "SumUp acquiert Tiller",
+        "publisher": "SumUp",
+        "sourceType": "acquirer/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "acquisition",
+          "year"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "team",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Liste de fondateurs complétée; acquisition 2021 confirmée par SumUp."
+  },
+  {
+    "id": "s6-kokot",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "verified",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "title": "12 startups saison 6",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      }
+    ],
+    "notes": "Cohorte et fondateurs solides; arrêt actuel non prouvé par une source primaire."
+  },
+  {
+    "id": "s6-nunki",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "corrected",
+      "status": "conflicting",
+      "statusDetails": "conflicting",
+      "website": "conflicting",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Quentin Lhomme",
+        "Jean-Baptiste Janvier",
+        "Quentin Lainé"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "founders",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "title": "12 startups saison 6",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "historical product",
+          "historical website"
+        ]
+      }
+    ],
+    "notes": "Les sources historiques décrivent une app d'agrégation d'actualité, pas clairement la solution actuelle de risque; possible pivot non documenté."
+  },
+  {
+    "id": "s6-artchy",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Mélanie Rozencwaig",
+        "Jhava Chikli",
+        "Tran Nguyen Ngoc"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "team",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "title": "12 startups saison 6",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "name",
+          "product",
+          "historical website"
+        ]
+      }
+    ],
+    "notes": "Les trois membres fondateurs ont été rétablis; le pivot Archive Valley et son statut actuel demandent une source primaire accessible."
+  },
+  {
+    "id": "s6-jam",
+    "overallVerdict": "unverifiable",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "unverifiable",
+      "founders": "verified",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "unverifiable",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "title": "Le Camping saison 6",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "Marjolaine Grondin",
+          "photo"
+        ]
+      },
+      {
+        "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "title": "12 startups saison 6",
+        "publisher": "Maddyness",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "name",
+          "founder",
+          "historical product"
+        ]
+      }
+    ],
+    "notes": "La fermeture du chatbot n'a pas été suffisamment sourcée dans cette passe."
+  },
+  {
+    "id": "s7-read",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": ["Simon Guigue", "Thomas Guigue"],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "title": "25 lauréats du programme Numa",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "Read name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.itespresso.fr/start-up-le-programme-numa-sprint-inaugure-sa-7eme-saison-97065.html/amp",
+        "title": "Numa Sprint inaugure sa saison 7",
+        "publisher": "ITespresso",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "Addr/Read name",
+          "season"
+        ]
+      }
+    ],
+    "notes": "MyFrenchStartup identifie Simon et Thomas Guigue comme cofondateurs de Read/read.cx. « Addr/Read » dans ITespresso apparaît comme une coquille isolée.",
+    "additionalFounderSources": ["https://www.myfrenchstartup.com/fr/startup-france/116389/read"]
+  },
+  {
+    "id": "s7-budeal",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "unverifiable",
+      "statusDetails": "unverifiable",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": ["Stéphane Perrin"],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "title": "25 lauréats du programme Numa",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.itespresso.fr/start-up-le-programme-numa-sprint-inaugure-sa-7eme-saison-97065.html/amp",
+        "title": "Numa Sprint saison 7",
+        "publisher": "ITespresso",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name"
+        ]
+      }
+    ],
+    "notes": "FrenchWeb identifie Stéphane Perrin comme créateur et précise que la société comptait deux associés sans nommer le second; seul le fondateur publiquement identifié est ajouté.",
+    "additionalFounderSources": ["https://www.frenchweb.fr/bon-app-budeal-les-petits-annonces-entre-connaissances/162662"]
+  },
+  {
+    "id": "s7-citytaps",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Grégoire Landel"
+      ],
+      "foundersPubliclyIdentified": true
+    },
+    "sources": [
+      {
+        "url": "https://www.citytaps.org",
+        "title": "CityTaps",
+        "publisher": "CityTaps",
+        "sourceType": "company/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "active status",
+          "website",
+          "product"
+        ]
+      },
+      {
+        "url": "https://wellfound.com/company/citytaps/people",
+        "title": "CityTaps people",
+        "publisher": "Wellfound",
+        "sourceType": "company profile",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founder"
+        ]
+      }
+    ],
+    "notes": "Fondateur ajouté; activité et site confirmés."
+  },
+  {
+    "id": "s7-cloudorbit",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": ["Jean-Pierre Laisné", "Jean-Philippe Kalfon"],
+      "foundersPubliclyIdentified": true,
+      "statusDetails": "CloudOrbit a cessé son activité et a clôturé sa liquidation en octobre 2015."
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "title": "25 lauréats Numa",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://www.itespresso.fr/start-up-le-programme-numa-sprint-inaugure-sa-7eme-saison-97065.html/amp",
+        "title": "Numa Sprint saison 7",
+        "publisher": "ITespresso",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      }
+    ],
+    "notes": "LeMagIT nomme Jean-Pierre Laisné et Jean-Philippe Kalfon comme fondateurs; l'ancienne fiche légale documente la clôture de liquidation.",
+    "additionalFounderSources": ["https://www.lemagit.fr/actualites/2240232344/CloudOrbit-et-CloudScreener-un-broker-de-cloud-intelligent-qui-sadapte-aux-SLA-et-performances", "https://www.myfrenchstartup.com/fr/startup-france/109415/cloudorbit"]
+  },
+  {
+    "id": "s7-coursierprive-com",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "corrected",
+      "founders": "verified",
+      "status": "verified",
+      "statusDetails": "corrected",
+      "website": "unverifiable",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {
+      "formerNamesOrPivots": [
+        "Swoopin"
+      ],
+      "statusDetails": "CoursierPrivé.com est devenu Swoopin; liquidation judiciaire prononcée en novembre 2022."
+    },
+    "sources": [
+      {
+        "url": "https://www.pappers.fr/entreprise/swoopin-804046795",
+        "title": "SWOOPIN (COURSIERPRIVE.COM)",
+        "publisher": "Pappers",
+        "sourceType": "public registry aggregator",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "legal identity",
+          "trade name",
+          "registry status"
+        ]
+      },
+      {
+        "url": "https://supplychainmagazine.fr/nl/2022/swoopin-se-cherche-un-repreneur/",
+        "title": "Swoopin se cherche un repreneur",
+        "publisher": "Supply Chain Magazine",
+        "sourceType": "trade press",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "liquidation",
+          "founder",
+          "pivot"
+        ]
+      }
+    ],
+    "notes": "Le devenir Swoopin et la liquidation sont plus précis que « non retrouvé comme activité autonome »."
+  },
+  {
+    "id": "s7-corilla",
+    "overallVerdict": "verified",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "verified",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "verified"
+    },
+    "proposedPatch": {},
+    "sources": [
+      {
+        "url": "https://medium.com/corilla-blog/deciding-the-future-of-corilla-930e9e2b0332",
+        "title": "Deciding the future of Corilla",
+        "publisher": "Corilla / David Ryan",
+        "sourceType": "founder/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "shutdown/wind-down",
+          "founder"
+        ]
+      },
+      {
+        "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "title": "25 lauréats Numa",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      }
+    ],
+    "notes": "Le fondateur décrit lui-même la mise en maintenance minimale puis l'arrêt du modèle actif."
+  },
+  {
+    "id": "s7-filoute",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "unverifiable",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": ["Domitille de Saint-Exupéry", "Flore Morin"],
+      "foundersPubliclyIdentified": true,
+      "statusDetails": "La société Filoute a cessé son activité; les comptes 2016 sont les derniers publiés."
+    },
+    "sources": [
+      {
+        "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "title": "25 lauréats Numa",
+        "publisher": "Journal du Net",
+        "sourceType": "press/cohort",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "season",
+          "name",
+          "product"
+        ]
+      },
+      {
+        "url": "https://app.dealroom.co/companies/filoute",
+        "title": "Filoute company profile",
+        "publisher": "Dealroom",
+        "sourceType": "company database",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "two-founder origin"
+        ]
+      }
+    ],
+    "notes": "« Flo » est Flore Morin : le registre de création la donne directrice générale aux côtés de Domitille de Saint-Exupéry, et une seconde source les identifie comme fondatrices.",
+    "additionalFounderSources": ["https://entreprises.lefigaro.fr/filoute-75/entreprise-813176013", "https://www.societe.tech/news/liste-des-levees-de-fonds-dans-le-departement-oise/"]
+  },
+  {
+    "id": "s7-lendosphere",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-21",
+    "fields": {
+      "season": "verified",
+      "name": "verified",
+      "formerNamesOrPivots": "verified",
+      "founders": "corrected",
+      "status": "verified",
+      "statusDetails": "verified",
+      "website": "verified",
+      "seenInPhoto": "unverifiable"
+    },
+    "proposedPatch": {
+      "founders": [
+        "Laure Verhaeghe",
+        "Amaury Blais"
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.lendosphere.com/infos/qui-sommes-nous?locale=fr",
+        "title": "Qui sommes-nous ?",
+        "publisher": "Lendosphere",
+        "sourceType": "company/primary",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "active status",
+          "website"
+        ]
+      },
+      {
+        "url": "https://financeparticipative.org/team/laure-verhaeghe/",
+        "title": "Laure Verhaeghe",
+        "publisher": "Financement Participatif France",
+        "sourceType": "industry association",
+        "accessedAt": "2026-08-21",
+        "supports": [
+          "founders",
+          "founding year"
+        ]
+      }
+    ],
+    "notes": "Amaury Blais manquait; activité actuelle confirmée par le site et l'acquisition récente de Lendopolis."
+  }
 ]
