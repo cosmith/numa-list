@@ -4717,8 +4717,7 @@
       "founders": [
         "Benoît Joncquez",
         "Corentin Smith",
-        "Arthur Ouaki",
-        "Paul-Hubert des Minières"
+        "Arthur Ouaki"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -4745,7 +4744,7 @@
           "website": "verified",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 6,
+        "evidenceCount": 5,
         "auditFile": "factcheck/batch-03.json"
       },
       "founderProfiles": [
@@ -4760,10 +4759,6 @@
         {
           "name": "Arthur Ouaki",
           "linkedin": "https://fr.linkedin.com/in/aouaki"
-        },
-        {
-          "name": "Paul-Hubert des Minières",
-          "linkedin": "https://es.linkedin.com/in/paul-hubert-des-mini%C3%A8res-29097796"
         }
       ]
     },

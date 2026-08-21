@@ -1323,8 +1323,7 @@
       "founders": [
         "Benoît Joncquez",
         "Corentin Smith",
-        "Arthur Ouaki",
-        "Paul-Hubert des Minières"
+        "Arthur Ouaki"
       ],
       "foundersPubliclyIdentified": true,
       "founderProfiles": [
@@ -1339,10 +1338,6 @@
         {
           "name": "Arthur Ouaki",
           "linkedin": "https://fr.linkedin.com/in/aouaki"
-        },
-        {
-          "name": "Paul-Hubert des Minières",
-          "linkedin": "https://es.linkedin.com/in/paul-hubert-des-mini%C3%A8res-29097796"
         }
       ],
       "status": "exit",
@@ -1385,17 +1380,6 @@
         ]
       },
       {
-        "url": "https://www.linkedin.com/posts/benoit-joncquez_celebrating-3-huge-milestones-this-month-activity-7369742887904882688-weZX",
-        "title": "Dix ans de Truckfly",
-        "publisher": "Benoît Joncquez / LinkedIn",
-        "sourceType": "founder-primary",
-        "accessedAt": "2026-08-22",
-        "supports": [
-          "founders",
-          "acquisition"
-        ]
-      },
-      {
         "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/c/OTC_MICP.PA_2018.pdf",
         "title": "Michelin 2018 annual report",
         "publisher": "Michelin",
@@ -1416,7 +1400,7 @@
         ]
       }
     ],
-    "notes": "Le BODACC et Paris-Saclay confirment Benoît Joncquez et Corentin Smith dès la création; la presse contemporaine ajoute Arthur Ouaki. Benoît Joncquez identifie rétrospectivement l'équipe de départ complète avec Paul-Hubert des Minières."
+    "notes": "Le BODACC et Paris-Saclay confirment Benoît Joncquez et Corentin Smith dès la création; la presse contemporaine ajoute Arthur Ouaki. Paul-Hubert des Minières a rejoint l'aventure plus tard et n'est donc pas retenu dans l'équipe fondatrice de Truckfly."
   },
   {
     "id": "s8-willty",

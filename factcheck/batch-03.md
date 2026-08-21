@@ -12,7 +12,7 @@ Corrections majeures :
 - Le Zeste a été revendu à Frichti : statut `exit`.
 - Sentimy est devenu Supermood, fusionné avec ZestMeUp en 2025 : statut `exit`.
 - BlueBoard : Kevin Cohen et Francis Bouvier sont confirmés comme cofondateurs; acquisition par ChannelAdvisor en 2020 (`exit`).
-- Truckfly : Maxime Legardez retiré; l'équipe fondatrice est Benoît Joncquez, Corentin Smith, Arthur Ouaki et Paul-Hubert des Minières. L'acquisition Michelin est corrigée de 2022 à juillet 2018.
+- Truckfly : Maxime Legardez retiré; l'équipe fondatrice est Benoît Joncquez, Corentin Smith et Arthur Ouaki. L'acquisition Michelin est corrigée de 2022 à juillet 2018.
 - PopUp Immo : Vincent Lebunetel a été retiré; les cofondateurs documentés sont Mohamed Haouache et Adrien Kerbrat. La fusion avec Storefront et la liquidation de 2024 sont précisées.
 - Hopfab a été corrigée : cofondateurs Géraldine Bal et Arnaud Verlet; société
   liquidée en 2023, puis activité et marque poursuivies avec La Conciergerie de
