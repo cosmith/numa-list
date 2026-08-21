@@ -822,7 +822,7 @@
   {
     "id": "s8-blueboard",
     "overallVerdict": "corrected",
-    "checkedAt": "2026-08-21",
+    "checkedAt": "2026-08-22",
     "fields": {
       "cohort": "verified",
       "identity": "verified",
@@ -833,9 +833,16 @@
     },
     "proposedPatch": {
       "founders": [
-        "Kevin Cohen"
+        "Kevin Cohen",
+        "Francis Bouvier"
       ],
       "foundersPubliclyIdentified": true,
+      "founderProfiles": [
+        {
+          "name": "Francis Bouvier",
+          "linkedin": "https://fr.linkedin.com/in/francisbouvier"
+        }
+      ],
       "status": "exit",
       "statusLabel": "Exit",
       "statusDetails": "BlueBoard a été acquis par ChannelAdvisor le 24 juillet 2020 et intégré à ChannelAdvisor Brand Analytics.",
@@ -849,6 +856,17 @@
       "notes": "Ne pas confondre avec l'actuelle plateforme française de gouvernance BlueBoard."
     },
     "sources": [
+      {
+        "url": "https://www.entreprises.gouv.fr/files/files/directions_services/numerique/appels-a-projets/Dossier_de_presse_-_Laureats_CIN_6.pdf",
+        "title": "Dossier de presse — Lauréats du Concours d'Innovation Numérique",
+        "publisher": "Direction générale des Entreprises",
+        "sourceType": "official-government",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders",
+          "identity"
+        ]
+      },
       {
         "url": "https://www.prnewswire.com/news-releases/channeladvisor-acquires-analytics-firm-blueboard-to-enhance-e-commerce-intelligence-for-global-brands-301098998.html",
         "title": "ChannelAdvisor Acquires Analytics Firm BlueBoard",
@@ -871,7 +889,7 @@
         ]
       }
     ],
-    "notes": null
+    "notes": "Le dossier officiel du Concours d'Innovation Numérique nomme Kevin Cohen et Francis Bouvier comme créateurs de BlueBoard."
   },
   {
     "id": "s8-bretzel",

@@ -11,7 +11,7 @@ Corrections majeures :
 - Les deux fondateurs de Kwalito sont confirmés, avec leurs profils LinkedIn vérifiés.
 - Le Zeste a été revendu à Frichti : statut `exit`.
 - Sentimy est devenu Supermood, fusionné avec ZestMeUp en 2025 : statut `exit`.
-- BlueBoard a été acquis par ChannelAdvisor en 2020 : statut `exit`.
+- BlueBoard : Kevin Cohen et Francis Bouvier sont confirmés comme cofondateurs; acquisition par ChannelAdvisor en 2020 (`exit`).
 - PopUp Immo : Vincent Lebunetel a été retiré; les cofondateurs documentés sont Mohamed Haouache et Adrien Kerbrat. La fusion avec Storefront et la liquidation de 2024 sont précisées.
 - Hopfab a été corrigée : cofondateurs Géraldine Bal et Arnaud Verlet; société
   liquidée en 2023, puis activité et marque poursuivies avec La Conciergerie de

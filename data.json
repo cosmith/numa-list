@@ -4282,7 +4282,8 @@
       "name": "BlueBoard",
       "formerNamesOrPivots": [],
       "founders": [
-        "Kevin Cohen"
+        "Kevin Cohen",
+        "Francis Bouvier"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -4292,7 +4293,7 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.prnewswire.com/news-releases/channeladvisor-acquires-analytics-firm-blueboard-to-enhance-e-commerce-intelligence-for-global-brands-301098998.html"
+        "foundersOrStatus": "https://www.entreprises.gouv.fr/files/files/directions_services/numerique/appels-a-projets/Dossier_de_presse_-_Laureats_CIN_6.pdf"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
@@ -4300,7 +4301,7 @@
       "notes": "Ne pas confondre avec l'actuelle plateforme française de gouvernance BlueBoard.",
       "factCheck": {
         "verdict": "corrected",
-        "checkedAt": "2026-08-21",
+        "checkedAt": "2026-08-22",
         "fields": {
           "cohort": "verified",
           "identity": "verified",
@@ -4309,9 +4310,15 @@
           "website": "corrected",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-03.json"
-      }
+      },
+      "founderProfiles": [
+        {
+          "name": "Francis Bouvier",
+          "linkedin": "https://fr.linkedin.com/in/francisbouvier"
+        }
+      ]
     },
     {
       "id": "s8-bretzel",
