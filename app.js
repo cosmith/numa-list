@@ -33,6 +33,30 @@ const sourceLink = (url, label) => {
   return `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
 };
 
+const makeActivity = (startup) => {
+  const description = startup.activityDescription
+    || (startup.status === "active" ? startup.statusDetails : "");
+
+  return description
+    ? detailItem("Activité", escapeHtml(description), "detail-wide activity-item")
+    : "";
+};
+
+const makeStatusEvent = (startup) => {
+  const labels = { exit: "Acquisition", stopped: "Stoppé" };
+  if (!labels[startup.status]) return "";
+
+  const source = sourceLink(startup.sources?.foundersOrStatus, "Source");
+  const sourceSuffix = source ? `<span class="detail-source">${source}</span>` : "";
+  const description = escapeHtml(startup.statusDetails || "Information non documentée.");
+
+  return detailItem(
+    labels[startup.status],
+    `<span>${description}</span>${sourceSuffix}`,
+    "detail-wide status-event",
+  );
+};
+
 const makeFounderProfileLinks = (startup) => startup.founderProfiles
   ?.map(({ name, linkedin }) => sourceLink(linkedin, name))
   .filter(Boolean)
@@ -45,19 +69,16 @@ const makeDetails = (startup) => {
   const website = startup.website
     ? sourceLink(startup.website, startup.website.replace(/^https?:\/\//, "").replace(/\/$/, ""))
     : "—";
-  const sources = [
-    sourceLink(startup.sources?.cohort, "Sélection"),
-    sourceLink(startup.sources?.foundersOrStatus, "Parcours"),
-  ].filter(Boolean).join(" · ") || "—";
+  const selectionSource = sourceLink(startup.sources?.cohort, "Source de la sélection");
   const founderProfiles = makeFounderProfileLinks(startup);
 
   return `<div class="detail-grid">
-    ${detailItem("Détail", escapeHtml(startup.statusDetails || "Information non documentée."), "detail-wide")}
-    ${startup.status === "exit" ? detailItem("Acquéreur", escapeHtml(startup.acquirer || "Non identifié / non documenté")) : ""}
+    ${selectionSource ? `<div class="selection-source">${selectionSource}</div>` : ""}
+    ${makeActivity(startup)}
+    ${makeStatusEvent(startup)}
     ${detailItem("Ancien nom / pivot", pivots)}
     ${detailItem("Site web", website)}
     ${detailItem("LinkedIn des fondateurs", founderProfiles)}
-    ${detailItem("Sources", sources, "detail-wide")}
     ${detailItem("Niveau de confiance", escapeHtml(startup.confidenceLabel || "Non renseigné"))}
   </div>`;
 };
@@ -67,6 +88,7 @@ const matches = (startup) => {
     startup.name,
     ...(startup.founders || []),
     ...(startup.formerNamesOrPivots || []),
+    startup.activityDescription,
     startup.statusDetails,
   ].filter(Boolean).join(" "));
 

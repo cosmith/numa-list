@@ -348,6 +348,36 @@ h1 span {
 .detail-item { min-width: 0; }
 .detail-item.detail-wide { grid-column: span 2; }
 
+.selection-source {
+  grid-column: 1 / -1;
+  width: fit-content;
+  margin-bottom: 0.1rem;
+  font-family: var(--display);
+  font-size: 1.05rem;
+  font-weight: 800;
+}
+
+.selection-source a {
+  color: var(--ink);
+  text-decoration-color: var(--magenta);
+  text-decoration-thickness: 3px;
+}
+
+.selection-source a:hover { color: var(--magenta); }
+
+.status-event .detail-value {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.8rem;
+  align-items: baseline;
+}
+
+.detail-source {
+  flex: 0 0 auto;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
 .detail-label {
   display: block;
   margin-bottom: 0.4rem;
@@ -512,6 +542,7 @@ footer p { margin: 0; }
   .details-label { font-size: 0.7rem; }
   .detail-grid { grid-template-columns: 1fr; gap: 1rem; }
   .detail-item.detail-wide { grid-column: auto; }
+  .selection-source { grid-column: auto; }
 
   .about p { font-size: 1.05rem; }
   footer { display: grid; }
