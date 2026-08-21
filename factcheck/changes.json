@@ -1,0 +1,1311 @@
+{
+  "generatedAt": "2026-08-21",
+  "changeCount": 72,
+  "changes": [
+    {
+      "id": "s1-beansight",
+      "before": {
+        "founders": [
+          "Steren Giannini"
+        ],
+        "statusDetails": "Marché prédictif arrêté en 2011."
+      },
+      "after": {
+        "founders": [
+          "Guillaume Wolf",
+          "Steren Giannini",
+          "Cyril Dorsaz",
+          "Jean-Baptiste Claramonte"
+        ],
+        "statusDetails": "Projet devenu open source en 2014; service historique aujourd’hui hors ligne."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s1-dabla",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Service et société non retrouvés comme activité actuelle."
+      },
+      "after": {
+        "founders": [
+          "Pierre-Antoine Duchateau"
+        ],
+        "foundersPubliclyIdentified": true,
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "La société DABLA (SIREN 533 761 961), créée en 2011 et dirigée par Pierre-Antoine Duchateau, est toujours active; le service historique n’a pas été retrouvé."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s1-doctrackr",
+      "before": {
+        "founders": [
+          "Clément Cazalot",
+          "Alex Negrea",
+          "Uli Mittermaier"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Clément Cazalot",
+          "Alex Negrea",
+          "Uli Mittermaier",
+          "Alexander Gentea"
+        ]
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s1-itipic",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Fabienne Rousseau",
+          "Alain Beauvois"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s1-kawet",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "statusDetails": "Classée comme sortie dans l'annuaire historique des alumni."
+      },
+      "after": {
+        "founders": [
+          "Benjamin Hardy"
+        ],
+        "foundersPubliclyIdentified": true,
+        "statusDetails": "Kawet a été rachetée en 2013 et poursuit son activité sous sa marque."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s1-studyka",
+      "before": {
+        "statusDetails": "Studyka est devenu Agorize, acquis par Bloomflow en 2024."
+      },
+      "after": {
+        "statusDetails": "Studyka est devenu Agorize; Bloomflow a acquis une participation majoritaire dans Agorize en 2024."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-loungeup",
+      "before": {
+        "founders": [
+          "Mathieu Pollet"
+        ],
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "Plateforme hôtelière active."
+      },
+      "after": {
+        "founders": [
+          "Mathieu Pollet",
+          "Lionel Tressens"
+        ],
+        "status": "exit",
+        "statusLabel": "Exit",
+        "statusDetails": "LoungeUp a rejoint D-EDGE en 2024 et poursuit son activité sous sa marque."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-onefeat",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Arnaud Ferreri"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-pictarine",
+      "before": {
+        "founders": [
+          "Guillaume Martin"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Guillaume Martin",
+          "Maxime Rafalimanana"
+        ]
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-pili-pop",
+      "before": {
+        "formerNamesOrPivots": [
+          "Teeniz"
+        ],
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "Applications d'apprentissage des langues encore commercialisées."
+      },
+      "after": {
+        "formerNamesOrPivots": [
+          "Teeniz",
+          "Babble Planet"
+        ],
+        "status": "exit",
+        "statusLabel": "Exit",
+        "statusDetails": "Teeniz est devenu Babble Planet puis Pili Pop; Pili Pop Labs a été acquis par Unique Heritage Media en 2016 et le produit a continué."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-qunb",
+      "before": {
+        "founders": [
+          "Cyrille Vincey"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Cyrille Vincey",
+          "Jean-Baptiste Théard"
+        ]
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-skimm",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Antoine Sakho",
+          "Valentin Lautier"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s2-tvshow-time",
+      "before": {
+        "founders": [
+          "Antonio Pinto"
+        ],
+        "website": "https://www.tvtime.com"
+      },
+      "after": {
+        "founders": [
+          "Antonio Pinto",
+          "Talal Mazroui"
+        ],
+        "website": null
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-augment",
+      "before": {
+        "statusDetails": "Société de réalité augmentée signalée comme acquise."
+      },
+      "after": {
+        "statusDetails": "Augment a été acquis par StayinFront en mai 2024."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-explee",
+      "before": {
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "Outil de création de vidéos explicatives encore accessible.",
+        "website": "https://explee.com"
+      },
+      "after": {
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "La société française EXPLEE a été dissoute puis liquidée en 2023; le domaine explee.com est désormais utilisé par une autre activité.",
+        "website": null
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-fleex",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Alexandre Point"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-home-n-go",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Margaux Pelen",
+          "Adrien Pavillet",
+          "Sébastien Zerah"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-jellynote",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Arthur Lenoir",
+          "Adrien Cognée",
+          "Baptiste Poirier"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-lima",
+      "before": {
+        "founders": [
+          "Séverin Marcombes"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Séverin Marcombes",
+          "Gawen Arab"
+        ]
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-poutsch",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Félix Winckler"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-sketchfab",
+      "before": {
+        "statusDetails": "Acquisition par Epic Games en 2021."
+      },
+      "after": {
+        "statusDetails": "Sketchfab a été acquis par Epic Games en 2021, puis par KitBash en août 2026; la marque et le site restent actifs."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s3-veezio",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Steeve Morin",
+          "Thomas Meson"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s4-darjeelin",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "statusDetails": "Classée comme sortie dans l'annuaire historique des alumni."
+      },
+      "after": {
+        "founders": [
+          "Charles Guilhamon"
+        ],
+        "foundersPubliclyIdentified": true,
+        "statusDetails": "Darjeelin a été acquis en 2014 par L'Officiel des Vacances, société du groupe Voyage Privé."
+      },
+      "auditFile": "factcheck/batch-01.json"
+    },
+    {
+      "id": "s4-pricing-assistant",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Martin de Charette",
+          "Sylvain Zimmer"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s4-wepopp",
+      "before": {
+        "name": "Wepopp",
+        "formerNamesOrPivots": []
+      },
+      "after": {
+        "name": "Popp!",
+        "formerNamesOrPivots": [
+          "Wepopp"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s4-zero-gachis",
+      "before": {
+        "founders": [
+          "Paul-Adrien Ménez"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Paul-Adrien Ménez",
+          "Christophe Ménez"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-agriconomie",
+      "before": {
+        "formerNamesOrPivots": [],
+        "founders": [
+          "Paolin Pascot",
+          "Dinh Nguyen",
+          "Clément Ray"
+        ],
+        "statusDetails": "Place de marché agricole active.",
+        "website": "https://www.agriconomie.com"
+      },
+      "after": {
+        "formerNamesOrPivots": [
+          "Agryco"
+        ],
+        "founders": [
+          "Paolin Pascot",
+          "Dinh Nguyen",
+          "Clément Le Fournis"
+        ],
+        "statusDetails": "Place de marché agricole active sous le nom Agryco.",
+        "website": "https://www.agryco.com"
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-artips",
+      "before": {
+        "founders": [
+          "Coline Debayle",
+          "Jean Perret"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Coline Debayle",
+          "Jean Perret",
+          "Gérard Marié"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-bandsquare",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Antoine Labbé",
+          "Chloé Julien"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-localeyes",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Olivier Mougenot",
+          "Colin Valière",
+          "Livio Lumbroso"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-realytics",
+      "before": {
+        "founders": [
+          "Guillaume Belmas"
+        ],
+        "statusDetails": "Adtech acquise; marque/équipe intégrée à un groupe."
+      },
+      "after": {
+        "founders": [
+          "Guillaume Belmas",
+          "Sébastien Monteil",
+          "Vincent Nguyen-Huu",
+          "Gregory Bittan"
+        ],
+        "statusDetails": "Acquise par smartclip (groupe RTL) en 2022; marque et offre maintenues lors de l'acquisition."
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-streamroot",
+      "before": {
+        "founders": [
+          "Pierre-Louis Théron",
+          "Nicolas Weil",
+          "Clément Artur"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Pierre-Louis Théron",
+          "Nikolay Rodionov",
+          "Axel Delmas"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-tastehit",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Alexei Kounine",
+          "Harold Christopher Burger"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s5-tripndrive",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "François-Xavier Leduc",
+          "Arthur de Keyzer",
+          "Nicolas Cosme"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-uniquesound",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Romain Cochet",
+          "Julien Declercq",
+          "Cédric Laruelle"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-sharepay",
+      "before": {
+        "founders": [
+          "David Finel",
+          "Jonas Braoudé",
+          "Armenak Mayalian"
+        ]
+      },
+      "after": {
+        "founders": [
+          "David Finel",
+          "Jonas Braoudé"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-pulpix",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "statusDetails": "Acquisition par Teads en 2016."
+      },
+      "after": {
+        "founders": [
+          "Sabry Otmani",
+          "Denis Vilar"
+        ],
+        "foundersPubliclyIdentified": true,
+        "statusDetails": "Acquisition par Adyoulike en 2019."
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-smyle",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Augustin Marty",
+          "Aloïs Brunel",
+          "Vincent Delaitre"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-tiller-systems",
+      "before": {
+        "founders": [
+          "Dimitri Farber",
+          "Scott Gordon"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Josef Bovet",
+          "Scott Gordon",
+          "Dimitri Farber",
+          "Vincent Oliveira"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-nunki",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Quentin Lhomme",
+          "Jean-Baptiste Janvier",
+          "Quentin Lainé"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s6-artchy",
+      "before": {
+        "founders": [
+          "Jhava Chikli"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Mélanie Rozencwaig",
+          "Jhava Chikli",
+          "Tran Nguyen Ngoc"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s7-citytaps",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false
+      },
+      "after": {
+        "founders": [
+          "Grégoire Landel"
+        ],
+        "foundersPubliclyIdentified": true
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s7-coursierprive-com",
+      "before": {
+        "formerNamesOrPivots": [],
+        "statusDetails": "Service de livraison d'origine non retrouvé comme activité autonome."
+      },
+      "after": {
+        "formerNamesOrPivots": [
+          "Swoopin"
+        ],
+        "statusDetails": "CoursierPrivé.com est devenu Swoopin; liquidation judiciaire prononcée en novembre 2022."
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s7-lendosphere",
+      "before": {
+        "founders": [
+          "Laure Verhaeghe"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Laure Verhaeghe",
+          "Amaury Blais"
+        ]
+      },
+      "auditFile": "factcheck/batch-02.json"
+    },
+    {
+      "id": "s7-foodmeup",
+      "before": {
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.pappers.fr/entreprise/foodmeup-802748772"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-gorgias",
+      "before": {
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.gorgias.com"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.gorgias.com/about-us"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-kapptivate",
+      "before": {
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Plateforme de tests mobiles non retrouvée comme activité actuelle.",
+        "website": null,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        },
+        "confidence": "medium",
+        "confidenceLabel": "Moyenne"
+      },
+      "after": {
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "Plateforme d'automatisation de tests et de supervision de services numériques active.",
+        "website": "https://www.kapptivate.com",
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.pappers.fr/entreprise/kapptivate-803963214"
+        },
+        "confidence": "high",
+        "confidenceLabel": "Élevée"
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-kwalito",
+      "before": {
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "Application de lecture des étiquettes alimentaires encore référencée comme active.",
+        "website": "https://kwali.to",
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://v2-f3d73c686b203dc8-dev-dot-gweb-voices.appspot.com/intl/en-eu/story/kwalito6bb5"
+        },
+        "confidence": "medium",
+        "confidenceLabel": "Moyenne"
+      },
+      "after": {
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Société dissoute puis radiée; liquidation décidée le 1er décembre 2019.",
+        "website": null,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.societe.com/societe/kwalito-813015237.html"
+        },
+        "confidence": "high",
+        "confidenceLabel": "Élevée"
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-la-boite-qui-cartonne",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        }
+      },
+      "after": {
+        "founders": [
+          "Meryl Benitah"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://feeds.bbci.co.uk/news/av/business-34804575"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-le-zeste",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Livraison de repas arrêtée.",
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        }
+      },
+      "after": {
+        "founders": [
+          "Pol Maire"
+        ],
+        "foundersPubliclyIdentified": true,
+        "status": "exit",
+        "statusLabel": "Exit",
+        "statusDetails": "Service de livraison de repas revendu à Frichti.",
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://blog.mantra.work/article/frichti-ecouter-les-feedbakcs-utilisateurs"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-les-petites-tables",
+      "before": {
+        "founders": [
+          "Romain Passelande",
+          "Thomas Le Gourrierec",
+          "Patryk Kabaj"
+        ]
+      },
+      "after": {
+        "founders": [
+          "Romain Passelande",
+          "Thomas Le Gourrierec"
+        ]
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-popmyday",
+      "before": {
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.frenchweb.fr/fw-radar-morgane-lhostis-cofondatrice-de-popmyday-lapplication-pour-prendre-soin-de-soi/283007"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.pappers.fr/entreprise/popmyday-805322823"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-popup-immo",
+      "before": {
+        "confidence": "high",
+        "confidenceLabel": "Élevée"
+      },
+      "after": {
+        "confidence": "low",
+        "confidenceLabel": "Faible"
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-sentimy",
+      "before": {
+        "formerNamesOrPivots": [],
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Outil de sondages non retrouvé comme activité actuelle.",
+        "website": null,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        },
+        "confidence": "medium",
+        "confidenceLabel": "Moyenne"
+      },
+      "after": {
+        "formerNamesOrPivots": [
+          "Supermood"
+        ],
+        "founders": [
+          "Kevin Bourgeois",
+          "Robin Nicollet"
+        ],
+        "foundersPubliclyIdentified": true,
+        "status": "exit",
+        "statusLabel": "Exit",
+        "statusDetails": "Sentimy a donné naissance à Supermood; Supermood et ZestMeUp ont fusionné en mars 2025 et ZestMeUp dirige désormais la société Sentimy.",
+        "website": "https://zestmeup.com",
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.citizencapital.fr/supermood-rejoint-zestmeup/"
+        },
+        "confidence": "high",
+        "confidenceLabel": "Élevée"
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-show-roomer",
+      "before": {
+        "confidence": "high",
+        "confidenceLabel": "Élevée"
+      },
+      "after": {
+        "confidence": "medium",
+        "confidenceLabel": "Moyenne"
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-skippair",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.skippair.com"
+        }
+      },
+      "after": {
+        "founders": [
+          "Maïna Marquette",
+          "Claire Blangez"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/12/06/nautisme-skippair-leve-800-000-euros/"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-tationem",
+      "before": {
+        "confidence": "medium",
+        "confidenceLabel": "Moyenne"
+      },
+      "after": {
+        "confidence": "low",
+        "confidenceLabel": "Faible"
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s7-vocal-apps",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        }
+      },
+      "after": {
+        "founders": [
+          "Hicham Tahiri",
+          "Henri Chabrand",
+          "Karim Lourci"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "foundersOrStatus": "https://www.cbinsights.com/company/vocal-apps"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-blueboard",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Projet de cette cohorte non retrouvé comme activité autonome.",
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        },
+        "confidence": "low",
+        "confidenceLabel": "Faible",
+        "notes": "Attention aux homonymes internationaux."
+      },
+      "after": {
+        "founders": [
+          "Kevin Cohen"
+        ],
+        "foundersPubliclyIdentified": true,
+        "status": "exit",
+        "statusLabel": "Exit",
+        "statusDetails": "BlueBoard a été acquis par ChannelAdvisor le 24 juillet 2020 et intégré à ChannelAdvisor Brand Analytics.",
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.prnewswire.com/news-releases/channeladvisor-acquires-analytics-firm-blueboard-to-enhance-e-commerce-intelligence-for-global-brands-301098998.html"
+        },
+        "confidence": "high",
+        "confidenceLabel": "Élevée",
+        "notes": "Ne pas confondre avec l'actuelle plateforme française de gouvernance BlueBoard."
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-buffactory",
+      "before": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.f6s.com/companies/collaboration-tools/france/paris/co"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://entreprises.lefigaro.fr/buffactory-92/entreprise-821325784"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-deploystation",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        }
+      },
+      "after": {
+        "founders": [
+          "Oksana Voronova",
+          "Christian Dyl"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://app.dealroom.co/companies/deploystation"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-meloflow",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        }
+      },
+      "after": {
+        "founders": [
+          "Michael Brouard",
+          "Bertrand de Bodinat"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.annuaire-startups.pro/startup/meloflow/"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-willty",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        }
+      },
+      "after": {
+        "founders": [
+          "Felipe Faraggi",
+          "Nathan Paucton",
+          "Rémy Pillot"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.bonjouridee.com/willty/"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-workiz",
+      "before": {
+        "founders": [],
+        "foundersPubliclyIdentified": false,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        }
+      },
+      "after": {
+        "founders": [
+          "François Marie",
+          "Julien Thiebault"
+        ],
+        "foundersPubliclyIdentified": true,
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://wellfound.com/company/workiz/people"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-zack",
+      "before": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.maddyness.com/2024/11/28/comment-la-startup-zack-a-reussi-a-trouver-sa-place-au-sein-du-groupe-manutan/"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.manutan.com/fr/accueil/presse/actualites/2022/participation-zack"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s9-advitam",
+      "before": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "foundersOrStatus": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "foundersOrStatus": "https://advitam.fr"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s9-airkit",
+      "before": {
+        "status": "stopped",
+        "statusLabel": "Stoppé",
+        "statusDetails": "Service de partage de données mobiles non retrouvé comme activité actuelle.",
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "foundersOrStatus": "https://www.f6s.com/company/airkit"
+        },
+        "confidence": "high",
+        "confidenceLabel": "Élevée",
+        "notes": null
+      },
+      "after": {
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "La société AIRKIT reste immatriculée; son objet a été étendu en 2024 à la commercialisation et livraison de produits alimentaires, sans preuve de continuité du service touristique initial.",
+        "sources": {
+          "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "foundersOrStatus": "https://www.pappers.fr/entreprise/airkit-823501291"
+        },
+        "confidence": "medium",
+        "confidenceLabel": "Moyenne",
+        "notes": "Le projet NUMA concernait la réservation d'activités touristiques, pas le partage de données mobiles. Société juridiquement active mais pivot actuel non totalement documenté."
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s9-bob-depannage",
+      "before": {
+        "founders": [
+          "Hamza Hassoun"
+        ],
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "foundersOrStatus": "https://www.bobdepannage.fr/presse"
+        }
+      },
+      "after": {
+        "founders": [
+          "Hamza Hassoun",
+          "Blaise Chavanne"
+        ],
+        "sources": {
+          "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "foundersOrStatus": "https://bob-desk.fr/285578-2/"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s9-destygo",
+      "before": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "foundersOrStatus": "https://laiye.com/en/news/laiye-acquires-mindsay-to-lead-the-market-shift-to-intelligent-automation"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "foundersOrStatus": "https://partechpartners.com/companies/mindsay"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s9-phantombuster",
+      "before": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "foundersOrStatus": "https://careers.phantombuster.com/people/1269694-guillaume-boiret"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "foundersOrStatus": "https://thephantomcompany.com/"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s8-hopfab",
+      "before": {
+        "founders": [
+          "Charlotte Cadé",
+          "Aurélien Jeanjean"
+        ],
+        "status": "active",
+        "statusLabel": "En activité",
+        "statusDetails": "Plateforme d'aménagement d'espaces professionnels active.",
+        "website": "https://www.hopfab.com",
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.hopfab.com"
+        },
+        "notes": null
+      },
+      "after": {
+        "founders": [
+          "Géraldine Bal",
+          "Arnaud Verlet"
+        ],
+        "status": "exit",
+        "statusLabel": "Exit",
+        "statusDetails": "La société Hopfab a été placée en liquidation judiciaire le 4 avril 2023; l'activité et la marque ont ensuite continué avec La Conciergerie de l'Architecture.",
+        "website": "https://www.hopfab.com",
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "foundersOrStatus": "https://www.pappers.fr/entreprise/hopfab-813770500"
+        },
+        "notes": "Distinguer la société Hopfab, liquidée en 2023, de la marque et du réseau toujours exploités avec La Conciergerie de l'Architecture."
+      },
+      "auditFile": "factcheck/batch-03.json"
+    },
+    {
+      "id": "s9-syos",
+      "before": {
+        "sources": {
+          "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "foundersOrStatus": "https://www.frenchweb.fr/syos-met-les-nouvelles-technologies-au-service-de-la-fabrication-des-instruments-de-musique/293287"
+        }
+      },
+      "after": {
+        "sources": {
+          "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "foundersOrStatus": "https://syos.co/en-us/pages/about-us"
+        }
+      },
+      "auditFile": "factcheck/batch-03.json"
+    }
+  ]
+}

@@ -10,20 +10,33 @@
       "Les listes officielles de sélection totalisent 121 startups.",
       "Certaines communications ultérieures mentionnent 116 startups effectivement passées par le programme.",
       "Les champs non vérifiés sont représentés par null ou un tableau vide."
+    ],
+    "factCheckedAt": "2026-08-21",
+    "factCheckMethodology": "factcheck/README.md",
+    "factCheckAuditFiles": [
+      "factcheck/batch-01.json",
+      "factcheck/batch-02.json",
+      "factcheck/batch-03.json"
     ]
   },
   "summary": {
     "startupCount": 121,
-    "founderTeamsIdentified": 69,
+    "founderTeamsIdentified": 100,
     "statusCounts": {
-      "active": 34,
-      "exit": 32,
-      "stopped": 55
+      "active": 32,
+      "exit": 38,
+      "stopped": 51
     },
     "confidenceCounts": {
-      "high": 56,
-      "low": 6,
-      "medium": 59
+      "high": 57,
+      "low": 7,
+      "medium": 57
+    },
+    "factCheckVerdictCounts": {
+      "conflicting": 2,
+      "corrected": 60,
+      "unverifiable": 26,
+      "verified": 33
     }
   },
   "seasons": [
@@ -228,7 +241,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-beansight",
@@ -236,13 +265,16 @@
       "name": "Beansight",
       "formerNamesOrPivots": [],
       "founders": [
-        "Steren Giannini"
+        "Guillaume Wolf",
+        "Steren Giannini",
+        "Cyril Dorsaz",
+        "Jean-Baptiste Claramonte"
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Marché prédictif arrêté en 2011.",
+      "statusDetails": "Projet devenu open source en 2014; service historique aujourd’hui hors ligne.",
       "website": null,
       "sources": {
         "cohort": "https://www.businessinsider.com/le-camping-2011-4",
@@ -251,19 +283,37 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-dabla",
       "season": 1,
       "name": "Dabla",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
+      "founders": [
+        "Pierre-Antoine Duchateau"
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Service et société non retrouvés comme activité actuelle.",
+      "statusDetails": "La société DABLA (SIREN 533 761 961), créée en 2011 et dirigée par Pierre-Antoine Duchateau, est toujours active; le service historique n’a pas été retrouvé.",
       "website": null,
       "sources": {
         "cohort": "https://www.businessinsider.com/le-camping-2011-4",
@@ -272,17 +322,35 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "statusDetails": "corrected",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-doctrackr",
+      "acquirer": "Intralinks",
       "season": 1,
       "name": "docTrackr",
       "formerNamesOrPivots": [],
       "founders": [
         "Clément Cazalot",
         "Alex Negrea",
-        "Uli Mittermaier"
+        "Uli Mittermaier",
+        "Alexander Gentea"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -292,20 +360,39 @@
       "website": null,
       "sources": {
         "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.crunchbase.com/organization/doctrackr"
+        "foundersOrStatus": "https://www.intralinks.com/company/news-press-events/press-releases/intralinks-acquires-doctrackr"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-itipic",
       "season": 1,
       "name": "Itipic",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Fabienne Rousseau",
+        "Alain Beauvois"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -318,31 +405,67 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-kawet",
+      "acquirer": "Phenix Groupe",
       "season": 1,
       "name": "Kawet",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Benjamin Hardy"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Classée comme sortie dans l'annuaire historique des alumni.",
+      "statusDetails": "Kawet a été rachetée en 2013 et poursuit son activité sous sa marque.",
       "website": "https://madebykawet.com",
       "sources": {
         "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://bizoforce.com/business-directory/kawet/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-mesagraph",
+      "acquirer": "Twitter",
       "season": 1,
       "name": "Mesagraph",
       "formerNamesOrPivots": [],
@@ -362,7 +485,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-p1-security",
@@ -385,10 +524,27 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-prepmyfuture",
+      "acquirer": null,
       "season": 1,
       "name": "PrepMyFuture",
       "formerNamesOrPivots": [
@@ -410,7 +566,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-skerou",
@@ -433,10 +605,27 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-studyka",
+      "acquirer": "Bloomflow (participation majoritaire)",
       "season": 1,
       "name": "Studyka",
       "formerNamesOrPivots": [
@@ -451,16 +640,32 @@
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Studyka est devenu Agorize, acquis par Bloomflow en 2024.",
+      "statusDetails": "Studyka est devenu Agorize; Bloomflow a acquis une participation majoritaire dans Agorize en 2024.",
       "website": "https://www.agorize.com",
       "sources": {
         "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://get.agorize.com/en/about-us/"
+        "foundersOrStatus": "https://www.bloomflow.com/news/bloomflow-acquires-majority-stake-in-agorize"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s1-zifiz",
@@ -481,7 +686,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-herewedate",
@@ -502,10 +723,27 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-infinit",
+      "acquirer": "Docker",
       "season": 2,
       "name": "Infinit",
       "formerNamesOrPivots": [],
@@ -521,35 +759,69 @@
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.maddyness.com/2014/05/28/infinit/"
+        "foundersOrStatus": "https://www.docker.com/blog/docker-acquires-infinit/"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-loungeup",
+      "acquirer": "D-EDGE",
       "season": 2,
       "name": "LoungeUp",
       "formerNamesOrPivots": [],
       "founders": [
-        "Mathieu Pollet"
+        "Mathieu Pollet",
+        "Lionel Tressens"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "active",
-      "statusLabel": "En activité",
+      "status": "exit",
+      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Plateforme hôtelière active.",
+      "statusDetails": "LoungeUp a rejoint D-EDGE en 2024 et poursuit son activité sous sa marque.",
       "website": "https://www.loungeup.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.loungeup.com"
+        "foundersOrStatus": "https://www.loungeup.com/blog/loungeup-rejoint-d-edge-et-consolide-sa-position-de-leader-europeen-des-crm-pour-lhotellerie"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-oleapark",
@@ -570,15 +842,33 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-onefeat",
       "season": 2,
       "name": "Onefeat",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Arnaud Ferreri"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -591,7 +881,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-pictarine",
@@ -599,7 +905,8 @@
       "name": "Pictarine",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Martin"
+        "Guillaume Martin",
+        "Maxime Rafalimanana"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -614,14 +921,32 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-pili-pop",
+      "acquirer": "Unique Heritage Media",
       "season": 2,
       "name": "Pili Pop",
       "formerNamesOrPivots": [
-        "Teeniz"
+        "Teeniz",
+        "Babble Planet"
       ],
       "founders": [
         "Elsa Prieto",
@@ -629,27 +954,45 @@
         "Eugène Ernoult"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "active",
-      "statusLabel": "En activité",
+      "status": "exit",
+      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Applications d'apprentissage des langues encore commercialisées.",
+      "statusDetails": "Teeniz est devenu Babble Planet puis Pili Pop; Pili Pop Labs a été acquis par Unique Heritage Media en 2016 et le produit a continué.",
       "website": "https://www.pilipop.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.frenchweb.fr/pili-pop-transforme-les-tablettes-en-prof-danglais-pointilleux-sur-la-prononciation/192324"
+        "foundersOrStatus": "https://www.pappers.fr/entreprise/pili-pop-labs-751213182"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "corrected",
+          "founders": "verified",
+          "status": "corrected",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-qunb",
+      "acquirer": "Ve Global",
       "season": 2,
       "name": "qunb",
       "formerNamesOrPivots": [],
       "founders": [
-        "Cyrille Vincey"
+        "Cyrille Vincey",
+        "Jean-Baptiste Théard"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -664,7 +1007,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 3,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-siz",
@@ -687,15 +1046,34 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-skimm",
       "season": 2,
       "name": "Skimm!",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Antoine Sakho",
+        "Valentin Lautier"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -708,10 +1086,27 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-tvshow-time",
+      "acquirer": "Whip Media",
       "season": 2,
       "name": "TVShow Time",
       "formerNamesOrPivots": [
@@ -719,14 +1114,15 @@
         "TV Time"
       ],
       "founders": [
-        "Antonio Pinto"
+        "Antonio Pinto",
+        "Talal Mazroui"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Whip Networks/Whip Media en 2016; TV Time arrêté en juillet 2026.",
-      "website": "https://www.tvtime.com",
+      "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
         "foundersOrStatus": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/"
@@ -734,10 +1130,27 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "corrected",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s2-wecook",
+      "acquirer": "Alantaya",
       "season": 2,
       "name": "WeCook",
       "formerNamesOrPivots": [],
@@ -752,15 +1165,32 @@
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://digitalfoodlab.com/about-us/"
+        "foundersOrStatus": "https://www.maddyness.com/2017/03/06/exclu-alantaya-rachete-wecook/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-augment",
+      "acquirer": "StayinFront",
       "season": 3,
       "name": "Augment",
       "formerNamesOrPivots": [],
@@ -773,16 +1203,32 @@
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Société de réalité augmentée signalée comme acquise.",
+      "statusDetails": "Augment a été acquis par StayinFront en mai 2024.",
       "website": "https://www.augment.com",
       "sources": {
         "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.crunchbase.com/organization/augment"
+        "foundersOrStatus": "https://www.cbinsights.com/company/augment"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-explee",
@@ -794,11 +1240,11 @@
         "Thomas Olivier"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "active",
-      "statusLabel": "En activité",
+      "status": "stopped",
+      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Outil de création de vidéos explicatives encore accessible.",
-      "website": "https://explee.com",
+      "statusDetails": "La société française EXPLEE a été dissoute puis liquidée en 2023; le domaine explee.com est désormais utilisé par une autre activité.",
+      "website": null,
       "sources": {
         "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
         "foundersOrStatus": "https://www.frenchweb.fr/la-start-up-du-jour-explee-veut-dynamiser-les-supports-de-communication-par-la-video/176955"
@@ -806,15 +1252,33 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "corrected",
+          "statusDetails": "corrected",
+          "website": "corrected",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-fleex",
       "season": 3,
       "name": "Fleex",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Alexandre Point"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -827,15 +1291,35 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-home-n-go",
       "season": 3,
       "name": "Home'n'go",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Margaux Pelen",
+        "Adrien Pavillet",
+        "Sébastien Zerah"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -848,15 +1332,35 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-jellynote",
       "season": 3,
       "name": "Jellynote",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Arthur Lenoir",
+        "Adrien Cognée",
+        "Baptiste Poirier"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -869,7 +1373,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-lima",
@@ -879,7 +1399,8 @@
         "ForgetBox"
       ],
       "founders": [
-        "Séverin Marcombes"
+        "Séverin Marcombes",
+        "Gawen Arab"
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
@@ -894,15 +1415,33 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-poutsch",
       "season": 3,
       "name": "Poutsch",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Félix Winckler"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -915,10 +1454,27 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-sketchfab",
+      "acquirer": "KitBash",
       "season": 3,
       "name": "Sketchfab",
       "formerNamesOrPivots": [],
@@ -931,16 +1487,32 @@
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Acquisition par Epic Games en 2021.",
+      "statusDetails": "Sketchfab a été acquis par Epic Games en 2021, puis par KitBash en août 2026; la marque et le site restent actifs.",
       "website": "https://sketchfab.com",
       "sources": {
         "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.epicgames.com/site/en-US/news/sketchfab-is-now-part-of-epic-games"
+        "foundersOrStatus": "https://www.epicgames.com/site/news/kitbash-acquires-artstation-and-sketchfab?lang=en-ca"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-stormz",
@@ -963,15 +1535,34 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-veezio",
       "season": 3,
       "name": "Veezio",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Steeve Morin",
+        "Thomas Meson"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -984,7 +1575,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-webshell",
@@ -1009,7 +1616,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s3-whale-street",
@@ -1030,7 +1653,23 @@
       "confidence": "low",
       "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s4-auticiel",
@@ -1054,7 +1693,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s4-cours-avenue",
@@ -1075,28 +1730,63 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s4-darjeelin",
+      "acquirer": "L'Officiel des Vacances (groupe Voyage Privé)",
       "season": 4,
       "name": "Darjeelin",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Charles Guilhamon"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Classée comme sortie dans l'annuaire historique des alumni.",
+      "statusDetails": "Darjeelin a été acquis en 2014 par L'Officiel des Vacances, société du groupe Voyage Privé.",
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://techcrunch.com/2014/09/17/darjeelin-acquired/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s4-decovery",
@@ -1117,7 +1807,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-01.json"
+      }
     },
     {
       "id": "s4-lingocracy",
@@ -1138,7 +1844,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-melusyn",
@@ -1159,15 +1881,35 @@
       "confidence": "low",
       "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-pricing-assistant",
+      "acquirer": "Contentsquare",
       "season": 4,
       "name": "Pricing Assistant",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Martin de Charette",
+        "Sylvain Zimmer"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
@@ -1180,7 +1922,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-smiirl",
@@ -1205,7 +1963,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-soap",
@@ -1228,7 +2002,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "conflicting",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "conflicting",
+          "formerNamesOrPivots": "conflicting",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-sportdub",
@@ -1249,13 +2039,31 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-wepopp",
       "season": 4,
-      "name": "Wepopp",
-      "formerNamesOrPivots": [],
+      "name": "Popp!",
+      "formerNamesOrPivots": [
+        "Wepopp"
+      ],
       "founders": [],
       "foundersPubliclyIdentified": false,
       "status": "stopped",
@@ -1270,7 +2078,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "corrected",
+          "formerNamesOrPivots": "corrected",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s4-zero-gachis",
@@ -1280,7 +2104,8 @@
         "Smartway"
       ],
       "founders": [
-        "Paul-Adrien Ménez"
+        "Paul-Adrien Ménez",
+        "Christophe Ménez"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -1295,24 +2120,42 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-agriconomie",
       "season": 5,
       "name": "Agriconomie",
-      "formerNamesOrPivots": [],
+      "formerNamesOrPivots": [
+        "Agryco"
+      ],
       "founders": [
         "Paolin Pascot",
         "Dinh Nguyen",
-        "Clément Ray"
+        "Clément Le Fournis"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Place de marché agricole active.",
-      "website": "https://www.agriconomie.com",
+      "statusDetails": "Place de marché agricole active sous le nom Agryco.",
+      "website": "https://www.agryco.com",
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
         "foundersOrStatus": "https://www.agriconomie.com"
@@ -1320,16 +2163,34 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "corrected",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "corrected",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-artips",
+      "acquirer": "Beaux Arts & Cie",
       "season": 5,
       "name": "Artips",
       "formerNamesOrPivots": [],
       "founders": [
         "Coline Debayle",
-        "Jean Perret"
+        "Jean Perret",
+        "Gérard Marié"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -1339,20 +2200,40 @@
       "website": "https://artips.fr",
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://artips.fr"
+        "foundersOrStatus": "https://www.museepicassoparis.fr/sites/default/files/2024-05/DP_Iconophage%20UK.pdf"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-bandsquare",
+      "acquirer": "Fimalac",
       "season": 5,
       "name": "BandSquare",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Antoine Labbé",
+        "Chloé Julien"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
@@ -1360,12 +2241,28 @@
       "website": null,
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://cnm.fr/wp-content/uploads/2021/08/2017-10-18_-_irma_-_enquete_startups_musique_-_double_pages_b.pdf"
       },
       "confidence": "low",
       "confidenceLabel": "Faible",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-hublo",
@@ -1386,7 +2283,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": "Attention à l'homonyme Hublo créé ultérieurement."
+      "notes": "Attention à l'homonyme Hublo créé ultérieurement.",
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-krack",
@@ -1407,15 +2320,36 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "conflicting",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-localeyes",
+      "acquirer": "BeMyEye",
       "season": 5,
       "name": "LocalEyes",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Olivier Mougenot",
+        "Colin Valière",
+        "Livio Lumbroso"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
@@ -1423,12 +2357,28 @@
       "website": null,
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://content.bemyeye.com/blog/localeyes-series-b-funding/amp/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-qleek",
@@ -1455,40 +2405,77 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-realytics",
+      "acquirer": "smartclip (groupe RTL)",
       "season": 5,
       "name": "Realytics",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Belmas"
+        "Guillaume Belmas",
+        "Sébastien Monteil",
+        "Vincent Nguyen-Huu",
+        "Gregory Bittan"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Adtech acquise; marque/équipe intégrée à un groupe.",
+      "statusDetails": "Acquise par smartclip (groupe RTL) en 2022; marque et offre maintenues lors de l'acquisition.",
       "website": "https://www.realytics.io",
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://www.realytics.io"
+        "foundersOrStatus": "https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-streamroot",
+      "acquirer": "CenturyLink (devenu Lumen)",
       "season": 5,
       "name": "Streamroot",
       "formerNamesOrPivots": [],
       "founders": [
         "Pierre-Louis Théron",
-        "Nicolas Weil",
-        "Clément Artur"
+        "Nikolay Rodionov",
+        "Axel Delmas"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -1503,7 +2490,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-takes",
@@ -1524,15 +2527,35 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "conflicting",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "conflicting",
+          "formerNamesOrPivots": "conflicting",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-tastehit",
+      "acquirer": "Selligent Marketing Cloud",
       "season": 5,
       "name": "TasteHit",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Alexei Kounine",
+        "Harold Christopher Burger"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
@@ -1540,20 +2563,41 @@
       "website": null,
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://www.pactt.ch/wp-content/uploads/2018/07/MassChallenge-Switzerland-Curriculum-2018.pdf"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s5-tripndrive",
+      "acquirer": "TravelCar",
       "season": 5,
       "name": "Tripndrive",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "François-Xavier Leduc",
+        "Arthur de Keyzer",
+        "Nicolas Cosme"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
@@ -1561,15 +2605,32 @@
       "website": null,
       "sources": {
         "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://www.largus.fr/pros/actualite-automobile/autopartage-travelcar-rachete-son-concurrent-tripndrive-8488388.html"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-soundsgood",
+      "acquirer": "Believe",
       "season": 6,
       "name": "Soundsgood",
       "formerNamesOrPivots": [],
@@ -1586,20 +2647,41 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://fr.linkedin.com/company/soundsgoood"
+        "foundersOrStatus": "https://www.believe.com/who-we-are/"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-uniquesound",
+      "acquirer": null,
       "season": 6,
       "name": "UniqueSound",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Romain Cochet",
+        "Julien Declercq",
+        "Cédric Laruelle"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
@@ -1607,15 +2689,32 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.maddyness.com/2014/09/04/lecamping-saison6/"
+        "foundersOrStatus": "https://www.societe.com/societe/uniquesound-803744267.html"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-sharette",
+      "acquirer": "Citygoo",
       "season": 6,
       "name": "Sharette",
       "formerNamesOrPivots": [],
@@ -1635,7 +2734,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-drust",
@@ -1660,17 +2775,33 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-sharepay",
+      "acquirer": "Linxo",
       "season": 6,
       "name": "SharePay",
       "formerNamesOrPivots": [],
       "founders": [
         "David Finel",
-        "Jonas Braoudé",
-        "Armenak Mayalian"
+        "Jonas Braoudé"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -1685,36 +2816,76 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-pulpix",
+      "acquirer": "Adyoulike",
       "season": 6,
       "name": "Pulpix",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Sabry Otmani",
+        "Denis Vilar"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Acquisition par Teads en 2016.",
+      "statusDetails": "Acquisition par Adyoulike en 2019.",
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://techcrunch.com/2016/09/22/teads-acquires-pulpix/"
+        "foundersOrStatus": "https://www.ycombinator.com/companies/pulpix"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-smyle",
       "season": 6,
       "name": "Smyle",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Augustin Marty",
+        "Aloïs Brunel",
+        "Vincent Delaitre"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -1727,16 +2898,35 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-tiller-systems",
+      "acquirer": "SumUp",
       "season": 6,
       "name": "Tiller Systems",
       "formerNamesOrPivots": [],
       "founders": [
+        "Josef Bovet",
+        "Scott Gordon",
         "Dimitri Farber",
-        "Scott Gordon"
+        "Vincent Oliveira"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -1751,7 +2941,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-kokot",
@@ -1776,15 +2982,35 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-nunki",
       "season": 6,
       "name": "Nunki",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Quentin Lhomme",
+        "Jean-Baptiste Janvier",
+        "Quentin Lainé"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "active",
       "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
@@ -1797,7 +3023,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "corrected",
+          "status": "conflicting",
+          "statusDetails": "conflicting",
+          "website": "conflicting",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-artchy",
@@ -1807,7 +3049,9 @@
         "Archive Valley"
       ],
       "founders": [
-        "Jhava Chikli"
+        "Mélanie Rozencwaig",
+        "Jhava Chikli",
+        "Tran Nguyen Ngoc"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -1822,7 +3066,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s6-jam",
@@ -1845,7 +3105,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-read",
@@ -1866,7 +3142,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "conflicting",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-budeal",
@@ -1887,15 +3179,33 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-citytaps",
       "season": 7,
       "name": "CityTaps",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Grégoire Landel"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "active",
       "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
@@ -1908,7 +3218,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-cloudorbit",
@@ -1929,13 +3255,31 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-coursierprive-com",
       "season": 7,
       "name": "CoursierPrivé.com",
-      "formerNamesOrPivots": [],
+      "formerNamesOrPivots": [
+        "Swoopin"
+      ],
       "founders": [
         "Arnaud Marlois",
         "Nicolas Papin",
@@ -1945,7 +3289,7 @@
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Service de livraison d'origine non retrouvé comme activité autonome.",
+      "statusDetails": "CoursierPrivé.com est devenu Swoopin; liquidation judiciaire prononcée en novembre 2022.",
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
@@ -1954,7 +3298,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "corrected",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "unverifiable",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-corilla",
@@ -1978,7 +3338,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-filoute",
@@ -2001,7 +3377,23 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "unverifiable",
+          "founders": "partially verified",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-lendosphere",
@@ -2009,7 +3401,8 @@
       "name": "Lendosphere",
       "formerNamesOrPivots": [],
       "founders": [
-        "Laure Verhaeghe"
+        "Laure Verhaeghe",
+        "Amaury Blais"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -2024,7 +3417,23 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-02.json"
+      }
     },
     {
       "id": "s7-foodmeup",
@@ -2042,12 +3451,26 @@
       "website": "https://www.foodmeup.io",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": "https://www.pappers.fr/entreprise/foodmeup-802748772"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-fretx",
@@ -2070,7 +3493,21 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-gorgias",
@@ -2089,12 +3526,26 @@
       "website": "https://www.gorgias.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.gorgias.com"
+        "foundersOrStatus": "https://www.gorgias.com/about-us"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-kapptivate",
@@ -2106,19 +3557,33 @@
         "Julien Sabatier"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
+      "status": "active",
+      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Plateforme de tests mobiles non retrouvée comme activité actuelle.",
-      "website": null,
+      "statusDetails": "Plateforme d'automatisation de tests et de supervision de services numériques active.",
+      "website": "https://www.kapptivate.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": "https://www.pappers.fr/entreprise/kapptivate-803963214"
       },
-      "confidence": "medium",
-      "confidenceLabel": "Moyenne",
+      "confidence": "high",
+      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "website": "corrected",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-kwalito",
@@ -2130,27 +3595,43 @@
         "Aleksandra Mandic Killy"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "active",
-      "statusLabel": "En activité",
+      "status": "stopped",
+      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Application de lecture des étiquettes alimentaires encore référencée comme active.",
-      "website": "https://kwali.to",
+      "statusDetails": "Société dissoute puis radiée; liquidation décidée le 1er décembre 2019.",
+      "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://v2-f3d73c686b203dc8-dev-dot-gweb-voices.appspot.com/intl/en-eu/story/kwalito6bb5"
+        "foundersOrStatus": "https://www.societe.com/societe/kwalito-813015237.html"
       },
-      "confidence": "medium",
-      "confidenceLabel": "Moyenne",
+      "confidence": "high",
+      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "partially_verified",
+          "status": "corrected",
+          "website": "corrected",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-la-boite-qui-cartonne",
       "season": 7,
       "name": "La Boîte Qui Cartonne",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Meryl Benitah"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -2158,33 +3639,64 @@
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": "https://feeds.bbci.co.uk/news/av/business-34804575"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-le-zeste",
+      "acquirer": "Frichti",
       "season": 7,
       "name": "Le Zeste",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
+      "founders": [
+        "Pol Maire"
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Livraison de repas arrêtée.",
+      "statusDetails": "Service de livraison de repas revendu à Frichti.",
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": "https://blog.mantra.work/article/frichti-ecouter-les-feedbakcs-utilisateurs"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "website": "verified_absent",
+          "seenInPhoto": "verified"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-les-petites-tables",
@@ -2193,8 +3705,7 @@
       "formerNamesOrPivots": [],
       "founders": [
         "Romain Passelande",
-        "Thomas Le Gourrierec",
-        "Patryk Kabaj"
+        "Thomas Le Gourrierec"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -2209,7 +3720,21 @@
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-pandascore",
@@ -2232,7 +3757,21 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-popmyday",
@@ -2251,15 +3790,30 @@
       "website": "https://www.popmyday.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.frenchweb.fr/fw-radar-morgane-lhostis-cofondatrice-de-popmyday-lapplication-pour-prendre-soin-de-soi/283007"
+        "foundersOrStatus": "https://www.pappers.fr/entreprise/popmyday-805322823"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-popup-immo",
+      "acquirer": null,
       "season": 7,
       "name": "PopUp Immo",
       "formerNamesOrPivots": [
@@ -2277,33 +3831,67 @@
       "website": "https://www.thestorefront.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": "https://www.marketingweek.com/disruptive-brands/popup-immo/"
       },
-      "confidence": "high",
-      "confidenceLabel": "Élevée",
+      "confidence": "low",
+      "confidenceLabel": "Faible",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-sentimy",
+      "acquirer": null,
       "season": 7,
       "name": "Sentimy",
-      "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
+      "formerNamesOrPivots": [
+        "Supermood"
+      ],
+      "founders": [
+        "Kevin Bourgeois",
+        "Robin Nicollet"
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Outil de sondages non retrouvé comme activité actuelle.",
-      "website": null,
+      "statusDetails": "Sentimy a donné naissance à Supermood; Supermood et ZestMeUp ont fusionné en mars 2025 et ZestMeUp dirige désormais la société Sentimy.",
+      "website": "https://zestmeup.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": "https://www.citizencapital.fr/supermood-rejoint-zestmeup/"
       },
-      "confidence": "medium",
-      "confidenceLabel": "Moyenne",
+      "confidence": "high",
+      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "website": "corrected",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 3,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-show-roomer",
@@ -2325,18 +3913,35 @@
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
         "foundersOrStatus": "https://www.maddyness.com/2016/08/30/show-roomer/"
       },
-      "confidence": "high",
-      "confidenceLabel": "Élevée",
+      "confidence": "medium",
+      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "unverifiable",
+          "website": "verified_absent",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-skippair",
       "season": 7,
       "name": "Skippair",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Maïna Marquette",
+        "Claire Blangez"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "active",
       "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
@@ -2344,12 +3949,26 @@
       "website": "https://www.skippair.com",
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.skippair.com"
+        "foundersOrStatus": "https://www.maddyness.com/2016/12/06/nautisme-skippair-leve-800-000-euros/"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-tationem",
@@ -2367,18 +3986,36 @@
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
         "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
       },
-      "confidence": "medium",
-      "confidenceLabel": "Moyenne",
+      "confidence": "low",
+      "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-vocal-apps",
       "season": 7,
       "name": "Vocal Apps",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Hicham Tahiri",
+        "Henri Chabrand",
+        "Karim Lourci"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -2386,12 +4023,26 @@
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": "https://www.cbinsights.com/company/vocal-apps"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "website": "verified_absent",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 3,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s7-welcome-to-the-jungle",
@@ -2415,10 +4066,25 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-bienvenue-wifi",
+      "acquirer": "DHI Telecom",
       "season": 8,
       "name": "Bienvenue WiFi",
       "formerNamesOrPivots": [],
@@ -2438,28 +4104,59 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-blueboard",
+      "acquirer": "ChannelAdvisor",
       "season": 8,
       "name": "BlueBoard",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
+      "founders": [
+        "Kevin Cohen"
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Projet de cette cohorte non retrouvé comme activité autonome.",
+      "statusDetails": "BlueBoard a été acquis par ChannelAdvisor le 24 juillet 2020 et intégré à ChannelAdvisor Brand Analytics.",
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        "foundersOrStatus": "https://www.prnewswire.com/news-releases/channeladvisor-acquires-analytics-firm-blueboard-to-enhance-e-commerce-intelligence-for-global-brands-301098998.html"
       },
-      "confidence": "low",
-      "confidenceLabel": "Faible",
+      "confidence": "high",
+      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": "Attention aux homonymes internationaux."
+      "notes": "Ne pas confondre avec l'actuelle plateforme française de gouvernance BlueBoard.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "website": "corrected",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-bretzel",
@@ -2480,7 +4177,21 @@
       "confidence": "low",
       "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-buffactory",
@@ -2500,20 +4211,37 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.f6s.com/companies/collaboration-tools/france/paris/co"
+        "foundersOrStatus": "https://entreprises.lefigaro.fr/buffactory-92/entreprise-821325784"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "partially_verified",
+          "status": "verified",
+          "website": "verified_absent",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-deploystation",
       "season": 8,
       "name": "DeployStation",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Oksana Voronova",
+        "Christian Dyl"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -2521,12 +4249,26 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        "foundersOrStatus": "https://app.dealroom.co/companies/deploystation"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "website": "verified_absent",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-energysquare",
@@ -2551,31 +4293,60 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-hopfab",
+      "acquirer": null,
       "season": 8,
       "name": "Hopfab",
       "formerNamesOrPivots": [],
       "founders": [
-        "Charlotte Cadé",
-        "Aurélien Jeanjean"
+        "Géraldine Bal",
+        "Arnaud Verlet"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "active",
-      "statusLabel": "En activité",
+      "status": "exit",
+      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Plateforme d'aménagement d'espaces professionnels active.",
+      "statusDetails": "La société Hopfab a été placée en liquidation judiciaire le 4 avril 2023; l'activité et la marque ont ensuite continué avec La Conciergerie de l'Architecture.",
       "website": "https://www.hopfab.com",
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.hopfab.com"
+        "foundersOrStatus": "https://www.pappers.fr/entreprise/hopfab-813770500"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": "Distinguer la société Hopfab, liquidée en 2023, de la marque et du réseau toujours exploités avec La Conciergerie de l'Architecture.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "corrected",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 4,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-kantree",
@@ -2599,7 +4370,21 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-koober",
@@ -2622,15 +4407,32 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-meloflow",
       "season": 8,
       "name": "Meloflow",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Michael Brouard",
+        "Bertrand de Bodinat"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -2638,12 +4440,26 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        "foundersOrStatus": "https://www.annuaire-startups.pro/startup/meloflow/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-montransport-com",
@@ -2666,7 +4482,21 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-travauxlib",
@@ -2692,10 +4522,25 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-truckfly",
+      "acquirer": "Michelin",
       "season": 8,
       "name": "Truckfly",
       "formerNamesOrPivots": [],
@@ -2715,15 +4560,33 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-willty",
       "season": 8,
       "name": "Willty",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Felipe Faraggi",
+        "Nathan Paucton",
+        "Rémy Pillot"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -2731,20 +4594,37 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        "foundersOrStatus": "https://www.bonjouridee.com/willty/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-workiz",
       "season": 8,
       "name": "Workiz",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "François Marie",
+        "Julien Thiebault"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -2752,12 +4632,26 @@
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+        "foundersOrStatus": "https://wellfound.com/company/workiz/people"
       },
       "confidence": "low",
       "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": "Ne pas confondre avec le SaaS américain Workiz."
+      "notes": "Ne pas confondre avec le SaaS américain Workiz.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "unverifiable",
+          "website": "verified_absent",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-yellow",
@@ -2784,10 +4678,25 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s8-zack",
+      "acquirer": "Manutan",
       "season": 8,
       "name": "Zack",
       "formerNamesOrPivots": [
@@ -2805,12 +4714,26 @@
       "website": "https://www.zack.eco",
       "sources": {
         "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.maddyness.com/2024/11/28/comment-la-startup-zack-a-reussi-a-trouver-sa-place-au-sein-du-groupe-manutan/"
+        "foundersOrStatus": "https://www.manutan.com/fr/accueil/presse/actualites/2022/participation-zack"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-advitam",
@@ -2828,13 +4751,27 @@
       "statusDetails": "Services funéraires numériques actifs.",
       "website": "https://advitam.fr",
       "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/"
+        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+        "foundersOrStatus": "https://advitam.fr"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-airkit",
@@ -2847,19 +4784,33 @@
         "Charles de Pelleport"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
+      "status": "active",
+      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
-      "statusDetails": "Service de partage de données mobiles non retrouvé comme activité actuelle.",
+      "statusDetails": "La société AIRKIT reste immatriculée; son objet a été étendu en 2024 à la commercialisation et livraison de produits alimentaires, sans preuve de continuité du service touristique initial.",
       "website": null,
       "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
-        "foundersOrStatus": "https://www.f6s.com/company/airkit"
+        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+        "foundersOrStatus": "https://www.pappers.fr/entreprise/airkit-823501291"
       },
-      "confidence": "high",
-      "confidenceLabel": "Élevée",
+      "confidence": "medium",
+      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null
+      "notes": "Le projet NUMA concernait la réservation d'activités touristiques, pas le partage de données mobiles. Société juridiquement active mais pivot actuel non totalement documenté.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "corrected",
+          "website": "unverifiable",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-bob-depannage",
@@ -2867,7 +4818,8 @@
       "name": "Bob! Dépannage",
       "formerNamesOrPivots": [],
       "founders": [
-        "Hamza Hassoun"
+        "Hamza Hassoun",
+        "Blaise Chavanne"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -2876,16 +4828,31 @@
       "statusDetails": "Plateforme de dépannage encore accessible.",
       "website": "https://www.bobdepannage.fr",
       "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
-        "foundersOrStatus": "https://www.bobdepannage.fr/presse"
+        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+        "foundersOrStatus": "https://bob-desk.fr/285578-2/"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "corrected",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-destygo",
+      "acquirer": "Laiye",
       "season": 9,
       "name": "Destygo",
       "formerNamesOrPivots": [
@@ -2903,13 +4870,27 @@
       "statusDetails": "Devenu Mindsay, acquis par Laiye en 2022.",
       "website": null,
       "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
         "foundersOrStatus": "https://laiye.com/en/news/laiye-acquires-mindsay-to-lead-the-market-shift-to-intelligent-automation"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified_absent",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-phantombuster",
@@ -2927,16 +4908,31 @@
       "statusDetails": "SaaS d'automatisation commerciale actif.",
       "website": "https://phantombuster.com",
       "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
-        "foundersOrStatus": "https://careers.phantombuster.com/people/1269694-guillaume-boiret"
+        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+        "foundersOrStatus": "https://thephantomcompany.com/"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-shipup",
+      "acquirer": "Global Blue (participation majoritaire)",
       "season": 9,
       "name": "Shipup",
       "formerNamesOrPivots": [],
@@ -2958,7 +4954,21 @@
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 2,
+        "auditFile": "factcheck/batch-03.json"
+      }
     },
     {
       "id": "s9-syos",
@@ -2976,13 +4986,27 @@
       "statusDetails": "Fabricant d'instruments et becs personnalisés actif.",
       "website": "https://syos.co",
       "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
-        "foundersOrStatus": "https://www.frenchweb.fr/syos-met-les-nouvelles-technologies-au-service-de-la-fabrication-des-instruments-de-musique/293287"
+        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+        "foundersOrStatus": "https://syos.co/en-us/pages/about-us"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null
+      "notes": null,
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-21",
+        "fields": {
+          "cohort": "verified",
+          "identity": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "website": "verified",
+          "seenInPhoto": "unverifiable"
+        },
+        "evidenceCount": 1,
+        "auditFile": "factcheck/batch-03.json"
+      }
     }
   ]
 }
