@@ -30,8 +30,13 @@ const detailItem = (label, value, className = "") => {
 
 const sourceLink = (url, label) => {
   if (!url) return "";
-  return `<a href="${escapeHtml(url)}" rel="noreferrer">${escapeHtml(label)}</a>`;
+  return `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
 };
+
+const makeFounderProfileLinks = (startup) => startup.founderProfiles
+  ?.map(({ name, linkedin }) => sourceLink(linkedin, name))
+  .filter(Boolean)
+  .join(" · ") || "";
 
 const makeDetails = (startup) => {
   const pivots = startup.formerNamesOrPivots?.length
@@ -44,12 +49,7 @@ const makeDetails = (startup) => {
     sourceLink(startup.sources?.cohort, "Sélection"),
     sourceLink(startup.sources?.foundersOrStatus, "Parcours"),
   ].filter(Boolean).join(" · ") || "—";
-  const founderProfiles = startup.founderProfiles?.length
-    ? startup.founderProfiles
-      .map(({ name, linkedin }) => sourceLink(linkedin, name))
-      .filter(Boolean)
-      .join(" · ")
-    : "";
+  const founderProfiles = makeFounderProfileLinks(startup);
 
   return `<div class="detail-grid">
     ${detailItem("Détail", escapeHtml(startup.statusDetails || "Information non documentée."), "detail-wide")}
@@ -84,6 +84,7 @@ const render = () => {
     const fragment = template.content.cloneNode(true);
     const article = fragment.querySelector(".startup-entry");
     const row = fragment.querySelector(".startup-row");
+    const founderProfileRow = fragment.querySelector(".startup-founder-profiles");
     const details = fragment.querySelector(".startup-details");
     const index = state.startups.indexOf(startup) + 1;
     const founders = startup.founders?.length ? startup.founders.join(", ") : "Non identifiés";
@@ -97,6 +98,11 @@ const render = () => {
     fragment.querySelector(".startup-founders").textContent = founders;
     fragment.querySelector(".startup-status").textContent = startup.statusLabel;
     fragment.querySelector(".startup-mobile-meta").textContent = `Saison ${String(startup.season).padStart(2, "0")} · ${founders}`;
+    const founderProfileLinks = makeFounderProfileLinks(startup);
+    if (founderProfileLinks) {
+      founderProfileRow.innerHTML = `<span class="founder-profile-label">LinkedIn</span><span class="founder-profile-links">${founderProfileLinks}</span>`;
+      founderProfileRow.hidden = false;
+    }
     details.innerHTML = makeDetails(startup);
 
     row.addEventListener("click", () => {

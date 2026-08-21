@@ -328,6 +328,30 @@ h1 span {
 .startup-status { font-size: 0.95rem; }
 .startup-founders { color: #2d2b28; }
 
+.startup-founder-profiles {
+  display: grid;
+  grid-template-columns: 58px minmax(180px, 1.15fr) 130px minmax(240px, 1.8fr) 150px 68px;
+  gap: 1rem;
+  padding: 0 0 0.8rem;
+  border-left: 4px solid transparent;
+  font-size: 0.82rem;
+}
+
+.startup-founder-profiles[hidden] { display: none; }
+
+.founder-profile-label {
+  grid-column: 3;
+  color: var(--muted);
+  font-family: var(--display);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.founder-profile-links { grid-column: 4 / 6; }
+.founder-profile-links a { color: var(--blue); }
+
 .details-label {
   color: var(--magenta);
   font-family: var(--display);
@@ -392,26 +416,10 @@ h1 span {
 
 .about {
   display: grid;
-  grid-template-columns: minmax(130px, 0.5fr) minmax(280px, 1.5fr);
-  gap: 3rem;
+  grid-template-columns: 1fr;
   margin-top: clamp(5rem, 10vw, 9rem);
   padding: clamp(2rem, 5vw, 4rem) 0;
   border-top: 3px solid var(--ink);
-}
-
-.section-number {
-  margin: 0;
-  color: var(--magenta);
-  font-family: var(--display);
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
-.about h2 {
-  margin: 0 0 1rem;
-  font-size: clamp(2.5rem, 5vw, 5rem);
-  line-height: 0.95;
-  text-transform: uppercase;
 }
 
 .about div { max-width: 760px; }
@@ -481,6 +489,15 @@ footer p { margin: 0; }
   .startup-mobile-meta { display: block; margin-top: 0.25rem; color: var(--muted); }
   .startup-season,
   .startup-founders { display: none; }
+  .startup-founder-profiles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem 0.7rem;
+    padding: 0 0 0.8rem 4rem;
+  }
+  .startup-founder-profiles[hidden] { display: none; }
+  .founder-profile-label,
+  .founder-profile-links { grid-column: auto; }
   .startup-status { align-self: start; font-weight: 700; text-align: right; }
   .details-label { grid-column: 3; text-align: right; }
   .startup-details { padding-left: 1rem; }
@@ -524,7 +541,6 @@ footer p { margin: 0; }
   .detail-grid { grid-template-columns: 1fr; gap: 1rem; }
   .detail-item.detail-wide { grid-column: auto; }
 
-  .about { grid-template-columns: 1fr; gap: 1.5rem; }
   .about p { font-size: 1.05rem; }
   footer { display: grid; }
 }
