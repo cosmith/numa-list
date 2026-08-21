@@ -47,6 +47,7 @@ const makeDetails = (startup) => {
 
   return `<div class="detail-grid">
     ${detailItem("Détail", escapeHtml(startup.statusDetails || "Information non documentée."), "detail-wide")}
+    ${startup.status === "exit" ? detailItem("Acquéreur", escapeHtml(startup.acquirer || "Non identifié / non documenté")) : ""}
     ${detailItem("Ancien nom / pivot", pivots)}
     ${detailItem("Site web", website)}
     ${detailItem("Sources", sources, "detail-wide")}
@@ -153,6 +154,15 @@ fetch("data.json")
   })
   .then((data) => {
     state.startups = data.startups;
+    const counts = {
+      all: data.summary.startupCount,
+      active: data.summary.statusCounts.active,
+      exit: data.summary.statusCounts.exit,
+      stopped: data.summary.statusCounts.stopped,
+    };
+    document.querySelectorAll("[data-count]").forEach((element) => {
+      element.textContent = counts[element.dataset.count];
+    });
     document.querySelector("#data-date").dateTime = data.dataset.statusAsOf;
     render();
   })

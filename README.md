@@ -18,4 +18,4 @@ Les données sont dans [`data.json`](data.json). Les corrections et compléments
 
 ## Hébergement
 
-Le site est destiné à être publié sur `camping.cosmith.fr`.
+Le site est publié sur `numa.cosmith.fr`.

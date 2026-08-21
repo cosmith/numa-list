@@ -17,7 +17,7 @@
       <p class="eyebrow">Archives indépendantes</p>
       <nav aria-label="Navigation principale">
         <a href="#about">À propos</a>
-        <a href="https://github.com/cosmith/camping/edit/main/data.json" rel="noreferrer">Corriger les données sur GitHub</a>
+        <a href="https://github.com/cosmith/numa-list/edit/main/data.json" rel="noreferrer">Corriger les données sur GitHub</a>
       </nav>
     </header>
 
@@ -31,6 +31,11 @@
           </p>
         </div>
         <p class="lede">Le répertoire des startups passées par <span>Le Camping<wbr> / NUMA Paris</span>, de 2011 à 2016.</p>
+        <aside class="disclaimer" aria-label="Avertissement">
+          <strong>Archive participative et non officielle.</strong>
+          <span>Ce site n’est pas affilié à NUMA. Son contenu est documenté collectivement et peut comporter des erreurs.</span>
+          <a href="https://github.com/cosmith/numa-list/edit/main/data.json" rel="noreferrer">Proposer une correction</a>
+        </aside>
       </section>
 
       <section class="directory" id="directory" aria-labelledby="directory-title">
@@ -43,10 +48,10 @@
 
         <div class="filters" aria-label="Filtres du répertoire">
           <div class="status-filters" role="group" aria-label="Filtrer par devenir">
-            <button class="filter is-active" type="button" data-status="all" aria-pressed="true">Toutes <span>121</span></button>
-            <button class="filter" type="button" data-status="active" aria-pressed="false">En activité <span>34</span></button>
-            <button class="filter" type="button" data-status="exit" aria-pressed="false">Exit <span>32</span></button>
-            <button class="filter" type="button" data-status="stopped" aria-pressed="false">Stoppées <span>55</span></button>
+            <button class="filter is-active" type="button" data-status="all" aria-pressed="true">Toutes <span data-count="all">121</span></button>
+            <button class="filter" type="button" data-status="active" aria-pressed="false">En activité <span data-count="active">34</span></button>
+            <button class="filter" type="button" data-status="exit" aria-pressed="false">Exit <span data-count="exit">32</span></button>
+            <button class="filter" type="button" data-status="stopped" aria-pressed="false">Stoppées <span data-count="stopped">55</span></button>
           </div>
 
           <div class="season-filter">
@@ -90,14 +95,14 @@
           <h2 id="about-title">Une archive ouverte</h2>
           <p>Ce site documente les 121 startups sélectionnées dans les neuf promotions du Camping, devenu le programme d’accélération de NUMA Paris.</p>
           <p>Les trajectoires évoluent et les sources peuvent manquer. Une information te semble inexacte ou incomplète&nbsp;?</p>
-          <a class="contribute-link" href="https://github.com/cosmith/camping/edit/main/data.json" rel="noreferrer">Proposer une correction sur GitHub</a>
+          <a class="contribute-link" href="https://github.com/cosmith/numa-list/edit/main/data.json" rel="noreferrer">Proposer une correction sur GitHub</a>
         </div>
       </section>
     </main>
 
     <footer>
       <p>Données vérifiées au <time id="data-date">21 août 2026</time>.</p>
-      <a href="https://github.com/cosmith/camping" rel="noreferrer">Code et données sur GitHub</a>
+      <a href="https://github.com/cosmith/numa-list" rel="noreferrer">Code et données sur GitHub</a>
     </footer>
 
     <template id="startup-template">
