@@ -21,7 +21,7 @@
   },
   "summary": {
     "startupCount": 121,
-    "founderTeamsIdentified": 100,
+    "founderTeamsIdentified": 107,
     "statusCounts": {
       "active": 32,
       "exit": 38,
@@ -34,9 +34,9 @@
     },
     "factCheckVerdictCounts": {
       "conflicting": 2,
-      "corrected": 60,
-      "unverifiable": 26,
-      "verified": 33
+      "corrected": 71,
+      "unverifiable": 16,
+      "verified": 32
     }
   },
   "seasons": [
@@ -551,7 +551,8 @@
         "Everlearn"
       ],
       "founders": [
-        "Achille Pinson"
+        "Hadrien-Achille Pinson",
+        "Richard Fielding"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -568,19 +569,19 @@
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "verified",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -591,8 +592,10 @@
       "formerNamesOrPivots": [
         "PurchEase"
       ],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Grégory Thurin"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -607,13 +610,13 @@
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
@@ -672,8 +675,11 @@
       "season": 1,
       "name": "Zifiz",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Bora Kizil",
+        "Pierre-Antoine Antonini"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -688,19 +694,19 @@
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -709,8 +715,10 @@
       "season": 2,
       "name": "HereWeDate",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Julien Hugon"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -725,19 +733,19 @@
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -828,8 +836,10 @@
       "season": 2,
       "name": "Oleapark",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Florent Quinti"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -844,19 +854,19 @@
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -1032,8 +1042,11 @@
       "formerNamesOrPivots": [
         "Viewrz"
       ],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Axel Hauguel",
+        "Guillaume Rivals"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -1048,13 +1061,13 @@
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
-          "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "formerNamesOrPivots": "verified",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
@@ -1155,7 +1168,9 @@
       "name": "WeCook",
       "formerNamesOrPivots": [],
       "founders": [
-        "Jérémie Prouteau"
+        "Matthieu Vincent",
+        "Jérémie Prouteau",
+        "Alexandre Grimault"
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
@@ -1172,13 +1187,13 @@
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
@@ -1276,7 +1291,8 @@
       "name": "Fleex",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alexandre Point"
+        "Alexandre Point",
+        "Guillaume Dupuy"
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
@@ -1439,7 +1455,9 @@
       "name": "Poutsch",
       "formerNamesOrPivots": [],
       "founders": [
-        "Félix Winckler"
+        "Félix Winckler",
+        "Étienne Adriaenssen",
+        "Melchior Schöller"
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
@@ -1520,7 +1538,8 @@
       "name": "Stormz",
       "formerNamesOrPivots": [],
       "founders": [
-        "Jean-Denis Vauguet"
+        "Alexandre Eisenchteter",
+        "François de Metz"
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
@@ -1530,26 +1549,26 @@
       "website": "https://stormz.me",
       "sources": {
         "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://stormz.me"
+        "foundersOrStatus": "https://about.stormz.me/fr/a-propos/"
       },
       "confidence": "medium",
       "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
           "statusDetails": "verified",
           "website": "verified",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 4,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -1601,7 +1620,9 @@
         "OAuth.io"
       ],
       "founders": [
-        "Mehdi Medjaoui"
+        "Thibaud Arnault",
+        "Mehdi Medjaoui",
+        "Arnaud Richard"
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
@@ -1618,19 +1639,19 @@
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -1716,8 +1737,11 @@
       "season": 4,
       "name": "Cours Avenue",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Nicolas Lagarde",
+        "Nima Izadi"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -1732,19 +1756,19 @@
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -1793,8 +1817,11 @@
       "season": 4,
       "name": "Decovery",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Arthur Fouvez",
+        "François Meteyer"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -1809,19 +1836,19 @@
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-21",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "statusDetails": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "auditFile": "factcheck/batch-01.json"
       }
     },
@@ -3576,7 +3603,7 @@
         "fields": {
           "cohort": "verified",
           "identity": "verified",
-          "founders": "corrected",
+          "founders": "verified",
           "status": "corrected",
           "website": "corrected",
           "seenInPhoto": "unverifiable"
@@ -4871,7 +4898,7 @@
       "website": null,
       "sources": {
         "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://laiye.com/en/news/laiye-acquires-mindsay-to-lead-the-market-shift-to-intelligent-automation"
+        "foundersOrStatus": "https://partechpartners.com/companies/mindsay"
       },
       "confidence": "high",
       "confidenceLabel": "Élevée",
