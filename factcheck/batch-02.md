@@ -6,8 +6,8 @@ Vérification effectuée le 21 août 2026 à partir de sources web, sans navigat
 
 - 40 fiches contrôlées
 - 7 vérifiées
-- 32 corrigées
-- 1 non vérifiable
+- 33 corrigées
+- 0 non vérifiable au niveau du verdict global
 
 ## Corrections marquantes
 
@@ -18,6 +18,7 @@ Vérification effectuée le 21 août 2026 à partir de sources web, sans navigat
 - Lingocracy : Maxime Vandegeerde et Yaoyan Yang confirmés par le JDN et le BODACC; Eric Burdier écarté.
 - Melusyn, SOAP/Znappit et SportDub : équipes fondatrices retrouvées dans la presse de l'époque.
 - Hublo : Léo-Paul Goffic, Cyril Gantzer et Etienne Le Scaon confirmés pour l'outil analytics, distinct de la healthtech actuelle.
+- Jam : Loïc Delmaire ajouté aux côtés de Marjolaine Grondin d'après un communiqué de Société Générale; vente puis arrêt du chatbot documentés.
 - Krack : quatre fondateurs retrouvés sous le nom Indy Trackers; projet toujours actif sous le nom Krak.
 - Takes / TakeTracker : quatre créateurs confirmés et radiation de la société documentée.
 - Read, Budeal, CloudOrbit et Filoute : fondateurs ajoutés à partir de sources nominatives et de registres.

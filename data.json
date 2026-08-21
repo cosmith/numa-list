@@ -21,20 +21,20 @@
   },
   "summary": {
     "startupCount": 121,
-    "founderTeamsIdentified": 119,
+    "founderTeamsIdentified": 121,
     "statusCounts": {
       "active": 33,
-      "exit": 38,
-      "stopped": 50
+      "exit": 39,
+      "stopped": 49
     },
     "confidenceCounts": {
-      "high": 58,
-      "low": 6,
+      "high": 60,
+      "low": 4,
       "medium": 57
     },
     "factCheckVerdictCounts": {
-      "corrected": 84,
-      "unverifiable": 5,
+      "corrected": 88,
+      "unverifiable": 1,
       "verified": 32
     }
   },
@@ -1665,37 +1665,56 @@
       "season": 3,
       "name": "Whale Street",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Michaël Journo",
+        "Arthur Prat-Carrabin"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
-      "statusAsOf": "2026-08-21",
-      "statusDetails": "Service non retrouvé comme activité actuelle.",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Société dissoute puis radiée du RCS de Paris en août 2016.",
       "website": null,
       "sources": {
         "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://github.com/lecamping/lecampingmafia"
+        "foundersOrStatus": {
+          "url": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20110122_0001_p000.pdf",
+          "title": "Avis de constitution de Whale Street",
+          "publisher": "BODACC",
+          "sourceType": "official-registry",
+          "accessedAt": "2026-08-22",
+          "supports": [
+            "founders",
+            "identity"
+          ]
+        }
       },
-      "confidence": "low",
-      "confidenceLabel": "Faible",
+      "confidence": "high",
+      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
-        "checkedAt": "2026-08-21",
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "unverifiable",
-          "status": "unverifiable",
-          "statusDetails": "unverifiable",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 5,
         "auditFile": "factcheck/batch-01.json"
-      }
+      },
+      "founderProfiles": [
+        {
+          "name": "Michaël Journo",
+          "linkedin": "https://fr.linkedin.com/in/micha%C3%ABl-journo-2368a929"
+        }
+      ]
     },
     {
       "id": "s4-auticiel",
@@ -3167,38 +3186,58 @@
       "name": "Jam",
       "formerNamesOrPivots": [],
       "founders": [
-        "Marjolaine Grondin"
+        "Marjolaine Grondin",
+        "Loïc Delmaire"
       ],
       "foundersPubliclyIdentified": true,
-      "status": "stopped",
-      "statusLabel": "Stoppé",
-      "statusAsOf": "2026-08-21",
-      "statusDetails": "Chatbot grand public arrêté.",
+      "status": "exit",
+      "statusLabel": "Exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Marjolaine Grondin indique avoir vendu Jam après dix ans d'aventure; le chatbot a ensuite été arrêté.",
       "website": null,
       "sources": {
         "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.maddyness.com/2014/09/04/lecamping-saison6/"
+        "foundersOrStatus": {
+          "url": "https://www.societegenerale.com/sites/default/files/17032-cp-societe-generale-sassocie-au-chatbot-jam-pour-mieux-comprendre-les-millenials.pdf",
+          "title": "Société Générale s'associe au chatbot Jam",
+          "publisher": "Société Générale",
+          "sourceType": "official-partner-release",
+          "accessedAt": "2026-08-22",
+          "supports": [
+            "founders"
+          ]
+        }
       },
-      "confidence": "medium",
-      "confidenceLabel": "Moyenne",
+      "confidence": "high",
+      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
-        "checkedAt": "2026-08-21",
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "unverifiable",
-          "founders": "verified",
-          "status": "unverifiable",
-          "statusDetails": "unverifiable",
+          "founders": "corrected",
+          "status": "corrected",
+          "statusDetails": "corrected",
           "website": "unverifiable",
           "seenInPhoto": "verified"
         },
-        "evidenceCount": 2,
+        "evidenceCount": 7,
         "auditFile": "factcheck/batch-02.json"
-      }
+      },
+      "founderProfiles": [
+        {
+          "name": "Marjolaine Grondin",
+          "linkedin": "https://fr.linkedin.com/in/marjolainegrondin"
+        },
+        {
+          "name": "Loïc Delmaire",
+          "linkedin": "https://fr.linkedin.com/in/skelz0r"
+        }
+      ]
     },
     {
       "id": "s7-read",
@@ -3569,8 +3608,8 @@
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
-      "statusAsOf": "2026-08-21",
-      "statusDetails": "Accessoire connecté pour guitare non retrouvé comme activité actuelle.",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Liquidation judiciaire en novembre 2019; clôture pour insuffisance d'actif en juin 2023.",
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
@@ -3581,17 +3620,17 @@
       "seenInPhoto": true,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
-        "checkedAt": "2026-08-21",
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
         "fields": {
           "cohort": "verified",
           "identity": "verified",
           "founders": "verified",
-          "status": "unverifiable",
+          "status": "verified",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 1,
+        "evidenceCount": 2,
         "auditFile": "factcheck/batch-03.json"
       }
     },
@@ -4077,8 +4116,12 @@
       "season": 7,
       "name": "Tationem",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        "Vijaykant Nadadue",
+        "Aravind Kamath",
+        "Senthil Kumar"
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
@@ -4086,24 +4129,34 @@
       "website": null,
       "sources": {
         "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+        "foundersOrStatus": {
+          "url": "https://yourstory.com/2013/08/i-will-move-back-to-india-soon-after-my-stint-at-the-university-tationem",
+          "title": "Tationem founder interview",
+          "publisher": "YourStory",
+          "sourceType": "contemporary-founder-interview",
+          "accessedAt": "2026-08-22",
+          "supports": [
+            "founders",
+            "identity"
+          ]
+        }
       },
-      "confidence": "low",
-      "confidenceLabel": "Faible",
+      "confidence": "medium",
+      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
       "notes": null,
       "factCheck": {
-        "verdict": "unverifiable",
-        "checkedAt": "2026-08-21",
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
         "fields": {
           "cohort": "verified",
           "identity": "verified",
-          "founders": "unverifiable",
+          "founders": "corrected",
           "status": "unverifiable",
           "website": "unverifiable",
           "seenInPhoto": "unverifiable"
         },
-        "evidenceCount": 1,
+        "evidenceCount": 4,
         "auditFile": "factcheck/batch-03.json"
       }
     },

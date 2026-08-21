@@ -20,12 +20,12 @@ Corrections majeures :
   la base (partage de données mobiles) était erronée.
 - Plusieurs équipes fondatrices manquantes ont été ajoutées : La Boîte Qui
   Cartonne, Skippair, Vocal Apps, DeployStation, Meloflow, Willty, Workiz,
-  Bretzel et Bob! Dépannage.
+  Bretzel, Bob! Dépannage et Tationem.
+- FRETX : liquidation judiciaire en 2019 et clôture en 2023 documentées dans le registre.
 - Patryk Kabaj a été retiré des fondateurs des Petites Tables faute de
   corroboration; les sources publiques identifient Romain Passelande et Thomas
   Le Gourrierec.
 
-Points non conclusifs : FretX, Show-Roomer, Tationem, Meloflow, Willty et le
-Workiz français. Pour Bretzel, Guillaume Tessier est confirmé mais le nom
-complet du second cofondateur reste inconnu. Leur absence actuelle du web ne suffit
-pas, seule, à prouver un arrêt.
+Le statut de Show-Roomer reste non conclusif : l'absence actuelle du web ne
+suffit pas, seule, à prouver un arrêt. Pour Bretzel, Guillaume Tessier est
+confirmé mais le nom complet du second cofondateur reste inconnu.

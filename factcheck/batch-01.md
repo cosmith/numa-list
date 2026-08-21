@@ -5,12 +5,12 @@ Vérification effectuée le 21 août 2026 sur les 40 premières startups de `dat
 ## Résultat
 
 - 5 lignes vérifiées sans correction
-- 34 lignes avec au moins une correction proposée
-- 1 ligne partiellement invérifiable
+- 35 lignes avec au moins une correction proposée
+- 0 ligne sans équipe fondatrice identifiée
 - 0 conflit non résolu au niveau du verdict global
 
-Pour le seul champ `founders`, 10 équipes sont confirmées sans modification,
-29 ont été corrigées ou complétées, et 1 reste invérifiable. Cette seconde
+Pour le seul champ `founders`, 10 équipes sont confirmées sans modification et
+30 ont été corrigées ou complétées. Cette seconde
 passe privilégie les portraits de presse contemporains, les pages officielles
 et les actes de création plutôt que les annuaires généralistes.
 
@@ -20,7 +20,7 @@ Les promotions et noms ont généralement pu être confirmés par des annonces d
 
 - Équipes fondatrices incomplètes corrigées : PrepMyFuture, Skerou, Zifiz,
   HereWeDate, Oleapark, Siz, WeCook, Fleex, Poutsch, Stormz et Webshell.
-- Une équipe reste sans preuve nominative suffisante : `s3-whale-street`.
+- Whale Street : Michaël Journo et Arthur Prat-Carrabin sont confirmés par le BODACC et le CV du cofondateur; la radiation de 2016 est documentée.
 - Statuts obsolètes ou erronés : LoungeUp a rejoint D-EDGE, Pili Pop Labs a été acquis par Unique Heritage Media, Explee a été liquidée en 2023, et TV Time a fermé en juillet 2026.
 - Pivots ou changements de nom incomplets : Pili Pop est passé par Teeniz puis Babble Planet; Lima était auparavant ForgetBox.
 - Événements de sortie imprécis : Augment a été acquis par StayinFront en mai 2024; Darjeelin par L'Officiel des Vacances en 2014; Sketchfab, après Epic Games en 2021, a été repris par KitBash en août 2026.

@@ -45,17 +45,24 @@
   },
   {
     "id": "s7-fretx",
-    "overallVerdict": "unverifiable",
-    "checkedAt": "2026-08-21",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-22",
     "fields": {
       "cohort": "verified",
       "identity": "verified",
       "founders": "verified",
-      "status": "unverifiable",
+      "status": "verified",
       "website": "unverifiable",
       "seenInPhoto": "unverifiable"
     },
-    "proposedPatch": {},
+    "proposedPatch": {
+      "status": "stopped",
+      "statusLabel": "Stoppé",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Liquidation judiciaire en novembre 2019; clôture pour insuffisance d'actif en juin 2023.",
+      "confidence": "high",
+      "confidenceLabel": "Élevée"
+    },
     "sources": [
       {
         "url": "https://medium.com/@fretx/fretx-the-smart-device-that-teaches-you-guitar-media-kit-4a7efdeebd29",
@@ -67,9 +74,20 @@
           "identity",
           "founder"
         ]
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/fretx-813297009",
+        "title": "FRETX",
+        "publisher": "Pappers / RNE-BODACC",
+        "sourceType": "registry-aggregator",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "status",
+          "statusDetails"
+        ]
       }
     ],
-    "notes": "L'absence de présence actuelle ne suffit pas à prouver l'arrêt."
+    "notes": "La liquidation et sa clôture sont désormais documentées par l'historique RNE-BODACC."
   },
   {
     "id": "s7-gorgias",
@@ -616,20 +634,39 @@
   },
   {
     "id": "s7-tationem",
-    "overallVerdict": "unverifiable",
-    "checkedAt": "2026-08-21",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-22",
     "fields": {
       "cohort": "verified",
       "identity": "verified",
-      "founders": "unverifiable",
+      "founders": "corrected",
       "status": "unverifiable",
       "website": "unverifiable",
       "seenInPhoto": "unverifiable"
     },
     "proposedPatch": {
-      "confidence": "low",
-      "confidenceLabel": "Faible"
+      "founders": [
+        "Vijaykant Nadadue",
+        "Aravind Kamath",
+        "Senthil Kumar"
+      ],
+      "foundersPubliclyIdentified": true,
+      "confidence": "medium",
+      "confidenceLabel": "Moyenne"
     },
+    "additionalFounderSources": [
+      {
+        "url": "https://yourstory.com/2013/08/i-will-move-back-to-india-soon-after-my-stint-at-the-university-tationem",
+        "title": "Tationem founder interview",
+        "publisher": "YourStory",
+        "sourceType": "contemporary-founder-interview",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders",
+          "identity"
+        ]
+      }
+    ],
     "sources": [
       {
         "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
@@ -641,9 +678,31 @@
           "cohort",
           "identity"
         ]
+      },
+      {
+        "url": "https://yourstory.com/2013/08/i-will-move-back-to-india-soon-after-my-stint-at-the-university-tationem",
+        "title": "Tationem founder interview",
+        "publisher": "YourStory",
+        "sourceType": "contemporary-founder-interview",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "founders",
+          "identity"
+        ]
+      },
+      {
+        "url": "https://yourstory.com/2014/07/sentiment-tool-texsie/",
+        "title": "Tationem's text sentiment analysis tool TexSIE",
+        "publisher": "YourStory",
+        "sourceType": "contemporary-press",
+        "accessedAt": "2026-08-22",
+        "supports": [
+          "identity",
+          "founders"
+        ]
       }
     ],
-    "notes": "Aucune entité juridique ou équipe fondatrice n'a pu être reliée avec certitude."
+    "notes": "La presse de 2013 nomme les trois fondateurs; l'article de 2014 relie explicitement Tationem à TexSIE, son outil d'analyse de texte, ce qui concorde avec la description de la cohorte NUMA. Le statut actuel reste non vérifiable."
   },
   {
     "id": "s7-vocal-apps",

@@ -1539,19 +1539,42 @@
   },
   {
     "id": "s6-jam",
-    "overallVerdict": "unverifiable",
-    "checkedAt": "2026-08-21",
+    "overallVerdict": "corrected",
+    "checkedAt": "2026-08-22",
     "fields": {
       "season": "verified",
       "name": "verified",
       "formerNamesOrPivots": "unverifiable",
-      "founders": "verified",
-      "status": "unverifiable",
-      "statusDetails": "unverifiable",
+      "founders": "corrected",
+      "status": "corrected",
+      "statusDetails": "corrected",
       "website": "unverifiable",
       "seenInPhoto": "verified"
     },
-    "proposedPatch": {},
+    "proposedPatch": {
+      "founders": ["Marjolaine Grondin", "Loïc Delmaire"],
+      "foundersPubliclyIdentified": true,
+      "founderProfiles": [
+        {"name": "Marjolaine Grondin", "linkedin": "https://fr.linkedin.com/in/marjolainegrondin"},
+        {"name": "Loïc Delmaire", "linkedin": "https://fr.linkedin.com/in/skelz0r"}
+      ],
+      "status": "exit",
+      "statusLabel": "Exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Marjolaine Grondin indique avoir vendu Jam après dix ans d'aventure; le chatbot a ensuite été arrêté.",
+      "confidence": "high",
+      "confidenceLabel": "Élevée"
+    },
+    "additionalFounderSources": [
+      {
+        "url": "https://www.societegenerale.com/sites/default/files/17032-cp-societe-generale-sassocie-au-chatbot-jam-pour-mieux-comprendre-les-millenials.pdf",
+        "title": "Société Générale s'associe au chatbot Jam",
+        "publisher": "Société Générale",
+        "sourceType": "official-partner-release",
+        "accessedAt": "2026-08-22",
+        "supports": ["founders"]
+      }
+    ],
     "sources": [
       {
         "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
@@ -1576,9 +1599,41 @@
           "founder",
           "historical product"
         ]
+      },
+      {
+        "url": "https://www.societegenerale.com/sites/default/files/17032-cp-societe-generale-sassocie-au-chatbot-jam-pour-mieux-comprendre-les-millenials.pdf",
+        "title": "Société Générale s'associe au chatbot Jam",
+        "publisher": "Société Générale",
+        "sourceType": "official-partner-release",
+        "accessedAt": "2026-08-22",
+        "supports": ["founders"]
+      },
+      {
+        "url": "https://marjolainegrondin.com/",
+        "title": "Marjolaine Grondin",
+        "publisher": "Marjolaine Grondin",
+        "sourceType": "founder-primary",
+        "accessedAt": "2026-08-22",
+        "supports": ["founders", "identity"]
+      },
+      {
+        "url": "https://fr.linkedin.com/posts/marjolainegrondin_que-fait-on-apr%C3%A8s-avoir-vendu-lentreprise-activity-7246844997658898432-R_Mo",
+        "title": "Retour de Marjolaine Grondin sur la vente de Jam",
+        "publisher": "Marjolaine Grondin / LinkedIn",
+        "sourceType": "founder-primary",
+        "accessedAt": "2026-08-22",
+        "supports": ["status"]
+      },
+      {
+        "url": "https://podcast.ausha.co/choisir-sans-renoncer/marjolaine-grondin-foncer-vite-digerer-lentement-comment-ses-deux-vitesses-faconnent-ses-decisions",
+        "title": "Marjolaine Grondin — Choisir sans renoncer",
+        "publisher": "Ausha",
+        "sourceType": "founder-interview",
+        "accessedAt": "2026-08-22",
+        "supports": ["statusDetails"]
       }
     ],
-    "notes": "La fermeture du chatbot n'a pas été suffisamment sourcée dans cette passe."
+    "notes": "Le communiqué de Société Générale nomme Marjolaine Grondin et Loïc Delmaire comme les deux créateurs de Jam. Les sources de la fondatrice documentent ensuite la vente et l'arrêt du chatbot."
   },
   {
     "id": "s7-read",
