@@ -1,4 +1,4 @@
-Liste des startups passées par Le Camping / NUMA Paris entre 2011 et 2016.
+Liste des startups passées par Le Camping / NUMA Paris, principalement entre 2011 et 2016 (plus quelques exceptions signalées directement par leurs fondateurs).
 
 Les données ont été récoltées par mes agents avec plusieurs rounds de fact checking mais c'est encore assez approximatif !
 

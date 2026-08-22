@@ -2,7 +2,7 @@
   "schemaVersion": "2.0.0",
   "dataset": {
     "title": "Startups passées par Le Camping / NUMA Paris",
-    "scope": "Promotions 1 à 9, sélections 2011–2016",
+    "scope": "Promotions 1 à 9, sélections 2011–2016, plus quelques exceptions signalées directement par leurs fondateurs (ex. saison 12)",
     "generatedAt": "2026-08-22",
     "statusAsOf": "2026-08-22",
     "language": "fr",
@@ -10,7 +10,8 @@
       "Les listes officielles de sélection totalisent 121 startups.",
       "Certaines communications ultérieures mentionnent 116 startups effectivement passées par le programme.",
       "Les champs non vérifiés sont représentés par null ou un tableau vide.",
-      "Second passage de fact-check le 22 août 2026 : un audit approfondi par startup (presse d'époque, Internet Archive quand accessible, profils LinkedIn, actes d'acquisition), piste d'audit dans factcheck/deep/."
+      "Second passage de fact-check le 22 août 2026 : un audit approfondi par startup (presse d'époque, Internet Archive quand accessible, profils LinkedIn, actes d'acquisition), piste d'audit dans factcheck/deep/.",
+      "Depuis le partage de cette liste aux fondateurs, quelques fiches hors du périmètre initial (photo des promotions 1 à 9) sont ajoutées sur signalement direct des fondateurs concernés ; elles sont identifiées via leur champ \"notes\"."
     ],
     "factCheckedAt": "2026-08-22",
     "factCheckMethodology": "factcheck/README.md",
@@ -11329,6 +11330,92 @@
         "auditFile": "factcheck/deep/s9-syos.json"
       },
       "activityDescription": "Syos est un fabricant français de becs de saxophone et de clarinette sur mesure, conçus par optimisation acoustique et fabriqués en impression 3D à Paris."
+    },
+    {
+      "id": "s12-hello-charly",
+      "season": 12,
+      "name": "Hello Charly",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Fatma Chouaieb",
+          "linkedin": "https://fr.linkedin.com/in/fatmachouaieb"
+        },
+        {
+          "name": "Laurent Deambrogio"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Toujours en activité selon les fondateurs : Hello Charly (éditée par la société OVVY) exploite une application et un site actifs, revendique environ un million de jeunes accompagnés dans leur orientation scolaire et professionnelle, est labellisée « entreprise solidaire d'utilité sociale » (ESUS) depuis 2022 et a été la première ressource d'orientation certifiée GAR par l'Éducation nationale en 2021.",
+      "website": "https://www.hello-charly.com",
+      "sources": [
+        {
+          "url": "https://medium.com/@achaigneau/new-saison-12-numa-les-startups-recrutent-5ddd4af4f992",
+          "title": "(New) Saison 12 NUMA : les startups recrutent !",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.campusmatin.com/numerique/edtechs/ces-quatre-edtechs-veulent-depoussierer-l-orientation.html",
+          "title": "Orientation : que proposent les edtechs Hello Charly, Diplomeo, StudyMatch et Merci Bobby ?",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/hello-charly/",
+          "title": "HELLO CHARLY Paris : éditeur de logiciels",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.hello-charly.com",
+          "title": "Hello Charly",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://ent.hello-charly.com/assets/pdf/mentions-legales.pdf",
+          "title": "Mentions légales — Hello Charly",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "seenInPhoto": false,
+      "notes": "Startup remontée directement par ses fondateurs (Laurent Deambrogio et Fatma Chouaieb) lors du partage de cette liste. Saison 12 de NUMA (rentrée du 16 octobre 2017) : hors du périmètre initial \"promotions 1 à 9, 2011–2016\" établi à partir de la photo de promotion, ajoutée ici sur la base de ce signalement direct.",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 5,
+        "auditFile": "factcheck/deep/s12-hello-charly.json"
+      },
+      "activityDescription": "Hello Charly est une application qui s'appuie sur un chatbot pour accompagner les 14-24 ans dans leur orientation scolaire et professionnelle, via un parcours conversationnel qui explore leurs centres d'intérêt."
     }
   ]
 }

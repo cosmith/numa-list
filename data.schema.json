@@ -32,7 +32,7 @@
   "$defs": {
     "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
     "url": { "type": "string", "pattern": "^https?://" },
-    "startupId": { "type": "string", "pattern": "^s[1-9]-[a-z0-9-]+$" },
+    "startupId": { "type": "string", "pattern": "^s[1-9][0-9]?-[a-z0-9-]+$" },
     "source": {
       "type": "object",
       "required": ["url", "supports"],
@@ -71,7 +71,7 @@
       "additionalProperties": false,
       "properties": {
         "id": { "$ref": "#/$defs/startupId" },
-        "season": { "type": "integer", "minimum": 1, "maximum": 9 },
+        "season": { "type": "integer", "minimum": 1, "maximum": 99 },
         "name": { "type": "string", "minLength": 1 },
         "formerNamesOrPivots": { "type": "array", "items": { "type": "string", "minLength": 1 } },
         "founders": { "type": "array", "items": { "$ref": "#/$defs/founder" } },
