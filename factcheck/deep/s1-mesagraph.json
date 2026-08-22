@@ -1,0 +1,98 @@
+{
+ "id": "s1-mesagraph",
+ "name": "Mesagraph",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Sébastien Lefebvre" }
+   ],
+   "apres": [
+    { "name": "Sébastien Lefebvre", "linkedin": "https://www.linkedin.com/in/sebastienl" },
+    { "name": "Cédric Delfosse", "linkedin": "https://fr.linkedin.com/in/c%C3%A9dric-delfosse" },
+    { "name": "Guy Hugot-Derville", "linkedin": "https://fr.linkedin.com/in/guyhugotderville" }
+   ],
+   "preuves": [
+    "https://www.crunchbase.com/person/guy-hugot-derville",
+    "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+    "https://www.crunchbase.com/organization/mesagraph"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Sébastien Lefebvre", "linkedin": "https://www.linkedin.com/in/sebastienl" },
+  { "name": "Cédric Delfosse", "linkedin": "https://fr.linkedin.com/in/c%C3%A9dric-delfosse" },
+  { "name": "Guy Hugot-Derville", "linkedin": "https://fr.linkedin.com/in/guyhugotderville" }
+ ],
+ "status": "exit",
+ "statusDetails": "Acquisition par Twitter (aujourd'hui X) annoncée le 31 mars 2014 ; l'équipe de Mesagraph a rejoint les bureaux londoniens de Twitter pour développer l'activité Social TV en Europe (avec Canal+, France Télévisions, M6, TF1, Médiamétrie comme partenaires historiques). Le nom de domaine mesagraph.com ne résout plus aujourd'hui (site disparu), ce qui est cohérent avec une acquisition suivie d'une intégration complète au sein de l'acquéreur plutôt qu'un maintien du produit sous marque propre.",
+ "acquirer": "Twitter",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://techcrunch.com/2014/03/31/twitter-buys-frances-mesagraph-to-ramp-up-social-tv-work-in-euroupe/",
+   "titre": "Twitter Buys France's Mesagraph To Ramp Up Social TV Work In Europe",
+   "annee": "2014",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://venturebeat.com/2014/03/31/twitters-all-in-bet-on-tv-leads-to-an-acquisition-meet-mesagraph",
+   "titre": "Twitter's all-in bet on TV leads to an acquisition: Meet Mesagraph",
+   "annee": "2014",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/04/01/mesagraph-twitter/",
+   "titre": "[Rachat] Twitter met la main sur la startup française Mesagraph, spécialiste de la Social TV",
+   "annee": "2014",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/en/2014/04/twitter-acquires-lecamping-alumnus-mesagraph-bid-social-tv-europe/",
+   "titre": "Twitter acquires LeCamping alumnus Mesagraph in a bid for Social TV in Europe",
+   "annee": "2014",
+   "soutient": ["cohort", "status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+   "titre": "Le bilan de la première cuvée de startups du Camping",
+   "annee": "2011",
+   "soutient": ["cohort", "founders"]
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/mesagraph",
+   "titre": "Mesagraph - Crunchbase Company Profile & Funding",
+   "annee": "2026",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/guy-hugot-derville",
+   "titre": "Guy Hugot-Derville - Co-Founder & Chief Scientist @ Mesagraph",
+   "annee": "2026",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://grandestnumerique.org/conference-sebastien-lefebvre-fondateur-ex-ceo-de-mesagraph-le-0502-metz/",
+   "titre": "Conférence : Sébastien Lefebvre, fondateur et ex-CEO de Mesagraph",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "L'accès à web.archive.org était bloqué par le proxy réseau de cet environnement pendant cette vérification (connexion réinitialisée) ; impossible de consulter directement les snapshots historiques de mesagraph.com ou des pages de cohorte lecamping.org/numa.co pour la saison 1. La confirmation de la cohorte repose donc sur la presse contemporaine (RudeBaguette, FrenchWeb, JournalDuNet) plutôt que sur l'archive elle-même.",
+  "Le nom de domaine mesagraph.com ne répond plus (DNS ENOTFOUND) ; il n'a pas été possible de vérifier directement un ancien site web ou une page LinkedIn d'entreprise officielle pour Mesagraph — aucune page linkedin.com/company/mesagraph distincte n'a été trouvée dans les résultats de recherche.",
+  "Le profil LinkedIn de Cédric Delfosse a été identifié par recoupement de son parcours (Mesagraph → Twitter → Deezer → Qbeast, cohérent avec les sources Crunchbase/RocketReach/GitHub) plutôt que par une citation directe du nom Mesagraph dans le extrait de recherche ; profil correct avec un niveau de confiance élevé mais non lu intégralement (LinkedIn bloque le fetch direct)."
+ ],
+ "summary": "Le nom, la saison (1, promotion de janvier 2011 du Camping), le statut « exit » et les détails de l'acquisition par Twitter en mars 2014 sont confirmés par de nombreuses sources de presse concordantes (TechCrunch, VentureBeat, Maddyness, RudeBaguette, Forbes). En revanche, la liste des fondateurs était incomplète : Mesagraph a été cofondée par Sébastien Lefebvre (CEO), Cédric Delfosse (CTO) et Guy Hugot-Derville (Chief Scientist), et non par Sébastien Lefebvre seul. Les trois profils LinkedIn ont été retrouvés. Le site mesagraph.com n'existe plus (DNS mort), cohérent avec l'intégration de l'équipe chez Twitter à Londres. L'accès à web.archive.org était indisponible dans cet environnement, ce qui limite la vérification directe par capture d'écran d'époque."
+}

@@ -1,0 +1,101 @@
+{
+ "id": "s1-beansight",
+ "name": "Beansight",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Guillaume Wolf" },
+    { "name": "Steren Giannini", "linkedin": "https://www.linkedin.com/in/steren" },
+    { "name": "Cyril Dorsaz" },
+    { "name": "Jean-Baptiste Claramonte" }
+   ],
+   "apres": [
+    { "name": "Guillaume Wolf", "linkedin": "https://www.linkedin.com/in/guillaumewolf/" },
+    { "name": "Steren Giannini", "linkedin": "https://www.linkedin.com/in/steren/" },
+    { "name": "Cyril Dorsaz", "linkedin": "https://www.linkedin.com/in/cyrildorsaz/" },
+    { "name": "Jean-Baptiste Claramonte", "linkedin": "https://fr.linkedin.com/in/jclaramonte/" }
+   ],
+   "preuves": [
+    "https://www.maddyness.com/2011/12/09/beansight/",
+    "https://www.presse-citron.net/beansight-reseau-social-de-predictions/",
+    "https://labs.steren.fr/2014/05/14/beansight-is-now-open-source/",
+    "https://www.linkedin.com/in/guillaumewolf/",
+    "https://infonet.fr/dirigeants/66aa9c9a5da7ac2c4b2aec15/",
+    "https://www.linkedin.com/in/cyrildorsaz/",
+    "https://fr.linkedin.com/in/jclaramonte/fr"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Projet devenu open source en 2014; service historique aujourd’hui hors ligne.",
+   "apres": "Service de prédictions arrêté; le code a été publié en open source (licence Apache) en mai 2014 après quatre ans d'exploitation. Le domaine beansight.com reste accessible en 2026 mais n'affiche plus qu'une page statique auto-hébergée (« static web snapshot ») renvoyant vers le blog, les réseaux sociaux et le code source — il ne s'agit plus du service en ligne d'origine.",
+   "preuves": [
+    "https://labs.steren.fr/2014/05/14/beansight-is-now-open-source/",
+    "https://www.beansight.com/",
+    "https://github.com/beansight/beansight-website"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "https://www.beansight.com/",
+   "preuves": [
+    "https://www.beansight.com/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Guillaume Wolf", "linkedin": "https://www.linkedin.com/in/guillaumewolf/" },
+  { "name": "Steren Giannini", "linkedin": "https://www.linkedin.com/in/steren/" },
+  { "name": "Cyril Dorsaz", "linkedin": "https://www.linkedin.com/in/cyrildorsaz/" },
+  { "name": "Jean-Baptiste Claramonte", "linkedin": "https://fr.linkedin.com/in/jclaramonte/" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Beansight est un réseau social de prédictions où les utilisateurs publient des pronostics sur des événements futurs, votent sur les prédictions des autres et gagnent en crédibilité et en classement selon la justesse de leurs anticipations.",
+ "statusDetails": "Service de prédictions arrêté; le code a été publié en open source (licence Apache) en mai 2014 après quatre ans d'exploitation. Le domaine beansight.com reste accessible en 2026 mais n'affiche plus qu'une page statique auto-hébergée (« static web snapshot ») renvoyant vers le blog, les réseaux sociaux et le code source — il ne s'agit plus du service en ligne d'origine.",
+ "website": "https://www.beansight.com/",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2011/12/09/beansight/",
+   "titre": "Donner votre vision du futur avec Beansight",
+   "annee": "2011",
+   "soutient": ["cohort", "identity", "founders"]
+  },
+  {
+   "url": "https://www.presse-citron.net/beansight-reseau-social-de-predictions/",
+   "titre": "Beansight, le réseau social de prédictions",
+   "annee": "2011",
+   "soutient": ["cohort", "identity", "founders"]
+  },
+  {
+   "url": "https://labs.steren.fr/2014/05/14/beansight-is-now-open-source/",
+   "titre": "Beansight is now open source",
+   "annee": "2014",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.businessinsider.com/le-camping-2011-4",
+   "titre": "Le Camping (Business Insider)",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Accès direct à web.archive.org bloqué par le proxy de l'environnement pendant cette vérification (échec systématique des requêtes vers web.archive.org) — l'identité, le produit et la période d'activité ont donc été confirmés via la presse contemporaine (Maddyness, Presse-Citron, décembre/septembre 2011) et le billet de Steren Giannini (2014) plutôt que via des captures Wayback Machine directes.",
+  "Aucune page LinkedIn d'entreprise 'Beansight' retrouvée — seuls des profils personnels de fondateurs mentionnant Beansight ont été identifiés.",
+  "Aucune trace de radiation/liquidation officielle trouvée dans les registres publics via recherche web (societe.com/pappers non consultés directement, seulement via recherche) ; le statut 'stopped' repose sur l'arrêt confirmé du service (open-sourcing en 2014, absence totale d'activité ou de presse après 2014) plutôt que sur un acte de dissolution formel."
+ ],
+ "summary": "Beansight (saison 1, 2011) était un réseau social de prédictions fondé par Guillaume Wolf, Steren Giannini, Cyril Dorsaz et Jean-Baptiste Claramonte, rencontrés au Startup Weekend HEC Paris en mai 2010. Sélectionné par Le Camping en 2011, le service a fonctionné jusqu'à son passage en open source (licence Apache) en mai 2014, confirmant l'arrêt de l'exploitation commerciale. Aucune acquisition n'a été trouvée. Les quatre fondateurs ont été identifiés avec leurs profils LinkedIn actuels (carrières chez Simbios, Google, Rivian, Publicis Sapient). Le domaine beansight.com reste en ligne en 2026 mais seulement comme page statique d'archive, ce qui a permis de préciser le champ statusDetails et d'ajouter un champ website corrigé."
+}

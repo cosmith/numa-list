@@ -1,0 +1,134 @@
+{
+ "id": "s1-bankin",
+ "name": "Bankin'",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Joan Burkovic" },
+    { "name": "Robin Dauzon" }
+   ],
+   "apres": [
+    { "name": "Joan Burkovic", "linkedin": "https://www.linkedin.com/in/joanburkovic/" },
+    { "name": "Robin Dauzon" },
+    { "name": "David Sabbatini", "linkedin": "https://www.linkedin.com/in/davidsabbatini/" },
+    { "name": "Emmanuel Costa", "linkedin": "https://fr.linkedin.com/in/emmanuelcosta/" }
+   ],
+   "preuves": [
+    "https://www.crunchbase.com/person/david-sabbatini",
+    "https://www.crunchbase.com/person/emmanuel-costa",
+    "https://www.cfnews.net/Referentiel/Societes/BANKIN-PERSPECTEEV",
+    "https://viadeo.journaldunet.com/p/david-sabbatini-1799803"
+   ]
+  },
+  "status": {
+   "avant": "active",
+   "apres": "exit",
+   "preuves": [
+    "https://www.mind.eu.com/fintech/article/casino-entre-au-capital-du-pfm-bankin/",
+    "https://www.mind.eu.com/fintech/services-bancaires/info-mind-fintech-bpce-et-truffle-investissent-dans-bridge-lactivite-btob-de-bankin/",
+    "https://www.journaldunet.com/fintech/1422218-bankin-leve-20-millions-d-euros-aupres-du-groupe-casino/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service actif sous la marque Bankin'.",
+   "apres": "En 2022, l'activité grand public Bankin' a été rachetée à 100 % par le groupe Casino (l'activité BtoB, devenue Bridge, a été cédée séparément avec BPCE et Truffle Capital au capital). L'application Bankin' reste opérationnelle et active sous sa marque d'origine en tant que filiale du groupe Casino, avec environ 500 000 utilisateurs actifs et 6,7 M€ de chiffre d'affaires en 2024.",
+   "preuves": [
+    "https://www.mind.eu.com/fintech/article/casino-entre-au-capital-du-pfm-bankin/",
+    "https://www.mind.eu.com/fintech/services-bancaires/bankin-reduit-ses-pertes-en-2024/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Joan Burkovic", "linkedin": "https://www.linkedin.com/in/joanburkovic/" },
+  { "name": "Robin Dauzon" },
+  { "name": "David Sabbatini", "linkedin": "https://www.linkedin.com/in/davidsabbatini/" },
+  { "name": "Emmanuel Costa", "linkedin": "https://fr.linkedin.com/in/emmanuelcosta/" }
+ ],
+ "status": "exit",
+ "activityDescription": "Bankin' est une application mobile et web qui centralise tous les comptes bancaires de l'utilisateur en un seul endroit pour suivre ses dépenses, catégoriser ses transactions et gérer son budget au quotidien.",
+ "statusDetails": "En 2022, l'activité grand public Bankin' a été rachetée à 100 % par le groupe Casino (l'activité BtoB open banking, devenue Bridge, a été cédée séparément avec BPCE/Truffle Capital au capital). L'application Bankin' reste opérationnelle et active sous sa marque d'origine, filiale à 100 % du groupe Casino, avec environ 500 000 utilisateurs actifs et 6,7 M€ de chiffre d'affaires en 2024.",
+ "acquirer": "Groupe Casino",
+ "website": "https://bankin.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+   "titre": "Le bilan de la première cuvée de startups du Camping",
+   "annee": "2012",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.epita.fr/2011/03/03/robin-dauzon-epita-09-cofondat/",
+   "titre": "Robin Dauzon (EPITA 09) cofondateur et CEO de Perspecteev",
+   "annee": "2011",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/bon-app-bankin-tous-les-comptes-bancaires-dans-une-seule-app/180514",
+   "titre": "[Bon App] Bankin', tous les comptes bancaires dans une seule app",
+   "annee": "2015",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.cfnews.net/Referentiel/Societes/BANKIN-PERSPECTEEV",
+   "titre": "BANKIN' (PERSPECTEEV) - fiche société",
+   "annee": "2026",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/david-sabbatini",
+   "titre": "David Sabbatini - Partner & Product Guy @ Bankin'",
+   "annee": "2026",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/emmanuel-costa",
+   "titre": "Emmanuel Costa - VP Engineering - Co-founder @ Bankin'",
+   "annee": "2026",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.mind.eu.com/fintech/article/casino-entre-au-capital-du-pfm-bankin/",
+   "titre": "Casino entre au capital du PFM Bankin'",
+   "annee": "2022",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.mind.eu.com/fintech/services-bancaires/info-mind-fintech-bpce-et-truffle-investissent-dans-bridge-lactivite-btob-de-bankin/",
+   "titre": "BPCE et Truffle Capital investissent dans Bridge, l'activité BtoB de Bankin'",
+   "annee": "2022",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.journaldunet.com/fintech/1422218-bankin-leve-20-millions-d-euros-aupres-du-groupe-casino/",
+   "titre": "Bankin' lève 20 millions d'euros auprès du groupe Casino",
+   "annee": "2022",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.mind.eu.com/fintech/services-bancaires/bankin-reduit-ses-pertes-en-2024/",
+   "titre": "Bankin' réduit ses pertes en 2024",
+   "annee": "2025",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://fr.linkedin.com/company/bankin",
+ "openQuestions": [
+  "Impossible de confirmer une URL LinkedIn personnelle certaine pour Robin Dauzon (nombreux résultats indirects mais pas d'URL linkedin.com/in/ vérifiée dans les extraits de recherche) ; il est aujourd'hui fondateur de HackerDNA selon Crunchbase.",
+  "Le site officiel bankin.com n'a pas pu être vérifié via l'Internet Archive dans cette session (web.archive.org non joignable depuis cet environnement) ; la vérification de l'historique du domaine (capture 2011-2012 sous le nom Perspecteev/Bankin') reste à faire.",
+  "Le statut exact de David Sabbatini et Emmanuel Costa au sein de Bankin' aujourd'hui (toujours actifs dans l'entreprise ou partis) n'est pas confirmé ; Emmanuel Costa a fondé GetMint depuis (page LinkedIn le présente comme 'ex-Bankin'')."
+ ],
+ "summary": "Bankin' (ex-Perspecteev) fait bien partie de la saison 1 du Camping en 2011, fondée par Joan Burkovic et Robin Dauzon, confirmé par plusieurs sources contemporaines et rétrospectives. Deux corrections importantes : (1) la liste des fondateurs était incomplète, deux autres co-fondateurs sont documentés par des sources indépendantes (Crunchbase, fiche CFNEWS) : David Sabbatini et Emmanuel Costa ; (2) le statut 'active' est trompeur : en 2022 l'activité grand public Bankin' a été rachetée à 100 % par le groupe Casino (l'activité BtoB devenue Bridge a pris un chemin séparé), ce qui correspond à un statut 'exit' selon la méthodologie du projet, même si le produit Bankin' continue de fonctionner sous sa marque d'origine et reste financièrement actif en 2024-2025."
+}

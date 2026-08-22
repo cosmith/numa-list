@@ -1,0 +1,96 @@
+{
+ "id": "s1-doctrackr",
+ "name": "docTrackr",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Clément Cazalot",
+   "linkedin": "https://www.linkedin.com/in/cazalot/"
+  },
+  {
+   "name": "Alex Negrea",
+   "linkedin": "https://www.linkedin.com/in/alexnegrea"
+  },
+  {
+   "name": "Uli Mittermaier",
+   "linkedin": "https://www.linkedin.com/in/umittermaier/"
+  },
+  {
+   "name": "Alexander Gentea",
+   "linkedin": "https://www.linkedin.com/in/alexgentea/"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "docTrackr est un service qui permet de sécuriser, suivre et gérer à distance l'accès aux documents partagés en ligne (PDF, Word, Excel, PowerPoint), avec la possibilité de révoquer l'accès ou de détruire un document à distance, où qu'il se trouve.",
+ "statusDetails": "Acquisition par Intralinks (annoncée le 23 avril 2014, pour environ 10 millions de dollars en numéraire) après un passage par Techstars Boston ; la technologie de gestion des droits numériques (DRM) de docTrackr a ensuite été intégrée à la plateforme Intralinks VIA.",
+ "acquirer": "Intralinks",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.rudebaguette.com/en/2014/04/lecamping-techstars-alumni-doctrackr-acquired-intralinks-10m/",
+   "titre": "LeCamping & Techstars Alumni DocTrackr acquired by IntraLinks for $10M",
+   "annee": "2014",
+   "soutient": ["cohort", "status", "founders", "identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2012/10/02/doctrackr-secures-2m-from-atlas-polaris-to-help-secure-your-documents-via-the-cloud/",
+   "titre": "DocTrackr Secures $2M From Atlas, Polaris, To Help Secure Your Documents Via The Cloud",
+   "annee": "2012",
+   "soutient": ["founders", "identity", "cohort"]
+  },
+  {
+   "url": "https://techcrunch.com/2014/04/24/intralinks-acquires-document-security-service-doctrackr/",
+   "titre": "Intralinks Acquires Document Security Service docTrackr",
+   "annee": "2014",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/intralinks-acquires-document-security-leader-doctrackr-256428011.html",
+   "titre": "Intralinks Acquires Document Security Leader docTrackr",
+   "annee": "2014",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.sec.gov/Archives/edgar/data/1488075/000148807514000014/form8-kdoctrackracquisition.htm",
+   "titre": "Intralinks Holdings, Inc. — Form 8-K (docTrackr Acquisition)",
+   "annee": "2014",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-doctrackr/",
+   "titre": "[La Start-Up française de la Semaine] : docTrackr",
+   "annee": "2011",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+   "titre": "Le bilan de la première cuvée de startups du Camping",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.businessinsider.com/le-camping-2011-4",
+   "titre": "Le Camping Season 1 (2011) cohort listing",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Impossible d'accéder à web.archive.org depuis cet environnement (échec DNS/outil bloqué) ; les captures d'archive de doctrackr.com et des pages de cohorte lecamping.org/numa.co n'ont donc pas pu être consultées directement — la vérification s'appuie sur la presse contemporaine (2011-2014) et sur des sources officielles (communiqué Intralinks, formulaire SEC 8-K).",
+  "Le domaine doctrackr.com ne résout plus (échec DNS), cohérent avec une intégration du produit dans Intralinks VIA après le rachat de 2014 ; aucune page LinkedIn d'entreprise dédiée à docTrackr n'a pu être confirmée avec certitude (le nom 'DocTrackr' sur LinkedIn correspond à une autre société sans rapport)."
+ ],
+ "summary": "Toutes les données de la fiche docTrackr (saison 1 du Camping en 2011, quatre fondateurs Clément Cazalot / Alex Negrea / Uli Mittermaier / Alexander Gentea, sortie par acquisition par Intralinks en avril 2014 pour environ 10 M$) sont confirmées par des sources concordantes : presse contemporaine (Presse-citron 2011, TechCrunch 2012 et 2014, Rude Baguette 2014, FrenchWeb), communiqué officiel d'Intralinks et formulaire SEC 8-K. Les quatre fondateurs ont chacun un profil LinkedIn identifié et cohérent avec leur rôle chez docTrackr. Aucune correction nécessaire par rapport à data.json ; seule limite : les captures Internet Archive n'ont pas pu être consultées (outil bloqué dans cet environnement), remplacées par des sources de presse et officielles solides."
+}

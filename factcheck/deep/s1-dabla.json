@@ -1,0 +1,92 @@
+{
+  "id": "s1-dabla",
+  "name": "Dabla",
+  "season": 1,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "corrected"
+  },
+  "corrections": {
+    "website": {
+      "avant": "unverifiable (aucun domaine identifié)",
+      "apres": "domaine historique identifié : dabla.com (cité par la fiche registre societe.com/annuaire), mais le domaine ne résout plus aujourd'hui (22/08/2026) — aucune valeur \"website\" à ajouter au schéma puisqu'il n'y a pas de site actif",
+      "preuves": [
+        "https://www.societe.com/societe/dabla-533761961.html",
+        "https://www.cbinsights.com/company/dabla"
+      ]
+    }
+  },
+  "founders": [
+    {
+      "name": "Pierre-Antoine Duchateau",
+      "linkedin": "https://www.linkedin.com/in/paduc/"
+    }
+  ],
+  "status": "active",
+  "statusDetails": "La société DABLA (SIREN 533 761 961, SASU à associé unique), créée le 25 juillet 2011 à Paris (5 rue des Suisses, 75014) et dirigée depuis sa création par son unique fondateur/président Pierre-Antoine Duchateau, est toujours active en 2026 : chiffre d'affaires déclaré en 2022, siège transféré le 1er janvier 2025 à Montanay (région lyonnaise), cohérent avec la localisation actuelle (Lyon) de P.-A. Duchateau. Le service grand public d'origine (application de messagerie/conversations de groupe, hébergée sur dabla.com) n'a pas survécu : le domaine ne résout plus.",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+      "titre": "Le bilan de la première cuvée de startups du Camping",
+      "annee": "2011/2012",
+      "soutient": ["cohort"]
+    },
+    {
+      "url": "https://www.clubic.com/pro/actualite-e-business/investissement/actualite-432226-camping-accelerateur-startups-francaise.html",
+      "titre": "Le Camping, accélérateur de startups à la française",
+      "annee": "2011",
+      "soutient": ["cohort"]
+    },
+    {
+      "url": "https://www.lemagit.fr/actualites/2240196725/Le-Camping-un-accelerateur-de-start-up-pour-alimenter-linnovation-a-la-francaise",
+      "titre": "Le Camping : un accélérateur de start-up pour alimenter l'innovation à la française",
+      "annee": "2011",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.cbinsights.com/company/dabla",
+      "titre": "Dabla company profile (CB Insights)",
+      "annee": "n/a",
+      "soutient": ["identity", "status"]
+    },
+    {
+      "url": "https://www.societe.com/societe/dabla-533761961.html",
+      "titre": "DABLA (533761961) - societe.com",
+      "annee": "2026",
+      "soutient": ["status", "founders"]
+    },
+    {
+      "url": "https://www.societe.com/manager/Pierre-Antoine.DUCHATEAU.uxUrF6U7S9Q.html",
+      "titre": "Pierre-Antoine Duchateau, dirigeant - societe.com",
+      "annee": "2026",
+      "soutient": ["founders", "status"]
+    },
+    {
+      "url": "https://rocketreach.co/pierre-antoine-duchateau-email_15152404",
+      "titre": "Pierre-Antoine Duchâteau profile (RocketReach, reprenant le parcours LinkedIn)",
+      "annee": "n/a",
+      "soutient": ["founders"]
+    },
+    {
+      "url": "https://github.com/paduc",
+      "titre": "paduc (Pierre A. Duchateau) - GitHub",
+      "annee": "n/a",
+      "soutient": ["founders", "identity"]
+    }
+  ],
+  "openQuestions": [
+    "Internet Archive (web.archive.org) totalement inaccessible depuis cet environnement (WebFetch et curl bloqués/reset par le proxy sortant) : impossible de consulter le CDX de dabla.com ni les snapshots historiques du site ou des pages de cohorte lecamping.org/numa.co pour la saison 1, malgré la consigne. À refaire depuis un environnement avec accès à web.archive.org.",
+      "Aucun article de presse contemporain (2011) dédié à Dabla n'a été retrouvé au-delà des listes de cohorte ; seule la catégorisation sectorielle \"gestion de la connaissance\" (LeMagIT) et \"group conversations application\" (CB Insights, période plus tardive) documentent le produit — aucune description produit détaillée ni capture d'écran du service.",
+    "Aucune page LinkedIn d'entreprise (linkedin.com/company/dabla) retrouvée ; seul le profil personnel du fondateur (linkedin.com/in/paduc) relie la personne à Dabla, via un profil agrégateur (RocketReach) plutôt qu'un accès direct à LinkedIn.",
+    "Impossible de confirmer si un second cofondateur a existé en 2010-2011 : RocketReach mentionne \"Co-Founder and CEO of Dabla\" (suggérant une équipe), mais le registre RCS ne liste que Pierre-Antoine Duchateau, et DABLA est constituée en SASU à associé unique dès l'origine, ce qui corrobore un fondateur unique au niveau capitalistique."
+  ],
+  "summary": "Dabla (saison 1, 2011, Le Camping) est confirmée dans la cohorte des 12 startups de la première promotion (frenchweb, clubic, lemagit), positionnée en \"gestion de la connaissance\"/application de conversations de groupe (dabla.com, aujourd'hui hors ligne). La société DABLA (SIREN 533761961, SASU à associé unique créée le 25/07/2011) reste active en 2026, dirigée depuis l'origine par son unique fondateur Pierre-Antoine Duchateau (aujourd'hui basé à Lyon ; siège social transféré à Montanay en 2025), dont le profil LinkedIn (linkedin.com/in/paduc) a été identifié. Tous les champs de la fiche actuelle (saison, nom, fondateurs, statut, détail du statut) sont confirmés par recoupement de sources (presse de l'époque, CB Insights, societe.com/RCS) ; aucune correction n'est nécessaire. Limite majeure : Internet Archive était totalement inaccessible depuis cet environnement, empêchant la vérification demandée via web.archive.org."
+}

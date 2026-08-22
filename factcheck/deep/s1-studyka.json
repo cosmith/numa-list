@@ -1,0 +1,132 @@
+{
+  "id": "s1-studyka",
+  "name": "Studyka",
+  "season": 1,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "corrected",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {
+    "founders": {
+      "avant": [
+        { "name": "Charles Thou" },
+        { "name": "Yohann Melamed" },
+        { "name": "Yohan Attal" }
+      ],
+      "apres": [
+        { "name": "Charles Thou", "linkedin": "https://fr.linkedin.com/in/charles-thou" },
+        { "name": "Yohann Melamed", "linkedin": "https://fr.linkedin.com/in/yohannmelamed" },
+        { "name": "Yohan Attal", "linkedin": "https://fr.linkedin.com/in/yohan-attal-44a28818" }
+      ],
+      "preuves": [
+        "https://fr.linkedin.com/in/charles-thou",
+        "https://fr.linkedin.com/in/yohannmelamed",
+        "https://fr.linkedin.com/in/yohan-attal-44a28818",
+        "https://www.crunchbase.com/person/charles-thou",
+        "https://www.crunchbase.com/person/yohann-melamed",
+        "https://www.crunchbase.com/person/yohan-attal-297a"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Charles Thou", "linkedin": "https://fr.linkedin.com/in/charles-thou" },
+    { "name": "Yohann Melamed", "linkedin": "https://fr.linkedin.com/in/yohannmelamed" },
+    { "name": "Yohan Attal", "linkedin": "https://fr.linkedin.com/in/yohan-attal-44a28818" }
+  ],
+  "status": "exit",
+  "statusDetails": "Studyka (lancée en mars 2011 par trois diplômés d'un double-cursus HEC/Télécom ParisTech) a été rebaptisée Agorize en 2012, en élargissant son offre de crowdsourcing étudiant à l'open innovation pour entreprises et startups. Bouygues Telecom Initiatives est entré au capital (participation de 15 %) en 2013. Agorize a ensuite levé 13 M€ (2019) et a été acquise par Bloomflow (plateforme de gestion de l'innovation) fin novembre 2024 ; le fonds IRIS Capital a annoncé sa sortie du capital à cette occasion, ce qui confirme une opération de rachat majoritaire plutôt qu'une simple fusion à parts égales, même si le pourcentage exact de la participation n'est publié dans aucune des sources consultées. Le site agorize.com reste actif en 2026 et Yohann Melamed (cofondateur) y est toujours cité comme CEO ; Charles Thou est décrit comme « ex-Founder & CEO at Agorize (exited) » sur LinkedIn.",
+  "acquirer": "Bloomflow",
+  "website": "https://www.agorize.com",
+  "archiveEvidence": [
+    {
+      "url": "https://archive.org/wayback/available?url=agorize.com&timestamp=2013",
+      "montre": "Confirme une capture Wayback de agorize.com dès le 28 octobre 2013 (HTTP 200), cohérent avec le pivot Studyka -> Agorize en 2012."
+    },
+    {
+      "url": "https://archive.org/wayback/available?url=studyka.com",
+      "montre": "L'API 'wayback/available' ne renvoie aucune capture indexée pour studyka.com ni www.studyka.com dans cet environnement ; le domaine studyka.com ne résout plus (DNS NXDOMAIN au moment du contrôle), cohérent avec l'abandon du nom au profit d'Agorize."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+      "titre": "Le bilan de la première cuvée de startups du Camping",
+      "annee": "2011",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.businessinsider.com/le-camping-2011-4",
+      "titre": "Le Camping 2011 cohort",
+      "annee": "2011",
+      "soutient": ["cohort"]
+    },
+    {
+      "url": "http://economiemagazine.fr/entreprises/crowdsourcing-etudiant-challenges-entreprises-studyka",
+      "titre": "La startup Studyka propose du crowdsourcing étudiant pour les entreprises",
+      "annee": "2011",
+      "soutient": ["identity"]
+    },
+    {
+      "url": "https://www.maddyness.com/2012/01/06/studyka/",
+      "titre": "Rencontrez vos futurs employeurs avec Studyka",
+      "annee": "2012",
+      "soutient": ["identity"]
+    },
+    {
+      "url": "https://www.frenchweb.fr/bouygues-telecom-initiatives-investit-studyka/101974",
+      "titre": "Bouygues Telecom Initiatives investit dans la startup Studyka",
+      "annee": "2013",
+      "soutient": ["identity", "status"]
+    },
+    {
+      "url": "https://visionarymarketing.com/blog/2013/05/studyka-une-startup-amene-linnovation-en-crowdsourcing-dans-lentreprise",
+      "titre": "Innovation : le crowdsourcing entre dans l'entreprise avec Agorize",
+      "annee": "2013",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.journaldunet.com/management/direction-generale/1422877-agorize-leve-13-millions-d-euros-pour-se-developper-a-l-international/",
+      "titre": "Agorize lève 13 millions d'euros pour se développer à l'international",
+      "annee": "2019",
+      "soutient": ["identity", "status"]
+    },
+    {
+      "url": "https://get.agorize.com/en/resources/innovationtech-bloomflow-agorize/",
+      "titre": "Bloomflow acquires Agorize",
+      "annee": "2024",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.clipperton.com/transactions/agorize-a-leader-in-innovation-management-is-acquired-by-bloomflow",
+      "titre": "Agorize, a leader in innovation management, is acquired by Bloomflow",
+      "annee": "2024",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.iris.vc/articles/iris-exits-agorize-through-strategic-m-a-deal-with-bloomflow",
+      "titre": "IRIS announces exits from Agorize through strategic M&A deal with Bloomflow",
+      "annee": "2024",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.crunchbase.com/organization/agorize",
+      "titre": "Agorize - Crunchbase Company Profile & Funding",
+      "annee": "2026",
+      "soutient": ["founders", "identity"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/agorize",
+  "openQuestions": [
+    "L'outil WebFetch échoue systématiquement sur toutes les requêtes directes vers web.archive.org dans cet environnement (getaddrinfo ENOTFOUND / erreur d'accès) ; seule l'API JSON archive.org/wayback/available a pu être utilisée en substitution, ce qui limite la vérification de captures détaillées (page d'équipe, page d'accueil complète) aux métadonnées de disponibilité plutôt qu'au contenu réel des snapshots.",
+    "Aucune source consultée ne publie le pourcentage exact de la participation acquise par Bloomflow dans Agorize (le communiqué original cité dans data.json, à l'URL bloomflow.com/news/bloomflow-acquires-majority-stake-in-agorize, renvoie désormais une erreur 404) ; la qualification « participation majoritaire » repose sur la cohérence entre le titre de cette URL historique et l'annonce de sortie de capital d'IRIS, mais n'a pas pu être recorroborée mot pour mot sur une page vivante.",
+    "Impossible de confirmer si Charles Thou (dont le profil LinkedIn indique désormais « ex-Founder & CEO at Agorize (exited) ») a quitté l'entreprise avant ou après l'acquisition Bloomflow, ni la date exacte de son départ opérationnel."
+  ],
+  "summary": "Fiche s1-studyka globalement fiable : la cohorte (saison 1, Le Camping 2011), le nom d'origine « Studyka », le pivot vers « Agorize » (2012), les trois fondateurs (Charles Thou, Yohann Melamed, Yohan Attal, tous confirmés par la presse contemporaine et Crunchbase) et le statut « exit » via l'acquisition par Bloomflow (annoncée le 19-20 novembre 2024, avec sortie du fonds IRIS) sont tous vérifiés par des sources concordantes. Le site agorize.com est toujours actif en 2026. La seule correction apportée est l'ajout des liens LinkedIn personnels des trois fondateurs, absents de la fiche initiale, ainsi que la page LinkedIn de l'entreprise Agorize."
+}

@@ -1,0 +1,114 @@
+{
+ "id": "s1-prepmyfuture",
+ "name": "PrepMyFuture",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": ["Everlearn"],
+   "apres": [],
+   "preuves": [
+    "https://www.northdata.com/Everlearn-Prepmyfuture%20SAS,%20Paris/Siren%20532611381",
+    "https://www.societe.com/societe/everlearn-prepmyfuture-532611381.html",
+    "https://www.prepmyfuture.com"
+   ]
+  },
+  "status": {
+   "avant": "exit",
+   "apres": "exit",
+   "preuves": [
+    "https://www.linkedin.com/in/achillepinson/",
+    "https://edtechactu.com/digital-learning/learnation-group-structure-la-formation-linguistique/",
+    "https://en.learnation.group/nos-societes",
+    "https://www.northdata.com/Everlearn-Prepmyfuture%20SAS,%20Paris/Siren%20532611381"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Activité toujours en ligne; le fondateur indique avoir vendu la société.",
+   "apres": "Rachetée en septembre 2022 par Learnation Group (holding qui réunit aussi Educastream, 1to1PROGRESS et 7Speaking) ; la société EVERLEARN-PREPMYFUTURE (SIREN 532611381) est présidée par LEARNATION GROUP depuis juillet 2023. Le fondateur Achille Pinson confirme sur son profil LinkedIn avoir vendu PrepMyFuture. Le site et la marque PrepMyFuture restent actifs aujourd'hui comme marque du groupe.",
+   "preuves": [
+    "https://www.linkedin.com/in/achillepinson/",
+    "https://edtechactu.com/digital-learning/learnation-group-structure-la-formation-linguistique/",
+    "https://en.learnation.group/nos-societes",
+    "https://www.prepmyfuture.com/en/pages/qui-sommes-nous",
+    "https://www.northdata.com/Everlearn-Prepmyfuture%20SAS,%20Paris/Siren%20532611381"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Hadrien-Achille Pinson",
+   "linkedin": "https://www.linkedin.com/in/achillepinson/"
+  },
+  {
+   "name": "Richard Fielding"
+  }
+ ],
+ "status": "exit",
+ "statusDetails": "Rachetée en septembre 2022 par Learnation Group (holding qui réunit aussi Educastream, 1to1PROGRESS et 7Speaking) ; la société EVERLEARN-PREPMYFUTURE (SIREN 532611381) est présidée par LEARNATION GROUP depuis juillet 2023. Le fondateur Achille Pinson confirme sur son profil LinkedIn avoir vendu PrepMyFuture. Le site et la marque PrepMyFuture restent actifs aujourd'hui comme marque du groupe.",
+ "acquirer": "Learnation Group",
+ "website": "https://www.prepmyfuture.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+   "titre": "Le bilan de la première cuvée de startups du Camping",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2014/06/12/le-camping-now-takes-3-equity-as-accelerator-competition-heats-up-in-france",
+   "titre": "Le Camping Now Takes 3% Equity As Accelerator Competition Heats Up In France (mentionne PrepMyFuture parmi les anciennes équipes des saisons 1 et 2 présentes au lancement de la saison 3)",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://edtechactu.com/digital-learning/learnation-group-structure-la-formation-linguistique/",
+   "titre": "Learnation Group structure la formation linguistique",
+   "annee": "2024",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://en.learnation.group/nos-societes",
+   "titre": "Learnation | Our Companies (PrepMyFuture listée comme marque du groupe)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.northdata.com/Everlearn-Prepmyfuture%20SAS,%20Paris/Siren%20532611381",
+   "titre": "Everlearn-Prepmyfuture SAS - fiche registre (SIREN 532611381)",
+   "annee": "2026",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/everlearn-prepmyfuture-532611381.html",
+   "titre": "EVERLEARN-PREPMYFUTURE - Société.com",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.linkedin.com/in/achillepinson/",
+   "titre": "Profil LinkedIn d'Achille (Hadrien-Achille) Pinson - mentionne la vente de PrepMyFuture",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/prepmyfuture",
+ "openQuestions": [
+  "Le Wayback Machine (web.archive.org) était inaccessible depuis cet environnement (blocage réseau/proxy) - les captures d'archive n'ont pas pu être consultées directement ; la vérification s'est appuyée sur le registre du commerce (SIREN 532611381), le site actuel de PrepMyFuture/Learnation Group et la presse EdTech.",
+  "Aucun profil LinkedIn personnel n'a pu être identifié avec certitude pour Richard Fielding parmi les nombreux homonymes ; son rôle de directeur général fondateur est corroboré par le registre (SIREN 532611381) et par Crunchbase, mais pas par un LinkedIn nominatif confirmé.",
+  "Les dates de création diffèrent légèrement selon les sources : immatriculation officielle le 26 mai 2011 (registre), tandis que certains agrégateurs (ex. recherche web) évoquent une fondation en 2010 ; l'appartenance à la Saison 1 du Camping (Janvier-Juin 2011) reste cohérente avec la date d'immatriculation.",
+  "Le montant et les conditions précises du rachat par Learnation Group (2022) ne sont pas publics."
+ ],
+ "summary": "PrepMyFuture (SIREN 532611381) fait bien partie des 12 startups de la Saison 1 du Camping (2011), confirmé par plusieurs sources de presse (FrenchWeb, TechCrunch). Les fondateurs Hadrien-Achille Pinson (président) et Richard Fielding (directeur général) sont confirmés par le registre du commerce et Crunchbase ; le profil LinkedIn d'Achille Pinson confirme lui-même avoir vendu la société. Correction majeure : PrepMyFuture a été rachetée en septembre 2022 par Learnation Group (qui regroupe aussi Educastream, 1to1PROGRESS et 7Speaking), la société étant présidée par LEARNATION GROUP depuis juillet 2023 - le statut 'exit' est donc désormais confirmé avec un acquéreur identifié, alors qu'il était jugé 'unverifiable' précédemment. Le champ formerNamesOrPivots ('Everlearn') est trompeur : il ne s'agit pas d'un ancien nom précédant PrepMyFuture, mais d'un préfixe ajouté à la raison sociale en 2014 ('Everlearn-PrepMyFuture') alors que la marque commerciale est restée PrepMyFuture sans interruption ; ce champ doit être vidé. Le site web (https://www.prepmyfuture.com) est toujours en ligne et actif en tant que marque du groupe Learnation."
+}

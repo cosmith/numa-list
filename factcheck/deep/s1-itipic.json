@@ -1,0 +1,107 @@
+{
+ "id": "s1-itipic",
+ "name": "Itipic",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "status": {
+   "avant": "stopped",
+   "apres": "stopped",
+   "preuves": [
+    "https://www.societe.com/societe/itipic-528184427.html"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service non retrouvé comme activité actuelle.",
+   "apres": "Société ITIPIC (SIREN 528 184 427, SAS créée le 2 novembre 2010, Fabienne Rousseau présidente) radiée du RCS ; dernier établissement fermé le 27 août 2015. Le site itipic.com a continué d'être archivé jusqu'en janvier 2016 puis a disparu ; le domaine ne répond plus aujourd'hui (erreur 503). Aucune trace de rachat ou d'acquisition n'a été trouvée : la fermeture apparaît être un simple arrêt d'activité.",
+   "apres_note": "Le statut 'stopped' est confirmé par une source de registre officielle (societe.com, à partir des données INSEE/RCS), ce qui est plus fort qu'un simple 'unverifiable'.",
+   "preuves": [
+    "https://www.societe.com/societe/itipic-528184427.html",
+    "http://archive.org/wayback/available?url=itipic.com&timestamp=20170101"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "n/a - site hors service (itipic.com renvoie une erreur 503 en 2026)",
+   "preuves": [
+    "https://itipic.com"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Fabienne Rousseau"
+  },
+  {
+   "name": "Alain Beauvois",
+   "linkedin": "https://fr.linkedin.com/in/alainbeauvois"
+  }
+ ],
+ "status": "stopped",
+ "statusDetails": "Société ITIPIC (SAS, SIREN 528 184 427) créée le 2 novembre 2010 par Fabienne Rousseau (présidente) et Alain Beauvois, radiée du RCS ; dernier établissement fermé le 27 août 2015. Le site itipic.com était encore archivé début 2016 puis a cessé d'exister ; il renvoie aujourd'hui une erreur serveur. Aucune preuve de rachat/acquisition n'a été trouvée.",
+ "website": "",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20111127130330/http://www.itipic.com:80/",
+   "montre": "Capture Wayback Machine de novembre 2011 confirmant qu'itipic.com était en ligne pendant la saison 1 du Camping (contenu non consultable directement depuis cet environnement, mais l'existence et le statut 200 de la capture sont confirmés via l'API archive.org/wayback/available)"
+  },
+  {
+   "url": "http://web.archive.org/web/20130916195846/http://www.itipic.com/",
+   "montre": "Capture de septembre 2013 - le site était toujours actif"
+  },
+  {
+   "url": "http://web.archive.org/web/20160115121147/http://www.itipic.com/",
+   "montre": "Dernière capture connue (15 janvier 2016), peu après la date de radiation de l'établissement (27 août 2015) ; aucune capture postérieure trouvée"
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.businessinsider.com/le-camping-2011-4",
+   "titre": "Le Camping accelerator 2011 cohort listing",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+   "titre": "Le bilan de la première cuvée de startups du Camping",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/79913/itipic",
+   "titre": "Startup ITIPIC, Sélectionnez, stockez et partagez vos visuels",
+   "annee": "n.d.",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/societe/itipic-528184427.html",
+   "titre": "ITIPIC (PARIS) - fiche registre du commerce",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/startup/itipic/",
+   "titre": "ITIPIC: éditeur de logiciels à Paris",
+   "annee": "n.d.",
+   "soutient": ["identity", "founders"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Le profil LinkedIn exact de Fabienne Rousseau n'a pas pu être identifié avec certitude (plusieurs personnes portent ce nom sur LinkedIn France ; aucun profil trouvé ne mentionne explicitement Itipic dans les extraits de recherche disponibles).",
+  "Aucune page LinkedIn d'entreprise (linkedin.com/company/itipic) n'a été retrouvée.",
+  "Le contenu exact des captures Wayback Machine n'a pas pu être consulté directement (web.archive.org est bloqué par le proxy de cet environnement) ; seule l'existence et le code HTTP 200 des captures ont été vérifiés via l'API archive.org/wayback/available.",
+  "Aucune date précise de cessation d'activité opérationnelle (distincte de la radiation légale d'août 2015) n'a été trouvée dans la presse."
+ ],
+ "summary": "Cohorte 1 (2011) et identité confirmées par la presse (Business Insider, FrenchWeb) et l'annuaire de startups. Les deux fondateurs (Fabienne Rousseau, Alain Beauvois) sont confirmés par plusieurs sources concordantes, avec un lien LinkedIn identifié pour Alain Beauvois. Le statut 'stopped' est confirmé et renforcé par une source de registre officiel : la SAS ITIPIC (SIREN 528184427) a été radiée, dernier établissement fermé le 27 août 2015. Le site itipic.com, archivé jusqu'en janvier 2016, est aujourd'hui hors ligne (erreur 503). Aucune preuve de rachat n'a été trouvée. Verdict global : corrected (renforcement du statut et de son détail avec une source de registre, qui étaient auparavant jugés 'unverifiable')."
+}
