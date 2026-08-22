@@ -3,63 +3,101 @@
  "name": "KinTribe",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "corrected",
+  "website": "verified"
  },
- "corrections": {},
+ "corrections": {
+  "founders[1].linkedin": {
+   "avant": null,
+   "apres": "https://www.linkedin.com/in/lslaroche/",
+   "preuves": [
+    "https://www.linkedin.com/in/lslaroche/",
+    "https://medium.com/hiridium/hiridium-lhistoire-d-un-pivot-bb31758f5615"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
+   "apres": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs, lancé en 2016 par deux anciens recruteurs IT. Accélérée par NUMA au printemps 2017 (saison 11), l'équipe a pivoté fin 2017 vers Hiridium, une plateforme de cooptation salariale inversée pour startups. KinTribe (SIREN 823367933) a été dissoute le 21/05/2018 par transmission universelle de patrimoine au profit de son associé unique, la holding Bulimba SARL (SIREN 801337221, gérée par Hugo Geissmann, également mentionné comme dirigeant de KinTribe), et radiée le 02/08/2018 — un mécanisme de fermeture interne, non un rachat par un tiers opérationnel. Hiridium (SIREN 833186992, immatriculée le 14/11/2017) a été dissoute le 30/04/2018 et sa liquidation clôturée le 16/06/2018 (radiée le 21/06/2018), avec Louis Laroche en liquidateur et Chloé Desault en directrice générale. Aucune des deux sociétés n'a été rachetée par un tiers.",
+   "preuves": [
+    "https://www.societe.com/societe/kintribe-823367933.html",
+    "https://www.societe.com/societe/hiridium-833186992.html"
+   ]
+  }
+ },
  "founders": [
   {
    "name": "Chloé Desault",
    "linkedin": "https://fr.linkedin.com/in/cdesault"
   },
   {
-   "name": "Louis Laroche"
+   "name": "Louis Laroche",
+   "linkedin": "https://www.linkedin.com/in/lslaroche/"
   }
  ],
  "status": "stopped",
- "statusDetails": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
+ "activityDescription": "KinTribe était un outil SaaS destiné aux recruteurs et sourceurs pour constituer et gérer des viviers de candidats passifs importés depuis les réseaux sociaux (LinkedIn notamment).",
+ "statusDetails": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs, lancé en 2016 par deux anciens recruteurs IT. Accélérée par NUMA au printemps 2017 (saison 11), l'équipe a pivoté fin 2017 vers Hiridium, une plateforme de cooptation salariale inversée pour startups. KinTribe (SIREN 823367933) a été dissoute le 21/05/2018 par transmission universelle de patrimoine au profit de son associé unique, la holding Bulimba SARL (SIREN 801337221, gérée par Hugo Geissmann, également mentionné comme dirigeant de KinTribe), et radiée le 02/08/2018 — un mécanisme de fermeture interne, non un rachat par un tiers opérationnel. Hiridium (SIREN 833186992, immatriculée le 14/11/2017) a été dissoute le 30/04/2018 et sa liquidation clôturée le 16/06/2018 (radiée le 21/06/2018), avec Louis Laroche en liquidateur et Chloé Desault en directrice générale. Aucune des deux sociétés n'a été rachetée par un tiers.",
+ "acquirer": "",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.societe.com/societe/kintribe-823367933.html",
-   "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "titre": "KINTRIBE - extrait registre (SIREN 823367933)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/hiridium-833186992.html",
+   "titre": "HIRIDIUM - extrait registre (SIREN 833186992), Louis Laroche président puis liquidateur, Chloé Desault directrice générale",
+   "annee": "2026",
+   "soutient": ["status", "founders", "identity"]
   },
   {
    "url": "https://medium.com/hiridium/hiridium-lhistoire-d-un-pivot-bb31758f5615",
    "titre": "Hiridium — l'histoire d'un pivot",
-   "soutient": [
-    "cohort",
-    "identity",
-    "status"
-   ]
+   "annee": "2017",
+   "soutient": ["cohort", "identity", "status"]
   },
   {
    "url": "https://medium.com/hiridium/quand-deux-recruteurs-cr%C3%A9ent-leur-propre-logiciel-de-recrutement-89db0dbc9661",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Quand deux recruteurs créent leur propre logiciel de recrutement",
+   "annee": "2017",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://pitchbook.com/profiles/company/185866-21",
+   "titre": "Kintribe Company Profile - PitchBook",
+   "annee": "2026",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/in/lslaroche/",
+   "titre": "Louis Laroche - LinkedIn (product manager, ex-entrepreneur @Hiridium_app, @KinTribeHQ)",
+   "annee": "2026",
+   "soutient": ["founders"]
   }
  ],
  "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
- "activityDescription": "KinTribe était un outil SaaS destiné aux recruteurs et sourceurs pour constituer et gérer des viviers de candidats passifs importés depuis LinkedIn."
+ "website": "",
+ "openQuestions": [
+  "web.archive.org est resté inaccessible depuis cet environnement (proxy) malgré plusieurs tentatives (CDX API, snapshot direct, forme id_) : impossible de confirmer visuellement le site kintribe.com d'époque ou la page NUMA alumni hub.numa.co/public/alumni pour la saison 11 autrement que via la capture Common Crawl déjà citée dans le premier passage.",
+  "Le domaine kintribe.com est aujourd'hui un domaine parking GoDaddy (à vendre) — cohérent avec l'arrêt de l'activité mais non probant à lui seul.",
+  "Hugo Geissmann (cofondateur/CEO de Thiga) apparaît comme dirigeant de KinTribe et gérant de la holding Bulimba SARL, associé unique ayant reçu les actifs de KinTribe par transmission universelle de patrimoine ; son rôle exact (investisseur, administrateur, ou véhicule de holding personnel des fondateurs) n'a pas pu être établi avec certitude — mais rien n'indique qu'il s'agisse d'un cofondateur opérationnel de KinTribe, les sources presse ne citant que deux fondateurs (Chloé Desault et Louis Laroche).",
+  "Aucune page LinkedIn d'entreprise (KinTribe ou Hiridium) retrouvée avec certitude ; non renseignée dans le rapport en conséquence.",
+  "Pas de trace d'une éventuelle levée de fonds chiffrée pour KinTribe ou Hiridium dans la presse consultée."
+ ],
+ "summary": "KinTribe (SIREN 823367933), fondée en 2016 par Chloé Desault et Louis Laroche, deux anciens recruteurs IT, était un outil SaaS de sourcing de candidats passifs à partir des réseaux sociaux. Accélérée par NUMA au printemps 2017 (saison 11, confirmée par la base alumni officielle de NUMA capturée par Common Crawl en 2018 et par la presse). Fin 2017, l'équipe a pivoté vers Hiridium, une plateforme de cooptation salariale inversée pour startups. Les deux sociétés ont cessé leur activité en 2018 : KinTribe dissoute le 21/05/2018 par transmission universelle de patrimoine au profit de sa holding actionnaire unique Bulimba SARL puis radiée le 02/08/2018 ; Hiridium dissoute le 30/04/2018 et radiée le 21/06/2018 après liquidation. Aucun rachat par un tiers opérationnel identifié : statut « stopped » confirmé. Cette passe a permis de retrouver le profil LinkedIn du second fondateur (Louis Laroche), de préciser les dates exactes de dissolution/radiation des deux sociétés via les extraits de registre societe.com, et d'identifier le mécanisme précis de fermeture (TUP vers Bulimba SARL, gérée par Hugo Geissmann). web.archive.org est resté inaccessible depuis cet environnement malgré plusieurs tentatives."
 }

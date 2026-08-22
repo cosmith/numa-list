@@ -3,58 +3,118 @@
  "name": "Beewake",
  "season": 10,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
-  "season": "partially_verified",
+  "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
-  "status": "verified",
-  "statusDetails": "verified"
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified"
  },
- "corrections": {},
+ "corrections": {
+  "founders[].linkedin": {
+   "avant": "aucune URL LinkedIn renseignée pour les 3 fondateurs",
+   "apres": "URL LinkedIn trouvées pour les 3 fondateurs (Jérémie Catez, Sébastien Trouillet, Gabriel Munch-Andersen)",
+   "preuves": [
+    "https://www.linkedin.com/in/jeremiecatez/",
+    "https://www.linkedin.com/in/sebastien-trouillet-aa24583/",
+    "https://www.linkedin.com/in/gmunchandersen/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Statut basé uniquement sur le classement « Dead » de CB Insights et la reprise opportuniste du nom de domaine beewake.com",
+   "apres": "Statut confirmé et daté par le Registre du commerce français : la SAS BEEWAKE (SIREN 827 909 946), créée le 24 février 2017, a fait l'objet d'une dissolution anticipée et d'une liquidation clôturée le 10 mars 2025 — preuve directe et datée de l'arrêt de l'activité, plus solide qu'un simple classement d'agrégateur.",
+   "preuves": [
+    "https://www.societe.com/societe/beewake-827909946.html",
+    "https://www.cbinsights.com/company/beewake-corp"
+   ]
+  },
+  "season_confirmation": {
+   "avant": "Rattachement à la saison 10 déduit indirectement (co-occurrence avec Medelse dans la base alumni NUMA)",
+   "apres": "Rattachement à la saison 10 confirmé directement et nommément : la fiche CB Insights de Beewake indique explicitly « Beewake was among the 5 startups of Season 10 of NUMA Paris » (aux côtés de Coding Days, Goodeed, Ma Coiffeuse Afro et Medelse), et la page investisseur CB Insights de NUMA cite un article de presse du 24 janvier 2017 sur le Demo Day de cette même cohorte de 5 startups.",
+   "preuves": [
+    "https://www.cbinsights.com/company/beewake-corp",
+    "https://www.cbinsights.com/investor/numa"
+   ]
+  }
+ },
  "founders": [
   {
-   "name": "Jérémie Catez"
+   "name": "Jérémie Catez",
+   "linkedin": "https://www.linkedin.com/in/jeremiecatez/"
   },
   {
-   "name": "Sébastien Trouillet"
+   "name": "Sébastien Trouillet",
+   "linkedin": "https://www.linkedin.com/in/sebastien-trouillet-aa24583/"
   },
   {
-   "name": "Gabriel Munch-Andersen"
+   "name": "Gabriel Munch-Andersen",
+   "linkedin": "https://www.linkedin.com/in/gmunchandersen/"
   }
  ],
  "status": "stopped",
- "statusDetails": "Marketplace de location d'espaces hôteliers inoccupés en journée pour voyageurs d'affaires ; CB Insights classe la société « Dead » et le domaine beewake.com héberge désormais un contenu de jeux d'argent en ligne sans rapport, signe d'un abandon suivi d'une reprise du nom de domaine.",
+ "activityDescription": "Beewake était une marketplace permettant aux voyageurs d'affaires et freelances de réserver à l'heure ou à la journée des chambres et salles de réunion inoccupées dans des hôtels partenaires (Marriott, Starwood, AccorHotels...).",
+ "statusDetails": "La SAS BEEWAKE (SIREN 827 909 946, créée le 24 février 2017 à Vanves, présidée par Sébastien Trouillet puis avec Jérémie Catez comme directeur général à partir de 2020) a été dissoute et radiée du registre du commerce le 10 mars 2025, confirmant l'arrêt définitif de l'activité. CB Insights classait déjà la société « Dead » et le nom de domaine beewake.com héberge aujourd'hui un blog de jeux d'argent en ligne sans rapport (beewake.fr héberge de son côté un site éditorial généraliste sur l'immobilier/l'entreprise) — signe d'une reprise opportuniste des noms de domaine après abandon.",
+ "acquirer": "",
+ "website": "",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.cbinsights.com/company/beewake-corp",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "status"
-   ]
+   "titre": "Beewake Corp. company profile",
+   "annee": "2026",
+   "soutient": ["cohort", "founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.cbinsights.com/investor/numa",
+   "titre": "NUMA Portfolio Investments, Numa Funds, Numa Exits (cite un article du 24 janvier 2017 sur le Demo Day de la saison 10 : Beewake, Coding Days, Goodeed, Ma Coiffeuse Afro, Medelse)",
+   "annee": "2017",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://startupxplore.com/en/startups/beewake",
-   "titre": "",
-   "soutient": [
-    "founders"
-   ]
+   "titre": "Beewake profile at Startupxplore",
+   "annee": "2026",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.phocuswire.com/Startup-pitch-Beewake-helps-hotels-sell-out-rooms-in-increments-to-business-travelers",
+   "titre": "Startup pitch: Beewake helps hotels sell out rooms in increments to business travelers",
+   "annee": "2016",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.alleywatch.com/2016/08/nyc-startup-beewake-is-tapping-in-to-this-market-to-create-work-spaces-everywhere/",
+   "titre": "NYC Startup Beewake is Tapping into This Market to Create Work Spaces Everywhere",
+   "annee": "2016",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/societe/beewake-827909946.html",
+   "titre": "Registre du commerce — BEEWAKE SIREN 827909946 (Vanves), dissolution/liquidation clôturée le 10/03/2025",
+   "annee": "2025",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/sebastien-trouillet",
+   "titre": "Sebastien Trouillet - CEO - Co Founder @ Beewake",
+   "annee": "2026",
+   "soutient": ["founders"]
   }
  ],
  "linkedinCompany": "",
  "openQuestions": [
-  "Rattachement à la saison 10 corroboré par la base alumni officielle de NUMA (co-occurrence avec Medelse, dont la « 10ème promotion » est confirmée par une source de presse indépendante) plutôt que par une annonce de presse dédiée à Beewake elle-même."
+  "web.archive.org (Wayback Machine) est resté inaccessible depuis cet environnement pour cette fiche malgré plusieurs tentatives (CDX API et snapshots directs, en http et https) — impossible de confirmer visuellement le site d'époque beewake.com ou une page équipe archivée ; les preuves d'identité/produit reposent donc sur la presse (PhocusWire, AlleyWatch) et CB Insights plutôt que sur une capture d'archive.",
+  "Aucune page LinkedIn d'entreprise (linkedin.com/company/...) n'a été retrouvée pour Beewake malgré plusieurs recherches ciblées.",
+  "La société existait d'abord comme entité américaine (fondée 2015, lancée au printemps 2016 à New York selon CB Insights/AlleyWatch) avant la création de la SAS française BEEWAKE le 24 février 2017, quelques jours avant l'annonce du financement NUMA — cohérence à noter mais non approfondie (probable structuration France/US en parallèle plutôt que pivot)."
  ],
- "summary": "Rattachement à la saison 10 corroboré par la base alumni officielle de NUMA (co-occurrence avec Medelse, dont la « 10ème promotion » est confirmée par une source de presse indépendante) plutôt que par une annonce de presse dédiée à Beewake elle-même.",
- "activityDescription": "Beewake était une marketplace permettant de réserver des espaces hôteliers inoccupés en journée (chambres, salles de réunion) pour les voyageurs d'affaires et freelances."
+ "summary": "Fiche approfondie : la saison 10 est désormais confirmée directement par la fiche CB Insights de Beewake elle-même (« one of the 5 startups of Season 10 of NUMA Paris », aux côtés de Coding Days, Goodeed, Ma Coiffeuse Afro et Medelse, Demo Day et levée NUMA en février 2017), en plus de la base alumni officielle déjà citée. Les 3 fondateurs (Jérémie Catez, Sébastien Trouillet, Gabriel Munch-Andersen) ont chacun été retrouvés sur LinkedIn. Le statut « stopped » est désormais étayé par le registre du commerce français : la SAS BEEWAKE (SIREN 827909946, créée le 24/02/2017) a été dissoute et radiée le 10/03/2025. Aucune acquisition trouvée. Les deux domaines historiques (beewake.com, beewake.fr) sont aujourd'hui squattés par des sites sans rapport (jeux d'argent / blog généraliste) — aucun site officiel actif en 2026. web.archive.org est resté inaccessible pour cette fiche."
 }

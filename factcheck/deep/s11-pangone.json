@@ -10,7 +10,8 @@
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "verified",
+  "website": "verified"
  },
  "corrections": {},
  "founders": [
@@ -28,42 +29,65 @@
   }
  ],
  "status": "stopped",
- "statusDetails": "Micro-learning sous forme de cartes courtes, arrêté vers 2017. La même équipe fondatrice a ensuite créé AirTeach (2017-2019, hébergée à Station F) puis Santé Académie (2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous un autre nom. L'entité légale d'origine (SIREN 821971223) existe toujours mais sous le nom « Santé Académie Groupe », avec un chiffre d'affaires nul en 2024 (structure de holding dormante).",
- "archiveEvidence": [],
+ "activityDescription": "Pangone permettait à des formateurs, managers et enseignants de créer et diffuser de courtes cartes d'apprentissage (« micro-learning ») consultables en moins de 5 minutes sur mobile, avec relais sur les réseaux sociaux et messageries internes.",
+ "statusDetails": "Micro-learning sous forme de cartes courtes, arrêté vers 2017-2018. La même équipe fondatrice (Stanislas De Zutter, Félix Levious, Jessym Reziga) a ensuite créé AirTeach (2017-2020) puis Santé Académie (à partir de 2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous d'autres noms. L'entité légale d'origine (SIREN 821971223, immatriculée le 12 juillet 2016 sous le nom Pangone) a été renommée « Santé Académie Groupe » le 31 janvier 2023, avec transfert du siège de La Chapelle-Saint-Luc (Aube) vers Lyon ; elle est toujours active au registre mais comme structure de holding du groupe Santé Académie, sans activité Pangone. Le site pangone.com n'est plus accessible en 2026 (erreur serveur, absent des résultats de recherche), et aucune page entreprise LinkedIn dédiée à Pangone n'a été retrouvée.",
+ "acquirer": "",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/web/2018/https://hub.numa.co/public/alumni",
+   "montre": "Tentative infructueuse : web.archive.org reste inaccessible depuis cet environnement (proxy réseau), pour cette URL comme pour la CDX API et archive.ph utilisés en repli. La preuve de cohorte s'appuie donc sur la capture Common Crawl équivalente de la même base alumni (voir pressEvidence), déjà utilisée dans le premier passage."
+  }
+ ],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.myfrenchstartup.com/fr/startup-france/168397/pangone",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Fiche PANGONE — plateforme de microlearning",
+   "annee": "2017",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://recherche-entreprises.api.gouv.fr/search?q=821971223",
-   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 821971223",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 821971223 — dénomination actuelle SANTE ACADEMIE GROUPE, statut actif",
+   "annee": "2026",
+   "soutient": ["status"]
   },
   {
    "url": "https://www.brefeco.com/actualite/formation-professionnelle/le-lyonnais-sante-academie-leve-12-millions-deuros",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "status"
-   ]
+   "titre": "Santé Académie lève 12 millions d'euros",
+   "annee": "2023",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://pappers.fr/entreprise/pangone-821971223",
+   "titre": "Société SANTE ACADEMIE GROUPE (ex-PANGONE), SIREN 821971223 — changement de dénomination le 31/01/2023, président Stanislas De Zutter, directeur général Félix Levious",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://changethework.com/micro-learning-formation-pro/",
+   "titre": "Le micro-learning, futur de la formation professionnelle ?",
+   "annee": "2017",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://theorg.com/org/sante-academie/org-chart/stanislas-de-zutter",
+   "titre": "Stanislas De Zutter — CEO at Santé Académie (parcours : Pangone puis AirTeach puis Santé Académie)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
   }
  ],
  "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Micro-learning sous forme de cartes courtes, arrêté vers 2017. La même équipe fondatrice a ensuite créé AirTeach (2017-2019, hébergée à Station F) puis Santé Académie (2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous un autre nom. L'entité légale d'origine (SIREN 821971223) existe toujours mais sous le nom « Santé Académie Groupe », avec un chiffre d'affaires nul en 2024 (structure de holding dormante).",
- "activityDescription": "Pangone permettait à des formateurs, managers et enseignants de créer et diffuser de courtes cartes d'apprentissage (« micro-learning ») consultables en moins de 5 minutes sur mobile."
+ "website": "",
+ "openQuestions": [
+  "web.archive.org est resté inaccessible depuis cet environnement (proxy réseau) malgré plusieurs tentatives (CDX API, snapshot direct, archive.ph en repli) : impossible de consulter directement le site pangone.com d'époque ou la base alumni hub.numa.co telle qu'archivée par la Wayback Machine ; la preuve de cohorte repose sur l'équivalent Common Crawl déjà cité.",
+  "Aucun article de presse contemporain (2017) mentionnant explicitement « Pangone » et « NUMA » n'a été retrouvé au-delà de la base alumni elle-même — la présence en saison 11 n'est donc corroborée que par cette source unique, bien que celle-ci soit la source primaire officielle de NUMA.",
+  "Aucune page entreprise LinkedIn dédiée à Pangone n'a été localisée (seuls des profils personnels des fondateurs mentionnent l'entreprise dans leur parcours)."
+ ],
+ "summary": "Pangone (SIREN 821971223) était une plateforme de micro-learning sous forme de courtes cartes, fondée en 2016 par Stanislas De Zutter, Félix Levious et Jessym Reziga, confirmée en saison 11 de NUMA via la base alumni officielle. Le produit Pangone a cessé d'exister vers 2017-2018 ; la même équipe a ensuite fondé AirTeach puis Santé Académie (levée de 12 M€ en 2023), et l'entité légale d'origine a été renommée « Santé Académie Groupe » en janvier 2023 (toujours active mais sans activité Pangone). Les trois fondateurs ont chacun un profil LinkedIn identifié et corroboré par plusieurs sources indépendantes (myfrenchstartup, pappers.fr, brefeco, theorg). Le site pangone.com n'est plus en ligne en 2026. Aucune correction de fond n'a été nécessaire par rapport au premier passage ; ce second passage ajoute des sources de corroboration (pappers.fr, changethework.com, theorg.com) et documente l'échec d'accès à web.archive.org."
 }

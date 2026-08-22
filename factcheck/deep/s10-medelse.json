@@ -3,61 +3,92 @@
  "name": "Medelse",
  "season": 10,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "corrected"
  },
- "corrections": {},
+ "corrections": {
+  "statusDetails": {
+   "avant": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
+   "apres": "Medelse mettait en relation des professionnels de santé libéraux (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) avec des établissements de santé pour des missions de remplacement et de renfort. La société a levé des fonds auprès notamment de FJ Labs, Angelsquare puis du fonds Extens (janvier 2020), et son application a servi au recrutement de renforts pour des centres de vaccination pendant la crise Covid-19. Elle a ensuite été rachetée par Synergie Care (filiale santé du groupe Synergie, ex-Aile Médicale) : le site synergie-care.fr indique que « Synergie Care a acquis les actifs de la société Medelse » et présente la continuité des missions sous sa propre plateforme. Au 22/08/2026, medelse.com redirige (301) vers la page synergie-care.fr/vos-missions-continuent-avec-synergie-care, confirmant l'arrêt de l'exploitation sous la marque Medelse.",
+   "preuves": [
+    "https://medelse.com",
+    "https://www.synergie-care.fr/vos-missions-continuent-avec-synergie-care",
+    "https://www.myfrenchstartup.com/fr/startup-france/150225/medelse",
+    "https://tracxn.com/d/companies/medelse/__vWawILxovow8ITLRUTwQo7hyJNr3cqY8Ru_nMHPzOtg"
+   ]
+  }
+ },
  "founders": [
   {
-   "name": "Thomas Gendron"
+   "name": "Thomas Gendron",
+   "linkedin": "https://fr.linkedin.com/in/thomasgendron"
   },
   {
-   "name": "Tristan Renoul"
+   "name": "Tristan Renoul",
+   "linkedin": ""
   }
  ],
  "status": "exit",
- "statusDetails": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
+ "activityDescription": "Medelse était une plateforme de mise en relation entre professionnels de santé libéraux (dentistes, kinésithérapeutes, infirmiers, puis médecins) et établissements de santé pour des missions de remplacement et de renfort.",
+ "statusDetails": "Medelse mettait en relation des professionnels de santé libéraux (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) avec des établissements de santé pour des missions de remplacement et de renfort. La société a levé des fonds auprès notamment de FJ Labs, Angelsquare puis du fonds Extens (janvier 2020), et son application a servi au recrutement de renforts pour des centres de vaccination pendant la crise Covid-19. Elle a ensuite été rachetée par Synergie Care (filiale santé du groupe Synergie, ex-Aile Médicale) : le site synergie-care.fr indique que « Synergie Care a acquis les actifs de la société Medelse » et présente la continuité des missions sous sa propre plateforme. Au 22/08/2026, medelse.com redirige (301) vers la page synergie-care.fr/vos-missions-continuent-avec-synergie-care, confirmant l'arrêt de l'exploitation sous la marque Medelse.",
+ "acquirer": "Synergie Care",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.businessman.fr/information-veille-economique-actualite-entreprise-industrie/information-veille-economique-actualite-entreprise-pharmacie-medical-cosmetique/medtech-medelse-planifie-une-levee-de-fonds-de-600-000e/524689",
-   "titre": "Medelse, membre de la 10ème promotion de l'accélérateur NUMA",
-   "soutient": [
-    "cohort"
-   ]
+   "titre": "Medelse, membre de la 10ème promotion de l'accélérateur NUMA, planifie une levée de fonds de 600.000€",
+   "annee": "2017",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/150225/medelse",
+   "titre": "Fiche MyFrenchStartup Medelse — fondateurs, Station F, Wilco, description",
+   "annee": "2018",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/medelse/__vWawILxovow8ITLRUTwQo7hyJNr3cqY8Ru_nMHPzOtg",
+   "titre": "Fiche Tracxn Medelse — fondateurs (Thomas Gendron, Tristan Renoul), NUMA Paris et Station F cités, Audrey Delval indiquée comme « Manager » (non fondatrice)",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://www.annuaire-startups.pro/startup/medelse/",
    "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "annee": "",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://synergie-care.fr",
    "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "annee": "",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.synergie-care.fr/vos-missions-continuent-avec-synergie-care",
+   "titre": "« Vos missions continuent, avec Synergie Care » — page de transition confirmant le rachat des actifs de Medelse",
+   "annee": "2023-2024",
+   "soutient": ["status"]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
- "activityDescription": "Medelse était une plateforme mettant en relation les professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins) avec des établissements pour des missions de remplacement.",
- "acquirer": "Synergie Care"
+ "linkedinCompany": "https://www.linkedin.com/company/medelse/",
+ "openQuestions": [
+  "web.archive.org (Wayback Machine) était inaccessible depuis cet environnement d'exécution pour toutes les formes d'URL testées (CDX API et snapshots directs, ex: web.archive.org/web/2017/http://medelse.com) — message renvoyé : « Claude Code is unable to fetch from web.archive.org ». Impossible donc de dater précisément la vie/mort du site medelse.com via l'archive, ni de confirmer visuellement la page équipe de l'époque. Le statut et l'identité ont été corroborés autrement (redirection HTTP live vers synergie-care.fr, presse d'époque, fiches d'entreprise).",
+  "URL LinkedIn personnelle de Tristan Renoul non retrouvée avec certitude (seul un profil Crunchbase confirme son rôle de fondateur ; aucune URL linkedin.com/in/ fiable identifiée dans les résultats de recherche).",
+  "Une troisième personne, Audrey Delval, est parfois citée comme faisant partie de l'équipe fondatrice de Medelse par des sources secondaires peu fiables (annuaire-startups.pro cité de façon incohérente, et une réponse de recherche généraliste). Des sources plus fiables (Tracxn, son propre parcours LinkedIn) indiquent qu'elle a rejoint Medelse comme Customer Success Manager en janvier 2019 puis Head of Customer Success en 2020 — donc après la création (2016) et non comme cofondatrice. Elle n'a donc pas été ajoutée à la liste des fondateurs.",
+  "Date exacte du rachat par Synergie Care non confirmée par un article de presse dédié (aucun communiqué de presse spécifique trouvé au-delà des pages officielles synergie-care.fr et des mentions de réseaux sociaux) ; la période estimée (2023) repose sur le contexte (posts LinkedIn/Facebook Medelse encore actifs mi-2023, page de transition synergie-care.fr) plutôt que sur une date officielle publiée."
+ ],
+ "summary": "Medelse (10e promotion NUMA, saison 2016-2017) était une plateforme de mise en relation entre professionnels de santé libéraux (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements de santé pour des missions de remplacement, fondée par Thomas Gendron et Tristan Renoul. Cohorte confirmée par la base alumni NUMA (Common Crawl 2018) et par la presse d'époque (BusinessMan.fr, 2017). La société a levé des fonds (FJ Labs, Angelsquare, Extens en 2020) et a servi au recrutement de renforts pendant la crise Covid, avant d'être rachetée par Synergie Care (filiale santé du groupe Synergie) : le site synergie-care.fr confirme explicitement le rachat des actifs, et medelse.com redirige aujourd'hui (301, vérifié le 22/08/2026) vers la page de transition de Synergie Care — statut « exit » confirmé. Le profil LinkedIn de Thomas Gendron a été retrouvé ; celui de Tristan Renoul reste introuvable avec certitude. Une troisième personne parfois citée comme fondatrice (Audrey Delval) a en réalité rejoint l'entreprise en 2019 comme salariée, pas comme cofondatrice. web.archive.org est resté inaccessible depuis cet environnement pour toutes les tentatives."
 }
