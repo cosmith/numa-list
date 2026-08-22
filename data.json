@@ -926,7 +926,9 @@
       "id": "s1-prepmyfuture",
       "season": 1,
       "name": "PrepMyFuture",
-      "formerNamesOrPivots": [],
+      "formerNamesOrPivots": [
+        "Everlearn"
+      ],
       "founders": [
         {
           "name": "Hadrien-Achille Pinson",
