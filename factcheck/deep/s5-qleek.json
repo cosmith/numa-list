@@ -1,0 +1,71 @@
+{
+ "id": "s5-qleek",
+ "name": "Qleek",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Ismail Salhi" },
+  { "name": "Johanna Hartzheim" },
+  { "name": "Pierre-Rudolf Gerlach" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Qleek est un objet connecté en bois qui permet de matérialiser et de partager du contenu numérique (musique, vidéos, photos) grâce à des jetons hexagonaux appelés « Tapps » que l'on insère dans un lecteur pour lire le contenu associé.",
+ "statusDetails": "Objet musical connecté arrêté pendant la pandémie de COVID-19 ; le site qleek.me est aujourd'hui un domaine parqué et getqleek.com renvoie une erreur d'accès, sans trace d'activité commerciale récente ni de mention d'une reprise ou d'un rachat.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20131219200453/http://qleek.me:80/",
+   "montre": "Capture confirmée du 19/12/2013 (via l'API de disponibilité archive.org) : le site qleek.me existait déjà pendant la saison 5 (fin 2013)."
+  },
+  {
+   "url": "http://web.archive.org/web/20141218005003/http://qleek.me/",
+   "montre": "Capture confirmée du 18/12/2014 : le site qleek.me était toujours actif après le passage au Camping."
+  },
+  {
+   "url": "http://web.archive.org/web/20180907022830/https://www.qleek.me/",
+   "montre": "Capture confirmée du 07/09/2018, montrant la continuité du domaine qleek.me jusqu'en 2018."
+  },
+  {
+   "url": "http://web.archive.org/web/20221202022011/https://getqleek.com/",
+   "montre": "Dernière capture confirmée (via l'API de disponibilité) de getqleek.com, le 02/12/2022 ; aucune capture postérieure trouvée."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/02/28/veille-startups-qleek-soyooz-bubblz-et-travozen/",
+   "titre": "[Veille] 4 startups à découvrir ce weekend : Qleek, Soyooz, Bubblz et Travozen",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2014/05/16/qleek-brings-your-music-back-in-to-the-physical-realm/",
+   "titre": "Qleek Brings Your Music Back In To The Physical Realm",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.thepitch.show/16-qleek",
+   "titre": "Qleek — épisode The Pitch",
+   "annee": "2017",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/qleek",
+ "openQuestions": [
+  "Impossible de récupérer directement le contenu des pages archivées (web.archive.org bloqué pour la récupération directe dans cet environnement) ; seules les métadonnées de capture (via l'API de disponibilité archive.org) ont pu être obtenues, ce qui confirme la période d'activité mais pas le détail visuel des pages.",
+  "Le quota de recherche web (WebSearch) était déjà épuisé avant le début de cette vérification ; les moteurs alternatifs (Bing, DuckDuckGo, Mojeek, Google) ont renvoyé des CAPTCHA ou des résultats non pertinents, empêchant de retrouver les profils LinkedIn personnels d'Ismail Salhi et de Pierre-Rudolf Gerlach (seule la page LinkedIn de l'entreprise a pu être consultée, listant Johanna Hartzheim comme unique employée visible).",
+  "Aucune preuve d'un rachat (exit) n'a été trouvée ; le statut 'stopped' (arrêt pendant la pandémie) reste la meilleure explication disponible, cohérente avec la fiche existante.",
+  "La page LinkedIn de l'entreprise indique un pivot vers Boston (fondée en 2015 selon LinkedIn, avec un investissement de Bose) et un positionnement B2B événementiel plus tardif ('the new way to share content for corporate & life events'), qui n'est pas reflété dans formerNamesOrPivots — à considérer comme évolution produit plutôt que changement de nom."
+ ],
+ "summary": "Toutes les informations de la fiche Qleek (saison 5, nom, fondateurs, statut 'stopped', détail du statut) sont corroborées par des sources indépendantes supplémentaires : Maddyness (2014) confirme le passage par la saison 5 du Camping et le site qleek.me ; TechCrunch (2014) confirme l'identité du produit et nomme Pierre-Rudolf Gerlach ; The Pitch (2017) confirme Ismail Salhi et Johanna Hartzheim comme co-fondateurs, l'investissement de Bose, et l'arrêt de l'activité pendant la pandémie de COVID-19. Les captures archive.org (2013-2022) confirment la période de vie des sites qleek.me puis getqleek.com, tous deux aujourd'hui inactifs (domaine parqué / erreur d'accès), sans contredire le statut 'stopped'. Aucune correction n'est nécessaire ; verdict 'verified'."
+}

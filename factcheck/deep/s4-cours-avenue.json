@@ -1,0 +1,67 @@
+{
+ "id": "s4-cours-avenue",
+ "name": "CoursAvenue",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "corrected",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "unverifiable",
+  "statusDetails": "unverifiable",
+  "website": "unverifiable"
+ },
+ "corrections": {
+  "name": {
+   "avant": "Cours Avenue",
+   "apres": "CoursAvenue",
+   "preuves": [
+    "https://www.frenchweb.fr/exclusif-coursavenue-moteur-de-recherche-de-cours-leve-120-000-euros-nous-avons-ete-approches-alors-que-nous-ne-recherchions-pas-encore-de-fonds/147211"
+   ]
+  },
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": ["Leboncours"],
+   "preuves": [
+    "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+    "https://www.frenchweb.fr/exclusif-coursavenue-moteur-de-recherche-de-cours-leve-120-000-euros-nous-avons-ete-approches-alors-que-nous-ne-recherchions-pas-encore-de-fonds/147211"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Nicolas Lagarde" },
+  { "name": "Nima Izadi" }
+ ],
+ "status": "stopped",
+ "activityDescription": "CoursAvenue est un moteur de recherche géolocalisé de cours de loisirs (sport, art, musique, etc.) qui permet de comparer les prix, les créneaux et de consulter les avis d'élèves pour choisir un cours près de chez soi.",
+ "statusDetails": "Le site coursavenue.com (et le domaine leboncours.com, probable nom d'origine) répond en 2026 par une erreur serveur 503 et n'affiche plus aucun contenu. Aucune actualité, levée de fonds ou reprise n'a été retrouvée après l'article de mars 2014 annonçant une levée de 120 000 euros auprès de Seedmer. Cette absence ne suffit pas, seule, à prouver un arrêt d'activité (site mort ou domaine simplement non renouvelé aux mêmes conditions), mais aucune source n'atteste non plus d'une activité en cours ; le statut 'stopped' du dossier original reste donc plausible sans être formellement confirmé par une source officielle (registre du commerce, communiqué de cessation).",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/cdx/search/cdx?url=coursavenue.com&output=json&collapse=timestamp:4&limit=50",
+   "montre": "Tentative infructueuse : web.archive.org s'est révélé totalement inaccessible depuis cet environnement d'exécution, à la fois via l'outil WebFetch (erreur 'unable to fetch') et via curl direct (connexion réinitialisée par le pair), sur plusieurs essais et plusieurs formats d'URL (CDX API et snapshots datés). Aucune capture de coursavenue.com ni de leboncours.com n'a pu être consultée malgré plusieurs tentatives."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/exclusif-coursavenue-moteur-de-recherche-de-cours-leve-120-000-euros-nous-avons-ete-approches-alors-que-nous-ne-recherchions-pas-encore-de-fonds/147211",
+   "titre": "EXCLUSIF – CoursAvenue, moteur de recherche de cours, lève 120 000 euros",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "Aucune source ne confirme explicitement (par une phrase du type 'anciennement Leboncours') que Leboncours et CoursAvenue sont la même société ; l'hypothèse repose sur la coïncidence forte entre la description de Leboncours dans l'article Maddyness de saison 4 ('plate-forme qui référence tous les types de cours, permettant aux enseignants d'optimiser leur taux de remplissage') et l'activité de CoursAvenue ('moteur de recherche de cours' avec géolocalisation, créneaux, prix, avis), ainsi que sur le fait que la source citée dans le dossier original pour 'cohort' (cet article Maddyness) ne mentionne jamais 'Cours Avenue' mais bien 'Leboncours'.",
+  "Profils LinkedIn personnels de Nicolas Lagarde et Nima Izadi non localisés : le quota WebSearch de la session était épuisé et les moteurs de recherche alternatifs (Bing, DuckDuckGo, Ecosia, Mojeek, Brave, Startpage) ont tous renvoyé des pages bloquées, des CAPTCHA ou des résultats hors-sujet via WebFetch ; LinkedIn lui-même renvoie un statut anti-bot (999) sur les URLs de profil devinées.",
+  "Statut légal définitif (radiation RCS, liquidation) non vérifiable : societe.com et pappers.fr ont renvoyé des erreurs 403 lors des tentatives d'accès via WebFetch.",
+  "Aucune actualité (presse, levée de fonds, acquisition) retrouvée après l'article de mars 2014 ; impossible de confirmer une acquisition ou, à l'inverse, une poursuite d'activité au-delà de cette date."
+ ],
+ "summary": "L'appartenance à la saison 4 du Camping (2013) et les deux fondateurs (Nicolas Lagarde, Nima Izadi) sont confirmés par un article FrenchWeb de mars 2014 sur une levée de 120 000 euros auprès de Seedmer. Le nom exact d'usage presse est 'CoursAvenue' (en un mot) plutôt que 'Cours Avenue'. Un indice fort (mais non formellement confirmé) suggère que la société s'appelait initialement 'Leboncours' au moment de son entrée au Camping, avant de devenir CoursAvenue : l'article Maddyness de saison 4 cité comme source de cohort ne contient jamais 'Cours Avenue' mais décrit un 'Leboncours' à l'activité identique (plate-forme référençant les cours). Le site coursavenue.com est aujourd'hui inaccessible (erreur 503) et aucune actualité postérieure à 2014 n'a été trouvée, ce qui est cohérent avec le statut 'stopped' du dossier original sans le prouver formellement (registres et LinkedIn non consultables dans cette session). Internet Archive (web.archive.org) a été totalement inaccessible malgré plusieurs tentatives, ce qui a empêché toute vérification par capture d'écran d'époque."
+}

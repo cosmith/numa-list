@@ -1,0 +1,102 @@
+{
+ "id": "s3-webshell",
+ "name": "Webshell",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Le service OAuth.io n'est plus identifié comme activité autonome.",
+   "apres": "La société Webshell SAS (SIREN 753 885 920), éditrice du produit OAuth.io, est entrée en cessation des paiements le 31 août 2023, en liquidation judiciaire le 20 septembre 2023, liquidation clôturée le 19 août 2025 ; les sites oauth.io (domaine ne résout plus) et webshell.io (HTTP 503) ne sont plus en ligne en 2026. Une biographie de conférence de son cofondateur Mehdi Medjaoui indique par ailleurs qu'OAuth.io aurait été « acquis en décembre 2017 », sans nommer l'acquéreur ni être corroborée par une source de presse indépendante ou un communiqué officiel — ce point reste donc non confirmé.",
+   "preuves": [
+    "https://www.societe.com/societe/webshell-753885920.html",
+    "https://www.myfrenchstartup.com/fr/startup-france/53403/webshell",
+    "https://apithedocs.org/paris-2018/mehdi-medjaoui",
+    "https://github.com/oauth-io/oauthd"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Thibaud Arnault",
+   "linkedin": "https://www.linkedin.com/in/thibaud-arnault-48962b30/"
+  },
+  {
+   "name": "Mehdi Medjaoui"
+  },
+  {
+   "name": "Arnaud Richard"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Webshell, qui deviendra OAuth.io, est un service qui permet aux développeurs d'intégrer facilement de multiples API tierces (Google, Twitter, Facebook, Spotify, Deezer, Instagram...) dans leurs applications grâce à une couche d'abstraction unifiant l'authentification OAuth, réduisant l'intégration à quelques lignes de code au lieu d'une centaine.",
+ "statusDetails": "La société Webshell SAS (SIREN 753 885 920), éditrice du produit OAuth.io, est entrée en cessation des paiements le 31 août 2023, en liquidation judiciaire le 20 septembre 2023, liquidation clôturée le 19 août 2025 ; les sites oauth.io et webshell.io ne sont plus en ligne en 2026. Une source (biographie de conférence du cofondateur Mehdi Medjaoui) évoque une acquisition d'OAuth.io en décembre 2017, non confirmée par ailleurs.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/03/13/webshell-nestadio-capital/",
+   "titre": "Webshell annonce une levée de fonds de 275 000 dollars auprès de Nestadio Capital",
+   "annee": "2014",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-webshell/",
+   "titre": "Webshell : La Start-Up française de la Semaine",
+   "annee": "2012",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.clubic.com/pro/entrepreneur-et-creation-entreprise/actualite-527391-camping-bilan.html",
+   "titre": "Les start-up du Camping saison 3 ont terminé leur incubation",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/53403/webshell",
+   "titre": "Startup WEBSHELL, Combinez API facilement en Javascript et créer REST/JSON API à la volée",
+   "annee": "2023",
+   "soutient": ["identity", "founders", "cohort", "status"]
+  },
+  {
+   "url": "https://apithedocs.org/paris-2018/mehdi-medjaoui",
+   "titre": "Mehdi Medjaoui | API the Docs (bio du conférencier)",
+   "annee": "2018",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://github.com/oauth-io/oauthd",
+   "titre": "oauth-io/oauthd — oauthd, version open source du cœur d'OAuth.io (mention « Copyright (C) 2017 Webshell SAS »)",
+   "annee": "2017",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/webshell-753885920.html",
+   "titre": "WEBSHELL — fiche société (SIREN 753885920)",
+   "annee": "2025",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/oauth-io",
+   "titre": "OAuth.io | LinkedIn (page entreprise)",
+   "annee": "2026",
+   "soutient": ["identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/oauth-io",
+ "openQuestions": [
+  "Le nom exact de l'acquéreur d'OAuth.io (mentionné comme « acquis en décembre 2017 » dans une seule biographie de conférence) n'a pas pu être confirmé ; aucune source de presse indépendante ni communiqué officiel n'a été trouvé pour corroborer cette acquisition ou en préciser les termes.",
+  "Internet Archive (web.archive.org) était inaccessible depuis cet environnement (l'outil WebFetch renvoie systématiquement une erreur pour cet hôte) : aucune capture Wayback Machine de webshell.io, oauth.io ou des pages de cohorte lecamping.org/numa.co n'a pu être consultée directement pour ce dossier.",
+  "Aucune URL LinkedIn personnelle actuelle (format linkedin.com/in/...) n'a pu être confirmée pour Mehdi Medjaoui (ancien format linkedin.com/pub/ obsolète trouvé) ni pour Arnaud Richard, les moteurs de recherche web ayant atteint leur quota ou étant bloqués (captcha) durant la vérification.",
+  "Le lien exact entre l'« acquisition » de 2017 évoquée dans une bio et la liquidation judiciaire de la société Webshell SAS ouverte en 2023 (cessation des paiements) n'est pas établi : il pourrait s'agir d'une cession d'actifs/technologie suivie du maintien à vide de la coquille juridique, mais aucune source ne le confirme explicitement."
+ ],
+ "summary": "Webshell (saison 3 de Le Camping, fondée à l'automne 2012 par les étudiants de l'EPITA Thibaud Arnault, Mehdi Medjaoui et Arnaud Richard) proposait d'unifier l'intégration d'API tierces via OAuth, produit renommé OAuth.io. Nom, saison, pivot et les trois fondateurs sont confirmés par la presse (Maddyness, Presse-citron, Clubic) et par le registre légal (societe.com, SIREN 753885920), qui montre en outre que la société a été mise en liquidation judiciaire en 2023 (clôturée en 2025) et que ses sites oauth.io/webshell.io ne sont plus en ligne — ce qui étaye et précise le statut « stopped » déjà retenu. Une biographie de conférence évoque cependant une acquisition d'OAuth.io dès décembre 2017, sans acquéreur nommé ni confirmation indépendante ; ce point reste une question ouverte plutôt qu'une correction de statut, faute de source suffisamment solide pour basculer vers « exit »."
+}

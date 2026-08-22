@@ -1,0 +1,53 @@
+{
+ "id": "s4-zero-gachis",
+ "name": "Zéro-Gâchis",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Paul-Adrien Ménez" },
+  { "name": "Christophe Ménez" }
+ ],
+ "status": "active",
+ "activityDescription": "Zéro-Gâchis était une application mobile permettant aux consommateurs de repérer dans les supermarchés les produits alimentaires à prix réduit en fin de vie, une activité poursuivie et élargie depuis 2021 sous la marque Smartway, qui fournit désormais aux enseignes une plateforme d'intelligence artificielle détectant les produits frais proches de leur date limite pour piloter leur démarque ou leur don.",
+ "statusDetails": "Activité poursuivie sous la marque Smartway : la société, fondée en 2012 par Paul-Adrien et Christophe Ménez et passée par la saison 4 du Camping en 2013, a levé 10 millions d'euros en avril 2021 pour accélérer son développement en France et à l'international et a pris le nom de Smartway à cette occasion ; elle reste indépendante (aucun rachat identifié) et opère toujours en 2026, avec des clients tels que Carrefour, Auchan, Intermarché et E.Leclerc.",
+ "website": "https://smartway.ai",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://smartway.ai/news/to-support-its-growth-in-france-and-speed-up-international-development-zero-gachis-raises-eu10m-and-becomes-smartway",
+   "titre": "To support its growth in France and speed up international development, Zero-Gachis raises €10M and becomes Smartway",
+   "annee": "2021",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://smartway.ai",
+   "titre": "Smartway — site officiel",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/smartway-ai",
+ "openQuestions": [
+  "Internet Archive (web.archive.org) était inaccessible depuis cet environnement (le proxy réseau bloque ce domaine) ; les captures CDX et les snapshots d'époque du site zero-gachis.com et des pages de promotion de lecamping.org/numa.paris n'ont donc pas pu être consultés directement — la vérification s'est appuyée sur la presse d'époque (Maddyness, 2013) et sur les sources officielles actuelles de l'entreprise.",
+  "Les profils LinkedIn individuels de Paul-Adrien Ménez et Christophe Ménez n'ont pas pu être récupérés (LinkedIn bloque les requêtes automatisées sur les pages /in/, renvoyant une erreur anti-bot y compris sur des URLs plausibles) ; seule la page LinkedIn de l'entreprise (linkedin.com/company/smartway-ai) a pu être consultée avec succès, et elle confirme la fondation en 2012, l'ancien nom Zéro-Gâchis et un statut actif. Le budget de recherche web (WebSearch) de la session était par ailleurs épuisé avant que ce dossier ne soit traité, empêchant une recherche par extraits pour retrouver ces URLs individuelles.",
+  "Aucune trace d'un rachat (exit) de Zéro-Gâchis/Smartway n'a été trouvée ; l'entreprise semble avoir toujours son propre capital et opérer sous son nom Smartway en 2026, ce qui est cohérent avec le statut 'active' déjà présent dans data.json."
+ ],
+ "summary": "Le dossier était déjà exact et n'appelle aucune correction. Zéro-Gâchis a bien fait partie de la saison 4 du Camping (article Maddyness de février 2013, application mobile de repérage des produits à prix réduit en fin de vie dans les supermarchés), fondée par Paul-Adrien et Christophe Ménez. La société a levé 10 M€ en avril 2021 et a pris le nom de Smartway à cette occasion, confirmé à la fois par le communiqué officiel smartway.ai et par la page LinkedIn de l'entreprise (fondée 2012, ancien nom Zéro-Gâchis, statut actif). Le site smartway.ai est toujours en ligne et actif en 2026, sans indice de rachat. Limite : Internet Archive était inaccessible via les outils disponibles dans cet environnement, et les profils LinkedIn individuels des fondateurs n'ont pas pu être récupérés (blocage anti-bot de LinkedIn, budget WebSearch épuisé)."
+}

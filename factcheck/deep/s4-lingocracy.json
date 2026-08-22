@@ -1,0 +1,75 @@
+{
+ "id": "s4-lingocracy",
+ "name": "Lingocracy",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "unverifiable",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Maxime Vandegeerde" },
+    { "name": "Yaoyan Yang" }
+   ],
+   "apres": [
+    { "name": "Maxime Vandegeerde" },
+    { "name": "Yaoan Yang" }
+   ],
+   "preuves": [
+    "https://www.journaldunet.com/web-tech/start-up/1108405-decouvrez-la-nouvelle-promotion-du-camping-en-video/1108415-lingocracy"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Maxime Vandegeerde" },
+  { "name": "Yaoan Yang" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Lingocracy est une plateforme qui transforme n'importe quel article trouvé en ligne en cours de langue, en s'appuyant sur le vocabulaire des contenus d'actualité pour faciliter l'apprentissage des langues étrangères.",
+ "statusDetails": "Société dissoute en janvier 2016 ; clôture de liquidation prononcée en juin 2016 (détail hérité de l'audit précédent, non re-confirmé indépendamment cette session car societe.com, pappers.fr et l'API gouvernementale recherche-entreprises ont tous renvoyé des erreurs au moment du contrôle). Le site lingocracy.com n'a plus de capture Wayback avec statut 200 après février 2015, ce qui est cohérent avec un arrêt d'activité antérieur à la dissolution mais ne prouve pas à lui seul la date exacte.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20130603060956/http://www.lingocracy.com:80/",
+   "montre": "Première capture Wayback exploitable (3 juin 2013, statut 200) peu après l'annonce de la promotion 4 du Camping — le site était en ligne dès la saison indiquée. Contenu non directement consultable cette session (l'outil WebFetch refuse tout accès à web.archive.org), confirmation obtenue via l'API archive.org/wayback/available."
+  },
+  {
+   "url": "http://web.archive.org/web/20150224020945/http://www.lingocracy.com:80/",
+   "montre": "Dernière capture avec statut 200 trouvée (24 février 2015) ; les requêtes 'available' pour 2016 et 2018 renvoient toujours cette même capture de 2015, ce qui indique qu'aucune capture postérieure n'existe et que le site s'est arrêté avant ou début 2016."
+  },
+  {
+   "url": "https://lingocracy.com",
+   "montre": "En 2026, le domaine lingocracy.com redirige (302) vers une page de revente de nom de domaine (domains.atom.com/lpd/name/lingocracy.com) ; les sous-chemins comme /about renvoient une 404. Le site n'appartient plus à l'entreprise et n'est plus actif."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/web-tech/start-up/1108405-decouvrez-la-nouvelle-promotion-du-camping-en-video/1108415-lingocracy",
+   "titre": "Découvrez la nouvelle promotion du Camping en vidéo — Lingocracy",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/lingocracy",
+ "openQuestions": [
+  "L'orthographe exacte du prénom du second fondateur (« Yaoan » selon Journal du Net, contre « Yaoyan » dans data.json) n'a qu'une seule source écrite disponible ; une romanisation alternative reste possible et mériterait une seconde source pour trancher définitivement.",
+  "Aucun profil LinkedIn personnel n'a pu être récupéré cette session : LinkedIn bloque (HTTP 999) l'accès direct aux URLs de profil devinées, et le quota WebSearch de la session était épuisé, empêchant une recherche indexée classique.",
+  "Les dates précises de dissolution (janvier 2016) et de clôture de liquidation (juin 2016) proviennent de l'audit précédent (batch-02) et n'ont pas pu être re-vérifiées cette session : societe.com a renvoyé une page de recherche vide, pappers.fr une erreur 403, et recherche-entreprises.api.gouv.fr une erreur 503.",
+  "Aucune mention de pivot ou de changement de nom n'a été trouvée dans la presse ; le nom « Lingocracy » est identique dès l'annonce de la promotion en février 2013.",
+  "Aucune preuve d'acquisition n'a été trouvée (pas de communiqué de rachat, pas de mention presse d'un acquéreur) ; le statut « stopped » (et non « exit ») reste donc la lecture la plus cohérente."
+ ],
+ "summary": "La cohorte (saison 4, 2013) et l'identité de Lingocracy sont confirmées par l'article Maddyness du 28 février 2013 et la fiche dédiée du Journal du Net, qui décrit un service transformant des articles web en cours de langue — description corroborée par la page LinkedIn de l'entreprise. Le second fondateur est orthographié « Yaoan Yang » par le Journal du Net (source citée par data.json elle-même pour ce champ), et non « Yaoyan Yang » ; correction appliquée. Le site lingocracy.com est mort (redirection vers une page de revente de domaine) et sa dernière capture Wayback active date de février 2015, cohérent avec l'arrêt d'activité avant la dissolution de janvier 2016 mentionnée dans l'audit précédent, mais cette date précise n'a pas pu être re-confirmée auprès des registres (accès bloqués cette session). Aucune trace d'acquisition n'a été trouvée."
+}

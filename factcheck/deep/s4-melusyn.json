@@ -1,0 +1,115 @@
+{
+ "id": "s4-melusyn",
+ "name": "Melusyn",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": ["SetKeeper"],
+   "preuves": [
+    "https://www.maddyness.com/2016/02/29/melusyn-levee-580-000/",
+    "https://www.maddyness.com/2016/03/02/emploi-dayuse-drivy-melusyn-balinea-kameleoon/",
+    "https://www.setkeeper.com/legal"
+   ]
+  },
+  "status": {
+   "avant": "stopped",
+   "apres": "active",
+   "preuves": [
+    "https://www.setkeeper.com",
+    "https://www.setkeeper.com/clients",
+    "https://www.linkedin.com/company/setkeeper",
+    "https://www.setkeeper.com/legal"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Ancien outil de production audiovisuelle non retrouvé comme activité actuelle.",
+   "apres": "Melusyn SAS (SIREN 790865265) opère aujourd'hui sous la marque commerciale SetKeeper ; le site setkeeper.com est en ligne, revendique des clients actifs (Netflix, BBC Studios, A24, Paramount, Warner Bros. Discovery, Sky Studios) et des productions livrées jusqu'en 2024 (« 28 Years Later », « Paddington in Peru »).",
+   "preuves": [
+    "https://www.setkeeper.com",
+    "https://www.setkeeper.com/clients",
+    "https://www.setkeeper.com/legal",
+    "https://www.linkedin.com/company/setkeeper"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "https://www.setkeeper.com",
+   "preuves": ["https://www.setkeeper.com"]
+  }
+ },
+ "founders": [
+  { "name": "Octave Bory-Bert" },
+  { "name": "Alexandre Péron" },
+  { "name": "Hugo Cordier" },
+  { "name": "Chloé Oternaud" }
+ ],
+ "status": "active",
+ "activityDescription": "Melusyn (aujourd'hui commercialisée sous la marque SetKeeper) est une plateforme SaaS collaborative qui centralise la préparation et la coordination de tournages de cinéma, télévision et publicité (scénario, dépouillement technique, plans de travail, repérages, casting, documents de production) pour les équipes de production audiovisuelle.",
+ "statusDetails": "Melusyn SAS (SIREN 790865265, domiciliée initialement à ESSEC Ventures, Cergy) est toujours en activité en 2026 sous la marque SetKeeper : site marchand actif, clientèle de studios et diffuseurs majeurs (Netflix, BBC Studios, A24, Paramount, Warner Bros. Discovery, Sky Studios, ITV Studios, Banijay) et productions référencées jusqu'en 2024.",
+ "website": "https://www.setkeeper.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/lancement-de-melusyn-la-gestion-de-tournages-de-fiction-en-mode-cloud/95641",
+   "titre": "Lancement de Melusyn, la gestion de tournages de fiction en mode cloud",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2013/10/15/melusyn-cloud-outils-creation-audiovisuelle/",
+   "titre": "Melusyn, le cloud qui facilite la création audiovisuelle",
+   "annee": "2013",
+   "soutient": ["founders", "cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2013/10/28/startups-melusyn-moviemotion-taketracker-moviechainer/",
+   "titre": "4 startups se regroupent avec comme ambition de révolutionner l'industrie audiovisuelle",
+   "annee": "2013",
+   "soutient": ["identity", "cohort"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/02/29/melusyn-levee-580-000/",
+   "titre": "Melusyn, qui facilite l'organisation de tournages vidéo, lève 580 000 euros",
+   "annee": "2016",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.itespresso.fr/levee-fonds-melusyn-plante-decor-122958.html",
+   "titre": "Levée de fonds : Melusyn plante le décor",
+   "annee": "2016",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/03/02/emploi-dayuse-drivy-melusyn-balinea-kameleoon/",
+   "titre": "5 offres d'emploi chez DayUse, Drivy, Melusyn, Balinea & Kameleoon",
+   "annee": "2016",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/setkeeper",
+ "openQuestions": [
+  "L'outil Internet Archive (web.archive.org) était inaccessible depuis cet environnement (échec systématique du fetch), donc aucune capture d'archive n'a pu être consultée directement ; toute la vérification de l'historique 2013 repose sur la presse contemporaine (FrenchWeb, Maddyness) plutôt que sur des snapshots du site melusyn.com.",
+  "Les moteurs de recherche généralistes (Google, Bing, DuckDuckGo, Mojeek, Marginalia) étaient bloqués ou renvoyaient des résultats non pertinents depuis cet environnement, et le budget de l'outil WebSearch dédié était épuisé avant que les profils LinkedIn individuels des fondateurs n'aient pu être recherchés ; aucun lien linkedin.com/in/... n'a donc pu être confirmé pour les 4 fondateurs malgré plusieurs tentatives directes (bloquées par LinkedIn, HTTP 999).",
+  "Un article Maddyness d'octobre 2013 mentionne une cinquième personne, une designer prénommée « Noémie », rejointe à l'équipe en 2013 ; elle n'apparaît dans aucune autre source comme cofondatrice et n'est pas ajoutée à la liste des fondateurs faute de nom de famille et de confirmation indépendante.",
+  "Le domaine historique melusyn.com renvoie aujourd'hui une erreur 503 et fr.melusyn.com ne résout plus (DNS) ; l'entreprise a clairement migré sa présence web vers setkeeper.com tout en gardant 'Melusyn SAS' comme raison sociale (mentions légales du site)."
+ ],
+ "summary": "Melusyn (saison 4 du Camping, début 2013) est confirmée par la presse de l'époque : plateforme cloud de gestion de tournages (cinéma/TV/pub), fondée par Octave Bory-Bert, Alexandre Péron, Hugo Cordier et Chloé Oternaud — liste de fondateurs déjà correcte dans la fiche et re-confirmée par un second article (ITespresso, 2016) qui attribue explicitement la fondation aux quatre. En revanche le statut 'stopped' de la fiche est erroné : l'entreprise (Melusyn SAS, SIREN 790865265) opère toujours en 2026 sous la marque commerciale SetKeeper (setkeeper.com), avec des clients actuels de premier plan (Netflix, BBC Studios, A24, Paramount, Warner Bros. Discovery) et des productions livrées jusqu'en 2024. Corrections proposées : statut → 'active', ajout du pivot de marque 'SetKeeper', ajout du site web setkeeper.com, et mise à jour du statusDetails. Web.archive.org était inaccessible depuis cet environnement et les profils LinkedIn individuels des fondateurs n'ont pas pu être confirmés faute de moteur de recherche disponible ; ces limites sont documentées en openQuestions."
+}

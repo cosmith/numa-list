@@ -1,0 +1,92 @@
+{
+ "id": "s5-agriconomie",
+ "name": "Agriconomie",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Place de marché agricole active sous le nom Agryco.",
+   "apres": "Fondée en 2014 par Paolin Pascot, Dinh Nguyen et Clément Le Fournis sous le nom Agriconomie, la place de marché agricole en ligne a changé de nom pour devenir Agryco le 12 septembre 2024, pour ses dix ans (« un nom plus international pour refléter notre évolution », selon Clément Le Fournis). Le service est toujours actif : il revendique environ 650 000 agriculteurs clients en Europe (dont 300 000 en France, soit environ 80 % de notoriété chez les agriculteurs français), un chiffre d'affaires d'environ 105 M€ en 2024 et une levée de 60 M€ en série B en novembre 2022 (Treïs Group, Temasek, Aliment Capital, Eurazeo).",
+   "preuves": [
+    "https://www.agromatin.com/agrostrategie/conseil-distribution/l-accompagnement-des-agriculteurs-doit-etre-independant-clement-le-fournis-directeur-d-agryco.html",
+    "https://techfundingnews.com/one-stop-shop-for-european-farmers-agriconomie-raises-e60m",
+    "https://www.maddyness.com/2022/09/13/agriconomie-mise-sur-le-local-pour-toucher-les-agriculteurs-au-plus-pres-de-chez-eux/",
+    "https://www.agryco.com"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Paolin Pascot", "linkedin": "https://www.linkedin.com/in/paolinpascot" },
+  { "name": "Dinh Nguyen", "linkedin": "https://fr.linkedin.com/in/dinh-nguyen-59b9b715" },
+  { "name": "Clément Le Fournis", "linkedin": "https://www.linkedin.com/in/clement-le-fournis-76362241" }
+ ],
+ "status": "active",
+ "activityDescription": "Agriconomie (devenue Agryco en 2024) est une place de marché en ligne qui permet aux agriculteurs d'acheter directement engrais, semences, produits phytosanitaires, pièces détachées, carburant et matériel agricole à prix compétitifs, en réduisant les intermédiaires de la distribution agricole classique.",
+ "statusDetails": "Fondée en 2014 par Paolin Pascot, Dinh Nguyen et Clément Le Fournis sous le nom Agriconomie, la place de marché agricole en ligne a changé de nom pour devenir Agryco le 12 septembre 2024, pour ses dix ans (« un nom plus international pour refléter notre évolution », selon Clément Le Fournis). Le service est toujours actif : il revendique environ 650 000 agriculteurs clients en Europe (dont 300 000 en France, soit environ 80 % de notoriété chez les agriculteurs français), un chiffre d'affaires d'environ 105 M€ en 2024 et une levée de 60 M€ en série B en novembre 2022 (Treïs Group, Temasek, Aliment Capital, Eurazeo).",
+ "website": "https://www.agryco.com",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20131225110647/http://www.agriconomie.com:80/",
+   "montre": "Capture Wayback Machine du 25 décembre 2013 (confirmée via l'API archive.org/wayback/available, le proxy de la session bloquant l'accès direct à web.archive.org) : le site agriconomie.com était déjà en ligne fin 2013, cohérent avec l'appartenance à la saison 5 du Camping (2013-2014)."
+  },
+  {
+   "url": "http://web.archive.org/web/20170906014024/http://agryco.com:80/",
+   "montre": "Plus ancienne capture connue d'agryco.com (septembre 2017, via l'API archive.org/wayback/available) : le nom de domaine agryco.com existait déjà bien avant son adoption comme marque officielle en septembre 2024, mais n'a servi de site principal qu'à partir du rebranding."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+   "titre": "12 start-up sélectionnées, saison 5 du Camping",
+   "annee": "2013",
+   "soutient": ["cohort", "identity", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2022/09/13/agriconomie-mise-sur-le-local-pour-toucher-les-agriculteurs-au-plus-pres-de-chez-eux/",
+   "titre": "Agriconomie mise sur le local pour toucher les agriculteurs au plus près de chez eux",
+   "annee": "2022",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2024/01/11/la-question-maddyness-a-paolin-pascot-agriconomie-comment-se-positionne-la-france-dans-le-paysage-mondial-de-lagritech/",
+   "titre": "La question Maddyness à Paolin Pascot (Agriconomie)",
+   "annee": "2024",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://techfundingnews.com/one-stop-shop-for-european-farmers-agriconomie-raises-e60m",
+   "titre": "One-stop-shop for European farmers: Agriconomie raises €60M",
+   "annee": "2022",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.agromatin.com/agrostrategie/conseil-distribution/l-accompagnement-des-agriculteurs-doit-etre-independant-clement-le-fournis-directeur-d-agryco.html",
+   "titre": "L'accompagnement des agriculteurs doit être indépendant (Clément Le Fournis, directeur d'Agryco)",
+   "annee": "2024",
+   "soutient": ["identity", "status", "founders"]
+  },
+  {
+   "url": "https://agriculture.gouv.fr/clement-itineraire-dun-start-upper-premier-diplome-dhec-titulaire-dun-bac-agricole",
+   "titre": "Clément, itinéraire d'un start-upper, premier diplômé d'HEC titulaire d'un bac agricole",
+   "annee": "2019",
+   "soutient": ["founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/agryco",
+ "openQuestions": [
+  "Le proxy réseau de la session bloque l'accès direct à web.archive.org (seule l'API archive.org/wayback/available a pu être interrogée) ; une lecture directe des captures 2013-2014 permettrait de confirmer visuellement le produit et une éventuelle page équipe.",
+  "La date exacte de sélection pour la saison 5 (2013 ou 2014) n'a pas été confirmée au jour près, seulement via la présence dans la liste des 12 startups de la saison.",
+  "Le mode d'accès aux moteurs de recherche classiques (Google/Bing/DuckDuckGo) étant restreint dans cet environnement, la recherche de founders additionnels non déjà connus n'a pas pu être exhaustive au-delà des trois fondateurs confirmés par sources concordantes."
+ ],
+ "summary": "Agriconomie, saison 5 du Camping (place de marché agricole en ligne fondée en 2014 par Paolin Pascot, Dinh Nguyen et Clément Le Fournis), est toujours active : elle a changé de nom pour Agryco le 12 septembre 2024, pour ses dix ans, et revendique environ 650 000 agriculteurs clients en Europe. Cohorte, nom, ancien/nouveau nom, fondateurs (avec LinkedIn confirmé pour les trois), statut actif et site web (agryco.com, agriconomie.com redirige dessus) sont tous confirmés par des sources concordantes (presse, LinkedIn, Wayback availability API) ; seul le champ statusDetails a été enrichi avec la date précise du rebranding et des chiffres à jour."
+}

@@ -1,0 +1,126 @@
+{
+ "id": "s4-decovery",
+ "name": "Decovery",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "unverifiable",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "status": {
+   "avant": "stopped",
+   "apres": "exit",
+   "preuves": [
+    "https://www.cbnews.fr/medias/express-roularta-france-rachete-decovery",
+    "https://funding.tech.eu/companies/7D037E4D-FAC5-4104-BB00-7E6E65D7C551",
+    "https://dkomag.net/decovery-et-slideshowroom-deviennent-cote-maison-projets/",
+    "https://people.equilar.com/bio/person/francois-meteyer-alven/28271622",
+    "https://www.crunchbase.com/acquisition/groupe-altice-media-acquires-decovery--100804d2"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service de décoration non retrouvé comme activité actuelle.",
+   "apres": "Decovery a été racheté par le groupe Express-Roularta France (éditeur du magazine Côté Maison) vers mars 2014, puis fusionné en janvier 2015 avec SlideShowroom et la marque Côté Maison pour former « Côté Maison Projets ». Le cofondateur Arthur Fouvez a poursuivi l'aventure au sein du groupe pour piloter cette intégration.",
+   "preuves": [
+    "https://www.cbnews.fr/medias/express-roularta-france-rachete-decovery",
+    "https://dkomag.net/decovery-et-slideshowroom-deviennent-cote-maison-projets/",
+    "https://funding.tech.eu/companies/7D037E4D-FAC5-4104-BB00-7E6E65D7C551"
+   ]
+  },
+  "founders": {
+   "avant": [
+    { "name": "Arthur Fouvez" },
+    { "name": "François Meteyer" }
+   ],
+   "apres": [
+    { "name": "Arthur Fouvez", "linkedin": "https://fr.linkedin.com/in/arthurfouvez" },
+    { "name": "François Meteyer", "linkedin": "https://fr.linkedin.com/in/francoismeteyer" }
+   ],
+   "preuves": [
+    "https://www.jaimelesstartups.fr/decovery/",
+    "https://www.paperblog.fr/6302012/un-nouveau-site-participatif-qui-donne-des-idees-deco/",
+    "https://dkomag.net/decovery-et-slideshowroom-deviennent-cote-maison-projets/"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Arthur Fouvez",
+   "linkedin": "https://fr.linkedin.com/in/arthurfouvez"
+  },
+  {
+   "name": "François Meteyer",
+   "linkedin": "https://fr.linkedin.com/in/francoismeteyer"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "Decovery est une plateforme communautaire où des particuliers publient des photos de leur intérieur pour recevoir, gratuitement, des conseils de décoration personnalisés d'une communauté d'experts et de passionnés, avant d'être orientés vers des professionnels ou des produits.",
+ "statusDetails": "Decovery a été racheté par le groupe Express-Roularta France (éditeur de Côté Maison) vers mars 2014, puis fusionné en janvier 2015 avec SlideShowroom et la marque Côté Maison pour former « Côté Maison Projets » ; le cofondateur Arthur Fouvez a piloté cette intégration au sein du groupe. Le nom de domaine decovery.fr a depuis été récupéré par un tiers et héberge aujourd'hui un blog déco sans rapport avec la startup d'origine.",
+ "acquirer": "Express-Roularta France (Côté Maison)",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.paperblog.fr/6302012/un-nouveau-site-participatif-qui-donne-des-idees-deco/",
+   "titre": "Un nouveau site participatif qui donne des idées déco",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.jaimelesstartups.fr/decovery/",
+   "titre": "Découvrez l'histoire de la startup Decovery",
+   "annee": "2013",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.cbnews.fr/medias/express-roularta-france-rachete-decovery",
+   "titre": "Express-Roularta France rachète Decovery",
+   "annee": "2014",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://funding.tech.eu/companies/7D037E4D-FAC5-4104-BB00-7E6E65D7C551",
+   "titre": "Decovery — funding rounds & investors (Tech.eu)",
+   "annee": "2014",
+   "soutient": ["status", "cohort"]
+  },
+  {
+   "url": "https://dkomag.net/decovery-et-slideshowroom-deviennent-cote-maison-projets/",
+   "titre": "Decovery et SlideShowroom deviennent « Côté Maison Projets »",
+   "annee": "2015",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://people.equilar.com/bio/person/francois-meteyer-alven/28271622",
+   "titre": "François Meteyer — Executive Bio (Equilar)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.crunchbase.com/acquisition/groupe-altice-media-acquires-decovery--100804d2",
+   "titre": "Decovery acquired by Groupe Altice Media (Crunchbase)",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/decovery/",
+ "openQuestions": [
+  "L'entrée Crunchbase/Equilar indique un rachat par « Altice Media Group », mais la presse (CBnews, DKOMag) et Tech.eu attribuent le rachat à Express-Roularta France (Côté Maison) en mars 2014 — Altice Media Group n'a repris le pôle magazines de Roularta (dont Côté Maison) qu'en 2015-2016 lors du rachat du groupe Express-Roularta par Altice/NextRadioTV ; les deux versions sont donc probablement compatibles (rachat initial par Roularta, puis Roularta racheté par Altice), mais aucune source primaire (communiqué officiel, article daté précisément) n'a pu être consultée pour fixer la date exacte du rachat de Decovery ni le montant.",
+  "Impossible de consulter des snapshots Internet Archive (web.archive.org est inaccessible depuis cet environnement) pour confirmer visuellement le site d'origine et une éventuelle page équipe.",
+  "Aucun accès aux registres d'entreprises français (societe.com, pappers.fr, infogreffe.fr — tous bloqués en HTTP 403) pour confirmer le SIREN et la date de radiation de la société Decovery.",
+  "Le domaine decovery.fr n'est plus lié à la startup d'origine : il héberge désormais un blog déco générique sans rapport, ce qui n'a pas pu être daté précisément."
+ ],
+ "summary": "Decovery (saison 4 de Le Camping, début 2013) était une plateforme participative de conseils décoration fondée par Arthur Fouvez et François Meteyer (confirmé par Maddyness, Paperblog et J'aime les Startups). Contrairement à la fiche actuelle qui indique un statut « stopped » non confirmé, plusieurs sources concordantes (CBnews, Tech.eu, DKOMag, complétées par Crunchbase et la bio Equilar de François Meteyer) montrent qu'il s'agit en réalité d'une sortie par acquisition : Decovery a été racheté par le groupe Express-Roularta France (éditeur de Côté Maison) vers mars 2014, puis fusionné en janvier 2015 avec SlideShowroom pour former « Côté Maison Projets », Arthur Fouvez pilotant cette intégration. Le statut doit donc passer de « stopped » à « exit ». Aucun site web actif ne doit être indiqué : decovery.fr a été récupéré par un tiers sans lien avec la startup."
+}

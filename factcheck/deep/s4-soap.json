@@ -1,0 +1,77 @@
+{
+ "id": "s4-soap",
+ "name": "SOAP",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Application non retrouvée comme activité actuelle.",
+   "apres": "Les noms de domaine historiques du service (soapapp.co et znapp.it) ne résolvent plus, la fiche de l'application Znappit a disparu de l'App Store (erreur 404), et aucune actualité, levée de fonds ou reprise n'a été retrouvée après le portrait de novembre 2013 dans FrenchWeb : tout indique un arrêt de l'activité.",
+   "preuves": [
+    "https://apps.apple.com/fr/app/znappit/id626751339",
+    "http://www.soapapp.co",
+    "http://znapp.it",
+    "https://raw.githubusercontent.com/lecamping/lecampingmafia/gh-pages/startups.json"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Victor Grange" },
+  { "name": "Adrien Dupuy" },
+  { "name": "Nicolas Garnault" }
+ ],
+ "status": "stopped",
+ "activityDescription": "SOAP (ex Znappit) est une application mobile qui compile automatiquement les vidéos filmées par plusieurs participants lors d'un même événement pour en tirer un souvenir vidéo collaboratif d'environ 90 secondes.",
+ "statusDetails": "Les noms de domaine historiques du service (soapapp.co et znapp.it) ne résolvent plus, la fiche de l'application Znappit a disparu de l'App Store (erreur 404), et aucune actualité, levée de fonds ou reprise n'a été retrouvée après le portrait de novembre 2013 dans FrenchWeb : tout indique un arrêt de l'activité.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.unsimpleclic.com/le-camping-les-12-nouvelles-startups-selectionnees-pour-la-saison-4/",
+   "titre": "Le Camping : les 12 startups de saison 4",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/bon-app-znappit-realise-des-montages-collaboratifs-de-videos-lors-devenements/134338",
+   "titre": "Znappit réalise des montages collaboratifs de vidéos lors d'événements",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/gh-pages/startups.json",
+   "titre": "Le Camping Mafia — archive officielle des startups (fiche « SOAP (ex znappit) »)",
+   "annee": "s.d.",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://apps.apple.com/fr/app/znappit/id626751339",
+   "titre": "Fiche App Store Znappit — retournée en erreur 404",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/znappit",
+ "openQuestions": [
+  "web.archive.org était inaccessible via les outils de cette session (échec systématique de récupération) : une vérification directe de la Wayback Machine sur soapapp.co / znapp.it (captures ~2013-2014) reste à faire pour confirmer visuellement le produit, l'équipe et l'ordre exact du pivot SOAP/Znappit.",
+  "Aucun profil LinkedIn individuel des trois fondateurs n'a pu être localisé (LinkedIn bloque l'accès automatisé aux profils et aux moteurs de recherche généralistes n'indexaient aucun résultat pertinent) ; une recherche manuelle serait nécessaire pour savoir ce que sont devenus Victor Grange, Adrien Dupuy et Nicolas Garnault.",
+  "L'ordre du pivot (Znappit -> SOAP) est déduit de la fiche officielle de l'archive Le Camping Mafia (« SOAP (ex znappit) ») ; aucune source de presse ne mentionne explicitement le nom « SOAP », seule l'archive interne de l'accélérateur l'atteste.",
+  "Aucune date précise d'arrêt d'activité n'a été retrouvée ; le constat repose sur la disparition du site, de l'app et de toute mention presse postérieure à fin 2013."
+ ],
+ "summary": "SOAP (ex Znappit), promotion 4 du Camping (2013), était une application mobile de montage vidéo collaboratif fondée par Victor Grange, Adrien Dupuy et Nicolas Garnault. La cohorte, le nom, l'ancien nom et les fondateurs sont confirmés par des sources primaires (archive officielle du Camping, Maddyness, FrenchWeb, UnSimpleClic). Le statut « arrêté » est renforcé par la disparition des deux domaines historiques (soapapp.co, znapp.it) et le retrait de l'application de l'App Store, sans aucune actualité postérieure à novembre 2013. Aucun profil LinkedIn de fondateur n'a pu être vérifié et la Wayback Machine n'a pas pu être consultée dans cet environnement."
+}

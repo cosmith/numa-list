@@ -1,0 +1,73 @@
+{
+ "id": "s4-sportdub",
+ "name": "Sportdub",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "unverifiable",
+  "statusDetails": "unverifiable",
+  "website": "verified"
+ },
+ "corrections": {
+  "activityDescription": {
+   "avant": null,
+   "apres": "Sportdub est une plateforme de \"second écran\" qui permet aux téléspectateurs d'un événement sportif de choisir, en direct, un commentaire audio alternatif (fait par d'autres internautes) à écouter en complément de la diffusion télévisée.",
+   "preuves": [
+    "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+    "https://www.master-dmc.fr/post/archives-de-la-promotion-2012-2013"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": null,
+   "preuves": [
+    "https://sportdub.com",
+    "https://www.hugedomains.com/domain_profile.cfm?d=sportdub.com"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Rodolphe Darves-Bornoz"
+  },
+  {
+   "name": "Marc-Antoine Lacroix"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Sportdub est une plateforme de \"second écran\" qui permet aux téléspectateurs d'un événement sportif de choisir, en direct, un commentaire audio alternatif (fait par d'autres internautes) à écouter en complément de la diffusion télévisée.",
+ "statusDetails": "Aucune activité, actualité ou présence en ligne postérieure à 2013 n'a pu être retrouvée pour Sportdub. Le nom de domaine historique sportdub.com a expiré et est aujourd'hui revendu par un parking de noms de domaine (HugeDomains) ; sportdub.fr ne résout plus. Aucune trace d'acquisition, de rachat ou de liquidation formelle n'a été trouvée : le statut \"stopped\" est plausible mais repose sur un faisceau d'indices (absence totale de trace après 2013 + domaine mort) plutôt que sur une preuve directe (pas de communiqué de fermeture, pas d'extrait de registre du commerce consulté).",
+ "archiveEvidence": [
+  {
+   "url": "https://sportdub.com",
+   "montre": "Redirige aujourd'hui (2026) vers hugedomains.com : le domaine sportdub.com est expiré et proposé à la vente (3595 $), preuve que le site officiel n'est plus exploité par la société."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.master-dmc.fr/post/archives-de-la-promotion-2012-2013",
+   "titre": "Archives de la promotion 2012-2013 (Master 2 Cinéma, Télévision, Nouveaux Médias, Paris 1 Panthéon-Sorbonne)",
+   "annee": "2012-2013",
+   "soutient": ["founders", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "Impossible de confirmer les profils LinkedIn individuels de Rodolphe Darves-Bornoz et Marc-Antoine Lacroix dans cette session (LinkedIn bloque l'accès direct par outil de récupération web, et le quota de recherche web de la session était épuisé) : leur parcours actuel (reconversion, autre startup, etc.) reste à vérifier.",
+  "Aucune page d'entreprise LinkedIn (linkedin.com/company/...) retrouvée pour Sportdub.",
+  "Wayback Machine (web.archive.org) inaccessible dans cet environnement d'exécution (erreur outil systématique) : impossible de consulter directement une capture d'archive du site sportdub.com/.fr ou de la page listant les startups de la saison 4 de Le Camping/NUMA pour corroborer visuellement le produit et l'équipe.",
+  "Aucun communiqué de cessation d'activité, de rachat ou de liquidation n'a été localisé ; le statut \"stopped\" reste une déduction par absence de traces plutôt qu'une confirmation directe.",
+  "Fiche registre du commerce (societe.com/pappers.fr) non localisée pour Sportdub (SAS non identifiée avec certitude) : à vérifier via une recherche par SIREN si le nom légal exact de la société est retrouvé."
+ ],
+ "summary": "La promotion (saison 4, 2013), le nom, l'absence de pivot et les deux fondateurs (Rodolphe Darves-Bornoz et Marc-Antoine Lacroix) sont confirmés par deux sources indépendantes de l'époque (Maddyness, officiel Le Camping, et les archives du Master 2 Cinéma/TV/Nouveaux Médias de Paris 1 Panthéon-Sorbonne où les fondateurs sont intervenus). Sportdub était une plateforme de second écran proposant un commentaire sportif alternatif en direct. Le domaine sportdub.com est aujourd'hui expiré et revendu (HugeDomains), sportdub.fr ne résout plus, et aucune trace d'activité, de presse ou de rachat n'existe après 2013 : cela corrobore le statut \"stopped\" déjà présent dans la fiche, mais sans preuve directe (pas de communiqué de fermeture ni de registre consulté), le champ statut reste classé \"unverifiable\" selon la méthodologie. Recherche web et Wayback Machine indisponibles dans cette session, ce qui a limité la vérification des profils LinkedIn et des captures d'archive."
+}
