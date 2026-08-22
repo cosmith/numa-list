@@ -3,39 +3,142 @@
  "name": "Coding Days",
  "season": 10,
  "checkedAt": "2026-08-22",
- "verdict": "unverifiable",
+ "verdict": "corrected",
  "fields": {
-  "season": "partially_verified",
+  "season": "verified",
   "name": "verified",
-  "formerNamesOrPivots": "verified",
-  "founders": "unverifiable",
-  "status": "unverifiable",
-  "statusDetails": "unverifiable"
+  "formerNamesOrPivots": "corrected",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
  },
- "corrections": {},
- "founders": [],
+ "corrections": {
+  "founders": {
+   "avant": [],
+   "apres": [
+    { "name": "Alexandre Zana", "linkedin": "https://fr.linkedin.com/in/alexandre-zana-51b28912b" },
+    { "name": "Thomas Jeanneau", "linkedin": "https://fr.linkedin.com/in/thomasjeanneauentrepreneur" }
+   ],
+   "preuves": [
+    "https://www.maddyness.com/entreprise/coding-days/",
+    "https://www.jaimelesstartups.fr/coding-days/",
+    "https://www.lemondeinformatique.fr/actualites/lire-coding-days-leve-600-000-eteuro-pour-accelerer-dans-le-b2b-72774.html",
+    "https://www.crunchbase.com/person/alexandre-zana",
+    "https://rocketreach.co/thomas-jeanneau-email_246017006"
+   ]
+  },
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": ["Matha (Matha.io)"],
+   "preuves": [
+    "https://www.societe.com/societe/coding-days-828400333.html",
+    "https://www.pappers.fr/entreprise/matha-828400333",
+    "https://www.infogreffe.fr/entreprise-societe/828400333-coding-days-920117B02637.html",
+    "https://www.youtube.com/watch?v=Q6XDwm8Qjy8",
+    "https://matha.io/a-propos"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Présente dans le portfolio NUMA Paris et dans la base alumni officielle de NUMA (saison 10, tag « Alive » en 2018), mais aucune information vérifiable (fondateurs, activité précise) n'a pu être retrouvée au-delà de cette présence : le domaine codingdays.fr a disparu et codingdays.com redirige vers une page de vente de domaine GoDaddy en 2026.",
+   "apres": "La société CODING DAYS SAS (SIREN 828400333, créée le 01/03/2017 à Boulogne-Billancourt) a changé de nom pour devenir MATHA le 01/09/2020, pivotant vers une plateforme d'e-learning et de mentorat pour entrepreneurs (Matha.io). Un jugement du tribunal de commerce de Bobigny du 17/03/2026 a clôturé la liquidation judiciaire pour insuffisance d'actif, entraînant la radiation d'office de la société le 17/03/2026. Les sites coding-days.com et codingdays.fr ne résolvent plus, et matha.io est inaccessible (erreur serveur) en 2026.",
+   "preuves": [
+    "https://www.societe.com/societe/coding-days-828400333.html",
+    "https://www.pappers.fr/entreprise/matha-828400333",
+    "https://www.infogreffe.fr/entreprise-societe/828400333-coding-days-920117B02637.html",
+    "https://www.jaimelesstartups.fr/coding-days/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Alexandre Zana", "linkedin": "https://fr.linkedin.com/in/alexandre-zana-51b28912b" },
+  { "name": "Thomas Jeanneau", "linkedin": "https://fr.linkedin.com/in/thomasjeanneauentrepreneur" }
+ ],
  "status": "stopped",
- "statusDetails": "Présente dans le portfolio NUMA Paris et dans la base alumni officielle de NUMA (saison 10, tag « Alive » en 2018), mais aucune information vérifiable (fondateurs, activité précise) n'a pu être retrouvée au-delà de cette présence : le domaine codingdays.fr a disparu et codingdays.com redirige vers une page de vente de domaine GoDaddy en 2026.",
+ "activityDescription": "Coding Days est un bootcamp qui initiait particuliers et salariés d'entreprises aux fondamentaux du développement web (HTML5, CSS3, méthodes agiles) lors de sessions intensives d'une journée ou d'un week-end.",
+ "statusDetails": "La société CODING DAYS SAS (SIREN 828400333, créée le 01/03/2017 à Boulogne-Billancourt) a changé de nom pour devenir MATHA le 01/09/2020, pivotant vers une plateforme d'e-learning et de mentorat pour entrepreneurs (Matha.io). Un jugement du tribunal de commerce de Bobigny du 17/03/2026 a clôturé la liquidation judiciaire pour insuffisance d'actif, entraînant la radiation d'office de la société le 17/03/2026. Les sites coding-days.com et codingdays.fr ne résolvent plus, et matha.io renvoie une erreur serveur en 2026.",
+ "acquirer": "",
  "archiveEvidence": [],
  "pressEvidence": [
   {
+   "url": "https://www.maddyness.com/2018/06/07/onateste-coding-days/",
+   "titre": "Coding Days, une journée pour apprendre à coder",
+   "annee": "2018",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.lemondeinformatique.fr/actualites/lire-coding-days-leve-600-000-eteuro-pour-accelerer-dans-le-b2b-72774.html",
+   "titre": "Coding Days lève 600 000 € pour accélérer dans le B2B",
+   "annee": "2018",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://lespepitestech.com/startup-de-la-french-tech/coding-days",
+   "titre": "Coding Days - Startup France French Tech Grand Paris",
+   "annee": "2016",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.jaimelesstartups.fr/coding-days/",
+   "titre": "Découvrez l'histoire de la startup Coding Days",
+   "annee": "2020",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/entreprise/coding-days/",
+   "titre": "Coding Days : actu, infos, fiche entreprise",
+   "annee": "2018",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/alexandre-zana",
+   "titre": "Alexandre Zana - Co-Founder and CEO @ Coding Days",
+   "annee": "2018",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=Q6XDwm8Qjy8",
+   "titre": "Alexandre Zana - CEO et fondateur de Matha.io (ex Coding Days)",
+   "annee": "2020",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/coding-days-828400333.html",
+   "titre": "Société MATHA (ex CODING DAYS), SIREN 828400333",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/matha-828400333",
+   "titre": "Société MATHA (828400333) : statuts, extrait d'immatriculation",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.infogreffe.fr/entreprise-societe/828400333-coding-days-920117B02637.html",
+   "titre": "CODING DAYS à BOULOGNE-BILLANCOURT (828400333) - Infogreffe",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
-   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018",
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.annuaire-startups.pro/startup/accelerateur-numa-paris-accceleration/",
-   "titre": "",
-   "soutient": [
-    "identity"
-   ]
+   "titre": "Accélérateur NUMA Paris Acccélération - annuaire-startups.pro",
+   "annee": "2026",
+   "soutient": ["identity"]
   }
  ],
  "linkedinCompany": "",
  "openQuestions": [
-  "Fondateurs et activité précise non retrouvés malgré recherche ; fiche volontairement minimale plutôt qu'incomplète par extrapolation."
+  "web.archive.org (Wayback Machine) était totalement inaccessible depuis cet environnement pour cette fiche (échec sur toutes les formes d'URL testées, y compris le CDX), tout comme l'API index.commoncrawl.org (erreur 503) : aucune capture d'écran d'époque du site coding-days.com ni de la page hub.numa.co/public/alumni n'a donc pu être consultée directement lors de ce passage ; la mention de la cohorte saison 10 (Beewake, Coding Days, Goodeed, Ma Coiffeuse Afro, Medelse) provient de résultats de moteur de recherche sans URL primaire clairement identifiable en plus de la source Common Crawl déjà retenue par le premier passage — à recouper si l'accès à web.archive.org est rétabli.",
+  "Le lien entre le profil LinkedIn fr.linkedin.com/in/thomasjeanneauentrepreneur et le co-fondateur de Coding Days repose sur un recoupement de résultats de recherche (rocketreach mentionnant un « Thomas Jeanneau » ex-Coding Days, actif à Angers, fondateur d'essentiel.io) ; il existe un risque d'homonymie avec un autre Thomas Jeanneau (« Merci pour ton non ») que LinkedIn n'a pas permis de trancher directement (accès direct au profil bloqué).",
+  "Aucune page LinkedIn Company dédiée à « Coding Days » n'a été retrouvée (uniquement des profils personnels et des pages d'entreprises homonymes sans rapport).",
+  "NUMA apparaît aussi comme client B2B de Coding Days en 2018 (formation sur-mesure, article Le Monde Informatique) en plus de la relation d'accélération de la saison 10 (2016-2017) — deux relations distinctes mais non contradictoires."
  ],
- "summary": "Fondateurs et activité précise non retrouvés malgré recherche ; fiche volontairement minimale plutôt qu'incomplète par extrapolation."
+ "summary": "Coding Days (bootcamp de code en format intensif, fondé en mars 2017 sous le SIREN 828400333 par Alexandre Zana et Thomas Jeanneau) confirme sa présence en saison 10 de NUMA Paris (cohorte Beewake / Coding Days / Goodeed / Ma Coiffeuse Afro / Medelse). La société a pivoté et changé de nom pour devenir Matha (Matha.io), plateforme d'e-learning pour entrepreneurs, le 01/09/2020. Sa liquidation judiciaire pour insuffisance d'actif a été clôturée par le tribunal de commerce de Bobigny le 17/03/2026, entraînant sa radiation d'office le même jour — statut « stopped » désormais solidement établi (registre du commerce), avec fondateurs et description d'activité ajoutés."
 }

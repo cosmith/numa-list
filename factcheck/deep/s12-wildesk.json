@@ -3,16 +3,26 @@
  "name": "Wildesk",
  "season": 12,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "corrected"
  },
- "corrections": {},
+ "corrections": {
+  "statusDetails": {
+   "avant": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
+   "apres": "Wildesk a été lancée en 2016 par Alexis de Loynes (diplômé de l'IESEG, passé par Groupon, Chauffeur-Privé et Stuart) sous la forme d'un premier prototype de bureau mobile — une caravane des années 1970 rénovée et connectée, installée le long du canal de l'Ourcq à Paris. La société a ensuite pivoté, sans changer de nom, vers un service de bien-être au travail pour entreprises (fruits bio, encas sains, café/thé, plantes de bureau), rejoint par Yann Simon comme co-fondateur et directeur marketing en septembre 2017 — la formule sous laquelle elle a intégré la saison 12 de NUMA. Le site wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus du tout en août 2026 (échec DNS direct constaté). Aucune recherche sur les registres publics français (recherche-entreprises.api.gouv.fr, societe.com) n'a permis de retrouver une fiche 'Wildesk' active ou radiée, malgré plusieurs tentatives (pages renvoyant des erreurs serveur ou des résultats vides) ; l'absence de trace au registre reste donc non tranchée plutôt que prouvée. La page LinkedIn 'Wildesk' existante correspond à une société homonyme sans rapport, basée à Santiago du Chili (logiciel environnemental) — à ne pas confondre avec la startup NUMA.",
+   "preuves": [
+    "https://www.myfrenchstartup.com/fr/startup-france/205247/wildesk",
+    "https://lespepitestech.com/startup-de-la-french-tech/wildesk",
+    "https://www.linkedin.com/company/wildesk/"
+   ]
+  }
+ },
  "founders": [
   {
    "name": "Alexis de Loynes"
@@ -22,19 +32,22 @@
   }
  ],
  "status": "stopped",
- "statusDetails": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
+ "activityDescription": "Wildesk livrait aux entreprises des fruits bio, snacks sains, café/thé équitables et plantes de bureau pour améliorer le bien-être des salariés.",
+ "statusDetails": "Wildesk a été lancée en 2016 par Alexis de Loynes (diplômé de l'IESEG, passé par Groupon, Chauffeur-Privé et Stuart) sous la forme d'un premier prototype de bureau mobile — une caravane des années 1970 rénovée et connectée, installée le long du canal de l'Ourcq à Paris. La société a ensuite pivoté, sans changer de nom, vers un service de bien-être au travail pour entreprises (fruits bio, encas sains, café/thé, plantes de bureau), rejoint par Yann Simon comme co-fondateur et directeur marketing en septembre 2017 — la formule sous laquelle elle a intégré la saison 12 de NUMA. Le site wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus du tout en août 2026 (échec DNS direct constaté). Aucune recherche sur les registres publics français (recherche-entreprises.api.gouv.fr, societe.com) n'a permis de retrouver une fiche 'Wildesk' active ou radiée, malgré plusieurs tentatives (pages renvoyant des erreurs serveur ou des résultats vides) ; l'absence de trace au registre reste donc non tranchée plutôt que prouvée. La page LinkedIn 'Wildesk' existante correspond à une société homonyme sans rapport, basée à Santiago du Chili (logiciel environnemental) — à ne pas confondre avec la startup NUMA.",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "annee": "2018",
    "soutient": [
     "cohort"
    ]
   },
   {
    "url": "https://www.myfrenchstartup.com/fr/startup-france/205247/wildesk",
-   "titre": "",
+   "titre": "Startup WILDESK, la plateforme écoresponsable de services aux entreprises et aux salariés",
+   "annee": "2017-2018",
    "soutient": [
     "founders",
     "identity"
@@ -42,7 +55,8 @@
   },
   {
    "url": "https://lespepitestech.com/startup-de-la-french-tech/wildesk",
-   "titre": "",
+   "titre": "Wildesk - Startup France French Tech Toulouse",
+   "annee": "2018",
    "soutient": [
     "founders",
     "identity"
@@ -50,7 +64,12 @@
   }
  ],
  "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
- "activityDescription": "Wildesk livrait aux entreprises des fruits bio, snacks sains, café/thé équitables et plantes de bureau pour améliorer le bien-être des salariés."
+ "openQuestions": [
+  "web.archive.org (Wayback Machine) était inaccessible depuis cet environnement (échec de résolution/connexion sur toutes les formes d'URL essayées, y compris l'API CDX) : impossible de vérifier directement les captures historiques de wildesk.fr ni la base alumni hub.numa.co/public/alumni au-delà de la capture Common Crawl déjà citée dans le premier passage.",
+  "Aucun profil LinkedIn personnel n'a pu être rattaché avec certitude à Alexis de Loynes ou à Yann Simon : plusieurs homonymes existent pour chacun (dont un 'Alexis de Loynes' chez Arthur Loyd et chez DriiveMe, et plusieurs 'Yann Simon' chez Eventdrive, Nexity, ADIS, etc.), sans qu'aucun ne mentionne Wildesk dans les extraits de recherche disponibles ; l'accès direct aux profils LinkedIn a en outre été bloqué (HTTP 999).",
+  "Le budget de recherche web (WebSearch) de la session a été épuisé avant la fin de cet audit, limitant les requêtes supplémentaires possibles pour retrouver ces profils ou d'autres articles de presse d'époque.",
+  "Le statut au registre du commerce français (SIREN/SIRET) n'a pas pu être confirmé : les interrogations sur recherche-entreprises.api.gouv.fr et societe.com ont échoué (erreurs serveur ou pages vides) plutôt que de renvoyer explicitement une absence de résultat.",
+  "Des membres d'équipe supplémentaires (Cindy Loyer, Jeanne Velay, Tom Desnoyers) apparaissent sur la fiche Les Pépites Tech aux côtés des deux fondateurs ; rien n'indique qu'il s'agisse de co-fondateurs plutôt que de salariés, donc ils n'ont pas été ajoutés à la liste des fondateurs."
+ ],
+ "summary": "Wildesk (saison 12 NUMA, cohorte confirmée par la base alumni officielle) a été fondée en 2016 par Alexis de Loynes comme concept de bureau mobile (caravane connectée), avant de pivoter vers un service de bien-être au bureau (fruits bio, encas, café/thé, plantes) rejoint par le co-fondateur Yann Simon en septembre 2017 — c'est sous cette forme qu'elle a intégré NUMA. Le site wildesk.fr ne résout plus en 2026 (confirmé par échec DNS direct, en plus de la dernière capture Wayback de février 2024 déjà notée), et aucune trace claire n'a pu être établie dans les registres publics français malgré plusieurs tentatives. La startup est considérée comme arrêtée. Aucun profil LinkedIn personnel n'a pu être confirmé pour les deux fondateurs malgré la recherche ; la page LinkedIn 'Wildesk' existante appartient à une société chilienne homonyme sans rapport. web.archive.org était inaccessible depuis cet environnement pour ce passage."
 }
