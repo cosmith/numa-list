@@ -66,7 +66,7 @@
       "required": [
         "id", "season", "name", "formerNamesOrPivots", "founders",
         "foundersPubliclyIdentified", "status", "statusAsOf", "statusDetails",
-        "sources", "confidence", "seenInPhoto", "factCheck"
+        "sources", "confidence", "factCheck"
       ],
       "additionalProperties": false,
       "properties": {
@@ -91,10 +91,6 @@
           "items": { "$ref": "#/$defs/source" }
         },
         "confidence": { "enum": ["high", "medium", "low"] },
-        "seenInPhoto": {
-          "description": "Présence identifiée sur la photo de la promotion ; information rarement vérifiable par une source publique.",
-          "type": "boolean"
-        },
         "notes": { "type": "string" },
         "factCheck": {
           "type": "object",
@@ -109,7 +105,7 @@
               "propertyNames": {
                 "enum": [
                   "cohort", "formerNamesOrPivots", "founders", "identity",
-                  "name", "season", "seenInPhoto", "status", "statusDetails",
+                  "name", "season", "status", "statusDetails",
                   "website"
                 ]
               },
