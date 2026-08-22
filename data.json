@@ -10356,7 +10356,7 @@
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Truckfly a été acquis par Michelin (le 26 juillet 2018 selon la fiche existante) ; le produit continue d'exister aujourd'hui sous la marque « MICHELIN Truckfly », une application dédiée aux chauffeurs routiers en Europe (navigation GPS spécifique aux poids lourds, lieux adaptés aux camions), présentée comme faisant partie de l'écosystème de solutions connectées du groupe Michelin.",
+      "statusDetails": "Truckfly a été acquis par Michelin (le 26 juillet 2018 selon la fiche existante) ; le produit continue d'exister aujourd'hui sous la marque « MICHELIN Truckfly », une application dédiée aux chauffeurs routiers en Europe (navigation GPS spécifique aux poids lourds, lieux adaptés aux camions), présentée comme faisant partie de l'écosystème de solutions connectées du groupe Michelin. Après la vente à Michelin, les fondateurs ont poursuivi dans le transport routier en lançant Dashdoc, une plateforme de gestion du transport (TMS) destinée aux transporteurs et chargeurs.",
       "website": "https://www.truckfly.com",
       "sources": [
         {
@@ -10387,6 +10387,14 @@
           ],
           "accessedAt": "2026-08-22",
           "title": "Page entreprise LinkedIn « MICHELIN Truckfly »"
+        },
+        {
+          "url": "https://www.dashdoc.com/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Dashdoc — plateforme lancée par les fondateurs de Truckfly après la vente à Michelin"
         }
       ],
       "confidence": "high",
