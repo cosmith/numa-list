@@ -1,0 +1,103 @@
+{
+ "id": "s8-yellow",
+ "name": "Yubo",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "corrected",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "name": {
+   "avant": "Yellow",
+   "apres": "Yubo",
+   "preuves": [
+    "https://en.wikipedia.org/wiki/Yubo",
+    "https://fr.wikipedia.org/wiki/Yubo",
+    "https://www.frenchtechjournal.com/yubo-international-hit/",
+    "https://www.yubo.live/"
+   ]
+  },
+  "formerNamesOrPivots": {
+   "avant": ["Yubo"],
+   "apres": ["Yellow"],
+   "preuves": [
+    "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+    "https://www.frenchtechjournal.com/yubo-international-hit/",
+    "https://play.google.com/store/apps/details?id=co.yellw.yellowapp&hl=en-US",
+    "https://www.crunchbase.com/organization/yellw-co"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Application sociale devenue Yubo, toujours active.",
+   "apres": "Lancée sous le nom Yellow lors de la saison 8 de NUMA (2015-2016), l'application a été retravaillée et rebaptisée Yubo en février 2018 ; elle reste active aujourd'hui, avec des dizaines de millions d'utilisateurs et plusieurs dizaines de millions d'euros levés (Alven, Idinvest, Iris Capital, Village Global, Gaia Capital Partner...).",
+   "preuves": [
+    "https://www.frenchtechjournal.com/yubo-international-hit/",
+    "https://fr.wikipedia.org/wiki/Yubo",
+    "https://www.yubo.live/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Sacha Lazimi" },
+  { "name": "Jérémie Aouate" },
+  { "name": "Arthur Patora" }
+ ],
+ "status": "active",
+ "activityDescription": "Yubo (anciennement Yellow) est une application sociale qui permet de rencontrer de nouvelles personnes dans le monde entier en swipant des profils, en discutant et en streamant en direct.",
+ "statusDetails": "Lancée sous le nom Yellow lors de la saison 8 de NUMA (2015-2016), l'application a été retravaillée et rebaptisée Yubo en février 2018 ; elle reste active aujourd'hui, avec des dizaines de millions d'utilisateurs et plusieurs dizaines de millions d'euros levés (Alven, Idinvest, Iris Capital, Village Global, Gaia Capital Partner...).",
+ "website": "https://www.yubo.live",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les 17 startups de sa 8ème saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchtechjournal.com/yubo-international-hit/",
+   "titre": "Yubo: From Failed Experiments to International Success",
+   "annee": "2025",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Yubo",
+   "titre": "Yubo (Wikipedia, en anglais)",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://fr.wikipedia.org/wiki/Yubo",
+   "titre": "Yubo (Wikipédia, en français)",
+   "annee": "2026",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://play.google.com/store/apps/details?id=co.yellw.yellowapp&hl=en-US",
+   "titre": "Yubo: Make friends & chat now - Apps on Google Play (identifiant technique co.yellw.yellowapp)",
+   "annee": "2026",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/yellw-co",
+   "titre": "Fiche Crunchbase historique 'Yellw'",
+   "annee": "2026",
+   "soutient": ["identity"]
+  }
+ ],
+ "openQuestions": [
+  "L'Internet Archive (web.archive.org) était totalement inaccessible depuis cet environnement (outil WebFetch bloqué sur ce domaine), donc aucune capture Wayback n'a pu être consultée pour confirmer directement le site yellw.co ou les pages de cohorte NUMA 2015-2016 ; la reconstitution du nom d'origine 'Yellow' repose donc sur la presse contemporaine (Maddyness, French Tech Journal) et sur des artefacts techniques persistants (identifiant de paquet Android co.yellw.yellowapp, fiche Crunchbase 'yellw-co'), pas sur une capture d'archive.",
+  "Aucun profil LinkedIn individuel n'a pu être confirmé pour Sacha Lazimi, Jérémie Aouate ou Arthur Patora : le budget WebSearch de la session était épuisé, et les recherches Bing/DuckDuckGo via WebFetch sont revenues de façon répétée avec des résultats visiblement non pertinents ou mis en cache (ex. résultats sur 'Sacha Baron Cohen', 'Arthur' la série télé, ou des pages AOL sans rapport), ce qui indique un problème d'infrastructure de recherche dans cette session plutôt qu'une absence réelle de profils. Des comptes Twitter/X ont en revanche été identifiés via un article de presse : @sachalaz, @jeremieAouate, @arthurpatora.",
+  "La page LinkedIn de l'entreprise (essai sur linkedin.com/company/yubo-app/about/) a redirigé vers un mur de connexion LinkedIn et n'a pas pu être vérifiée ; son URL exacte reste donc à confirmer.",
+  "Une source secondaire (Wikipédia FR) affirme que l'application se serait appelée directement 'Yubo' dès son lancement d'octobre 2015, avec deux précurseurs antérieurs non liés (Saloon en 2012, Twelve en 2013), ce qui contredit la version, mieux étayée par la presse contemporaine de 2016 (Maddyness) et par des artefacts techniques (nom de paquet, domaine yellw.co, fiche Crunchbase), selon laquelle l'app s'appelait bien 'Yellow' au moment de la saison 8 de NUMA et n'a été rebaptisée Yubo qu'en 2018. Le nom 'Yellow' au moment du programme NUMA est retenu ici comme le mieux corroboré.",
+  "L'identifiant 's8-yellow' ne suit plus la convention du jeu de données (id dérivé du nom actuel) une fois le champ name corrigé en 'Yubo' ; il est laissé inchangé ici conformément à la consigne de ne pas modifier data.json, mais un renommage éventuel de l'id est à la discrétion de qui appliquera les corrections."
+ ],
+ "summary": "Yellow, présentée en saison 8 de NUMA (rentrée 2015, promo dévoilée par Maddyness en février 2016), est bien l'application fondée par Sacha Lazimi, Jérémie Aouate et Arthur Patora, confirmée par Wikipédia (FR/EN) et un article de fond de French Tech Journal. Le nom d'usage courant et actuel de la société est toutefois 'Yubo' (rebaptisée en 2018) : la fiche data.json inverse le sens attendu du champ 'name' et de 'formerNamesOrPivots' par rapport à la convention utilisée pour les autres pivots du jeu de données (ex. Bankin', TVShow Time) — il faut donc 'name': 'Yubo' et 'formerNamesOrPivots': ['Yellow']. Le statut actif, le site web yubo.live et les trois fondateurs sont corroborés par plusieurs sources indépendantes. Aucune acquisition n'a été trouvée : Yubo reste une société indépendante, en forte croissance internationale. Les profils LinkedIn individuels n'ont pas pu être vérifiés en raison de limitations des outils de recherche dans cette session (budget WebSearch épuisé, résultats Bing/DuckDuckGo non pertinents, web.archive.org inaccessible)."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "s9-phantombuster",
+ "name": "PhantomBuster",
+ "season": 9,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Guillaume Boiret" },
+  { "name": "Martin Tapia" }
+ ],
+ "status": "active",
+ "activityDescription": "PhantomBuster est une plateforme d'automatisation sans code qui permet aux équipes commerciales et marketing d'extraire des données et d'automatiser des tâches de prospection sur le web, LinkedIn et Sales Navigator afin de générer des prospects.",
+ "statusDetails": "SaaS de prospection et d'automatisation commerciale toujours en activité et profitable, dirigé par ses deux cofondateurs depuis sa création en 2016 au sein de NUMA.",
+ "website": "https://phantombuster.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+   "titre": "NUMA DemoDay Season 9: Meet Our New Startups",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://thephantomcompany.com/",
+   "titre": "The Phantom Company (site officiel, société éditrice de PhantomBuster)",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  }
+ ],
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être localisé pour Guillaume Boiret ni pour Martin Tapia : les recherches web (WebSearch, Bing, DuckDuckGo, Google, Marginalia, Startpage) ont échoué ou ont été bloquées/CAPTCHA dans cet environnement, et l'accès direct aux profils LinkedIn renvoie systématiquement un mur de connexion.",
+  "La page LinkedIn de l'entreprise PhantomBuster n'a pas pu être identifiée pour la même raison (moteurs de recherche indisponibles/bloqués).",
+  "Internet Archive (web.archive.org) est resté inaccessible depuis cet environnement (erreur outil systématique sur les requêtes CDX et sur les snapshots directs), y compris via un proxy de lecture alternatif ; aucune capture d'écran d'époque n'a donc pu être vérifiée directement, bien que le contenu ait été corroboré par la source officielle de l'entreprise et par l'article NUMA de 2016.",
+  "Aucune mention d'une levée de fonds ou d'une acquisition n'a été trouvée : l'entreprise se décrit elle-même comme indépendante et rentable ('runs on its own revenue'), ce qui est cohérent avec le statut 'active' sans acquéreur."
+ ],
+ "summary": "Tous les champs du dossier PhantomBuster (saison 9 de NUMA en 2016, nom inchangé, fondateurs Guillaume Boiret et Martin Tapia, statut actif, site phantombuster.com) sont confirmés par le site officiel de l'entreprise (thephantomcompany.com, 2026) et par l'article de démoday NUMA saison 9 (2016, via lecture proxy). L'entreprise reste dirigée par ses deux fondateurs depuis 2016, est rentable et indépendante, et a étendu son produit d'extraction de données vers une plateforme d'automatisation commerciale sans code. Aucune correction n'est nécessaire. Les profils LinkedIn individuels et la page entreprise LinkedIn n'ont pas pu être localisés, et Internet Archive est resté inaccessible, en raison de restrictions des outils de recherche/fetch disponibles dans cet environnement, non d'un doute sur les faits eux-mêmes."
+}

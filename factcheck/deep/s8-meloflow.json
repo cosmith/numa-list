@@ -1,0 +1,107 @@
+{
+  "id": "s8-meloflow",
+  "name": "Meloflow",
+  "season": 8,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "corrected",
+    "website": "verified"
+  },
+  "corrections": {
+    "statusDetails": {
+      "avant": "Service musical non retrouvé comme activité actuelle.",
+      "apres": "Meloflow (application iOS d'apprentissage de la musique en temps réel) a cessé son activité commerciale : le domaine meloflow.com a été reparké par un revendeur de noms de domaine suisse (NetZone) et ne renvoie plus vers le produit, l'application n'apparaît plus sur l'App Store, et la société éditrice Arpeggio Technologies (SAS, SIREN 789334406, créée le 11/10/2012) reste certes juridiquement active au registre du commerce mais sans salarié et en défaut de dépôt de comptes récents. Le cofondateur Michael Brouard a depuis quitté le projet pour Salesforce puis lancé un nouveau produit musical, Concertino, distinct de Meloflow.",
+      "preuves": [
+        "http://www.meloflow.com/",
+        "https://www.f6s.com/company/meloflow",
+        "https://recherche-entreprises.api.gouv.fr/search?q=arpeggio+technologies",
+        "https://www.societe.com/societe/arpeggio-technologies-789334406.html",
+        "https://fr.linkedin.com/in/michaelbrouard"
+      ]
+    }
+  },
+  "founders": [
+    {
+      "name": "Michael Brouard",
+      "linkedin": "https://fr.linkedin.com/in/michaelbrouard"
+    },
+    {
+      "name": "Bertrand de Bodinat",
+      "linkedin": "https://fr.linkedin.com/in/bbodinat"
+    }
+  ],
+  "status": "stopped",
+  "activityDescription": "Meloflow est une application iOS qui écoute un musicien jouer un morceau (au piano ou à un autre instrument), le corrige en temps réel, l'accompagne avec d'autres instruments virtuels et suit sa vitesse de jeu afin de faciliter l'apprentissage de la musique.",
+  "statusDetails": "Meloflow (application iOS d'apprentissage de la musique en temps réel) a cessé son activité commerciale : le domaine meloflow.com a été reparké par un revendeur de noms de domaine suisse (NetZone) et ne renvoie plus vers le produit, l'application n'apparaît plus sur l'App Store, et la société éditrice Arpeggio Technologies (SAS, SIREN 789334406, créée le 11/10/2012) reste certes juridiquement active au registre du commerce mais sans salarié et en défaut de dépôt de comptes récents. Le cofondateur Michael Brouard a depuis quitté le projet pour Salesforce puis lancé un nouveau produit musical, Concertino, distinct de Meloflow.",
+  "archiveEvidence": [
+    {
+      "url": "https://web.archive.org/web/20150924231823/http://meloflow.com/",
+      "montre": "D'après l'API Wayback 'available' (https://archive.org/wayback/available?url=meloflow.com), une capture existe le 24/09/2015 avec statut HTTP 200, cohérente avec l'existence du site au moment de la saison 8 de NUMA (2015-2016). Note méthodologique : l'accès direct au contenu de web.archive.org a été bloqué par la politique réseau de cet environnement (host non joignable via l'outil de fetch) ; seule la disponibilité de la capture a pu être vérifiée via l'API JSON, pas son contenu visuel."
+    },
+    {
+      "url": "https://web.archive.org/web/20220116215106/http://meloflow.com/",
+      "montre": "Capture disponible (HTTP 200) au 16/01/2022 selon l'API Wayback 'available', suggérant que le site original répondait encore à cette date. Contenu non consultable directement (même blocage réseau)."
+    },
+    {
+      "url": "https://web.archive.org/web/20260307121909/http://www.meloflow.com/",
+      "montre": "Capture la plus récente indexée par Wayback (07/03/2026) selon l'API 'available'. Correspond très probablement à la page de parking du registrar NetZone constatée en accès direct sur meloflow.com en août 2026 (contenu de parking sans lien avec le produit d'origine), plutôt qu'au site original de la startup."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+      "titre": "NUMA dévoile les 17 start-ups sélectionnées pour sa 8e saison",
+      "annee": "2016",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://medium.com/numa/lhumain-avant-tout-comment-numa-acc%C3%A9l%C3%A8re-ses-start-ups-5f02edbe4acd",
+      "titre": "L'humain avant tout : comment NUMA accélère ses start-ups",
+      "annee": "2016",
+      "soutient": ["cohort", "founders"]
+    },
+    {
+      "url": "https://www.f6s.com/company/meloflow",
+      "titre": "Meloflow - F6S (profil entreprise)",
+      "annee": "n.d.",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.f6s.com/member/michalbrouard",
+      "titre": "Michaël Brouard | Arpeggio Technologies | F6S Member Profile",
+      "annee": "n.d.",
+      "soutient": ["founders", "identity"]
+    },
+    {
+      "url": "https://rocketreach.co/bertrand-de-bodinat-email_14251427",
+      "titre": "Bertrand de Bodinat - RocketReach",
+      "annee": "n.d.",
+      "soutient": ["founders"]
+    },
+    {
+      "url": "https://www.societe.com/societe/arpeggio-technologies-789334406.html",
+      "titre": "ARPEGGIO TECHNOLOGIES - Societe.com",
+      "annee": "2026",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://fr.linkedin.com/in/michaelbrouard",
+      "titre": "Michaël Brouard - Strategic Account Advisor @ Salesforce | Ex-McKinsey (LinkedIn)",
+      "annee": "n.d.",
+      "soutient": ["founders", "status"]
+    }
+  ],
+  "openQuestions": [
+    "L'accès direct aux pages archivées de web.archive.org a été bloqué par la politique réseau de cet environnement ; seule l'API Wayback 'available' (disponibilité/statut HTTP) a pu être consultée, pas le contenu visuel des captures (équipe, mentions légales, etc.).",
+    "Date précise d'arrêt effectif du service non établie : la dernière capture Wayback suggérant encore le site original date de janvier 2022 ; le reparking du domaine est constaté en 2026, sans point intermédiaire documenté.",
+    "Aucune page LinkedIn d'entreprise (linkedin.com/company/meloflow) retrouvée pour corroborer un statut affiché par l'entreprise elle-même.",
+    "Le lien juridique exact entre 'Meloflow' (marque produit) et la société Arpeggio Technologies (SIREN 789334406) repose sur les profils F6S/LinkedIn de Michael Brouard ; aucun extrait Kbis ni mention légale du site n'a pu être consulté pour le confirmer formellement."
+  ],
+  "summary": "La fiche est globalement exacte et bien sourcée : Meloflow (application iOS de suivi et correction du jeu musical en temps réel) faisait bien partie de la saison 8 de NUMA (17 start-ups, annoncées le 18/02/2016 par Maddyness), avec pour cofondateurs Michael Brouard (CEO-CTO, ingénieur Supélec, ex-McKinsey, aujourd'hui chez Salesforce et fondateur d'un nouveau projet musical, Concertino) et Bertrand de Bodinat (associé communication, cité nommément comme cofondateur dans un billet Medium officiel de NUMA), tous deux retrouvés avec profil LinkedIn. Le statut 'stopped' est confirmé : le domaine meloflow.com est aujourd'hui une page de parking d'un registrar suisse, l'application a disparu de l'App Store, et la société éditrice (Arpeggio Technologies, SIREN 789334406) reste active au registre mais sans salarié ni dépôt de comptes récent - donc dormante en pratique sans être formellement liquidée. Aucune trace d'acquisition ou de rachat n'a été trouvée. Seule limite : l'accès direct aux captures Internet Archive a été bloqué par la politique réseau de l'environnement, contraignant à s'appuyer sur l'API de disponibilité plutôt que sur le contenu visuel des pages archivées."
+}
