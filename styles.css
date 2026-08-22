@@ -349,7 +349,7 @@ h1 span {
 .detail-lead strong { color: var(--magenta); }
 
 .detail-activity {
-  margin: -0.35rem 0 0;
+  margin: 0 0 -0.35rem;
   max-width: 62ch;
   color: #2d2b28;
 }

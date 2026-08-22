@@ -89,8 +89,8 @@ const makeDetails = (startup) => {
     startup.statusAsOf ? `vérifié le ${escapeHtml(formatDate(startup.statusAsOf))}` : "",
   ].filter(Boolean).join(" · ");
 
-  return `${lead}
-  ${activity}
+  return `${activity}
+  ${lead}
   <div class="detail-meta">
     ${metaGroup("Ancien nom / pivot", pivots)}
     ${metaGroup("Site web", website)}
