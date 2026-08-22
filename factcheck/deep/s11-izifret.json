@@ -3,34 +3,62 @@
  "name": "IZIFRET",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "corrected",
+  "website": "verified"
  },
- "corrections": {},
+ "corrections": {
+  "statusDetails": {
+   "avant": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
+   "apres": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises lourdes »), fondée le 5 mai 2017. Liquidation judiciaire prononcée par le Tribunal de commerce de Bobigny le 30 juillet 2021 (jugement n°2021J00737, cessation des paiements fixée au 1er novembre 2020, liquidateur SELARLU Bally M.J.), clôturée pour insuffisance d'actif et société radiée d'office le 24 septembre 2024 (art. R.123-129 du Code de commerce), confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »). Le nom de domaine izifret.com affiche aujourd'hui une simple page de maintenance WordPress par défaut, sans lien avec une reprise d'activité.",
+   "preuves": [
+    "https://recherche-entreprises.api.gouv.fr/search?q=izifret",
+    "https://www.pappers.fr/entreprise/izifret-829380062",
+    "https://www.societe.com/societe/izifret-829380062.html",
+    "https://www.izifret.com"
+   ]
+  },
+  "founders": {
+   "avant": "Stéphane Raynal, Mahsum Yildirim, Guillaume Deslandes (sans profils LinkedIn ni rôles précisés)",
+   "apres": "Stéphane Raynal (co-fondateur et CEO, 2017-2021), Mahsum Yildirim (co-fondateur et directeur général), Guillaume Deslandes (co-fondateur et CTO) — liste inchangée mais rôles et profils LinkedIn précisés",
+   "preuves": [
+    "https://www.crunchbase.com/organization/izifret",
+    "https://www.crunchbase.com/person/st%C3%A9phane-raynal",
+    "https://www.crunchbase.com/person/guillaume-deslandes",
+    "https://www.linkedin.com/in/st%C3%A9phane-r-26895458/",
+    "https://fr.linkedin.com/in/deslandesgui"
+   ]
+  }
+ },
  "founders": [
   {
-   "name": "Stéphane Raynal"
+   "name": "Stéphane Raynal",
+   "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-r-26895458/"
   },
   {
    "name": "Mahsum Yildirim"
   },
   {
-   "name": "Guillaume Deslandes"
+   "name": "Guillaume Deslandes",
+   "linkedin": "https://fr.linkedin.com/in/deslandesgui"
   }
  ],
  "status": "stopped",
- "statusDetails": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
+ "activityDescription": "Izifret était une marketplace B2B mettant en relation directe industriels expéditeurs et transporteurs routiers et multimodaux pour le transport de marchandises lourdes, avec suivi de livraison en temps réel.",
+ "statusDetails": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises lourdes »), fondée le 5 mai 2017. Liquidation judiciaire prononcée par le Tribunal de commerce de Bobigny le 30 juillet 2021 (jugement n°2021J00737, cessation des paiements fixée au 1er novembre 2020, liquidateur SELARLU Bally M.J.), clôturée pour insuffisance d'actif et société radiée d'office le 24 septembre 2024 (art. R.123-129 du Code de commerce), confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »). Le nom de domaine izifret.com affiche aujourd'hui une simple page de maintenance WordPress par défaut, sans lien avec une reprise d'activité.",
+ "acquirer": "",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "annee": "2018",
    "soutient": [
     "cohort"
    ]
@@ -38,21 +66,60 @@
   {
    "url": "https://recherche-entreprises.api.gouv.fr/search?q=izifret",
    "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 829380062",
+   "annee": "2026",
    "soutient": [
     "status"
    ]
   },
   {
    "url": "https://www.crunchbase.com/organization/izifret",
-   "titre": "",
+   "titre": "Izifret - Crunchbase Company Profile & Funding",
+   "annee": "2026",
    "soutient": [
     "founders",
     "identity"
    ]
+  },
+  {
+   "url": "https://lespepitestech.com/blog/2017/07/17/top-10-des-startups-fran-aises-de-la-semaine-10-au-16-juillet-2017-par-les-p-pites",
+   "titre": "Top 10 des startups françaises de la semaine : 10 au 16 juillet 2017 (Les Pépites Tech)",
+   "annee": "2017",
+   "soutient": [
+    "identity",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://lespepitestech.com/startup-de-la-french-tech/izifret",
+   "titre": "IZIFRET - Startup France French Tech Grand Paris",
+   "annee": "2017",
+   "soutient": [
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/izifret-829380062",
+   "titre": "Société IZIFRET (829380062) : Chiffre d'affaires, statuts, extrait d'immatriculation",
+   "annee": "2026",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.societe.com/societe/izifret-829380062.html",
+   "titre": "Société IZIFRET à SAINT-DENIS (93200)",
+   "annee": "2026",
+   "soutient": [
+    "status"
+   ]
   }
  ],
  "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
- "activityDescription": "Izifret était une marketplace B2B de fret mettant en relation des industriels expéditeurs avec des transporteurs routiers et multimodaux, avec suivi de livraison en temps réel."
+ "openQuestions": [
+  "web.archive.org est resté inaccessible depuis cet environnement (proxy réseau) malgré plusieurs tentatives (CDX API et snapshots directs) : aucune capture d'époque du site izifret.com ni de la page NUMA alumni n'a pu être consultée directement dans cette passe ; la preuve de cohorte repose donc sur la capture Common Crawl d'octobre 2018 déjà retenue lors du passage précédent.",
+  "Aucun profil LinkedIn fiable trouvé pour Mahsum Yildirim (co-fondateur et directeur général) malgré plusieurs recherches ciblées — les résultats renvoient uniquement des homonymes sans lien avec Izifret.",
+  "Le profil LinkedIn retenu pour Guillaume Deslandes (fr.linkedin.com/in/deslandesgui) est déduit par recoupement (pseudonyme X @deslandesgui identique, parcours Ornikar/Forest Admin/EPITA correspondant à sa fiche Crunchbase) plutôt que par une mention explicite d'Izifret dans le résultat de recherche lui-même.",
+  "Aucune page LinkedIn d'entreprise Izifret confirmée n'a été retrouvée (une page « IZIFREIGHT » apparaît dans les résultats mais rien ne la relie à Izifret ni à Saint-Denis) ; aucun communiqué d'acquisition n'a été trouvé, cohérent avec le statut « stopped » (liquidation judiciaire, sans repreneur identifié)."
+ ],
+ "summary": "IZIFRET (fondée le 5 mai 2017 par Stéphane Raynal, Mahsum Yildirim et Guillaume Deslandes), marketplace B2B de fret routier/multimodal, saison 11 de NUMA confirmée par la base alumni officielle (capture Common Crawl 2018). Société en liquidation judiciaire depuis juillet 2021, clôturée pour insuffisance d'actif et radiée le 24 septembre 2024 (registre officiel des entreprises) : statut « stopped » confirmé. Rôles des fondateurs et deux profils LinkedIn sur trois retrouvés et ajoutés (Stéphane Raynal, Guillaume Deslandes) ; celui de Mahsum Yildirim reste introuvable. web.archive.org est resté inaccessible malgré plusieurs tentatives."
 }
