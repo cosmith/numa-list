@@ -1,0 +1,107 @@
+{
+ "id": "s6-drust",
+ "name": "Drust",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Boîtier automobile connecté non retrouvé comme activité actuelle.",
+   "apres": "Les trois fondateurs (Michaël Fernandez-Ferri, Pascal Galacteros, Florent Pignal) ont quitté leurs mandats le 3 août 2019 ; la société DRUST SAS (SIREN 804 752 525) est aujourd'hui représentée par un liquidateur (SCP Hunsinger) selon le registre national des entreprises, ce qui indique une liquidation. En revanche, l'affirmation selon laquelle le produit ne serait « pas retrouvé » est inexacte : le site vitrine du boîtier connecté AKOLYT (drust.io) est toujours en ligne en 2026, apparemment sans mise à jour depuis 2015-2016 (probable reliquat d'hébergement non résilié plutôt qu'activité commerciale réelle).",
+   "preuves": [
+    "https://recherche-entreprises.api.gouv.fr/search?q=804752525&per_page=1",
+    "https://www.societe.com/societe/drust-804752525.html",
+    "https://drust.io/mentions-legales",
+    "https://drust.io/"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "https://drust.io",
+   "preuves": [
+    "https://drust.io/",
+    "https://drust.io/mentions-legales",
+    "https://archive.org/wayback/available?url=drust.io&timestamp=20141001"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Michaël Fernandez-Ferri" },
+  { "name": "Pascal Galacteros" },
+  { "name": "Florent Pignal" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Drust conçoit AKOLYT, un boîtier connecté au port de diagnostic embarqué (OBD) d'une voiture couplé à une application mobile, qui donne au conducteur des conseils personnalisés en temps réel pour réduire sa consommation de carburant, améliorer sa conduite et suivre l'entretien de son véhicule.",
+ "statusDetails": "Les trois fondateurs ont cessé leurs fonctions le 3 août 2019 et la société DRUST SAS (SIREN 804 752 525, créée le 22 septembre 2014) est désormais représentée par un liquidateur judiciaire (SCP Hunsinger) d'après le registre national des entreprises consulté en août 2026 : l'activité fondée par l'équipe historique a donc cessé. Le site produit AKOLYT (drust.io) reste néanmoins accessible en ligne en 2026, avec un contenu qui semble figé depuis 2015-2016, ce qui suggère un hébergement non résilié plutôt qu'une activité commerciale poursuivie.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=drust.io&timestamp=20141001",
+   "montre": "Une capture de drust.io existait déjà le 16 octobre 2014 (http://web.archive.org/web/20141016202019/http://drust.io:80/), soit peu après la création légale de la société (22 septembre 2014) et pendant la saison 6 du Camping."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=drust.io&timestamp=20150601",
+   "montre": "Nouvelle capture au 6 mai 2015, confirmant la continuité du site pendant l'année suivant l'accélération."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=drust.io&timestamp=20160601",
+   "montre": "Capture au 9 décembre 2015, cohérente avec l'article eu-startups de novembre 2016 sur Drust."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=drust.io&timestamp=20180601",
+   "montre": "Capture au 23 juin 2017 : le site était encore en ligne à cette date."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=drust.io&timestamp=20260101",
+   "montre": "Dernière capture connue au 8 octobre 2024 ; le site drust.io répond toujours en direct en 2026 (produit AKOLYT), sans que son contenu semble avoir été actualisé depuis 2015-2016 (chemins d'images datés)."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping dévoile sa saison 6 (Maddyness)",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.eu-startups.com/2016/11/the-french-startup-that-wants-you-to-become-a-superdriver-interview-with-the-co-founder-and-ceo-of-drust/",
+   "titre": "The French startup that wants you to become a superdriver: interview with the co-founder and CEO of Drust",
+   "annee": "2016",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=804752525&per_page=1",
+   "titre": "API Recherche d'entreprises (data.gouv.fr / INSEE-RNE) — fiche DRUST",
+   "annee": "2026",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/drust-804752525.html",
+   "titre": "Societe.com — fiche DRUST (SIREN 804752525)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://drust.io/mentions-legales",
+   "titre": "Mentions légales — Drust SAS (site en ligne)",
+   "annee": "2026",
+   "soutient": ["identity", "founders"]
+  }
+ ],
+ "openQuestions": [
+  "Le site drust.io reste en ligne et fonctionnel en 2026 malgré une société apparemment en liquidation depuis 2019 : s'agit-il d'un simple hébergement non résilié, ou une activité résiduelle (vente de stock, support) existe-t-elle réellement ? Non confirmé.",
+  "Les résumés de societe.com mentionnent une 'liquidation terminée le 31 juillet 2022' alors que le registre officiel data.gouv.fr indique un statut administratif 'actif' avec un liquidateur toujours en fonction en 2026 : la nature exacte et la date de la procédure collective (amiable vs judiciaire, éventuelle réouverture) restent à préciser auprès du greffe.",
+  "Profils LinkedIn individuels des trois fondateurs non localisés : LinkedIn bloque les requêtes automatisées (HTTP 999) et les moteurs de recherche alternatifs étaient inaccessibles pendant cette session (quota WebSearch épuisé pour l'ensemble de la session, CAPTCHA sur Bing/DuckDuckGo/Ecosia/Mojeek).",
+  "L'article eu-startups.com (2016), déjà cité comme source dans la fiche d'origine, n'a pas pu être re-consulté directement pendant cette vérification (HTTP 403) ; son contenu exact sur le rôle de CEO et les détails produit n'a donc pas pu être recontrôlé mot pour mot, seulement corroboré indirectement.",
+  "Aucune trace d'acquisition ou de rachat de Drust par un tiers n'a été trouvée ; tout indique un arrêt/liquidation plutôt qu'un exit, mais l'absence de preuve positive de rachat ne peut être considérée comme définitive avec les seules sources consultées."
+ ],
+ "summary": "Drust (saison 6, 2014) était bien parmi les startups du Camping selon Maddyness ; la société DRUST SAS (SIREN 804 752 525) a été créée le 22/09/2014 et confirme les trois fondateurs de la fiche (Fernandez-Ferri, Galacteros, Pignal), qui ont quitté leurs mandats le 03/08/2019. Le registre national des entreprises (data.gouv.fr) montre qu'un liquidateur (SCP Hunsinger) est aujourd'hui le représentant légal, ce qui confirme le statut 'stopped', mais la justification d'origine ('boîtier non retrouvé') est fausse : le site produit AKOLYT (drust.io) est toujours en ligne en 2026, apparemment figé depuis 2015-2016. Le statusDetails et le champ website ont donc été corrigés ; les profils LinkedIn des fondateurs n'ont pas pu être localisés faute d'accès aux moteurs de recherche pendant cette session."
+}

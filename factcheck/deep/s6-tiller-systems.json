@@ -1,0 +1,109 @@
+{
+  "id": "s6-tiller-systems",
+  "name": "Tiller Systems",
+  "season": 6,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "corrected",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "corrected"
+  },
+  "corrections": {
+    "founders": {
+      "avant": [
+        { "name": "Josef Bovet" },
+        { "name": "Scott Gordon" },
+        { "name": "Dimitri Farber" },
+        { "name": "Vincent Oliveira" }
+      ],
+      "apres": [
+        { "name": "Josef Bovet" },
+        { "name": "Dimitri Farber" },
+        { "name": "Antoine Germain" },
+        { "name": "Scott Gordon" }
+      ],
+      "preuves": [
+        "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+        "https://www.maddyness.com/2021/02/03/rachat-sumup-tiller-restaurants-reouverture/"
+      ]
+    },
+    "website": {
+      "avant": null,
+      "apres": "https://www.tillersystems.com",
+      "preuves": [
+        "https://www.tillersystems.com",
+        "http://archive.org/wayback/available?url=tillersystems.com&timestamp=20141001"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Josef Bovet" },
+    { "name": "Dimitri Farber" },
+    { "name": "Antoine Germain" },
+    { "name": "Scott Gordon" }
+  ],
+  "status": "exit",
+  "activityDescription": "Tiller Systems développe Til, une solution de caisse enregistreuse sur tablette tactile destinée aux bars et restaurants, avec un outil de gestion accessible en ligne permettant d'analyser l'activité commerciale en temps réel.",
+  "statusDetails": "Rachetée par la fintech britannique SumUp, annoncé le 3 février 2021, pour renforcer sa position sur le secteur de la restauration avant la réouverture post-Covid ; montant non communiqué. La marque Tiller (sans « Systems ») continue d'exister en 2026 comme solution de caisse et de paiement pour restaurateurs et commerçants au sein de SumUp, avec un site actif (tillersystems.com) et une page entreprise LinkedIn distincte (« Tiller (by SumUp) »).",
+  "acquirer": "SumUp",
+  "website": "https://www.tillersystems.com",
+  "archiveEvidence": [
+    {
+      "url": "http://web.archive.org/web/20140818043221/http://www.tillersystems.com:80/",
+      "montre": "Première capture connue de tillersystems.com (18 août 2014), confirmant que le site existait dès la saison 6 de Le Camping (contenu détaillé non consultable : le domaine web.archive.org est bloqué par la politique réseau de cet environnement ; seule l'existence de la capture, via l'API 'wayback/available' servie depuis archive.org, non bloquée, a pu être confirmée)."
+    },
+    {
+      "url": "http://web.archive.org/web/20160108201756/http://www.tillersystems.com:80/?",
+      "montre": "Capture du 8 janvier 2016 la plus proche de fin 2015, confirmant la continuité du site après la saison 6 ; contenu non consultable pour la même raison technique que ci-dessus."
+    },
+    {
+      "url": "http://web.archive.org/web/20140225143936/http://www.lecamping.org/",
+      "montre": "Capture du site lecamping.org du 25 février 2014, confirmant que le domaine et le programme Le Camping (pré-NUMA) étaient actifs sur la période de la saison 6 ; contenu non consultable pour la même raison technique."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+      "titre": "Le Camping, saison 6",
+      "annee": "2014",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+      "titre": "Le Camping dévoile les 12 start-up de sa sixième saison",
+      "annee": "2014",
+      "soutient": ["cohort", "founders", "identity"]
+    },
+    {
+      "url": "https://www.maddyness.com/2021/02/03/rachat-sumup-tiller-restaurants-reouverture/",
+      "titre": "SumUp acquiert Tiller pour être prête à la réouverture des restaurants",
+      "annee": "2021",
+      "soutient": ["status", "founders"]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SumUp",
+      "titre": "SumUp (Wikipédia) — mention du rachat de Tiller en février 2021",
+      "annee": "2026 (page consultée)",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://fr.linkedin.com/company/tiller-hq",
+      "titre": "Tiller (by SumUp) — page entreprise LinkedIn",
+      "annee": "2026 (page consultée)",
+      "soutient": ["identity", "status"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/tiller-hq",
+  "openQuestions": [
+    "Profils LinkedIn personnels des quatre fondateurs (Josef Bovet, Dimitri Farber, Antoine Germain, Scott Gordon) non localisés : le quota WebSearch de la session était déjà épuisé avant que cette fiche ne soit traitée, et tous les moteurs de recherche accessibles via WebFetch (Bing, DuckDuckGo, Ecosia, Mojeek) ont renvoyé des CAPTCHA, des blocages 403 ou des résultats génériques sans rapport avec la requête (ex. produits 'tiller' de jardinage). Seul le flux RSS de Google News a fonctionné, mais il n'indexe que des articles de presse, pas des profils LinkedIn.",
+    "Le nom 'Vincent Oliveira' présent dans la fiche d'origine n'a été retrouvé dans aucune source (presse ou fil de recherche) associée à Tiller Systems ; il s'agit probablement d'une confusion avec Antoine Germain (CTO), nommé de façon cohérente par l'article du Journal du Net de 2014 et absent de toute trace contradictoire.",
+    "Contenu détaillé des captures Wayback Machine (page d'accueil, équipe) non consultable dans cette session : le domaine web.archive.org est bloqué par la politique réseau (contrairement à archive.org, resté accessible pour l'API 'wayback/available').",
+    "Montant de l'acquisition par SumUp non communiqué publiquement (confirmé non-disclosed par l'article Maddyness de 2021)."
+  ],
+  "summary": "Tiller Systems (saison 6 de Le Camping, 2014) est confirmée par les articles Maddyness et Journal du Net annonçant la promotion : solution de caisse enregistreuse tactile sur tablette (« Til ») pour bars et restaurants. Liste des fondateurs corrigée : l'article du Journal du Net de 2014 nomme Josef Bovet (CEO), Dimitri Farber (CPO), Antoine Germain (CTO) et Scott Gordon (CMO) — 'Vincent Oliveira' de la fiche d'origine ne correspond à aucune source trouvée et est remplacé par Antoine Germain. Statut « exit » confirmé et enrichi : rachat par la fintech britannique SumUp annoncé le 3 février 2021 (Maddyness, corroboré par Wikipédia), montant non communiqué. La marque continue d'exister en 2026 sous le nom 'Tiller' (sans 'Systems') au sein de SumUp, avec un site actif (tillersystems.com, champ 'website' ajouté à la fiche) et une page entreprise LinkedIn active ('Tiller (by SumUp)', Paris). Profils LinkedIn personnels des fondateurs non trouvés faute de quota WebSearch disponible et en raison du blocage des moteurs de recherche accessibles via WebFetch ; contenu détaillé des captures Wayback Machine non consultable, le domaine web.archive.org étant bloqué par la politique réseau de l'environnement (seule l'API 'available', servie par archive.org, a pu être utilisée pour confirmer l'existence de captures en 2014 et 2016)."
+}

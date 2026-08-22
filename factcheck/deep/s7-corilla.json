@@ -1,0 +1,56 @@
+{
+  "id": "s7-corilla",
+  "name": "Corilla",
+  "season": 7,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {},
+  "founders": [
+    { "name": "David Ryan" },
+    { "name": "Ben Wilkinson" }
+  ],
+  "status": "stopped",
+  "activityDescription": "Corilla est un outil d'écriture collaborative dans le cloud destiné aux entreprises (B2B) pour la rédaction et la gestion de documentation.",
+  "statusDetails": "Le cofondateur David Ryan a lui-même annoncé sur le blog Medium de Corilla la mise du produit en maintenance minimale puis l'arrêt du modèle commercial actif ; aucune reprise ni acquisition n'a été retrouvée.",
+  "archiveEvidence": [
+    {
+      "url": "https://archive.org/wayback/available?url=corilla.com&timestamp=2015",
+      "montre": "L'API Wayback confirme une capture disponible de corilla.com au 10 janvier 2016 (statut HTTP 200), preuve que le site était encore en ligne après le programme NUMA de 2015."
+    },
+    {
+      "url": "https://archive.org/wayback/available?url=corilla.co&timestamp=2015",
+      "montre": "L'API Wayback confirme aussi une capture de corilla.co (nom de domaine court utilisé par Journal du Net) au 11 janvier 2016 (statut HTTP 200)."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+      "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+      "annee": "2015",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://medium.com/corilla-blog/deciding-the-future-of-corilla-930e9e2b0332",
+      "titre": "Deciding the future of Corilla",
+      "annee": "non daté précisément (post fondateur, consulté par un audit précédent le 21/08/2026)",
+      "soutient": ["status", "founders"]
+    }
+  ],
+  "openQuestions": [
+    "corilla.com renvoie une erreur HTTP 503 lors de cette vérification (22/08/2026) : impossible de confirmer directement le contenu actuel du site ni la page /about.html citée comme source dans data.json.",
+    "web.archive.org (et son API CDX) est bloqué pour l'outil de récupération web utilisé dans cette session ; seule l'API 'wayback/available' sur archive.org (sans le sous-domaine web.) a pu être interrogée, ce qui limite l'accès direct au contenu des captures.",
+    "L'article Medium fondateur n'a pas pu être rechargé aujourd'hui (HTTP 403, probable protection anti-bot) ; son contenu est repris tel que documenté dans l'audit précédent (factcheck/batch-02.json), qui l'avait consulté avec succès le 21/08/2026.",
+    "Aucun profil LinkedIn de David Ryan ou Ben Wilkinson n'a pu être localisé : le budget de recherche web de la session était déjà épuisé (200/200) avant que cette vérification ne commence, et LinkedIn exige une authentification que l'outil de récupération ne fournit pas.",
+    "Aucune page LinkedIn d'entreprise pour Corilla n'a pu être consultée pour la même raison."
+  ],
+  "summary": "Les éléments du dossier existant sont corroborés : Corilla figure bien parmi les 25 lauréats du programme NUMA Sprint 2015 (Journal du Net), décrit comme un outil d'écriture collaborative en cloud pour le B2B (documentation), et son cofondateur David Ryan a publiquement acté l'arrêt du modèle commercial actif sur le blog Medium de Corilla, ce qui confirme le statut 'stopped'. Aucune correction n'a été identifiée. Cette session n'a toutefois pas pu rejouer indépendamment la consultation de web.archive.org (hôte bloqué pour l'outil de récupération), de l'article Medium (HTTP 403 au moment de cette vérification) ni de LinkedIn (budget de recherche épuisé et authentification requise) ; ces preuves restent donc celles déjà consignées dans factcheck/batch-02.json, complétées ici par une nouvelle confirmation directe de la source Journal du Net et par l'API Wayback 'available' qui atteste la survie du site jusqu'à début 2016."
+}

@@ -1,0 +1,129 @@
+{
+ "id": "s6-soundsgood",
+ "name": "Soundsgood",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": [
+    "Pivot d'une application grand public de découverte/partage de playlists (2014-2015) vers un service B2B de gestion de playlists pour labels et « playlisters » professionnels (offre « Soundsgood PREMIERES », vers 2018-2020)"
+   ],
+   "preuves": [
+    "https://musically.com/2020/10/20/believe-was-the-buyer-of-playlisting-platform-soundsgood/",
+    "https://www.linkedin.com/posts/josquinfarge_thanks-to-keith-jopling-we-had-the-opportunity-activity-6517403812322381825-XuKl"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Plateforme de playlists acquise par Believe.",
+   "apres": "Plateforme de découverte et de gestion de playlists musicales, fondée en 2013/lancée en novembre 2014 ; rachat par Believe annoncé en avril 2020 (acquéreur confirmé publiquement en octobre 2020) et fermeture du service de playlisting le 1er juin 2020, l'équipe rejoignant Believe.",
+   "preuves": [
+    "https://musically.com/2020/10/20/believe-was-the-buyer-of-playlisting-platform-soundsgood/",
+    "https://www.believe.com/who-we-are/",
+    "https://www.linkedin.com/posts/josquinfarge_2013-2020-7-years-after-founding-soundsgoodco-activity-6694592898932973570-dzkh",
+    "https://www.linkedin.com/posts/louisviallet_2013-2020-7-years-after-founding-soundsgood-activity-6694595068512366592-aK0f"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Josquin Farge",
+   "linkedin": "https://fr.linkedin.com/in/josquinfarge"
+  },
+  {
+   "name": "David Billamboz",
+   "linkedin": "https://fr.linkedin.com/in/davidbillamboz"
+  },
+  {
+   "name": "Louis Viallet",
+   "linkedin": "https://fr.linkedin.com/in/louisviallet"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "Soundsgood est une plateforme qui permet à des influenceurs musicaux (DJ, artistes, médias, labels) de créer et de partager des playlists agrégées depuis Spotify, Deezer, YouTube et SoundCloud, avant de devenir un outil B2B de gestion de playlists pour les labels et les curateurs professionnels.",
+ "statusDetails": "Plateforme de découverte et de gestion de playlists musicales, fondée en 2013/lancée en novembre 2014 ; rachat par Believe annoncé en avril 2020 (acquéreur confirmé publiquement en octobre 2020) et fermeture du service de playlisting le 1er juin 2020, l'équipe fondatrice rejoignant Believe.",
+ "acquirer": "Believe",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/web/20141222011454/http://soundsgood.co/",
+   "montre": "Première capture connue du domaine soundsgood.co, déc. 2014 (période Le Camping saison 6), confirmée via l'API archive.org/wayback/available. NB : le contenu HTML de la page n'a pas pu être récupéré directement dans cet environnement — l'hôte web.archive.org est bloqué par le proxy réseau de la session (connexions systématiquement réinitialisées), y compris via les proxys de lecture alternatifs testés (r.jina.ai, allorigins, corsproxy). Seule l'API de disponibilité (hébergée sur archive.org, accessible) a pu être interrogée."
+  },
+  {
+   "url": "https://web.archive.org/web/20200513110812/https://soundsgood.co/",
+   "montre": "Dernière capture avant la coupure du service (mai 2020), cohérente avec la fermeture de la plateforme annoncée par la presse pour le 1er juin 2020 suite au rachat par Believe."
+  },
+  {
+   "url": "https://web.archive.org/web/20120825054103/http://www.soundsgood.fm/",
+   "montre": "Un domaine distinct soundsgood.fm a des captures dès 2012 et jusqu'en 2024 ; son lien avec la startup n'a pas pu être confirmé (contenu inaccessible) — probablement un nom de domaine annexe ou parking, à ne pas confondre avec soundsgood.co qui est le domaine utilisé par la presse et les fondateurs."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping, saison 6",
+   "annee": "2014",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/12/15/soundsgood/",
+   "titre": "Soundsgood veut devenir la référence mondiale de la recommandation musicale",
+   "annee": "2014",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/soundsgood-le-nouvel-enjeu-nest-plus-lacces-a-la-musique-mais-la-decouverte-et-lexperience/181123",
+   "titre": "Soundsgood: « le nouvel enjeu n'est plus l'accès à la musique, mais la découverte et l'expérience »",
+   "annee": "2015",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/3-start-up-francaises-qui-innovent-dans-la-musique/214956",
+   "titre": "3 start-up françaises qui innovent dans la musique",
+   "annee": "2015",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://musically.com/2020/10/20/believe-was-the-buyer-of-playlisting-platform-soundsgood/",
+   "titre": "Believe was the buyer of playlisting platform Soundsgood",
+   "annee": "2020",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.believe.com/who-we-are/",
+   "titre": "Believe — Who we are (historique des acquisitions)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.linkedin.com/posts/josquinfarge_2013-2020-7-years-after-founding-soundsgoodco-activity-6694592898932973570-dzkh",
+   "titre": "Post LinkedIn de Josquin Farge annonçant le rachat par Believe",
+   "annee": "2020",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.linkedin.com/posts/louisviallet_2013-2020-7-years-after-founding-soundsgood-activity-6694595068512366592-aK0f",
+   "titre": "Post LinkedIn de Louis Viallet annonçant le rachat par Believe",
+   "annee": "2020",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/soundsgoood",
+ "openQuestions": [
+  "Le contenu brut des pages archivées (web.archive.org) n'a pas pu être consulté directement dans cet environnement (hôte bloqué par le proxy réseau) : la vérification 'archive' repose donc sur l'API de disponibilité archive.org/wayback (dates de capture confirmées) et sur la presse contemporaine, pas sur une lecture directe du HTML archivé.",
+  "Une quatrième personne, Benjamin Bonny, est présentée par Louis Viallet et Josquin Farge eux-mêmes comme ayant 'rejoint plus tard' l'aventure Soundsgood et est citée comme co-fondateur dans le post d'annonce du rachat de Louis Viallet ; son LinkedIn (linkedin.com/in/benjamin-bonny-28b13240) confirme une activité de community management pour Soundsgood. Il n'apparaît dans aucune source datant de la saison 6 (2014) et n'est donc pas ajouté à la liste des fondateurs de la promotion, mais son rôle mérite d'être documenté si la base doit couvrir toute l'histoire de la société.",
+  "David Billamboz (CTO co-fondateur selon la presse de 2014 et Crunchbase) n'est mentionné dans aucun des posts LinkedIn de 2020 annonçant le rachat par Believe, ce qui suggère un possible départ de la société avant l'acquisition ; son LinkedIn actuel (labase.tech, TeleCoop) ne confirme ni n'infirme la date de son départ.",
+  "L'annonce Maddyness du 4 septembre 2014 (liste des 12 startups de la saison 6) orthographie le nom « Soundsgoood » (trois o) alors que l'article dédié de Maddyness (déc. 2014) et toute la presse ultérieure utilisent « Soundsgood » (deux o) ; cela semble être une variation orthographique de la presse plutôt qu'un changement de nom formel, mais n'a pas pu être tranché avec certitude.",
+  "La date exacte de fondation légale de la société diverge légèrement selon les sources : les posts LinkedIn de 2020 disent '2013-2020' (7 ans), alors que la presse contemporaine situe le lancement public en novembre 2014 (cohérent avec le passage par Le Camping saison 6) — écart probablement dû à la différence entre date de création de la société et date de lancement public du produit."
+ ],
+ "summary": "Toutes les données essentielles du dossier Soundsgood (saison 6, ~2014, fondateurs Josquin Farge/David Billamboz/Louis Viallet, rachat par Believe) sont confirmées par une presse contemporaine solide (Maddyness sept./déc. 2014, FrenchWeb 2015) et par des sources sur le rachat (Musically oct. 2020, page officielle Believe, posts LinkedIn des fondateurs). Deux précisions ont été ajoutées : un pivot du produit grand public vers un service B2B de gestion de playlists pour labels, et des détails plus précis sur la chronologie du rachat (annonce avril 2020, acquéreur révélé octobre 2020, fermeture de la plateforme le 1er juin 2020). Le contenu brut des archives web.archive.org n'a pas pu être consulté directement (hôte bloqué par le proxy de cet environnement), mais les dates de capture ont été confirmées via l'API de disponibilité d'archive.org. Point ouvert non résolu : une quatrième personne (Benjamin Bonny) apparaît comme co-fondateur tardif dans les annonces de rachat de 2020, sans lien établi avec la saison 6 elle-même."
+}

@@ -1,0 +1,86 @@
+{
+ "id": "s6-uniquesound",
+ "name": "UniqueSound",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified_absent",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified_absent"
+ },
+ "corrections": {
+  "status": {
+   "avant": "exit",
+   "apres": "stopped",
+   "preuves": [
+    "https://www.maddyness.com/2015/12/18/maddymoney-18-decembre/",
+    "https://www.linkedin.com/company/uniquesound",
+    "https://uniquesound.com"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Plateforme de musique signalée comme acquise.",
+   "apres": "Le domaine uniquesound.com est aujourd'hui hors service (redirection vers une page de revente GoDaddy) ; aucune couverture presse, activité ou annonce de rachat n'a été retrouvée depuis une levée de fonds fin 2015 auprès d'ISAI Venture II dans le cadre de l'expansion américaine de la startup (accélérateur Techstars NYC 2015). Aucune source ne confirme l'acquisition mentionnée dans la fiche initiale ; l'hypothèse la plus probable est un arrêt d'activité, non un rachat.",
+   "preuves": [
+    "https://www.maddyness.com/2015/12/18/maddymoney-18-decembre/",
+    "https://uniquesound.com",
+    "https://www.linkedin.com/company/uniquesound"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Romain Cochet" },
+  { "name": "Julien Declercq" },
+  { "name": "Cédric Laruelle" }
+ ],
+ "status": "stopped",
+ "activityDescription": "UniqueSound est une plateforme qui met en relation les marques, agences et producteurs avec des compositeurs de musique, les clients déposant un brief auquel les compositeurs répondent par des propositions musicales sur mesure.",
+ "statusDetails": "Le domaine uniquesound.com est aujourd'hui hors service (redirection vers une page de revente GoDaddy) ; aucune couverture presse, activité ou annonce de rachat n'a été retrouvée depuis une levée de fonds fin 2015 auprès d'ISAI Venture II dans le cadre de l'expansion américaine de la startup (accélérateur Techstars NYC 2015). Aucune source ne confirme l'acquisition mentionnée dans la fiche initiale ; l'hypothèse la plus probable est un arrêt d'activité, non un rachat.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=uniquesound.com&timestamp=2015",
+   "montre": "Capture Wayback Machine de uniquesound.com datée du 29/12/2015 (statut HTTP 200 à l'époque) — confirme que le site marketing était en ligne fin 2015. La page elle-même n'a pas pu être récupérée en texte intégral car l'outil de fetch bloque explicitement le domaine web.archive.org dans cet environnement ; seule l'API JSON wayback/available (hébergée sur archive.org) a répondu."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=app.uniquesound.com&timestamp=2015",
+   "montre": "Capture Wayback Machine de app.uniquesound.com (l'application produit) datée du 02/10/2014, correspondant à la période Le Camping saison 6 — confirme l'URL app.uniquesound.com citée par Le Journal du Net en 2014."
+  },
+  {
+   "url": "https://uniquesound.com",
+   "montre": "En 2026, le domaine redirige (307) vers forsale.godaddy.com : le nom de domaine est expiré et proposé à la vente, preuve directe que la société n'exploite plus ce site."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping dévoile les 12 startups de sa saison 6",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+   "titre": "Le Camping dévoile les 12 start-up de sa sixième saison",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/12/18/maddymoney-18-decembre/",
+   "titre": "MaddyMoney du 18 décembre (levées de fonds de la semaine)",
+   "annee": "2015",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/uniquesound",
+ "openQuestions": [
+  "Aucun profil LinkedIn individuel des trois fondateurs n'a pu être confirmé : LinkedIn a renvoyé un mur de connexion puis des erreurs de rate-limiting (HTTP 999) sur toutes les tentatives d'URL /in/ après le premier accès réussi à la page entreprise ; par ailleurs le budget WebSearch de la session était épuisé, empêchant toute découverte par extraits de recherche.",
+  "La page entreprise LinkedIn (« UniqueSound — Techstars NYC'15 ») indique une fondation en 2015 et ne mentionne aucune acquisition ; ceci correspond probablement à la date de création d'une entité américaine lors de l'entrée à Techstars, plutôt qu'à une contradiction avec la présence dans la promotion Le Camping 2014, mais cela n'a pas pu être confirmé directement.",
+  "Aucune annonce de rachat n'a été retrouvée : impossible de confirmer ou d'infirmer totalement l'hypothèse d'une acquisition silencieuse (non annoncée publiquement) plutôt qu'un simple arrêt d'activité ; le statut 'stopped' retenu est la lecture la plus probable des indices disponibles, pas une certitude absolue.",
+  "Le positionnement produit a évolué entre 2014 (mise en relation marques/agences/producteurs et compositeurs pour des bandes-son) et 2015 (plateforme de 'pitching, collaboration et workflow' pour labels, éditeurs, artistes et auteurs-compositeurs via Techstars NYC) ; le nom UniqueSound et le domaine sont restés identiques, donc ceci n'a pas été enregistré comme un changement de nom, mais pourrait mériter d'être noté comme évolution de produit."
+ ],
+ "summary": "La cohorte, le nom et les trois fondateurs (Romain Cochet, Julien Declercq, Cédric Laruelle) sont confirmés par deux sources de presse indépendantes de 2014 (Maddyness, Journal du Net). Une troisième source (MaddyMoney, décembre 2015) montre qu'UniqueSound a levé des fonds auprès d'ISAI Venture II fin 2015 dans le cadre de son expansion américaine, en lien avec un passage par l'accélérateur Techstars NYC 2015 (confirmé par la page entreprise LinkedIn, même domaine uniquesound.com). En revanche, aucune preuve d'acquisition n'a été trouvée : le statut 'exit / acquise' de la fiche initiale n'est appuyé par aucune source (y compris sa propre source citée). Le domaine uniquesound.com redirige aujourd'hui vers une page de revente GoDaddy et plus aucune activité n'est visible depuis 2015-2016. Le statut a donc été corrigé en 'stopped' (arrêt d'activité présumé), avec une réserve : l'hypothèse d'un rachat non médiatisé ne peut être totalement exclue."
+}

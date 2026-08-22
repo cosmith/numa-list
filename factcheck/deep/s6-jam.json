@@ -1,0 +1,129 @@
+{
+  "id": "s6-jam",
+  "name": "Jam",
+  "season": 6,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "corrected",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "unverifiable"
+  },
+  "corrections": {
+    "formerNamesOrPivots": {
+      "avant": [],
+      "apres": [
+        "2014 (saison 6 de Le Camping) : plateforme web mettant en relation les étudiants entre eux, avec les associations de campus et les services administratifs, testée à Sciences Po",
+        "2015 : pivot vers un service de conciergerie/recommandation par SMS dopé à l'IA (une seule ligne à qui envoyer sa demande : job, logement, bon plan, etc.), levée de 330 000 € en avril 2015",
+        "2016-2019 : pivot vers un chatbot Messenger 'média' destiné aux 15-25 ans (actualité, séries, sondages), puis vers une offre B2B (contenus de marque, sondages, solutions de chatbot en marque blanche) pour des clients comme Société Générale, la FDJ, la SNCF, Nexity, McDonald's ; nouvelle levée d'1 M€ en 2016 puis en 2019"
+      ],
+      "preuves": [
+        "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "https://www.maddyness.com/2015/05/07/jam/",
+        "https://www.maddyness.com/2016/01/21/jam-1-million-deuros/",
+        "https://www.maddyness.com/2017/01/23/chatbot-jam-sondages-millenials/",
+        "https://www.maddyness.com/2017/11/02/chatbot-jam-forum-halles/",
+        "https://www.maddyness.com/2019/05/23/jam-chatbot-leve-1-million-euros/"
+      ]
+    }
+  },
+  "founders": [
+    {
+      "name": "Marjolaine Grondin",
+      "linkedin": "https://fr.linkedin.com/in/marjolainegrondin"
+    },
+    {
+      "name": "Loïc Delmaire",
+      "linkedin": "https://fr.linkedin.com/in/skelz0r"
+    }
+  ],
+  "status": "exit",
+  "activityDescription": "Jam est un chatbot (d'abord par SMS puis sur Facebook Messenger) qui a évolué d'une plateforme de mise en relation entre étudiants de campus vers un média conversationnel destiné aux jeunes puis vers des prestations B2B de contenus, sondages et chatbots en marque blanche pour de grandes marques.",
+  "statusDetails": "Marjolaine Grondin indique dans un post LinkedIn avoir vendu Jam après dix ans d'aventure (l'entreprise a été fondée alors qu'elle avait 21 ans) ; dans une interview podcast, elle évoque avoir elle-même coupé le bot Jam, le produit ayant cessé d'exister après la vente. Aucun acquéreur n'a pu être identifié dans les sources disponibles.",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+      "titre": "12 startups saison 6",
+      "annee": "2014",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+      "titre": "Le Camping dévoile les 12 start-up de sa sixième saison",
+      "annee": "2014",
+      "soutient": ["cohort", "founders"]
+    },
+    {
+      "url": "https://www.maddyness.com/2015/05/07/jam/",
+      "titre": "Jam lève 330 000 euros pour son application d'intelligence artificielle",
+      "annee": "2015",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.maddyness.com/2016/01/21/jam-1-million-deuros/",
+      "titre": "Jam lève un million d'euros pour son service de recommandation par texto",
+      "annee": "2016",
+      "soutient": ["identity"]
+    },
+    {
+      "url": "https://www.maddyness.com/2017/01/23/chatbot-jam-sondages-millenials/",
+      "titre": "Jam se lance dans le sondage de millenials pour les marques",
+      "annee": "2017",
+      "soutient": ["identity"]
+    },
+    {
+      "url": "https://www.maddyness.com/2017/11/02/chatbot-jam-forum-halles/",
+      "titre": "Jam s'invite au Forum des Halles pour vous faire vivre de nouvelles expériences de shopping",
+      "annee": "2017",
+      "soutient": ["founders", "identity"]
+    },
+    {
+      "url": "https://www.maddyness.com/2019/05/23/jam-chatbot-leve-1-million-euros/",
+      "titre": "Jam, le chatbot qui s'adresse aux jeunes, lève à nouveau un million d'euros",
+      "annee": "2019",
+      "soutient": ["founders", "identity"]
+    },
+    {
+      "url": "https://www.societegenerale.com/sites/default/files/17032-cp-societe-generale-sassocie-au-chatbot-jam-pour-mieux-comprendre-les-millenials.pdf",
+      "titre": "Société Générale s'associe au chatbot Jam",
+      "annee": "2018",
+      "soutient": ["founders"]
+    },
+    {
+      "url": "https://www.maddyness.com/2018/05/04/marjolaine-grondin-facebook-f8/",
+      "titre": "Marjolaine Grondin, seule entrepreneure française sur la scène de la conférence Facebook F8",
+      "annee": "2018",
+      "soutient": ["founders", "identity"]
+    },
+    {
+      "url": "https://fr.linkedin.com/posts/marjolainegrondin_que-fait-on-apr%C3%A8s-avoir-vendu-lentreprise-activity-7246844997658898432-R_Mo",
+      "titre": "Que fait-on après avoir vendu l'entreprise (post de Marjolaine Grondin)",
+      "annee": "2024",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://podcast.ausha.co/choisir-sans-renoncer/marjolaine-grondin-foncer-vite-digerer-lentement-comment-ses-deux-vitesses-faconnent-ses-decisions",
+      "titre": "Choisir sans renoncer — Marjolaine Grondin",
+      "annee": "2025",
+      "soutient": ["status", "identity"]
+    },
+    {
+      "url": "https://marjolainegrondin.com/",
+      "titre": "Site personnel de Marjolaine Grondin",
+      "annee": "2026",
+      "soutient": ["founders", "identity"]
+    }
+  ],
+  "openQuestions": [
+    "L'acquéreur de Jam n'a pas été identifié : aucune source disponible ne le nomme (la fondatrice évoque la vente sans citer l'acheteur).",
+    "Internet Archive (web.archive.org) était inaccessible aux outils de récupération web de cette session (blocage systématique) : la vérification via CDX/Wayback Machine prévue par la méthodologie n'a donc pas pu être réalisée ; à refaire dès que l'accès est rétabli.",
+    "Aucun site web ni page LinkedIn d'entreprise fiable n'a été retrouvé pour le service Jam (une page LinkedIn 'Hello JAM' existe mais décrit un studio créatif distinct, sans lien établi avec le chatbot) ; le champ website reste donc non renseigné.",
+    "Le moteur WebSearch était indisponible durant cette vérification (quota de session épuisé) ; la recherche s'est appuyée uniquement sur WebFetch de pages ciblées (Maddyness, sites officiels, LinkedIn, podcast)."
+  ],
+  "summary": "Le nom, la saison (6, 2014) et les deux fondateurs (Marjolaine Grondin et Loïc Delmaire) de Jam sont confirmés par de multiples sources de presse (Maddyness, Journal du Net) et par le communiqué de Société Générale, cohérentes sur plusieurs années (2014-2019). Le statut 'exit' et le détail du statut sont corroborés indépendamment par un post LinkedIn et une interview podcast de la fondatrice elle-même, qui confirment la vente après dix ans d'aventure et l'arrêt ultérieur du chatbot, bien que l'identité de l'acquéreur reste inconnue. La correction principale apportée ici concerne le champ 'formerNamesOrPivots', jusque-là vide/non vérifiable : Jam a en réalité connu plusieurs pivots produit majeurs sous le même nom (plateforme étudiante en 2014, conciergerie IA par SMS en 2015, puis chatbot Messenger média/B2B de 2016 à 2019). Le site web actuel n'a pas pu être établi ; Internet Archive était inaccessible depuis cet environnement, ce qui limite la vérification indépendante de l'historique du site."
+}

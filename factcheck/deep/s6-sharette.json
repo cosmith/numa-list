@@ -1,0 +1,54 @@
+{
+ "id": "s6-sharette",
+ "name": "Sharette",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "unverifiable",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "unverifiable",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Grégoire de Pins"
+  }
+ ],
+ "status": "exit",
+ "acquirer": "Citygoo",
+ "activityDescription": "Sharette est une application mobile de covoiturage courte distance en zone urbaine, qui combine les trajets proposés par des conducteurs avec l'offre de transports en commun (RER, métro, bus, tramway) en Île-de-France.",
+ "statusDetails": "Communauté intégrée à Citygoo en 2016 : Sharette (environ 21 000 membres) a fusionné avec Citygoo pour constituer une plateforme commune de covoiturage urbain revendiquant plus de 100 000 utilisateurs.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping dévoile sa saison 6",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/06/13/consocollab-citygoo-soffre-specialiste-covoiturage-sharette-se-constitue-flotte-de-100-000-utilisateurs/",
+   "titre": "Consocollab : Citygoo s'offre le spécialiste du covoiturage Sharette et se constitue une flotte de 100 000 utilisateurs",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/en-bref-francois-hollande-et-axelle-lemaire-chez-webedia/186682",
+   "titre": "[En bref] François Hollande et Axelle Lemaire chez Webedia (mention de Sharette, programme GDF Suez / Paris&Co « Energie in the City »)",
+   "annee": "2015",
+   "soutient": ["identity"]
+  }
+ ],
+ "openQuestions": [
+  "Impossible de confirmer indépendamment le fondateur « Grégoire de Pins » : la source citée dans le dossier original (article Maddyness sur le rachat par Citygoo) ne nomme en réalité aucun fondateur de Sharette ni de Citygoo, et aucune autre source (presse, LinkedIn, F6S, registres) n'a pu être consultée pour le confirmer ou l'infirmer, faute d'accès aux moteurs de recherche et à LinkedIn dans cet environnement (captcha/403/429 systématiques sur Google, Bing, DuckDuckGo, Yandex, Brave, Startpage, Ecosia, Mojeek, F6S, LinkedIn ; budget WebSearch de la session épuisé).",
+  "web.archive.org (Wayback Machine) est inaccessible depuis cet environnement (connexions bloquées par la politique du proxy réseau, y compris l'API CDX et timetravel.mementoweb.org) : impossible de vérifier l'historique de captures d'un site officiel Sharette ou une page d'alumni lecamping.org/numa.co d'époque comme demandé par la méthodologie.",
+  "Le domaine sharette.fr est aujourd'hui occupé par un site de covoiturage sans rapport (« Trajet à la carte », crédité à un certain Emmanuel Devaux Moret, aucune mention de Citygoo) : rien n'indique qu'il s'agisse du même site historique de la startup Sharette repris tel quel — probablement une réattribution du nom de domaine après l'arrêt de l'activité en 2016.",
+  "Aucune page LinkedIn d'entreprise (« Sharette ») ni profil personnel de Grégoire de Pins n'a pu être localisé ou consulté."
+ ],
+ "summary": "L'appartenance à la saison 6 du Camping (article Maddyness de septembre 2014, qui liste Sharette parmi 12 startups) et la description du service — application de covoiturage courte distance combinée aux transports en commun en Île-de-France — sont bien confirmées, de même que la sortie par rachat/fusion avec Citygoo en juin 2016 (article Maddyness dédié). En revanche, le fondateur unique indiqué dans la fiche, « Grégoire de Pins », n'a pu être ni confirmé ni infirmé : la source censée l'attester ne le mentionne pas, et aucune autre source (presse, LinkedIn, registres) n'a pu être consultée, les moteurs de recherche et web.archive.org étant inaccessibles dans cet environnement. Aucun site officiel actuel n'existe pour Sharette (le domaine sharette.fr héberge désormais un service sans rapport)."
+}

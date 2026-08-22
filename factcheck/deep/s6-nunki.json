@@ -1,0 +1,87 @@
+{
+ "id": "s6-nunki",
+ "name": "Nunki",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "status": {
+   "avant": "active",
+   "apres": "stopped",
+   "preuves": [
+    "https://recherche-entreprises.api.gouv.fr/search?q=nunki&siren=801271941",
+    "https://bodacc-datadila.opendatasoft.com/api/records/1.0/search/?dataset=annonces-commerciales&q=801271941",
+    "https://www.nunki.co"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Solution de veille et d'anticipation des risques encore référencée.",
+   "apres": "L'application d'agrégation d'actualités Nunki ne semble plus opérationnelle : le site nunki.co renvoie une erreur HTTP 503 sur toutes les pages testées (accueil, mentions légales, avec et sans www), et aucune actualité presse n'a été retrouvée après 2014-2015. La société NUNKI (SAS, SIREN 801271941, créée le 26/03/2014) reste juridiquement 'active' au registre du commerce, avec Quentin Lhomme toujours président, mais son poste de Directeur Général est occupé depuis 2021 par CM Ventures, une holding financière (SIREN 898197959, créée en 2021), sans lien apparent avec le produit d'origine — signe probable d'une structure devenue une coquille juridique plutôt que d'un produit toujours en exploitation. Aucune trace de liquidation/radiation au BODACC, mais aucune preuve non plus d'un rachat (exit) ; la mention 'veille et anticipation des risques' de la fiche d'origine n'a pu être rattachée à aucune source.",
+   "preuves": [
+    "https://recherche-entreprises.api.gouv.fr/search?q=nunki&siren=801271941",
+    "https://bodacc-datadila.opendatasoft.com/api/records/1.0/search/?dataset=annonces-commerciales&q=801271941",
+    "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+    "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
+   ]
+  },
+  "website": {
+   "avant": "https://www.nunki.co",
+   "apres": "(retiré du champ website car non joignable au moment du contrôle ; conservé comme site historique du produit)",
+   "preuves": [
+    "https://www.nunki.co",
+    "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Quentin Lhomme" },
+  { "name": "Jean-Baptiste Janvier" },
+  { "name": "Quentin Lainé" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Nunki est une application iPhone gratuite qui agrège et organise en temps réel des contenus d'actualité autour d'événements tendance, pour permettre à l'utilisateur de découvrir l'information sous des angles différents.",
+ "statusDetails": "L'application d'agrégation d'actualités Nunki ne semble plus opérationnelle : le site nunki.co renvoie une erreur HTTP 503 sur toutes les pages testées (accueil, mentions légales, avec et sans www), et aucune actualité presse n'a été retrouvée après 2014-2015. La société NUNKI (SAS, SIREN 801271941, créée le 26/03/2014) reste juridiquement 'active' au registre du commerce, avec Quentin Lhomme toujours président, mais son poste de Directeur Général est occupé depuis 2021 par CM Ventures, une holding financière (SIREN 898197959, créée en 2021), sans lien apparent avec le produit d'origine — signe probable d'une structure devenue une coquille juridique plutôt que d'un produit toujours en exploitation. Aucune trace de liquidation/radiation au BODACC, mais aucune preuve non plus d'un rachat (exit) ; la mention 'veille et anticipation des risques' de la fiche d'origine n'a pu être rattachée à aucune source.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping dévoile sa saison 6",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+   "titre": "Le Camping dévoile les 12 start-up de sa sixième saison",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=nunki&siren=801271941",
+   "titre": "Recherche d'entreprises (API officielle data.gouv.fr) — fiche NUNKI, SIREN 801271941",
+   "annee": "2026",
+   "soutient": ["identity", "status", "founders"]
+  },
+  {
+   "url": "https://bodacc-datadila.opendatasoft.com/api/records/1.0/search/?dataset=annonces-commerciales&q=801271941",
+   "titre": "BODACC — annonces commerciales pour SIREN 801271941",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "openQuestions": [
+  "web.archive.org et timetravel.mementoweb.org étaient bloqués par la politique du proxy de cet environnement pendant tout le contrôle (échec systématique, 'connect_rejected' / 'not_connect') : aucune capture d'archive n'a pu être consultée pour confirmer visuellement le site d'époque ou dater sa disparition.",
+  "Le budget WebSearch de la session était déjà épuisé (0 requête disponible) avant le début de ce contrôle ; les moteurs alternatifs interrogés via WebFetch (Google, Bing, DuckDuckGo, Qwant, Mojeek) n'ont renvoyé que des pages de CAPTCHA, des résultats hors-sujet ou du contenu manifestement mis en cache/non pertinent. Aucun profil LinkedIn personnel n'a donc pu être localisé pour les trois fondateurs, ni de page LinkedIn d'entreprise pour Nunki.",
+  "Le rôle exact de CM Ventures (SIREN 898197959, Cédric Milinaire) comme Directeur Général de NUNKI depuis 2021 n'est pas expliqué par une source publique : reprise de la coquille juridique par un tiers, restructuration actionnariale liée aux fondateurs, ou autre montage. Impossible de dire s'il s'agit d'un rachat (exit) ou d'une simple réaffectation administrative.",
+  "Aucune source n'a pu être retracée pour la mention 'solution de veille et d'anticipation des risques' figurant dans la fiche d'origine ; elle pourrait provenir d'une confusion avec une autre société."
+ ],
+ "summary": "Cohorte, nom et liste des 3 fondateurs (Lhomme, Janvier, Lainé) confirmés par la presse d'époque (Maddyness, JDN) : Nunki était une appli iPhone d'agrégation d'actualités. Le statut 'active' et le statusDetails ('veille et anticipation des risques') de la fiche ne sont pas soutenus : le site nunki.co est injoignable (503) et la société, bien que toujours 'active' au RCS avec Quentin Lhomme président, a pour Directeur Général depuis 2021 une holding financière tierce (CM Ventures) sans lien avec le produit d'origine — signe d'une coquille juridique plutôt que d'une activité poursuivie. Statut corrigé en 'stopped'. Recherche fortement limitée par le blocage de web.archive.org et l'épuisement du budget WebSearch : aucun LinkedIn de fondateur trouvé, aucune preuve d'acquisition trouvée."
+}

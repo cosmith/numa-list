@@ -1,0 +1,98 @@
+{
+ "id": "s5-krack",
+ "name": "Krack",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified — le dépôt alumni officiel de Le Camping (github lecamping/lecampingmafia, startups.json) donne \"season\": \"5\" pour Krack ; l'article TechCrunch du 11 mars 2014 titré « Le Camping 5th Demo Day: Meet StreamRoot, Hublo, Krack And More » confirme indépendamment que Krack faisait partie des 12 startups de la saison 5.",
+  "name": "verified — TechCrunch (mars 2014), le dépôt alumni startups.json (champ \"name\": \"Krack\", site \"krack.co\") et l'article Wired du 11 août 2014 utilisent tous le nom \"Krack\" pour désigner le projet pendant et juste après Le Camping.",
+  "formerNamesOrPivots": "corrected — la page d'origine du projet (skatekrak.com/call-to-adventure, section \"call to adventure\") liste verbatim la chaîne complète de noms essayés avant de se fixer sur \"Krak\" : « trcksy, indy trackers, wodd, krack, krak ». La fiche existante omet le tout premier nom, \"Trcksy\" ; les trois autres (Indy Trackers, Wodd, Krak) sont corrects.",
+  "founders": "verified — l'article Wydden « 12 start-up sélectionnées saison 5 Le Camping » (contemporain, 2013/2014) nomme les quatre fondateurs de l'équipe (orthographiée \"Inystrakers\" dans cet article, coquille pour Indy Trackers) : Martin Joubert, Kevin Straszburger (orthographié \"Kavin Straszbuger\" dans la source, coquille probable), Tristan Nicolas et Damien Cavailles. L'article Wired (août 2014) cite nommément Kevin Straszburger comme cofondateur, ce qui recoupe la source Wydden. Ces quatre noms correspondent exactement à la fiche existante ; aucune correction n'est nécessaire sur la liste elle-même. Je n'ai pas pu localiser de profil LinkedIn nominatif pour aucun des quatre (LinkedIn bloque les requêtes automatisées dans cet environnement, et les moteurs de recherche alternatifs disponibles — Bing, DuckDuckGo, Qwant, Brave, Mojeek, Startpage — ont soit renvoyé des résultats non pertinents, soit été bloqués par un CAPTCHA/anti-bot). À noter : la page \"call to adventure\" du site actuel décrit l'équipe cœur ultérieure (2014-2018) sous des prénoms/surnoms seuls (\"Kev\", \"Max\", \"Simon\", \"Arthur\") — Kev correspond vraisemblablement à Kevin Straszburger, mais je n'ai pas pu établir de correspondance certaine entre \"Max\" et l'un des quatre fondateurs listés (Martin Joubert, Tristan Nicolas ou Damien Cavailles), ni confirmer si Tristan Nicolas et Damien Cavailles sont restés dans l'aventure au-delà de Le Camping. Simon et Arthur ont rejoint plus tard (2015 et 2018) et ne sont donc pas des fondateurs de la saison 5.",
+  "status": "verified — le site skatekrak.com est toujours en ligne aujourd'hui et l'historique de captures Wayback Machine (via l'API archive.org/wayback/available) montre des instantanés disponibles en continu de 2013 à 2020 au moins, signe d'une activité continue. Le domaine d'origine krack.co, lui, est aujourd'hui un domaine parqué en vente chez GoDaddy — mais cela ne remet pas en cause le statut \"active\" du projet dans son ensemble puisque celui-ci a changé de nom et de domaine (vers Krak / skatekrak.com), pas cessé d'exister.",
+  "statusDetails": "verified (dans son principe) — le récit officiel publié sur skatekrak.com/call-to-adventure confirme la continuité du projet : prototype de capteur sous les trucks fin 2013, changements de nom (trcksy, indy trackers, wodd, krack, krak), lancement d'une app iOS et d'une base de spots (2014-2015), abonnement matériel \"KrakBox\" (2015), pic d'activité en 2018 (10 salariés, 2000 abonnés KrakBox), pause en 2019, puis transition depuis 2020 vers une gouvernance coopérative/communautaire open source (\"OpenSB\") avec plus de 25 000 spots de skate référencés. La formule de la fiche (« a évolué vers Krak, communauté et cartographie mondiale du skateboard ») est donc exacte, mais peut être enrichie de ces détails.",
+  "website": "verified — skatekrak.com est bien le site actif aujourd'hui (vérifié par accès direct) ; le domaine krack.co utilisé pendant Le Camping (confirmé par le dépôt alumni et une capture Wayback de mars 2014) est aujourd'hui parqué/en vente et ne doit pas être utilisé comme site actuel."
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": ["Indy Trackers", "Wodd", "Krak"],
+   "apres": ["Trcksy", "Indy Trackers", "Wodd", "Krak"],
+   "preuves": [
+    "https://skatekrak.com/call-to-adventure",
+    "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Martin Joubert" },
+  { "name": "Kevin Straszburger" },
+  { "name": "Tristan Nicolas" },
+  { "name": "Damien Cavailles" }
+ ],
+ "status": "active",
+ "activityDescription": "Krack est un petit boîtier de capteurs (accéléromètre, gyroscope, magnétomètre) à fixer sous une planche de skateboard pour détecter automatiquement les figures réalisées, les localiser et les partager via une application mobile afin de se mesurer à une communauté de skateurs.",
+ "statusDetails": "Le projet lancé à Le Camping sous le nom Krack (capteur de figures de skateboard, après des noms de travail successifs Trcksy, Indy Trackers et Wodd) a été renommé Krak fin 2014. Après une phase commerciale (application iOS, base de spots, abonnement matériel KrakBox, jusqu'à 10 salariés et 2000 abonnés en 2018) suivie d'une pause en 2019, le projet s'est transformé depuis 2020 en collectif communautaire et open source (« OpenSB ») qui exploite aujourd'hui skatekrak.com : archives et cartographie mondiale gratuites du skateboard (plus de 25 000 spots référencés), en transition vers une gouvernance coopérative. Le domaine d'origine krack.co est aujourd'hui un domaine parqué en vente, sans lien avec l'activité actuelle qui se poursuit sous skatekrak.com.",
+ "website": "https://skatekrak.com",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20140311175325/http://krack.co/",
+   "montre": "Instantané Wayback Machine du domaine d'origine krack.co daté du 11 mars 2014 (jour même du Demo Day de la saison 5), obtenu via l'API archive.org/wayback/available (accès direct à web.archive.org indisponible depuis cet environnement)."
+  },
+  {
+   "url": "http://web.archive.org/web/20140914214845/http://www.skatekrak.com:80/",
+   "montre": "Première capture connue de skatekrak.com (14 septembre 2014), qui atteste du passage au nom/domaine \"Krak\" dès l'automne 2014, conforme au récit officiel (renommage fin 2014)."
+  },
+  {
+   "url": "http://web.archive.org/web/20141226145449/http://skatekrak.com/",
+   "montre": "Seconde capture de skatekrak.com fin décembre 2014, confirmant la continuité du site sous ce nom."
+  },
+  {
+   "url": "http://web.archive.org/web/20160306104007/http://skatekrak.com/",
+   "montre": "Capture de mars 2016 montrant que le site est resté actif après la phase Le Camping."
+  },
+  {
+   "url": "http://web.archive.org/web/20200511064943/https://skatekrak.com/",
+   "montre": "Capture de mai 2020 montrant que le site existe toujours pendant/après la transition vers le modèle communautaire OpenSB."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/",
+   "titre": "Le Camping 5th Demo Day: Meet StreamRoot, Hublo, Krack And More",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.wired.com/story/trick-tracker/",
+   "titre": "This Sensor Wants to Track Every Trick You Do on a Skateboard (article Wired, 11 août 2014, par Oliver Franklin-Wallis)",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+   "titre": "12 start-up sélectionnées saison 5 Le Camping",
+   "annee": "2013/2014",
+   "soutient": ["cohort", "founders"]
+  },
+  {
+   "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json",
+   "titre": "startups.json — dépôt alumni officiel de Le Camping (entrée Krack : saison 5, site krack.co, pitch matériel skateboard)",
+   "annee": "n/a (dépôt communautaire des anciens de Le Camping)",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://skatekrak.com/call-to-adventure",
+   "titre": "Krak — Call to Adventure (récit officiel de l'histoire du projet, des noms successifs et de la transition vers OpenSB)",
+   "annee": "n/a (page permanente, consultée en 2026)",
+   "soutient": ["identity", "status", "founders"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Confirmer les profils LinkedIn individuels des quatre fondateurs (Martin Joubert, Kevin Straszburger, Tristan Nicolas, Damien Cavailles) : LinkedIn bloque les requêtes automatisées dans cet environnement, et les moteurs de recherche alternatifs testés (Bing, DuckDuckGo, Qwant, Brave, Mojeek, Startpage, Marginalia) ont soit renvoyé des résultats non pertinents (page générique sur le prénom), soit été bloqués par un CAPTCHA ou une erreur anti-bot.",
+  "Établir avec certitude quels fondateurs de la saison 5 (parmi les quatre) sont restés dans l'équipe cœur au-delà de 2014-2015 : le récit \"call to adventure\" mentionne une équipe cœur ultérieure sous les seuls prénoms \"Kev\" (probablement Kevin Straszburger), \"Max\", \"Simon\" (arrivé 2015) et \"Arthur\" (arrivé 2018), sans que \"Max\" corresponde clairement à Martin Joubert, Tristan Nicolas ou Damien Cavailles.",
+  "Confirmer, via un registre français (pappers.fr, infogreffe, societe.com — inaccessibles depuis cet environnement de recherche), l'existence, la forme juridique et l'éventuelle radiation/transformation de la société d'origine (Krack SAS ou équivalent) au moment du passage au modèle associatif/coopératif OpenSB.",
+  "Vérifier l'existence d'une page LinkedIn d'entreprise (société ou collectif) pour Krack/Krak/OpenSB ; aucune n'a pu être localisée depuis cet environnement."
+ ],
+ "summary": "Krack (saison 5 de Le Camping, 2013-2014) était un capteur à fixer sous une planche de skateboard pour détecter les figures et les partager via une application mobile, cofondé par Martin Joubert, Kevin Straszburger, Tristan Nicolas et Damien Cavailles — cohorte et identité confirmées par TechCrunch, Wired et l'article contemporain de Wydden, qui corrobore aussi la liste des quatre fondateurs. Le champ formerNamesOrPivots de la fiche existante est incomplet : le récit officiel du projet (skatekrak.com/call-to-adventure) révèle un tout premier nom, \"Trcksy\", avant \"Indy Trackers\", \"Wodd\", \"Krack\" puis \"Krak\" (fin 2014) ; correction proposée pour l'ajouter. Le statut \"active\" et le site skatekrak.com sont confirmés : après une phase commerciale (app, base de spots, abonnement KrakBox, jusqu'à 10 salariés en 2018) et une pause en 2019, le projet s'est transformé en 2020 en collectif communautaire et open source (OpenSB) toujours actif, avec plus de 25 000 spots de skate référencés ; l'ancien domaine krack.co est aujourd'hui parqué en vente, sans que cela remette en cause l'activité du projet sous son nouveau nom. Aucun profil LinkedIn individuel n'a pu être confirmé pour les fondateurs, web.archive.org n'étant accessible que via l'API \"wayback/available\" (pas de rendu direct des pages) dans cet environnement ; aucune preuve d'acquisition n'a été trouvée."
+}

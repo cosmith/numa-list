@@ -1,0 +1,64 @@
+{
+ "id": "s6-kokot",
+ "name": "Kokot'",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "status": {
+   "avant": "stopped",
+   "apres": "stopped",
+   "preuves": [
+    "https://www.maddyness.com/2014/09/04/lecamping-saison6/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Application culinaire non retrouvée comme activité actuelle.",
+   "apres": "Kokot' n'était pas une application culinaire : c'était un service de gestion de notes de frais (photo des tickets). Le domaine historique www.mykokot.com ne résout plus (DNS introuvable), aucune fiche Crunchbase, annuaire-startups.pro ou MyFrenchStartup n'existe pour la société, et aucune actualité, levée de fonds ou acquisition n'a été retrouvée dans la presse française ou anglophone depuis l'annonce de la saison 6 en septembre 2014. Tout indique un arrêt d'activité, sans trace d'exit.",
+   "preuves": [
+    "https://www.maddyness.com/2014/09/04/lecamping-saison6/"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "http://www.mykokot.com",
+   "preuves": [
+    "https://www.maddyness.com/2014/09/04/lecamping-saison6/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Quang Hoang" },
+  { "name": "Jean-Baptiste Coger" },
+  { "name": "William Pollet" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Kokot' est un service qui simplifie la gestion des notes de frais en permettant aux utilisateurs de photographier directement leurs tickets de caisse plutôt que de les saisir manuellement.",
+ "statusDetails": "Kokot' n'était pas une application culinaire : c'était un service de gestion de notes de frais (photo des tickets). Le domaine historique www.mykokot.com ne résout plus (DNS introuvable), aucune fiche Crunchbase, annuaire-startups.pro ou MyFrenchStartup n'existe pour la société, et aucune actualité, levée de fonds ou acquisition n'a été retrouvée dans la presse française ou anglophone depuis l'annonce de la saison 6 en septembre 2014. Tout indique un arrêt d'activité, sans trace d'exit.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping, saison 6 : les 15 startups sélectionnées",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity", "status"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "web.archive.org a été totalement inaccessible depuis cet environnement (le WebFetch renvoie systématiquement 'Claude Code is unable to fetch from web.archive.org', quelle que soit l'URL ou le format), empêchant toute vérification via une capture d'archive de mykokot.com ou des pages de cohorte lecamping.org / numa.co pour la saison 6 — à refaire depuis un environnement sans cette restriction.",
+  "Le budget WebSearch de la session était déjà épuisé (200/200) avant le début de cette recherche ; les moteurs de substitution (Bing, DuckDuckGo, Google, Marginalia) ont renvoyé des pages de captcha ou des résultats hors sujet, empêchant une recherche élargie sur la presse et LinkedIn.",
+  "Aucun profil LinkedIn personnel n'a pu être identifié avec certitude pour Quang Hoang, Jean-Baptiste Coger ou William Pollet, ni de page LinkedIn d'entreprise pour Kokot' — les recherches ciblées via moteurs de substitution n'ont abouti à aucun résultat pertinent.",
+  "Le domaine mykokot.com ne se résout plus (NXDOMAIN), ce qui est cohérent avec un arrêt mais ne constitue pas à lui seul une preuve définitive selon la méthodologie du projet ; aucune autre trace (registre, presse, réseaux sociaux) n'a pu être trouvée pour confirmer ou contredire cette hypothèse."
+ ],
+ "summary": "Kokot' fait bien partie de la saison 6 du Camping (rentrée 2014), avec les trois fondateurs Quang Hoang, Jean-Baptiste Coger et William Pollet confirmés par l'article officiel Maddyness annonçant la sélection. Ce n'était pas une 'application culinaire' comme le laissait entendre le champ statusDetails existant, mais un service de gestion de notes de frais par photo de tickets, accessible à l'époque sur www.mykokot.com. Ce domaine ne résout plus aujourd'hui, aucune fiche société (Crunchbase, annuaires de startups) n'existe, et aucune actualité ni trace d'acquisition n'a été retrouvée depuis 2014 dans la presse française ou anglophone : le statut 'stopped' du dossier est donc confirmé et mieux étayé, même s'il reste basé sur l'absence de traces plutôt que sur une annonce explicite de cessation. La vérification via Internet Archive n'a pas pu être réalisée : web.archive.org était inaccessible depuis cet environnement, et le budget de recherche web de la session était épuisé, ce qui limite la profondeur de cette enquête par rapport à la méthodologie visée."
+}

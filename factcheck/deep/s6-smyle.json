@@ -1,0 +1,78 @@
+{
+  "id": "s6-smyle",
+  "name": "Smyle",
+  "season": 6,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "corrected",
+    "statusDetails": "corrected",
+    "website": "verified"
+  },
+  "corrections": {
+    "statusDetails": {
+      "avant": "Service non retrouvé comme activité actuelle.",
+      "apres": "Le site du produit, www.smyle.io, encore en ligne pendant et après la saison 6 (captures Wayback Machine confirmées de 2014 à ~2016), ne pointe plus vers le produit aujourd'hui : en août 2026, http://smyle.io redirige vers une page « /lander » interne et https://www.smyle.io redirige (307) vers la page de revente de noms de domaine forsale.godaddy.com, preuve que le domaine a été abandonné puis mis en vente. Aucune couverture de presse, levée de fonds, rachat ou mention d'activité postérieure au seul article de lancement de la promotion (septembre 2014) n'a pu être retrouvée malgré des recherches ciblées sur Maddyness, Rude Baguette, FrenchWeb et TechCrunch. La page entreprise LinkedIn (linkedin.com/company/smyle-io) subsiste mais sans indice d'activité récente, ce qui est courant pour une startup arrêtée dont la fiche n'a jamais été supprimée.",
+      "preuves": [
+        "http://smyle.io/",
+        "https://www.smyle.io/",
+        "https://forsale.godaddy.com/forsale/www.smyle.io",
+        "http://archive.org/wayback/available?url=smyle.io&timestamp=20150101",
+        "https://www.linkedin.com/company/smyle-io"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Augustin Marty" },
+    { "name": "Aloïs Brunel" },
+    { "name": "Vincent Delaitre" }
+  ],
+  "status": "stopped",
+  "activityDescription": "Smyle est une extension de navigateur se présentant comme le premier moteur de comparaison pour la mode, qui repère automatiquement sur d'autres sites e-commerce des articles concurrents ou similaires à partir de l'image et du prix d'un produit consulté.",
+  "statusDetails": "Le site du produit, www.smyle.io, encore en ligne pendant et après la saison 6 (captures Wayback Machine confirmées de 2014 à ~2016), ne pointe plus vers le produit aujourd'hui : en août 2026, http://smyle.io redirige vers une page « /lander » interne et https://www.smyle.io redirige (307) vers la page de revente de noms de domaine forsale.godaddy.com, preuve que le domaine a été abandonné puis mis en vente. Aucune couverture de presse, levée de fonds, rachat ou mention d'activité postérieure au seul article de lancement de la promotion (septembre 2014) n'a pu être retrouvée malgré des recherches ciblées sur Maddyness, Rude Baguette, FrenchWeb et TechCrunch. La page entreprise LinkedIn (linkedin.com/company/smyle-io) subsiste mais sans indice d'activité récente, ce qui est courant pour une startup arrêtée dont la fiche n'a jamais été supprimée.",
+  "archiveEvidence": [
+    {
+      "url": "http://web.archive.org/web/20140414041111/http://www.smyle.io:80/",
+      "montre": "Première capture connue du site smyle.io (14 avril 2014), confirmant l'existence du site avant/pendant la saison 6 de Le Camping (contenu détaillé non consultable : le domaine web.archive.org est bloqué par la politique réseau de cet environnement — connexions réinitialisées en HTTPS et 'hostname_blocked' en HTTP ; seule l'existence de la capture, via l'API 'wayback/available' servie depuis le domaine archive.org non bloqué, a pu être confirmée)."
+    },
+    {
+      "url": "http://web.archive.org/web/20150703184318/http://www.smyle.io:80/",
+      "montre": "Capture du 3 juillet 2015, pendant la période d'activité présumée du produit ; contenu non consultable pour la même raison technique que ci-dessus."
+    },
+    {
+      "url": "http://web.archive.org/web/20190721071507/https://smyle.io/",
+      "montre": "Capture du 21 juillet 2019, avec un écart de ~4 ans sans capture entre 2015 et 2019 d'après l'API 'available' — compatible avec un abandon du site avant 2019, mais non confirmé faute d'accès au contenu."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+      "titre": "Le Camping, saison 6",
+      "annee": "2014",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+      "titre": "Le Camping dévoile les 12 start-up de sa sixième saison",
+      "annee": "2014",
+      "soutient": ["cohort", "founders", "identity"]
+    },
+    {
+      "url": "https://www.linkedin.com/company/smyle-io",
+      "titre": "Smyle.io — page entreprise LinkedIn",
+      "annee": "2026 (page consultée)",
+      "soutient": ["identity"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/smyle-io",
+  "openQuestions": [
+    "Profils LinkedIn personnels des trois fondateurs (Augustin Marty, Aloïs Brunel, Vincent Delaitre) non localisés : le quota WebSearch de la session était déjà épuisé (0 recherche disponible) et tous les moteurs accessibles via WebFetch (Google, Bing, DuckDuckGo, Ecosia, Mojeek, Qwant, Brave, Startpage) ont renvoyé des CAPTCHA, des blocages 403/429 ou des pages sans rapport avec la requête. Une recherche dédiée avec un quota WebSearch disponible permettrait probablement de les trouver.",
+    "Date exacte d'arrêt de l'activité de Smyle non déterminée : aucune annonce de fermeture, de rachat ou de pivot n'a été retrouvée ; la conclusion « stopped » repose sur l'absence totale de trace après septembre 2014, la redirection actuelle du domaine vers une page de revente GoDaddy, et l'absence de toute activité constatable sur la page LinkedIn de l'entreprise.",
+    "Contenu détaillé des captures Wayback Machine (page d'accueil, équipe, éventuelle page de fermeture) non consultable dans cette session : le domaine web.archive.org est bloqué par la politique réseau (contrairement à archive.org, qui reste accessible et a permis d'interroger l'API 'wayback/available')."
+  ],
+  "summary": "Smyle (saison 6 de Le Camping, 2014) est confirmée par les articles Maddyness et Journal du Net annonçant la promotion : moteur/extension de comparaison de prix pour la mode, fondée par Augustin Marty (CEO), Aloïs Brunel (CPO) et Vincent Delaitre (CTO) — liste de fondateurs inchangée et confirmée. Site du produit identifié : www.smyle.io (absent de la fiche initiale). Statut « stopped » confirmé et renforcé : le domaine smyle.io redirige aujourd'hui (2026) vers une page de revente de noms de domaine GoDaddy, et aucune trace de presse, de financement ou de rachat n'existe après l'article de lancement de septembre 2014. La page entreprise LinkedIn subsiste mais sans signal d'activité récente. Profils LinkedIn personnels des fondateurs non trouvés faute de quota de recherche et en raison du blocage des moteurs de recherche accessibles via WebFetch dans cette session ; contenu détaillé des captures Wayback Machine non consultable, le domaine web.archive.org étant bloqué par la politique réseau de l'environnement (seule l'API 'available', servie par archive.org, a pu être utilisée)."
+}
