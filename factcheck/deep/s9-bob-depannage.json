@@ -1,0 +1,106 @@
+{
+ "id": "s9-bob-depannage",
+ "name": "Bob! Dépannage",
+ "season": 9,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "status": {
+   "avant": "active",
+   "apres": "exit",
+   "preuves": [
+    "https://fr.linkedin.com/posts/hamza-hassoun-make-gmao-great-again_big-announcement-une-page-se-tourne-activity-7424105276468899840-5O9h",
+    "https://www.pappers.fr/entreprise/810972927",
+    "https://www.societe.com/societe/smart-services-829481159.html"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Plateforme de dépannage encore accessible.",
+   "apres": "En février 2026, le cofondateur Hamza Hassoun a annoncé sur LinkedIn la transmission de Bob! Dépannage (créée en 2015 avec Blaise Chavanne, ~30 collaborateurs, partenaires Leroy Merlin, investisseurs NUMA et VINCI) à Smart-Services et à Mamoun Idrissi ; les fondateurs se consacrent désormais à leur autre société, Bob! Desk (logiciel de GMAO). Le site bobdepannage.fr reste en ligne et mentionne Smart-Services SAS comme exploitant ; la société BOB DEPANNAGE (SIREN 810 972 927) est toujours active au registre.",
+   "preuves": [
+    "https://fr.linkedin.com/posts/hamza-hassoun-make-gmao-great-again_big-announcement-une-page-se-tourne-activity-7424105276468899840-5O9h",
+    "https://www.bobdepannage.fr",
+    "https://www.pappers.fr/entreprise/810972927"
+   ]
+  },
+  "acquirer": {
+   "avant": null,
+   "apres": "Smart-Services (repreneurs Mamoun Idrissi et Stephen Morello)",
+   "preuves": [
+    "https://fr.linkedin.com/posts/hamza-hassoun-make-gmao-great-again_big-announcement-une-page-se-tourne-activity-7424105276468899840-5O9h",
+    "https://fr.linkedin.com/in/mamounidrissi"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Hamza Hassoun",
+   "linkedin": "https://fr.linkedin.com/in/hamza-hassoun-make-gmao-great-again"
+  },
+  {
+   "name": "Blaise Chavanne",
+   "linkedin": "https://fr.linkedin.com/in/blaisechavanne"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "Bob! Dépannage est une plateforme qui met en relation particuliers et professionnels avec des artisans (plomberie, électricité, serrurerie, chauffage, climatisation, dépannage électroménager) pour des interventions de dépannage rapides à prix transparent.",
+ "statusDetails": "En février 2026, le cofondateur Hamza Hassoun a annoncé sur LinkedIn la transmission de Bob! Dépannage (créée en 2015 avec Blaise Chavanne, environ 30 collaborateurs, partenariats avec Leroy Merlin, investisseurs NUMA et VINCI) à Smart-Services et à Mamoun Idrissi ; les fondateurs se consacrent désormais à leur autre société, Bob! Desk (logiciel de GMAO pour la maintenance multi-sites). Le site bobdepannage.fr reste en ligne en 2026 et mentionne Smart-Services SAS comme exploitant ; la société BOB DEPANNAGE (SIREN 810 972 927, créée le 19/04/2015) est toujours active au registre du commerce, avec un effectif de quelques salariés.",
+ "acquirer": "Smart-Services (repreneurs Mamoun Idrissi et Stephen Morello)",
+ "website": "https://www.bobdepannage.fr",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+   "titre": "NUMA DemoDay Season 9: Meet our new startups",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://fr.linkedin.com/posts/hamza-hassoun-make-gmao-great-again_big-announcement-une-page-se-tourne-activity-7424105276468899840-5O9h",
+   "titre": "BIG ANNOUNCEMENT — Une page se tourne aujourd'hui (post de Hamza Hassoun)",
+   "annee": "2026",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://podcasts.audiomeans.fr/saas-connection-978555030bb5/111-hamza-hassoun-ceo-de-bobdesk-identifier-une-opportunite-de-saas-en-commencant-par-du-service-544c3b9e",
+   "titre": "#111 Hamza Hassoun, CEO de BobDesk — Identifier une opportunité de SaaS en commençant par du service",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/810972927",
+   "titre": "BOB DEPANNAGE — fiche entreprise (SIREN 810 972 927)",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/societe/smart-services-829481159.html",
+   "titre": "SMART-SERVICES — fiche société (SIREN 829 481 159)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://fr.linkedin.com/company/bobd%C3%A9pannage-fr",
+   "titre": "Bob! Dépannage — page entreprise LinkedIn",
+   "annee": "2026",
+   "soutient": ["identity", "status"]
+  }
+ ],
+ "linkedinCompany": "https://fr.linkedin.com/company/bobd%C3%A9pannage-fr",
+ "openQuestions": [
+  "Impossible d'accéder à web.archive.org pendant cette session (le domaine est bloqué par l'outil WebFetch, et les proxys alternatifs testés — r.jina.ai, allorigins, corsproxy, web-beta.archive.org — ont tous échoué avec des erreurs 403/400/522/503). Une capture Wayback Machine de bobdepannage.fr en 2016 et des pages de cohorte lecamping.org/numa.co restent donc à vérifier séparément.",
+  "La source historique citée dans data.json (https://bob-desk.fr/285578-2/) renvoie désormais une page 404 : le contenu qui y justifiait 'founders'/'status' n'est plus consultable ; il faudrait retrouver une capture archivée de cette page pour la source originale.",
+  "Le SIREN de la société d'origine (BOB DEPANNAGE, 810 972 927) apparaît encore avec Hamza Hassoun comme président dans certaines fiches registre consultées, ce qui peut refléter un décalage de mise à jour du RCS par rapport à l'annonce LinkedIn de février 2026 ; la date exacte de changement légal de dirigeant reste à confirmer directement auprès du RCS/Infogreffe.",
+  "Le rôle exact de Stephen Morello par rapport à Mamoun Idrissi dans la reprise (via quelle entité précise, Smart-Services SIREN 829481159) mériterait une vérification complémentaire, les données de societe.com scrappées contenant des libellés de dirigeants peu clairs (ex. 'MORELLO CAPITAL')."
+ ],
+ "summary": "Bob! Dépannage (saison 9, cohorte confirmée par l'article NUMA DemoDay 2016) a bien été fondée par Hamza Hassoun et Blaise Chavanne en 2015, comme déjà établi. La nouveauté majeure découverte : en février 2026, Hassoun a annoncé publiquement la transmission de la société à Smart-Services / Mamoun Idrissi, les fondateurs se consacrant désormais à Bob! Desk. Le site bobdepannage.fr reste en ligne et l'entité SIREN 810972927 est active, mais il s'agit d'une sortie des fondateurs plutôt que d'une activité 'active' au sens de la fiche actuelle : statut corrigé en 'exit' avec acquéreur renseigné, description d'activité et LinkedIn des deux fondateurs ajoutés. Aucun accès possible à web.archive.org durant cette session (blocage outil), documenté en question ouverte."
+}

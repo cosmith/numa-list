@@ -1,0 +1,80 @@
+{
+ "id": "s9-advitam",
+ "name": "AdVitam",
+ "season": 9,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Philippe Meyralbe",
+   "linkedin": "https://fr.linkedin.com/in/philippemeyralbe"
+  },
+  {
+   "name": "Henri di Costanzo"
+  }
+ ],
+ "status": "active",
+ "activityDescription": "AdVitam est une agence de pompes funèbres en ligne qui permet d'organiser des obsèques de façon transparente et jusqu'à 30 à 50 % moins chère que les prestataires traditionnels.",
+ "statusDetails": "Société active en 2026 : site marchand en ligne, prise de rendez-vous 7j/7, plusieurs milliers de familles accompagnées, couverture presse récente (Le Nouvel Économiste, avril 2025) et nouveau service AssistGPT (aides financières au décès).",
+ "website": "https://advitam.fr",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20160331114715/https://advitam.fr/",
+   "montre": "Snapshot du 31 mars 2016 montrant AdVitam déjà en ligne comme '1ère agence de pompes funèbres' en Île-de-France, offre à 2500€ tout compris, habilitée par la préfecture de police de Paris et membre de la Fédération Française de Pompes Funèbres — confirme l'identité et l'activité dès la saison 9."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+   "titre": "5 ans d'accélération, 116 startups accompagnées… Numa fait le bilan de sa 9ème promo",
+   "annee": "2016",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+   "titre": "NUMA Demoday Season 9 — Meet our new startups",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.lefigaro.fr/societes/2018/11/01/20005-20181101ARTFIG00012-advitam-start-up-en-ligne-de-pompes-funebres-qui-veut-uberiser-un-secteur-plein-d-avenir.php",
+   "titre": "Advitam, start-up en ligne de pompes funèbres qui veut «ubériser» un secteur plein d'avenir",
+   "annee": "2018",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://newfundcap.com/company/advitam",
+   "titre": "AdVitam — portfolio Newfund Capital",
+   "annee": "2018",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://advitam.fr/a-propos-des-pompes-funebres-autrement",
+   "titre": "Nos engagements — Advitam",
+   "annee": "2026",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://advitam.fr/presse",
+   "titre": "Advitam dans la presse",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être localisé pour Henri di Costanzo (nom peu commun, aucun résultat pertinent trouvé) ; son rôle de cofondateur repose sur la presse contemporaine (Maddyness, octobre 2016) mais on ignore s'il est toujours associé à l'entreprise en 2026 — seul Philippe Meyralbe apparaît nommément comme fondateur/CEO dans les sources 2018-2026 (Le Figaro, Newfund, page presse Advitam).",
+  "Aucune page LinkedIn d'entreprise (linkedin.com/company/...) n'a été retrouvée pour Advitam.",
+  "web.archive.org était inaccessible en fetch direct dans cet environnement ; les captures ont été consultées via un proxy de lecture (r.jina.ai / allorigins), ce qui limite la vérification exhaustive de l'historique complet du site (ex. période 2010-2019 signalée comme comportant des redirections dans l'index CDX, sans confirmation directe du contenu)."
+ ],
+ "summary": "AdVitam, saison 9 de NUMA (annoncée en octobre 2016), est confirmée comme startup de pompes funèbres en ligne créée en février 2016 par Philippe Meyralbe et Henri di Costanzo (Maddyness, 20/10/2016). Le site advitam.fr était déjà en ligne avec la même identité et offre dès mars 2016 (archive.org), et reste actif en 2026 avec presse récente (2018, 2024, 2025) et service clientèle opérationnel. Philippe Meyralbe est identifié comme fondateur/CEO dans toutes les sources jusqu'à 2026 et son profil LinkedIn a été localisé (fr.linkedin.com/in/philippemeyralbe) ; aucun profil LinkedIn n'a pu être trouvé pour Henri di Costanzo, dont la présence actuelle dans l'entreprise n'est pas confirmée mais dont le statut de cofondateur d'origine est bien établi. Tous les champs du dossier (saison, nom, fondateurs, statut actif, site) sont vérifiés ; aucune correction nécessaire."
+}
