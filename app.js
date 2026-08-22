@@ -1,5 +1,4 @@
 const STATUS_LABELS = { active: "En activité", exit: "Exit", stopped: "Stoppé" };
-const CONFIDENCE_LABELS = { high: "élevée", medium: "moyenne", low: "faible" };
 
 const state = {
   startups: [],
@@ -29,12 +28,6 @@ const escapeHtml = (value = "") => String(value)
 const sourceLink = (url, label) => {
   if (!url) return "";
   return `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
-};
-
-const formatDate = (iso) => {
-  if (!iso) return "";
-  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", year: "numeric" })
-    .format(new Date(`${iso}T00:00:00`));
 };
 
 const metaGroup = (label, value, className = "") => {
@@ -83,11 +76,6 @@ const makeDetails = (startup) => {
     : "";
   const selectionRefs = sourcesFor(startup, ["cohort"]).map(refLink).join("");
   const selection = `Saison ${String(startup.season).padStart(2, "0")}${selectionRefs}`;
-  const confidenceLabel = CONFIDENCE_LABELS[startup.confidence];
-  const verification = [
-    confidenceLabel ? `Confiance ${escapeHtml(confidenceLabel)}` : "",
-    startup.statusAsOf ? `vérifié le ${escapeHtml(formatDate(startup.statusAsOf))}` : "",
-  ].filter(Boolean).join(" · ");
 
   return `${activity}
   ${lead}
@@ -95,7 +83,6 @@ const makeDetails = (startup) => {
     ${metaGroup("Ancien nom / pivot", pivots)}
     ${metaGroup("Site web", website)}
     ${metaGroup("Sélection", selection)}
-    ${metaGroup("Vérification", verification, "detail-verification")}
   </div>`;
 };
 
