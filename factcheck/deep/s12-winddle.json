@@ -29,44 +29,63 @@
   }
  ],
  "status": "exit",
- "statusDetails": "Plateforme SaaS collaborative de supply chain (SRM + TMS), rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM). Le registre officiel des entreprises confirme le changement de siège vers l'adresse de la holding MyTower le 21 avril 2026 ; le produit Winddle continue d'être commercialisé sous la marque du groupe MyTower.",
- "archiveEvidence": [],
+ "statusDetails": "Plateforme SaaS collaborative de supply chain (SRM + TMS), fondée en 2015, rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM, ensemble de plus de 300 salariés en France, Italie, Espagne et Maroc, MyTower étant soutenu par Verto Growth depuis décembre 2025). Le registre officiel des entreprises confirme ce rachat de façon indépendante : l'établissement historique de Winddle (15 rue de Siam, Paris 16e) a été fermé le 21 avril 2026 au profit d'un nouveau siège au 183 rue de la Pompe, Paris 16e — adresse qui est très exactement celle du siège social de la société MYTOWER (SIREN 843849134) — et le président de Winddle SAS est désormais l'entité MYTO (SIREN 994060200), liée au groupe acquéreur. Le produit Winddle continue d'être commercialisé sous la marque du groupe MyTower ; le site winddle.com reste en ligne et affiche l'annonce du rapprochement en page d'accueil.",
+ "website": "https://www.winddle.com",
+ "activityDescription": "Winddle est une plateforme SaaS collaborative de gestion de la supply chain, combinant gestion des relations fournisseurs (SRM) et gestion du transport (TMS) pour un suivi en temps réel des commandes et flux logistiques.",
+ "acquirer": "MyTower",
+ "linkedinCompany": "https://www.linkedin.com/company/winddle/",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=winddle.com&timestamp=2018",
+   "montre": "L'API Wayback \"available\" (accessible malgré le blocage réseau de web.archive.org lui-même) confirme l'existence d'une capture de winddle.com au 14 octobre 2017 (statut 200, URL http://web.archive.org/web/20171014051314/https://www.winddle.com/), ce qui établit que le site était en ligne pendant les années de la promotion 12 (2017-2018) — mais le contenu de la capture n'a pas pu être consulté (voir openQuestions)."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=hub.numa.co/public/alumni&timestamp=2018",
+   "montre": "Confirme l'existence d'une capture Wayback de la base alumni officielle de NUMA au 23 octobre 2018 (statut 200, URL http://web.archive.org/web/20181023051215/https://hub.numa.co/public/alumni) ; le contenu détaillé (liste des startups par saison) n'a pas pu être récupéré car web.archive.org bloque les requêtes directes depuis cet environnement — voir openQuestions."
+  }
+ ],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://recherche-entreprises.api.gouv.fr/search?q=winddle",
-   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 811521491",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Registre officiel des entreprises (API recherche-entreprises.api.gouv.fr), SIREN 811521491 — création le 5 mai 2015, siège actif, historique de siège consulté (fermeture de l'établissement du 15 rue de Siam le 21/04/2026, ouverture au 183 rue de la Pompe le même jour, président désormais MYTO SIREN 994060200)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=mytower",
+   "titre": "Fiche registre de MYTOWER (SIREN 843849134), siège au 183 rue de la Pompe, 75016 Paris — corrobore de façon indépendante l'adresse de reprise de Winddle",
+   "annee": "2026",
+   "soutient": ["status"]
   },
   {
    "url": "https://www.faq-logistique.com/CP20260410-MyTower-Acquisition-TDI-Winddle-Belharra-e-SCM.htm",
-   "titre": "",
-   "soutient": [
-    "status",
-    "founders"
-   ]
+   "titre": "Communiqué : MyTower (soutenu par Verto Growth) acquiert TDI, Winddle et Belharra e-SCM pour former un groupe de plus de 300 salariés (France, Italie, Espagne, Maroc)",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
   },
   {
    "url": "https://www.winddle.com/en",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "Page officielle winddle.com/en : description du produit (SRM + TMS, coût rendu, ESG/traçabilité) et annonce du rapprochement avec MyTower",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/winddle/",
+   "titre": "Page entreprise LinkedIn de Winddle : fondée en 2015, 11-50 salariés, plateforme collaborative de supply chain reconnue par SAP parmi les 8 solutions procurement les plus innovantes, plus de 4500 professionnels utilisateurs",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Plateforme SaaS collaborative de supply chain (SRM + TMS), rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM). Le registre officiel des entreprises confirme le changement de siège vers l'adresse de la holding MyTower le 21 avril 2026 ; le produit Winddle continue d'être commercialisé sous la marque du groupe MyTower.",
- "activityDescription": "Winddle est une plateforme SaaS collaborative de gestion de la supply chain, combinant gestion des relations fournisseurs (SRM) et gestion du transport (TMS) pour un suivi en temps réel des commandes et flux logistiques.",
- "website": "https://www.winddle.com",
- "acquirer": "MyTower"
+ "openQuestions": [
+  "web.archive.org bloque les requêtes directes depuis cet environnement (échec confirmé sur plusieurs formes d'URL : snapshot direct, endpoint CDX) ; seule l'API annexe archive.org/wayback/available a répondu, confirmant l'existence de captures (winddle.com en 2017, hub.numa.co/public/alumni en 2018) sans permettre d'en lire le contenu. La confirmation directe de la page alumni NUMA listant Winddle en saison 12, et la lecture de la page d'accueil archivée de winddle.com en 2017-2018 (produit, équipe), restent donc indirectes (Common Crawl index + API wayback/available) plutôt que consultées en clair.",
+  "Le budget de recherche web (WebSearch) de la session a été épuisé avant que cette fiche ne soit traitée, et les moteurs alternatifs testés via WebFetch (Bing, DuckDuckGo) ont renvoyé des pages vides ou un CAPTCHA. Il n'a donc pas été possible de relancer une recherche indépendante pour reconfirmer par de nouvelles sources le rôle d'Alexandre Godvin (déjà établi lors du premier passage) ni de retrouver un article de presse d'époque (2017-2018) mentionnant explicitement le passage de Winddle chez NUMA — l'appartenance à la saison 12 repose sur la base alumni officielle de NUMA (via Common Crawl).",
+  "Le communiqué MyTower du 10 avril 2026 ne cite nommément que deux fondateurs de Winddle (Emilia Jevakhoff et Guillaume Grenet) ; le troisième fondateur du dossier (Alexandre Godvin) n'apparaît pas dans ce communiqué, ce qui est cohérent avec un rôle de co-fondateur technique moins mis en avant dans la communication mais ne constitue pas une infirmation."
+ ],
+ "summary": "Winddle (plateforme SaaS de supply chain, SRM + TMS, fondée en 2015) a fait partie de la saison 12 de NUMA (2017-2018), confirmée par la base alumni officielle de NUMA. Fondateurs : Emilia Jevakhoff, Guillaume Grenet et Alexandre Godvin. La société a été rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM) ; ce rachat est corroboré de façon indépendante par le registre officiel des entreprises, qui montre le transfert du siège de Winddle vers l'adresse exacte de MyTower le 21 avril 2026 et un nouveau président lié au groupe acquéreur. Le site winddle.com reste en ligne sous la marque du groupe. Limite de ce passage : web.archive.org était inaccessible en lecture directe depuis cet environnement (seule l'API wayback/available a répondu, confirmant l'existence des captures sans donner accès à leur contenu), et le budget WebSearch de la session était épuisé, ce qui a empêché une recherche indépendante supplémentaire au-delà de ce que le premier passage avait déjà établi."
 }
