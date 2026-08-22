@@ -1,0 +1,69 @@
+{
+ "id": "s8-energysquare",
+ "name": "Energysquare",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — Maddyness (18/02/2016) liste Energysquare parmi les 17 startups de la 8ème saison de NUMA, avec la description « permet de transformer toute surface en prise électrique ».",
+  "name": "verified — le nom « Energysquare » (parfois stylisé « EnergySquare ») est constant dans toutes les sources (WIPO, LinkedIn, FrenchWeb, Liliputing, FinSMEs).",
+  "formerNamesOrPivots": "verified — aucune source ne mentionne de changement de nom ou de pivot ; le produit (recharge sans fil par conduction, marque « Power by Contact® ») est cohérent depuis 2015-2016 jusqu'aux articles de 2020.",
+  "founders": "verified — les trois fondateurs (Timothée Le Quesne, Daniel Lollo, Matthieu Poidatz) sont cités à l'identique par l'article WIPO et par l'article FrenchWeb du 03/06/2020 sur la levée de fonds ; Timothée Le Quesne y est identifié comme CEO.",
+  "status": "verified — la page LinkedIn de l'entreprise (consultée le 22/08/2026) l'indique « Privately Held », 11-50 employés, secteur Wireless Services, siège à Saint-Mandé. La Wayback Machine montre une capture avec statut HTTP 200 du site energysquare.co daté du 19/09/2025, ce qui indique un site toujours en ligne récemment. Aucune trace de liquidation, radiation, acquisition ou arrêt d'activité dans la presse (recherches ciblées « rachat », « acquisition », « liquidation » sans résultat pertinent).",
+  "statusDetails": "verified — cohérent avec une levée de fonds de 3M€ (Partech, juin 2020) après un premier tour de 1M€ en 2018, un partenariat Lenovo annoncé au CES 2020, et un bureau à Taïwan ; le produit « recharge sans fil » reste actif.",
+  "website": "verified (avec réserve) — energysquare.co est bien le domaine indiqué par LinkedIn, et la Wayback Machine montre une capture 200 au 19/09/2025 ; cependant lors de ce contrôle (22/08/2026) le site répond de façon répétée par une erreur HTTP 503, empêchant une confirmation en direct. Selon la méthodologie, un site momentanément inaccessible ne suffit pas à conclure à un arrêt d'activité."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Timothée Le Quesne" },
+  { "name": "Daniel Lollo" },
+  { "name": "Matthieu Poidatz" }
+ ],
+ "status": "active",
+ "activityDescription": "Energysquare développe une technologie de recharge sans fil par conduction électrique (« Power by Contact® ») permettant de recharger simultanément plusieurs appareils posés sur une même surface, sans câble ni induction électromagnétique.",
+ "statusDetails": "Toujours en activité en tant que société privée (Privately Held sur LinkedIn, 11-50 employés) ; a levé 1M€ en 2018 puis 3M€ auprès de Partech en juin 2020, avec un partenariat Lenovo annoncé au CES 2020 et un bureau à Taïwan pour son expansion en Asie.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=energysquare.co",
+   "montre": "API de disponibilité Wayback Machine : capture la plus récente au 19/09/2025 (statut HTTP 200) pour energysquare.co — le site était donc toujours en ligne il y a moins d'un an."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=energysquare.co&timestamp=2016",
+   "montre": "Capture la plus proche de la saison 8 : 10/10/2016 (statut HTTP 200) pour www.energysquare.co, confirmant que le domaine était bien celui du produit à l'époque du programme NUMA."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile sa 8ème saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.wipo.int/en/web/wipo-magazine/articles/energysquare-makes-wireless-recharging-a-reality-41872",
+   "titre": "Energysquare makes wireless recharging a reality",
+   "annee": "2021 (contenu évoquant le partenariat Lenovo de 2020)",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/energysquare-leve-3-millions-deuros-pour-sa-technologie-de-charge-sans-fil/401063",
+   "titre": "EnergySquare lève 3 millions d'euros pour sa technologie de charge sans fil",
+   "annee": "2020",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/06/15/edfpulse-4eme-edition-prix-edf-pulse-devoile-nom-de-12-finalistes/",
+   "titre": "La 4ème édition des prix EDF Pulse dévoile le nom de ses 12 finalistes",
+   "annee": "2017",
+   "soutient": ["identity", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/energysquare",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel des trois fondateurs n'a pu être localisé : les moteurs de recherche externes (Google, Bing, DuckDuckGo, Brave, Qwant, Ecosia, Mojeek) ont tous renvoyé des pages bloquées, des CAPTCHA ou des résultats non pertinents pendant cette session, et l'accès direct à linkedin.com/in/... est bloqué par LinkedIn (HTTP 999). À vérifier avec un accès de recherche web complet.",
+  "Année de fondation légèrement discordante entre les sources : 2015 selon l'article WIPO et l'article FrenchWeb, mais 2014 selon la fiche « About » LinkedIn de l'entreprise. Sans incidence sur les champs du schéma (pas de champ « année de fondation »).",
+  "Le site energysquare.co renvoyait une erreur HTTP 503 au moment du contrôle (22/08/2026) ; à recontrôler pour confirmer si le site est toujours exploité en direct (la dernière capture Wayback connue, au 19/09/2025, était fonctionnelle).",
+  "Aucune actualité de presse identifiée après 2020-2021 (dernier événement confirmé : levée de 3M€ et partenariat Lenovo) ; aucune preuve fraîche (2022-2026) de poursuite ou d'arrêt d'activité au-delà des indices LinkedIn et Wayback ci-dessus."
+ ],
+ "summary": "Le poste s8-energysquare est confirmé sur tous les champs : appartenance à la saison 8 de NUMA (Maddyness, 02/2016), nom inchangé, trois fondateurs identiques (Timothée Le Quesne, Daniel Lollo, Matthieu Poidatz) corroborés par l'article WIPO et par FrenchWeb (levée de 3M€ en 2020), statut actif soutenu par la fiche LinkedIn de l'entreprise (Privately Held, 11-50 employés) et par une capture Wayback Machine à 200 datée du 19/09/2025. Aucune trace de rachat, liquidation ou arrêt d'activité trouvée. Aucune correction n'est nécessaire ; les principales limites sont l'absence de profils LinkedIn individuels des fondateurs (moteurs de recherche externes bloqués pendant la session) et l'absence d'actualité de presse postérieure à 2021."
+}
