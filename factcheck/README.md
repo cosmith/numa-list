@@ -68,3 +68,28 @@ passage. Plusieurs pistes provenant d'un annuaire communautaire non fiable
 parce qu'elles concernaient en fait un programme distinct de NUMA (« UR
 Link », co-organisé avec Unibail-Rodamco, ou « Rise », un programme de
 pré-accélération) plutôt qu'une saison numérotée de l'accélérateur.
+
+## Quatrième passage : audit approfondi des saisons 10-13 (22 août 2026)
+
+Les 21 fiches des saisons 10 à 13, ajoutées lors du troisième passage avec une
+documentation sommaire (1 à 5 sources, aucune preuve d'archive), ont reçu le
+même traitement que les saisons 1 à 9 : un agent de recherche dédié par
+startup, six audits menés en parallèle.
+
+Cibles propres à cette période : la base alumni officielle de NUMA archivée
+(`hub.numa.co/public/alumni`) comme preuve primaire d'appartenance à une
+saison, la presse d'époque 2016-2018, et les registres publics français
+(ces sociétés sont assez récentes pour y figurer). Consigne explicite de ne
+pas se fier à `annuaire-startups.pro` ni de confondre les programmes « UR
+Link » et « Rise » avec une saison de l'accélérateur.
+
+Résultat : 170 preuves contre 68, et 42 des 53 fondateurs disposent d'une URL
+LinkedIn contre 19 sur 46. Aucun statut ni acquéreur n'a dû être corrigé —
+le troisième passage les avait déjà établis correctement.
+
+À cette occasion, le calcul du champ `confidence` a été revu sur l'ensemble
+des 143 fiches : les limites d'outillage de la session (web.archive.org
+bloqué par le proxy, profils LinkedIn non consultables directement)
+représentaient 345 des 548 points ouverts et faisaient baisser la confiance
+de fiches par ailleurs bien sourcées. Seuls les doutes de fond sont désormais
+comptés, aux côtés du volume de preuves et de la solidité du champ `status`.
