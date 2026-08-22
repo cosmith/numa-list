@@ -5,63 +5,103 @@
  "checkedAt": "2026-08-22",
  "verdict": "corrected",
  "fields": {
-  "season": "partially_verified",
+  "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "conflicting",
+  "founders": "corrected",
   "status": "verified",
   "statusDetails": "verified",
   "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Rebecca Cathline"
-  },
-  {
-   "name": "Emmanuel Derozin"
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Rebecca Cathline" },
+    { "name": "Emmanuel Derozin" }
+   ],
+   "apres": [
+    { "name": "Rebecca Cathline", "linkedin": "https://www.linkedin.com/in/rebecca-cathline/" },
+    { "name": "Didier Emmanuel Derozin", "linkedin": "https://www.linkedin.com/in/didier-derozin-emmanuel-56767061/" }
+   ],
+   "preuves": [
+    "https://www.annuaire-startups.pro/startup/ma-coiffeuse-afro/",
+    "https://cto.pizza/pizza-with-emmanuel-derozin-cto-ma-coiffeuse-afro-2c834dc7ad32",
+    "https://macoiffeuseafro.com/pages/qui-sommes-nous",
+    "https://www.linkedin.com/in/didier-derozin-emmanuel-56767061/",
+    "https://www.crunchbase.com/person/emmanuel-derozin"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Rebecca Cathline", "linkedin": "https://www.linkedin.com/in/rebecca-cathline/" },
+  { "name": "Didier Emmanuel Derozin", "linkedin": "https://www.linkedin.com/in/didier-derozin-emmanuel-56767061/" }
  ],
  "status": "active",
- "statusDetails": "Plateforme active mettant en relation des femmes aux cheveux texturés/afro avec des coiffeurs spécialisés (tresses, soins naturels, à domicile) ; revendique 200 000+ membres. A levé 350 K€ en novembre 2019 (CRE.VC, Denis Fayolle) ; fondatrice distinguée parmi les « 10 femmes digitales de l'année » en 2020.",
+ "activityDescription": "Ma Coiffeuse Afro est une plateforme web et mobile qui met en relation les personnes aux cheveux texturés, bouclés ou afro avec des coiffeurs et coiffeuses spécialisés, pour des prestations en salon ou à domicile.",
+ "statusDetails": "Plateforme active (site officiel en ligne en 2026, confirmé par récupération directe), fondée en 2016 par Rebecca Cathline (CEO) et Didier Emmanuel Derozin, dit Emmanuel Derozin (CTO), et accélérée par NUMA Paris (25 K€ de financement d'amorçage via l'accélérateur selon le témoignage du CTO). Revendique 130 000 à 200 000+ utilisatrices, 9,9 millions de pages vues et plus de 160 000 abonnés Instagram. A levé 350 K€ en novembre 2019 (CRE.VC, investisseur Denis Fayolle), puis un tour d'amorçage complémentaire en mars 2022 mené par OBRATORI (montant non communiqué). A lancé en 2019 la marque de compléments capillaires In Haircare, toujours active. La fondatrice a été distinguée parmi les « 10 femmes digitales de l'année » en 2020 et a reçu le Prix Marie-Claire Beauty Excellence pour In Haircare la même année.",
+ "website": "https://macoiffeuseafro.com",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.annuaire-startups.pro/startup/ma-coiffeuse-afro/",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Ma Coiffeuse Afro: startup Cosmétiques à Paris | Annuaire Start-Up France",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://www.relations-publiques.pro/156317/ma-coiffeuse-afro-la-success-story-dune-start-up-qui-prone-une-beaute-all-inclusive.html",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Ma Coiffeuse Afro, la success story d'une start-up qui prône une beauté all inclusive",
+   "annee": "2022",
+   "soutient": ["founders", "identity", "status"]
   },
   {
    "url": "https://macoiffeuseafro.com",
-   "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Site officiel Ma Coiffeuse Afro",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://macoiffeuseafro.com/pages/qui-sommes-nous",
+   "titre": "A propos de nous | Ma Coiffeuse Afro — page équipe, mention explicite de l'accélération par NUMA (« ont été accélérés au NUMA, l'un des accélérateurs d'entreprise les plus sélectifs de France »)",
+   "annee": "2026",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://cto.pizza/pizza-with-emmanuel-derozin-cto-ma-coiffeuse-afro-2c834dc7ad32",
+   "titre": "A passion for numbers & technology - Emmanuel Derozin (Ma Coiffeuse Afro) | CTO.Pizza",
+   "annee": "2019",
+   "soutient": ["founders", "cohort", "identity"]
+  },
+  {
+   "url": "https://www.jeuneafrique.com/663482/economie/rebecca-cathline-la-french-tech-se-diversifie/",
+   "titre": "Rebecca Cathline : la French Tech se diversifie",
+   "annee": "2019",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/ma-coiffeuse-afro",
+   "titre": "Ma Coiffeuse Afro - Crunchbase Company Profile & Funding",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/emmanuel-derozin",
+   "titre": "Emmanuel Derozin - Co-Founder and CTO @ Ma Coiffeuse Afro - Crunchbase Person Profile",
+   "annee": "2026",
+   "soutient": ["founders"]
   }
  ],
- "linkedinCompany": "",
+ "linkedinCompany": "https://www.linkedin.com/company/ma-coiffeuse-afro",
  "openQuestions": [
-  "Les sources divergent sur la composition exacte de l'équipe fondatrice : certaines ne créditent que Rebecca Cathline comme fondatrice, l'annuaire NUMA Paris ajoutant Emmanuel Derozin."
+  "web.archive.org (Wayback Machine) était inaccessible depuis cet environnement (échec systématique des requêtes WebFetch, y compris l'API CDX et les captures directes) : impossible de vérifier directement les captures d'archive du site macoiffeuseafro.com ni la page hub.numa.co/public/alumni pour cette fiche. Le rattachement à la saison 10 s'appuie donc uniquement sur la capture Common Crawl de la base alumni NUMA déjà citée dans le premier passage, et sur la cohérence chronologique (création en 2016, cohorte NUMA correspondant aux saisons 2016-2017).",
+  "Le nom légal exact de la société (SAS, sous quelle dénomination et quel SIREN) n'a pas été confirmé sur un registre public fiable (pappers.fr / societe.com) : les recherches sur ces registres n'ont fait remonter que des sociétés homonymes sans rapport (« M.A. Coiffeuse », « Ma Coiffeuse » SARL Arras). Une source secondaire situe le siège via l'entité « R.D CLICK », 10 rue de Penthièvre, 75008 Paris, mais cela n'a pas été recoupé sur un registre officiel.",
+  "L'année de création varie selon les sources (2015 selon Crunchbase/PitchBook, 2016 selon la quasi-totalité des autres sources et le site officiel) ; 2016 est retenue comme la plus probable, cohérente avec le lancement du site en février 2016 et la saison NUMA 10 (2016-2017)."
  ],
- "summary": "Les sources divergent sur la composition exacte de l'équipe fondatrice : certaines ne créditent que Rebecca Cathline comme fondatrice, l'annuaire NUMA Paris ajoutant Emmanuel Derozin.",
- "activityDescription": "Ma Coiffeuse Afro est une plateforme qui met en relation les femmes aux cheveux texturés ou afro avec des coiffeurs et coiffeuses spécialisés, pour des prestations en salon ou à domicile.",
- "website": "https://macoiffeuseafro.com"
+ "summary": "Fiche confirmée et enrichie. Ma Coiffeuse Afro, plateforme de mise en relation avec des coiffeurs spécialisés cheveux texturés/afro, a bien été accélérée par NUMA Paris (mention explicite sur le site officiel et dans une interview du CTO, cohérente avec la base alumni NUMA déjà identifiée) ; la période de création (fondation début 2016) correspond à la saison 10. Le prénom du cofondateur est précisé : Didier Emmanuel Derozin (connu publiquement comme « Emmanuel Derozin »), CTO, aux côtés de la CEO Rebecca Cathline — les deux profils LinkedIn personnels ont été retrouvés et ajoutés, ainsi que la page LinkedIn de l'entreprise. Le statut actif est reconfirmé par récupération directe du site officiel en 2026, qui décrit toujours le service et mentionne lui-même l'accélération NUMA. Aucune acquisition : la société reste indépendante. Point non tranché : accès impossible à web.archive.org depuis cet environnement, donc pas de capture Wayback directe pour cette fiche."
 }
