@@ -1,0 +1,58 @@
+{
+ "id": "s8-hopfab",
+ "name": "Hopfab",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Géraldine Bal" },
+  { "name": "Arnaud Verlet", "linkedin": "https://fr.linkedin.com/in/arnaud-verlet-5b5599137" }
+ ],
+ "status": "exit",
+ "activityDescription": "Hopfab est une place de marché puis plateforme qui met en relation architectes d'intérieur et particuliers avec un réseau d'artisans français pour la conception et la fabrication de mobilier et d'aménagements sur mesure.",
+ "statusDetails": "La société Hopfab (SAS) a été placée en liquidation judiciaire le 4 avril 2023 ; la marque et l'activité de mise en relation avec les artisans ont continué ensuite en collaboration avec La Conciergerie de l'Architecture, qui exploite aujourd'hui le site hopfab.com.",
+ "website": "https://www.hopfab.com",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=hopfab.com&timestamp=2016",
+   "montre": "Confirme l'existence d'une capture Wayback Machine du domaine hopfab.com datée du 20 novembre 2016 (http://web.archive.org/web/20161120021920/http://hopfab.com:80/), cohérente avec une présence en ligne pendant la saison 8 (2015-2016). Le contenu détaillé du snapshot n'a pas pu être récupéré : l'hôte web.archive.org est inaccessible depuis cet environnement (échec systématique des requêtes WebFetch vers ce domaine), seul le point d'API archive.org (sans le sous-domaine web.) a répondu."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "Découvrez les 17 jeunes pousses qui composent la nouvelle promotion du NUMA",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.hopfab.com/a-propos",
+   "titre": "Notre histoire (Hopfab)",
+   "annee": "2023-2026",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/hopfab-813770500",
+   "titre": "HOPFAB (registre légal, cité dans l'audit précédent factcheck/batch-03.json)",
+   "annee": "2023",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/hopfab",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être localisé pour Géraldine Bal (le moteur de recherche web était indisponible pour cette session — quota épuisé — et LinkedIn bloque le fetch direct sans requête de recherche préalable).",
+  "Le contenu détaillé des snapshots Wayback Machine (page d'accueil / équipe de 2015-2016) n'a pas pu être vérifié directement car web.archive.org est inaccessible depuis cet environnement ; seule l'existence d'une capture 2016 a été confirmée via l'API archive.org.",
+  "La date exacte du repositionnement de 'place de marché de mobilier artisanal' (description 2016) vers 'plateforme B2B architectes-artisans' (description actuelle) n'est pas documentée par une source datée intermédiaire."
+ ],
+ "summary": "Fiche confirmée sans modification : Hopfab (saison 8, NUMA, 2015-2016) a été fondée par Géraldine Bal et Arnaud Verlet comme place de marché de mobilier artisanal sur mesure (Maddyness, 2016). Le site hopfab.com est toujours en ligne aujourd'hui, exploité en collaboration avec La Conciergerie de l'Architecture pour mettre en relation architectes d'intérieur et artisans français, avec plus de 1500 projets revendiqués et une page LinkedIn d'entreprise active (~5 employés). La société Hopfab (personne morale d'origine) a cependant été liquidée judiciairement le 4 avril 2023, d'où le statut 'exit' : la marque et l'activité ont survécu à la disparition de la société fondatrice. Aucune correction nécessaire par rapport à la fiche existante, qui reflète déjà correctement ces éléments (déjà corrigée lors d'un audit précédent, factcheck/batch-03.json)."
+}

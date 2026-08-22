@@ -1,0 +1,72 @@
+{
+ "id": "s7-les-petites-tables",
+ "name": "Les Petites Tables",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Romain Passelande" },
+    { "name": "Thomas Le Gourrierec" }
+   ],
+   "apres": [
+    { "name": "Romain Passelande" },
+    { "name": "Thomas Le Gourrierec" },
+    { "name": "Patryk (nom de famille non confirmé)" }
+   ],
+   "preuves": [
+    "https://www.lespetitestables.com/mentions-legales/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Romain Passelande" },
+  { "name": "Thomas Le Gourrierec" },
+  { "name": "Patryk (nom de famille non confirmé)" }
+ ],
+ "status": "active",
+ "activityDescription": "Les Petites Tables est un site qui répertorie et recommande de bons restaurants parisiens proposant des repas autour de 10 euros, avec une newsletter hebdomadaire de bonnes adresses.",
+ "statusDetails": "Le site est toujours en ligne et actif (mentions légales à jour, page LinkedIn de la société active, 2-10 salariés, siège au 16 rue Boinod à Paris 18e), aucune mention de cessation d'activité ou de liquidation trouvée.",
+ "website": "https://www.lespetitestables.com",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=lespetitestables.com&timestamp=2015",
+   "montre": "L'API Wayback Availability confirme une capture du site le 4 février 2016 (20160204162605), attestant que le site existait déjà autour de la saison 7 (2015)."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=lespetitestables.com&timestamp=20200101",
+   "montre": "Une capture du 6 janvier 2020 (20200106010650) montre une activité continue du site plusieurs années après le programme NUMA."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.theguardian.com/travel/2016/sep/24/top-10-paris-restaurants-10-euros?page=with%3Aimg-4",
+   "titre": "Top 10 Paris restaurants for under 10 euros",
+   "annee": "2016",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/les-petites-tables",
+ "openQuestions": [
+  "Le nom de famille complet de 'Patryk', cité comme troisième créateur dans les mentions légales officielles du site (aux côtés de Thomas et Romain), n'a pas pu être confirmé malgré plusieurs tentatives de recherche (moteurs de recherche indisponibles/bloqués pendant cette vérification : DuckDuckGo, Bing, Mojeek, Ecosia ont tous échoué ou renvoyé des CAPTCHA/erreurs). Il conviendrait de vérifier ce point avec une recherche complémentaire.",
+  "Aucun profil LinkedIn individuel n'a pu être localisé pour Romain Passelande, Thomas Le Gourrierec ou Patryk : la recherche web générale (WebSearch) a atteint son quota pour la session, et les moteurs de recherche alternatifs interrogés via WebFetch ont échoué ou bloqué l'accès (CAPTCHA, 403, pages de résultats non rendues en JS).",
+  "web.archive.org (consultation directe des snapshots, ex. https://web.archive.org/web/20160204162605/https://www.lespetitestables.com/) est bloqué par le proxy réseau de cet environnement ; seule l'API 'wayback/available' sur archive.org (sans www, autre route réseau) a pu être utilisée, ce qui limite la profondeur de vérification archivistique (pas de confirmation directe du contenu/texte des pages archivées de 2015)."
+ ],
+ "summary": "Les Petites Tables (saison 7, ~2015) : identité, appartenance à la cohorte NUMA et statut 'actif' confirmés par la presse (Journal du Net 2015, The Guardian 2016) et par le site officiel toujours en ligne (mentions légales, page LinkedIn active). Une correction est apportée aux fondateurs : les mentions légales officielles du site citent un troisième créateur, 'Patryk', en plus de Romain Passelande et Thomas Le Gourrierec déjà enregistrés ; son nom de famille reste à confirmer faute d'accès aux moteurs de recherche pendant cette session (quota WebSearch épuisé, web.archive.org bloqué par le proxy, autres moteurs en échec/CAPTCHA)."
+}
