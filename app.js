@@ -48,9 +48,20 @@ const makeFoundersHtml = (startup) => {
 };
 
 const makeDetails = (startup) => {
+  const refs = [];
+  // Références numérotées façon Wikipédia, dédupliquées par URL, 3 max.
+  const refLink = (url) => {
+    if (!url) return "";
+    let index = refs.indexOf(url);
+    if (index === -1) {
+      if (refs.length >= 3) return "";
+      index = refs.push(url) - 1;
+    }
+    return `<sup class="detail-ref"><a href="${escapeHtml(url)}" target="_blank" rel="noreferrer" aria-label="Source ${index + 1}">[${index + 1}]</a></sup>`;
+  };
+
   const description = startup.statusDetails || "Information non documentée.";
-  const statusSource = sourceLink(startup.sources?.foundersOrStatus, "Source");
-  const lead = `<p class="detail-lead"><strong>${escapeHtml(startup.statusLabel)}.</strong> ${escapeHtml(description)}${statusSource ? ` ${statusSource}` : ""}</p>`;
+  const lead = `<p class="detail-lead"><strong>${escapeHtml(startup.statusLabel)}.</strong> ${escapeHtml(description)}${refLink(startup.sources?.foundersOrStatus)}</p>`;
 
   const activity = startup.activityDescription && startup.activityDescription !== startup.statusDetails
     ? `<p class="detail-activity">${escapeHtml(startup.activityDescription)}</p>`
@@ -62,8 +73,7 @@ const makeDetails = (startup) => {
   const website = startup.website
     ? sourceLink(startup.website, startup.website.replace(/^https?:\/\//, "").replace(/\/$/, ""))
     : "";
-  const cohortSource = sourceLink(startup.sources?.cohort, "Source");
-  const selection = `Saison ${String(startup.season).padStart(2, "0")}${cohortSource ? ` · ${cohortSource}` : ""}`;
+  const selection = `Saison ${String(startup.season).padStart(2, "0")}${refLink(startup.sources?.cohort)}`;
   const verification = [
     startup.confidenceLabel ? `Confiance ${escapeHtml(startup.confidenceLabel.toLocaleLowerCase("fr"))}` : "",
     startup.statusAsOf ? `vérifié le ${escapeHtml(formatDate(startup.statusAsOf))}` : "",

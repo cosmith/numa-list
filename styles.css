@@ -346,13 +346,6 @@ h1 span {
 
 .detail-lead strong { color: var(--magenta); }
 
-.detail-lead a {
-  color: var(--blue);
-  font-family: var(--body);
-  font-size: 0.875rem;
-  font-weight: 800;
-}
-
 .detail-activity {
   margin: -0.35rem 0 0;
   max-width: 62ch;
@@ -383,14 +376,28 @@ h1 span {
 .detail-value { margin: 0; font-size: 0.94rem; }
 .detail-value a { color: var(--blue); overflow-wrap: anywhere; }
 
-.detail-lead a,
 .detail-value a {
   text-decoration-color: var(--rule);
   text-decoration-thickness: 1px;
 }
 
-.detail-lead a:hover,
 .detail-value a:hover { text-decoration-color: var(--magenta); }
+
+.detail-ref { line-height: 0; }
+
+.detail-ref a {
+  color: var(--blue);
+  font-family: var(--body);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.detail-ref a:hover {
+  color: var(--magenta);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
 
 .detail-verification .detail-value { color: var(--muted); font-size: 0.88rem; }
 
