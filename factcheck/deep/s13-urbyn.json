@@ -8,53 +8,86 @@
   "season": "corrected",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
-  "statusDetails": "verified",
+  "statusDetails": "corrected",
   "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Julien Hamilius"
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Julien Hamilius" },
+    { "name": "Arthur Däweritz" }
+   ],
+   "apres": [
+    { "name": "Julien Hamilius", "linkedin": "https://www.linkedin.com/in/jhamilius" },
+    { "name": "Arthur Däweritz", "linkedin": "https://fr.linkedin.com/in/arthurdaweritz" }
+   ],
+   "preuves": [
+    "https://www.maddyness.com/2023/06/27/urbyn-dechets-levee-de-fonds/",
+    "https://www.frenchweb.fr/seed-urbyn-leve-2-millions-deuros-aupres-dasterion-ventures-pour-gerer-les-dechets-des-entreprises/443955",
+    "https://search.brave.com/search?q=%22Arthur+D%C3%A4weritz%22+Urbyn+linkedin+co-founder"
+   ]
   },
-  {
-   "name": "Arthur Däweritz"
+  "statusDetails": {
+   "avant": "Plateforme SaaS B2B mettant en relation des entreprises avec des prestataires locaux de recyclage/gestion des déchets, toujours active : le site urbyn.co affiche « © Urbyn 2026 » et la société a levé 2,18 M€ en amorçage en juin 2023 (My SeedCap, Net-Zero Vision, Asterion).",
+   "apres": "Fondée en 2018 par Julien Hamilius et Arthur Däweritz (diplômés ingénieurs Arts & Métiers), Urbyn édite une plateforme SaaS B2B de gestion des déchets pour les grandes entreprises (traçabilité, mise en relation avec des prestataires locaux de recyclage, reporting) ; toujours active en 2026 (site urbyn.co à jour, © 2026, plus de 100 clients / 2000+ sites), après une levée d'amorçage de 2 M€ annoncée en juin 2023 auprès d'Asterion Ventures.",
+   "preuves": [
+    "https://www.urbyn.co",
+    "https://www.maddyness.com/2023/06/27/urbyn-dechets-levee-de-fonds/",
+    "https://www.frenchweb.fr/seed-urbyn-leve-2-millions-deuros-aupres-dasterion-ventures-pour-gerer-les-dechets-des-entreprises/443955"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Julien Hamilius", "linkedin": "https://www.linkedin.com/in/jhamilius" },
+  { "name": "Arthur Däweritz", "linkedin": "https://fr.linkedin.com/in/arthurdaweritz" }
  ],
  "status": "active",
- "statusDetails": "Plateforme SaaS B2B mettant en relation des entreprises avec des prestataires locaux de recyclage/gestion des déchets, toujours active : le site urbyn.co affiche « © Urbyn 2026 » et la société a levé 2,18 M€ en amorçage en juin 2023 (My SeedCap, Net-Zero Vision, Asterion).",
+ "activityDescription": "Urbyn est une plateforme SaaS B2B qui aide les grandes entreprises à identifier leurs déchets valorisables, à les mettre en relation avec des prestataires locaux de recyclage et à en assurer la traçabilité et le reporting.",
+ "statusDetails": "Fondée en 2018 par Julien Hamilius et Arthur Däweritz (diplômés ingénieurs Arts & Métiers), Urbyn édite une plateforme SaaS B2B de gestion des déchets pour les grandes entreprises (traçabilité, mise en relation avec des prestataires locaux de recyclage, reporting) ; toujours active en 2026 (site urbyn.co à jour, © 2026, plus de 100 clients / 2000+ sites), après une levée d'amorçage de 2 M€ annoncée en juin 2023 auprès d'Asterion Ventures.",
+ "acquirer": "",
+ "website": "https://www.urbyn.co",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://app.dealroom.co/companies/urbyn",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "status"
-   ]
+   "titre": "Fiche Dealroom Urbyn",
+   "annee": "",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2023/06/27/urbyn-dechets-levee-de-fonds/",
+   "titre": "Urbyn lève 2 millions d'euros pour aider les entreprises à gérer leurs déchets",
+   "annee": "2023",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/seed-urbyn-leve-2-millions-deuros-aupres-dasterion-ventures-pour-gerer-les-dechets-des-entreprises/443955",
+   "titre": "[Seed] URBYN lève 2 millions d'euros auprès d'Asterion Ventures pour gérer les déchets des entreprises",
+   "annee": "2023",
+   "soutient": ["founders", "identity", "status"]
   },
   {
    "url": "https://www.urbyn.co",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "Site officiel Urbyn (© Urbyn 2026)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
   }
  ],
  "linkedinCompany": "",
  "openQuestions": [
-  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo)."
+  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo).",
+  "web.archive.org était totalement inaccessible depuis cet environnement pendant cette passe (échec systématique, y compris via l'API CDX et via des miroirs comme timetravel.mementoweb.org) : impossible de récupérer une capture directe de hub.numa.co/public/alumni ou de l'ancien site urbyn.co pour re-confirmer visuellement la cohorte. L'index Common Crawl (index.commoncrawl.org) déjà cité par la passe précédente était également indisponible (503) lors de cette passe — la preuve de cohorte n'a donc pas pu être re-vérifiée directement et repose sur la citation de la passe précédente.",
+  "Aucun article de presse retrouvé ne mentionne explicitement NUMA en lien avec Urbyn ; la cohérence avec la saison 2018 repose sur la date de fondation (2018, confirmée par Maddyness et FrenchWeb) et sur la base alumni NUMA citée dans la passe précédente. La page « À propos » actuelle d'urbyn.co ne mentionne pas NUMA parmi ses partenaires/écosystème (elle cite Bpifrance, Make Sense, Raise Sherpas).",
+  "La page LinkedIn entreprise d'Urbyn (linkedin.com/company/urbyn) n'a pas pu être confirmée par une preuve directe lors de cette passe (moteur de recherche limité par un rate-limit HTTP 429 au moment des dernières tentatives) ; son URL exacte reste à vérifier.",
+  "Léger écart de montant de levée entre la fiche existante (2,18 M€, avec My SeedCap, Net-Zero Vision, Asterion) et les articles de presse retrouvés (2 M€, Asterion Ventures) — probablement la même opération arrondie différemment / investisseurs additionnels non repris en titre par la presse, mais non recoupé formellement."
  ],
- "summary": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo).",
- "activityDescription": "Urbyn est une plateforme SaaS B2B qui met en relation les entreprises avec des prestataires locaux de recyclage et de gestion des déchets, dans une logique d'économie circulaire.",
- "website": "https://www.urbyn.co"
+ "summary": "Urbyn (fondée en 2018 par Julien Hamilius et Arthur Däweritz) édite une plateforme SaaS B2B de gestion des déchets pour les grandes entreprises ; toujours active en 2026 (site à jour, levée de 2 M€ en juin 2023 auprès d'Asterion Ventures, confirmée par Maddyness et FrenchWeb). Les deux fondateurs ont été retrouvés sur LinkedIn (jhamilius et arthurdaweritz), corroborés par Tracxn/RocketReach. L'appartenance à la saison 13 (cohorte NUMA non numérotée « season2018 ») reste basée sur la base alumni citée par la passe précédente, non re-vérifiable directement cette fois (web.archive.org et l'index Common Crawl étaient inaccessibles), mais cohérente avec la date de fondation 2018."
 }
