@@ -3,90 +3,107 @@
   "name": "Dabla",
   "season": 1,
   "checkedAt": "2026-08-22",
-  "verdict": "verified",
+  "verdict": "corrected",
   "fields": {
     "season": "verified",
     "name": "verified",
     "formerNamesOrPivots": "verified",
     "founders": "verified",
     "status": "verified",
-    "statusDetails": "verified",
-    "website": "corrected"
+    "statusDetails": "corrected",
+    "website": "unverifiable"
   },
   "corrections": {
-    "website": {
-      "avant": "unverifiable (aucun domaine identifié)",
-      "apres": "domaine historique identifié : dabla.com (cité par la fiche registre societe.com/annuaire), mais le domaine ne résout plus aujourd'hui (22/08/2026) — aucune valeur \"website\" à ajouter au schéma puisqu'il n'y a pas de site actif",
+    "statusDetails": {
+      "avant": "La société DABLA (SIREN 533 761 961), créée en 2011 et dirigée par Pierre-Antoine Duchateau, est toujours active; le service historique n’a pas été retrouvé.",
+      "apres": "La société DABLA (SIREN 533 761 961), immatriculée le 25/07/2011 et présidée depuis lors par Pierre-Antoine Duchateau, reste juridiquement active (siège aujourd'hui à Montanay, 69). Son produit historique — une application mobile de messagerie instantanée pour Android et iOS, développée en 2011 pendant le programme Le Camping — a été identifié via le CV d'un développeur ayant réalisé la version Android en stage (avril-août 2011) ; le nom de domaine historique (dabla.com, archivé jusqu'en novembre 2011 par la Wayback Machine) n'est plus actif aujourd'hui, ce qui indique que le produit lui-même a été arrêté même si l'entité juridique perdure.",
       "preuves": [
         "https://www.societe.com/societe/dabla-533761961.html",
-        "https://www.cbinsights.com/company/dabla"
+        "https://www.getprog.ai/profile/2767681",
+        "http://archive.org/wayback/available?url=dabla.com&timestamp=20111124"
+      ]
+    },
+    "activityDescription": {
+      "avant": null,
+      "apres": "Dabla est une application mobile de messagerie instantanée pour Android et iOS permettant l'échange de messages et de photos entre utilisateurs, avec notifications push.",
+      "preuves": [
+        "https://www.getprog.ai/profile/2767681"
+      ]
+    },
+    "founders": {
+      "avant": [ { "name": "Pierre-Antoine Duchateau" } ],
+      "apres": [ { "name": "Pierre-Antoine Duchateau", "linkedin": "https://www.linkedin.com/in/paduc/" } ],
+      "preuves": [
+        "https://fr.linkedin.com/in/paduc/fr",
+        "https://rocketreach.co/pierre-antoine-duchateau-email_15152404",
+        "https://www.verif.com/dirigeants/Pierre-antoine-Duchateau-2546878/",
+        "https://www.societe.com/societe/dabla-533761961.html"
       ]
     }
   },
   "founders": [
-    {
-      "name": "Pierre-Antoine Duchateau",
-      "linkedin": "https://www.linkedin.com/in/paduc/"
-    }
+    { "name": "Pierre-Antoine Duchateau", "linkedin": "https://www.linkedin.com/in/paduc/" }
   ],
   "status": "active",
-  "statusDetails": "La société DABLA (SIREN 533 761 961, SASU à associé unique), créée le 25 juillet 2011 à Paris (5 rue des Suisses, 75014) et dirigée depuis sa création par son unique fondateur/président Pierre-Antoine Duchateau, est toujours active en 2026 : chiffre d'affaires déclaré en 2022, siège transféré le 1er janvier 2025 à Montanay (région lyonnaise), cohérent avec la localisation actuelle (Lyon) de P.-A. Duchateau. Le service grand public d'origine (application de messagerie/conversations de groupe, hébergée sur dabla.com) n'a pas survécu : le domaine ne résout plus.",
-  "archiveEvidence": [],
+  "activityDescription": "Dabla est une application mobile de messagerie instantanée pour Android et iOS permettant l'échange de messages et de photos entre utilisateurs, avec notifications push.",
+  "statusDetails": "La société DABLA (SIREN 533 761 961), immatriculée le 25/07/2011 et présidée depuis lors par Pierre-Antoine Duchateau, reste juridiquement active (siège aujourd'hui à Montanay, 69). Son produit historique — une application mobile de messagerie instantanée pour Android et iOS, développée en 2011 pendant le programme Le Camping — a été identifié via le CV d'un développeur ayant réalisé la version Android en stage (avril-août 2011) ; le nom de domaine historique (dabla.com, archivé jusqu'en novembre 2011 par la Wayback Machine) n'est plus actif aujourd'hui, ce qui indique que le produit a été arrêté même si l'entité juridique perdure.",
+  "archiveEvidence": [
+    {
+      "url": "http://archive.org/wayback/available?url=dabla.com&timestamp=20111001",
+      "montre": "API Wayback Machine (archive.org/wayback/available) : capture la plus proche de dabla.com pour début octobre 2011 datée du 23/09/2011 (statut HTTP 200) — le domaine dabla.com était bien en ligne pendant la saison 1 du Camping."
+    },
+    {
+      "url": "http://archive.org/wayback/available?url=dabla.com&timestamp=20111201",
+      "montre": "Capture la plus proche pour début décembre 2011 datée du 24/11/2011 (statut HTTP 200) — dernière capture connue trouvée pour dabla.com ; pas de capture ultérieure identifiée, cohérent avec l'abandon du produit après le programme."
+    },
+    {
+      "url": "http://archive.org/wayback/available?url=dabla.fr&timestamp=20111001",
+      "montre": "Capture la plus proche pour dabla.fr est datée du 11/11/2008, soit avant la création de la société (2011) : dabla.fr appartenait à un autre usage/propriétaire et n'est pas le domaine historique du produit ; le domaine du produit est dabla.com."
+    }
+  ],
   "pressEvidence": [
     {
       "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
       "titre": "Le bilan de la première cuvée de startups du Camping",
-      "annee": "2011/2012",
-      "soutient": ["cohort"]
-    },
-    {
-      "url": "https://www.clubic.com/pro/actualite-e-business/investissement/actualite-432226-camping-accelerateur-startups-francaise.html",
-      "titre": "Le Camping, accélérateur de startups à la française",
       "annee": "2011",
       "soutient": ["cohort"]
     },
     {
-      "url": "https://www.lemagit.fr/actualites/2240196725/Le-Camping-un-accelerateur-de-start-up-pour-alimenter-linnovation-a-la-francaise",
-      "titre": "Le Camping : un accélérateur de start-up pour alimenter l'innovation à la française",
+      "url": "https://www.businessinsider.com/le-camping-2011-4",
+      "titre": "Le Camping accelerator, first cohort listing",
       "annee": "2011",
-      "soutient": ["cohort", "identity"]
+      "soutient": ["cohort"]
     },
     {
-      "url": "https://www.cbinsights.com/company/dabla",
-      "titre": "Dabla company profile (CB Insights)",
-      "annee": "n/a",
-      "soutient": ["identity", "status"]
+      "url": "https://www.getprog.ai/profile/2767681",
+      "titre": "Profil professionnel de Pierrick Bignet (stagiaire développeur Android chez Dabla, avril-août 2011)",
+      "annee": "2011",
+      "soutient": ["identity"]
     },
     {
       "url": "https://www.societe.com/societe/dabla-533761961.html",
-      "titre": "DABLA (533761961) - societe.com",
+      "titre": "Fiche société DABLA (SIREN 533761961)",
       "annee": "2026",
       "soutient": ["status", "founders"]
     },
     {
-      "url": "https://www.societe.com/manager/Pierre-Antoine.DUCHATEAU.uxUrF6U7S9Q.html",
-      "titre": "Pierre-Antoine Duchateau, dirigeant - societe.com",
+      "url": "https://www.verif.com/dirigeants/Pierre-antoine-Duchateau-2546878/",
+      "titre": "Fiche dirigeant Pierre-Antoine Duchateau",
       "annee": "2026",
-      "soutient": ["founders", "status"]
-    },
-    {
-      "url": "https://rocketreach.co/pierre-antoine-duchateau-email_15152404",
-      "titre": "Pierre-Antoine Duchâteau profile (RocketReach, reprenant le parcours LinkedIn)",
-      "annee": "n/a",
       "soutient": ["founders"]
     },
     {
-      "url": "https://github.com/paduc",
-      "titre": "paduc (Pierre A. Duchateau) - GitHub",
-      "annee": "n/a",
+      "url": "https://rocketreach.co/pierre-antoine-duchateau-email_15152404",
+      "titre": "Profil professionnel de Pierre-Antoine Duchateau (co-fondateur et CEO de Dabla, 2010-2011)",
+      "annee": "2026",
       "soutient": ["founders", "identity"]
     }
   ],
   "openQuestions": [
-    "Internet Archive (web.archive.org) totalement inaccessible depuis cet environnement (WebFetch et curl bloqués/reset par le proxy sortant) : impossible de consulter le CDX de dabla.com ni les snapshots historiques du site ou des pages de cohorte lecamping.org/numa.co pour la saison 1, malgré la consigne. À refaire depuis un environnement avec accès à web.archive.org.",
-      "Aucun article de presse contemporain (2011) dédié à Dabla n'a été retrouvé au-delà des listes de cohorte ; seule la catégorisation sectorielle \"gestion de la connaissance\" (LeMagIT) et \"group conversations application\" (CB Insights, période plus tardive) documentent le produit — aucune description produit détaillée ni capture d'écran du service.",
-    "Aucune page LinkedIn d'entreprise (linkedin.com/company/dabla) retrouvée ; seul le profil personnel du fondateur (linkedin.com/in/paduc) relie la personne à Dabla, via un profil agrégateur (RocketReach) plutôt qu'un accès direct à LinkedIn.",
-    "Impossible de confirmer si un second cofondateur a existé en 2010-2011 : RocketReach mentionne \"Co-Founder and CEO of Dabla\" (suggérant une équipe), mais le registre RCS ne liste que Pierre-Antoine Duchateau, et DABLA est constituée en SASU à associé unique dès l'origine, ce qui corrobore un fondateur unique au niveau capitalistique."
+    "Le contenu exact du site dabla.com (page d'accueil, description marketing, éventuelle mention d'autres membres de l'équipe) n'a pas pu être consulté : l'outil WebFetch utilisé dans cette session refuse systématiquement toute requête vers le domaine web.archive.org (erreur immédiate, y compris via des URLs alternatives), seule l'API archive.org/wayback/available (qui ne renvoie que des métadonnées de capture) a pu être interrogée. Une consultation manuelle de https://web.archive.org/web/20111124064145/http://www.dabla.com:80/ est recommandée pour confirmer le positionnement produit exact et une éventuelle équipe fondatrice élargie.",
+    "Aucune mention de cofondateurs autres que Pierre-Antoine Duchateau n'a été trouvée ; Pierrick Bignet est documenté comme stagiaire développeur Android (avril-août 2011), pas comme cofondateur — mais cela ne peut être confirmé à 100% sans le site d'origine ou une interview de l'époque.",
+    "Le domaine dabla.fr n'a pas pu être testé en direct (erreur 503 systématique sur le proxy de fetch) ; son état actuel (parqué, revendu, ou techniquement indisponible) reste incertain, mais rien n'indique qu'il ait un rapport avec le produit Dabla de 2011.",
+    "Aucune page LinkedIn d'entreprise (linkedin.com/company/...) n'a été retrouvée pour Dabla."
   ],
-  "summary": "Dabla (saison 1, 2011, Le Camping) est confirmée dans la cohorte des 12 startups de la première promotion (frenchweb, clubic, lemagit), positionnée en \"gestion de la connaissance\"/application de conversations de groupe (dabla.com, aujourd'hui hors ligne). La société DABLA (SIREN 533761961, SASU à associé unique créée le 25/07/2011) reste active en 2026, dirigée depuis l'origine par son unique fondateur Pierre-Antoine Duchateau (aujourd'hui basé à Lyon ; siège social transféré à Montanay en 2025), dont le profil LinkedIn (linkedin.com/in/paduc) a été identifié. Tous les champs de la fiche actuelle (saison, nom, fondateurs, statut, détail du statut) sont confirmés par recoupement de sources (presse de l'époque, CB Insights, societe.com/RCS) ; aucune correction n'est nécessaire. Limite majeure : Internet Archive était totalement inaccessible depuis cet environnement, empêchant la vérification demandée via web.archive.org."
+  "summary": "Dabla (saison 1, 2011) était une application mobile de messagerie instantanée (Android/iOS) développée pendant Le Camping ; son unique fondateur identifié, Pierre-Antoine Duchateau, est confirmé par plusieurs sources indépendantes (LinkedIn, RocketReach, Verif.com, Société.com) et son profil LinkedIn a pu être localisé. La société DABLA reste juridiquement active (registre du commerce), mais le produit d'origine a disparu (domaine dabla.com hors ligne, dernière capture Wayback en novembre 2011). La principale correction apportée porte sur statusDetails, désormais enrichi de la description du produit historique retrouvée, et sur l'ajout d'un champ activityDescription et du lien LinkedIn du fondateur, absents de la fiche initiale."
 }

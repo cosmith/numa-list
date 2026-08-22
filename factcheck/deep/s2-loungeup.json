@@ -1,0 +1,71 @@
+{
+ "id": "s2-loungeup",
+ "name": "LoungeUp",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "LoungeUp a rejoint D-EDGE en 2024 et poursuit son activité sous sa marque.",
+   "apres": "LoungeUp a été racheté par D-EDGE en mars 2024. L'intégration s'est poursuivie jusqu'à ce que, le 1er juillet 2025, la marque LoungeUp soit officiellement abandonnée : le produit a été renommé « D-EDGE CRM » et fusionné dans l'identité visuelle de D-EDGE. Les cofondateurs Mathieu Pollet et Lionel Tressens continuent de diriger l'activité CRM/Guest Management au sein du groupe D-EDGE.",
+   "preuves": [
+    "https://www.loungeup.com/blog/annonce-d-edge-crm",
+    "https://www.loungeup.com/blog/loungeup-rejoint-d-edge-et-consolide-sa-position-de-leader-europeen-des-crm-pour-lhotellerie",
+    "https://www.linkedin.com/company/loungeup"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Mathieu Pollet" },
+  { "name": "Lionel Tressens" }
+ ],
+ "status": "exit",
+ "activityDescription": "LoungeUp est une plateforme CRM pour l'hôtellerie qui centralise la relation client sur tous les canaux (email, SMS, WhatsApp, Messenger), avec check-in en ligne, clé mobile et upselling personnalisé, afin d'améliorer la satisfaction et la fidélisation des clients d'hôtel.",
+ "statusDetails": "LoungeUp a été racheté par D-EDGE en mars 2024. Le 1er juillet 2025, la marque LoungeUp a été officiellement abandonnée : le produit a été renommé « D-EDGE CRM » et pleinement intégré à l'identité de D-EDGE. Mathieu Pollet (cofondateur) dirige désormais la division CRM/Guest Management de D-EDGE ; le site loungeup.com reste en ligne mais présente aujourd'hui la marque D-EDGE CRM.",
+ "acquirer": "D-EDGE",
+ "website": "https://www.loungeup.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.loungeup.com/blog/loungeup-rejoint-d-edge-et-consolide-sa-position-de-leader-europeen-des-crm-pour-lhotellerie",
+   "titre": "LoungeUp rejoint D-EDGE et consolide sa position de leader européen des CRM pour l'hôtellerie",
+   "annee": "2024",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.loungeup.com/blog/annonce-d-edge-crm",
+   "titre": "LoungeUp devient D-EDGE CRM",
+   "annee": "2025",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/loungeup",
+   "titre": "Page LinkedIn de l'entreprise LoungeUp / D-EDGE CRM",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/loungeup",
+ "openQuestions": [
+  "L'accès à web.archive.org a été systématiquement bloqué par l'outil WebFetch dans cette session (erreur outil, pas erreur HTTP) : impossible de vérifier directement les captures du site loungeup.com en 2011-2012 ni les pages archivées de lecamping.org listant la promotion 2 pour confirmer indépendamment le numéro de saison et une éventuelle page fondateurs d'époque.",
+  "Le quota de recherche web (WebSearch) de la session était épuisé avant le début de cette vérification ; aucune recherche presse française/anglaise supplémentaire (Rude Baguette, Maddyness, TechCrunch, FrenchWeb, etc.) n'a pu être lancée au-delà des pages directement accessibles via WebFetch.",
+  "Impossible de confirmer les URL LinkedIn personnelles de Mathieu Pollet et Lionel Tressens : les tentatives d'accès direct à des URL devinées ont été bloquées par LinkedIn (HTTP 999, détection anti-bot). Leur qualité de cofondateurs est en revanche confirmée par des sources officielles (blog LoungeUp/D-EDGE).",
+  "Divergence mineure sur l'année de fondation : LinkedIn indique 2012, tandis que la presse (Journal du Net) situe la sélection de LoungeUp dans la promotion 2 du Camping en 2011 ; cela reste cohérent avec une fondation en 2011 et un lancement/année de création légale en 2012, mais n'a pas été confirmé par un registre officiel (societe.com/pappers.fr)."
+ ],
+ "summary": "Saison, nom, fondateurs (Mathieu Pollet et Lionel Tressens), statut « exit » et site web sont confirmés par des sources officielles (Journal du Net 2011 pour la cohorte, blog LoungeUp/D-EDGE pour le rachat). Correction apportée à statusDetails : LoungeUp n'a pas seulement « rejoint » D-EDGE en poursuivant sous sa propre marque comme l'indiquait la fiche, elle a été pleinement renommée « D-EDGE CRM » le 1er juillet 2025, la marque LoungeUp étant abandonnée. Vérification Internet Archive impossible dans cette session (web.archive.org inaccessible via WebFetch) et recherches web supplémentaires bloquées par un quota épuisé ; ces limites sont documentées dans openQuestions."
+}

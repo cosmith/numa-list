@@ -1,0 +1,101 @@
+{
+ "id": "s2-infinit",
+ "name": "Infinit",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Julien Quintard",
+   "linkedin": "https://www.linkedin.com/in/julienquintard/"
+  },
+  {
+   "name": "Baptiste Fradin",
+   "linkedin": "https://fr.linkedin.com/in/bfradin"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "Infinit est un logiciel qui permet de stocker, synchroniser et partager des fichiers entre plusieurs appareils sans passer par des serveurs centralisés, grâce à une architecture de stockage pair-à-pair, avant d'évoluer vers une plateforme de stockage décentralisé destinée aux containers et micro-services.",
+ "statusDetails": "Infinit (fondée par Julien Quintard et Baptiste Fradin, promotion 2 du Camping, septembre 2011 - mars 2012) a été rachetée par Docker, annoncé le 6 décembre 2016, pour intégrer une solution de stockage persistant à ses containers ; le code a ensuite été rendu open source par Docker.",
+ "acquirer": "Docker",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/start-up-le-camping-infinit-la-synchronisation-des-donnees-multi-devices-60035/41932",
+   "titre": "[Start-up Le Camping] Infinit, la synchronisation des données multi-devices",
+   "annee": "2012",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2011/09/16/le-camping/",
+   "titre": "Le camping revient avec sa deuxième fournée de startups",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://techcrunch.com/2013/07/17/infinit",
+   "titre": "Remember AllPeers? Infinit Is A Simple File Sharing App That Integrates With Mac OSX's Finder",
+   "annee": "2013",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/05/28/infinit/",
+   "titre": "Passée par le Camping et Techstars NYC, la startup Infinit lève 1,8 million de dollars",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://venturebeat.com/business/docker-acquires-file-syncing-and-sharing-app-infinit-will-open-source-the-software/",
+   "titre": "Docker acquires file syncing and sharing app Infinit, will open-source the software",
+   "annee": "2016",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://siliconangle.com/2016/12/06/docker-acquires-infinit-improved-container-storage/",
+   "titre": "Docker acquires Infinit for improved software container storage",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.theregister.com/2016/12/06/docker_swallows_infinit/",
+   "titre": "cat Infinit.tgz | docker import - Infinit:acquired",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://alven.co/docker-acquires-infinit-add-storage-option-software/",
+   "titre": "Docker acquires Infinit to add a storage option to its software",
+   "annee": "2016",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/infinit",
+   "titre": "Infinit - Crunchbase Company Profile & Funding",
+   "annee": "2016",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/infinit-sh",
+ "openQuestions": [
+  "L'affirmation selon laquelle le produit grand public a été 'fermé en 2017' n'a pas été retrouvée dans une source datée précise ; elle est plausible (le dépôt GitHub infinit/infinit montre une activité en 2017 avant l'arrêt) mais reste une inférence, pas une citation directe.",
+  "Le lien source original https://www.docker.com/blog/docker-acquires-infinit/ ne renvoie plus l'article d'origine (le blog Docker a été réorganisé) ; le fait est toutefois largement corroboré par la presse indépendante (VentureBeat, SiliconANGLE, The Register, Alven, Crunchbase).",
+  "Le site infinit.io ne résout plus (timeout DNS) et infinit.sh renvoie une erreur 503 ; aucun site actif retrouvé en 2026, cohérent avec le statut 'exit'."
+ ],
+ "summary": "Tous les champs du dossier existant sont confirmés par des sources indépendantes : Infinit était bien une start-up de la promotion 2 du Camping (rentrée septembre 2011, Demo Day mars 2012), cofondée par Julien Quintard (CEO, ex-doctorant à Cambridge) et Baptiste Fradin (COO), proposant un logiciel de stockage/partage/synchronisation de fichiers pair-à-pair sans serveur central, qui a évolué vers une plateforme de stockage décentralisé pour containers. La société a été rachetée par Docker, annoncé le 6 décembre 2016 (statut 'exit' confirmé), Docker ayant ensuite open-sourcé la technologie. Profils LinkedIn personnels des deux fondateurs retrouvés, ainsi que la page LinkedIn de l'entreprise (linkedin.com/company/infinit-sh). Aucun site web actif en 2026. Verdict : verified."
+}

@@ -1,0 +1,71 @@
+{
+ "id": "s2-oleapark",
+ "name": "Oleapark",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Service non retrouvé comme activité actuelle.",
+   "apres": "Aucune trace d'activité au-delà du pivot berlinois de 2012 : le nom de domaine oleapark.com ne sert plus le site d'origine aujourd'hui (boucle de redirection constante à l'ouverture), la page entreprise LinkedIn (fondée en 2011, application de badge social/réseautage pour événements, utilisée notamment par Google, Wired, TEDx, DLD) ne montre plus aucune actualité depuis sa description initiale, et aucun article de presse postérieur au reportage de FrenchWeb d'octobre 2012 sur l'installation à Berlin n'a été retrouvé.",
+   "preuves": [
+    "https://www.linkedin.com/company/oleapark/",
+    "https://www.frenchweb.fr/semaine-speciale-berlin-oleapark-une-start-up-francaise-en-allemagne/79324",
+    "http://archive.org/wayback/available?url=oleapark.com"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Florent Quinti"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Oleapark est une application de badge social qui aide les participants d'événements professionnels (conférences, salons) à repérer et rencontrer les bons contacts sur place.",
+ "statusDetails": "Aucune trace d'activité au-delà du pivot berlinois de 2012 : le nom de domaine oleapark.com ne sert plus le site d'origine aujourd'hui (boucle de redirection constante à l'ouverture), la page entreprise LinkedIn (fondée en 2011, application de badge social/réseautage pour événements, utilisée notamment par Google, Wired, TEDx, DLD) ne montre plus aucune actualité depuis sa description initiale, et aucun article de presse postérieur au reportage de FrenchWeb d'octobre 2012 sur l'installation à Berlin n'a été retrouvé.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20121226050723/http://oleapark.com:80/",
+   "montre": "Snapshot Wayback confirmé disponible (statut 200) pour oleapark.com au 26 décembre 2012, contemporain du passage par Le Camping/du pivot berlinois (via l'API archive.org/wayback/available ; le contenu détaillé de la capture n'a pas pu être récupéré, web.archive.org étant inaccessible aux outils de récupération dans cet environnement)."
+  },
+  {
+   "url": "http://web.archive.org/web/20180114172237/http://oleapark.com/",
+   "montre": "Une capture existe aussi début 2018, indiquant que le domaine répondait encore (statut 200) plusieurs années après la fin de la couverture presse."
+  },
+  {
+   "url": "http://web.archive.org/web/20230617112310/http://oleapark.com/",
+   "montre": "La capture la plus récente connue (17 juin 2023) répond aussi en 200 selon l'API de disponibilité, mais une tentative directe d'ouverture de http://oleapark.com et https://oleapark.com aujourd'hui aboutit à une boucle de redirection infinie, signe d'un domaine mort ou reparké plutôt que du site d'origine."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/semaine-speciale-berlin-oleapark-une-start-up-francaise-en-allemagne/79324",
+   "titre": "[Semaine spéciale Berlin] Oleapark, une start-up française en Allemagne",
+   "annee": "2012",
+   "soutient": ["founders", "status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/oleapark/",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel de Florent Quinti n'a pu être localisé (les profils individuels LinkedIn renvoient un mur de connexion aux outils de récupération automatisés dans cet environnement) ; sa trajectoire professionnelle après 2012 reste donc non documentée.",
+  "Impossible d'accéder à pappers.fr, societe.com et infogreffe.fr (toutes les requêtes ont renvoyé une erreur 403) pour confirmer une éventuelle radiation officielle de la société OLEAPARK au registre du commerce ; le PDF BODACC de création (2012) cité dans l'audit précédent n'a pas pu être relu en texte clair (encodage binaire).",
+  "web.archive.org est inaccessible aux outils de récupération de cet environnement (seule l'API de disponibilité archive.org a répondu) : le contenu détaillé des captures 2012-2023 (page d'accueil, équipe, éventuel changement de produit) n'a pas pu être vérifié visuellement, seule leur existence et leur code de statut ont été confirmés.",
+  "Aucune preuve directe (registre, communiqué, interview) d'un arrêt formel n'a été trouvée ; la conclusion 'stopped' repose sur un faisceau d'indices concordants (domaine mort, page LinkedIn figée, silence de presse depuis 2012) et non sur une source primaire unique confirmant la fermeture."
+ ],
+ "summary": "Le dossier Oleapark est globalement confirmé : startup de la saison 2 (promotion automne 2011) de Le Camping, fondée par Florent Quinti, proposant une application de badge social/réseautage pour événements professionnels (clients cités : Google, Wired, TEDx, DLD), qui a tenté sa chance à Berlin fin 2012 faute d'investisseurs en France. Aucun autre cofondateur ni nom antérieur n'a été trouvé. Le statut 'stopped' est confirmé par un faisceau d'indices (domaine oleapark.com aujourd'hui en boucle de redirection, page LinkedIn figée sans actualité, absence totale de presse après 2012) plutôt que par une source unique et définitive ; le statusDetails a été enrichi et sourcé en conséquence."
+}

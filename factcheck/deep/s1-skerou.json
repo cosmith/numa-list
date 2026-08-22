@@ -20,53 +20,81 @@
    ],
    "apres": [
     { "name": "Grégory Thurin" },
-    { "name": "Ludovic Galabru" },
-    { "name": "David Mollard" }
+    { "name": "Ludovic Galabru" }
    ],
    "preuves": [
+    "https://www.myfrenchstartup.com/fr/startup-france/91441/skerou",
     "https://www.frenchweb.fr/startup-de-la-semaine-skerou-application-qui-dechiffre-le-ticket-de-caisse-61588/63429",
-    "https://www.maddyness.com/2011/10/18/vision-dentrepreneurs-2-2/",
-    "https://fr.linkedin.com/in/gregorythurin0",
     "https://www.linkedin.com/in/lgalabru/",
-    "https://fr.linkedin.com/in/david-mollard-aa782a40",
-    "https://www.frenchweb.fr/bon-app-fidmarques-un-programme-de-fidelite-rattache-aux-marques-et-non-aux-enseignes/177179"
+    "https://fr.linkedin.com/in/gregorythurin0"
    ]
   },
   "status": {
-   "avant": "stopped",
+   "avant": "stopped (marqué unverifiable au dernier audit)",
    "apres": "stopped",
    "preuves": [
-    "https://apkpure.com/skerou-liste-de-course/com.skerou.android",
-    "https://www.frenchweb.fr/bon-app-fidmarques-un-programme-de-fidelite-rattache-aux-marques-et-non-aux-enseignes/177179"
+    "https://www.myfrenchstartup.com/fr/startup-france/91441/skerou",
+    "https://archive.org/wayback/available?url=skerou.com&timestamp=2016",
+    "https://archive.org/wayback/available?url=skerou.com&timestamp=2025",
+    "https://fr.linkedin.com/company/skerou"
    ]
   },
   "statusDetails": {
    "avant": "Service de courses collaboratif non retrouvé comme activité actuelle.",
-   "apres": "L'application Skerou (déchiffrage de tickets de caisse / liste de courses) n'a plus été mise à jour depuis avril 2014 et le domaine skerou.com ne résout plus en 2026 : le produit Skerou a été arrêté. La société mère (PurchEase, fondée par les 3 mêmes associés) a toutefois pivoté vers une nouvelle application de fidélité, FidMarques, lancée en 2014 et toujours active et mise à jour en 2025-2026 sur les stores. Le produit \"Skerou\" tel que présent au Camping saison 1 est donc arrêté, mais l'équipe fondatrice a poursuivi une activité connexe sous une autre marque.",
+   "apres": "Grégory Thurin, cofondateur et CEO, a quitté Skerou en mars 2014 pour fonder PurchEase (devenu FidMarques en 2014), une plateforme de fidélité de marques, avec Ludovic Galabru et David Mollard ; le nom de domaine skerou.com, actif jusqu'en 2016 au moins, ne répond plus aujourd'hui.",
    "preuves": [
-    "https://apkpure.com/skerou-liste-de-course/com.skerou.android",
+    "https://www.myfrenchstartup.com/fr/startup-france/91441/skerou",
     "https://www.frenchweb.fr/bon-app-fidmarques-un-programme-de-fidelite-rattache-aux-marques-et-non-aux-enseignes/177179",
-    "https://apps.apple.com/fr/app/fidmarques/id664604089"
+    "https://archive.org/wayback/available?url=skerou.com&timestamp=2016"
    ]
   },
   "website": {
    "avant": null,
    "apres": null,
    "preuves": [
-    "https://www.frenchweb.fr/startup-de-la-semaine-skerou-application-qui-dechiffre-le-ticket-de-caisse-61588/63429"
+    "https://archive.org/wayback/available?url=skerou.com&timestamp=2011",
+    "https://archive.org/wayback/available?url=skerou.com&timestamp=2016"
    ]
   }
  },
  "founders": [
-  { "name": "Grégory Thurin", "linkedin": "https://fr.linkedin.com/in/gregorythurin0" },
-  { "name": "Ludovic Galabru", "linkedin": "https://www.linkedin.com/in/lgalabru/" },
-  { "name": "David Mollard", "linkedin": "https://fr.linkedin.com/in/david-mollard-aa782a40" }
+  {
+   "name": "Grégory Thurin",
+   "linkedin": "https://fr.linkedin.com/in/gregorythurin0"
+  },
+  {
+   "name": "Ludovic Galabru",
+   "linkedin": "https://www.linkedin.com/in/lgalabru/"
+  }
  ],
  "status": "stopped",
- "statusDetails": "L'application Skerou (déchiffrage de tickets de caisse pour suivre son budget de courses) n'a plus été mise à jour depuis avril 2014 et son domaine skerou.com ne répond plus en 2026 ; le produit est arrêté. La société éditrice, PurchEase (fondée en 2011 par les mêmes 3 associés), a pivoté vers une autre application de fidélité, FidMarques, lancée en 2014 et toujours active en 2025-2026.",
- "website": "",
- "archiveEvidence": [],
+ "activityDescription": "Skerou est une application mobile qui permet aux consommateurs de photographier leur ticket de caisse pour reconstituer automatiquement l'historique de leurs achats, préparer leur prochaine liste de courses et recevoir des promotions ou remboursements liés à leur consommation.",
+ "statusDetails": "Grégory Thurin, cofondateur et CEO, a quitté Skerou en mars 2014 pour fonder PurchEase (devenu FidMarques en 2014) avec Ludovic Galabru et David Mollard ; le domaine skerou.com, encore actif en 2016, ne résout plus aujourd'hui (2026), et aucune activité ou mention de presse n'est retrouvée après 2012-2013.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=skerou.com&timestamp=2011",
+   "montre": "Première capture connue de skerou.com le 25/12/2011 (statut 200), pendant la saison 1 du Camping."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=skerou.com&timestamp=2016",
+   "montre": "Capture du 25/11/2016 (www.skerou.com, statut 200) : le site était encore en ligne sous ce nom en 2016."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=skerou.com&timestamp=2025",
+   "montre": "La capture la plus proche de 2025 renvoyée par l'API Wayback est datée du 08/08/2023 ; impossible de charger le contenu de cette capture (web.archive.org est inaccessible depuis cet environnement), donc son contenu exact (site actif, page parking, etc.) n'a pas pu être vérifié."
+  },
+  {
+   "url": "https://skerou.com",
+   "montre": "Le domaine skerou.com ne résout plus (erreur DNS) au 22/08/2026 : le site n'est plus en ligne aujourd'hui."
+  }
+ ],
  "pressEvidence": [
+  {
+   "url": "https://www.businessinsider.com/le-camping-2011-4",
+   "titre": "Le Camping season 1 startups",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  },
   {
    "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
    "titre": "Le bilan de la première cuvée de startups du Camping",
@@ -75,7 +103,7 @@
   },
   {
    "url": "https://www.maddyness.com/2011/10/18/vision-dentrepreneurs-2-2/",
-   "titre": "Vision d'entrepreneurs #2 avec Gregory Thurin",
+   "titre": "Vision d'entrepreneurs (2/2)",
    "annee": "2011",
    "soutient": ["identity", "founders"]
   },
@@ -86,35 +114,24 @@
    "soutient": ["identity", "founders"]
   },
   {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/91441/skerou",
+   "titre": "Startup SKEROU, L'appli qui révolutionne vos courses",
+   "annee": "2023",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
    "url": "https://www.frenchweb.fr/bon-app-fidmarques-un-programme-de-fidelite-rattache-aux-marques-et-non-aux-enseignes/177179",
    "titre": "[Bon app'] FidMarques, un programme de fidélité rattaché aux marques et non aux enseignes",
    "annee": "2014",
    "soutient": ["founders", "status"]
-  },
-  {
-   "url": "https://apkpure.com/skerou-liste-de-course/com.skerou.android",
-   "titre": "Skerou - Liste de course (fiche APK)",
-   "annee": "2014",
-   "soutient": ["status"]
-  },
-  {
-   "url": "http://www.startinparis.com/2012/03/candidatures-16/skerou/",
-   "titre": "Skerou | Start In Paris",
-   "annee": "2012",
-   "soutient": ["identity"]
-  },
-  {
-   "url": "https://lepharedigital.com/2012/04/13/en-exclusivite-un-apercu-de-skerou-extraire-les-donnees-des-tickets-de-caisse/",
-   "titre": "En exclusivité, un aperçu de Skerou : extraire les données des tickets de caisse",
-   "annee": "2012",
-   "soutient": ["identity"]
   }
  ],
  "linkedinCompany": "https://fr.linkedin.com/company/skerou",
  "openQuestions": [
-  "Impossible d'interroger web.archive.org depuis cet environnement (outil WebFetch le bloque) : la confirmation directe par capture d'écran d'archive du site skerou.com ou des pages de cohorte lecamping.org/numa.co n'a pas pu être obtenue ; les preuves reposent donc sur la presse contemporaine et les fiches LinkedIn/registres au lieu des snapshots Wayback Machine demandés en méthodologie.",
-  "Le nom exact et la date précise de constitution de 'PurchEase' comme entité légale (SA, SAS) n'ont pas été confirmés via un registre officiel (pappers.fr a renvoyé une erreur 403) ; David Mollard y est identifié comme dirigeant de PURCHEASE mais le statut (active/radiée) de la société n'a pas pu être vérifié directement.",
-  "Aucune trace d'acquisition ou de rachat de Skerou n'a été trouvée ; le scénario le plus probable, étayé par la presse, est un pivot interne de la même équipe/société vers FidMarques plutôt qu'une cession à un tiers."
+  "La presse de 2012 (FrenchWeb) mentionne 3 cofondateurs pour Skerou, mais un seul troisième nom potentiel a été trouvé (David Mollard, cofondateur de PurchEase en 2011 avec Thurin et Galabru) sans confirmation directe qu'il ait aussi cofondé Skerou — à vérifier.",
+  "Le contenu de la capture Wayback la plus récente (08/08/2023) de skerou.com n'a pas pu être consulté (web.archive.org bloqué dans cet environnement d'exécution) ; son contenu réel (site relancé, page de parking, erreur) reste incertain.",
+  "Impossible de confirmer si Skerou (l'entité juridique) a été formellement dissoute/radiée ou simplement mise en sommeil : aucune fiche societe.com/pappers.fr distincte n'a été localisée sous le nom Skerou.",
+  "Le champ formerNamesOrPivots visait probablement à indiquer que PurchEase est la société suivante fondée par la même équipe plutôt qu'un simple changement de nom ; les dates de la fiche LinkedIn de Thurin (PurchEase dès janvier 2011, Skerou jusqu'en mars 2014) se chevauchent et semblent approximatives."
  ],
- "summary": "Skerou est bien confirmée comme startup de la saison 1 du Camping (12 équipes sur 161 candidatures, palais Brongniart, 2011). Le nom et le pivot depuis PurchEase sont corrects. La liste des fondateurs était incomplète : Skerou a en réalité été cofondée par 3 personnes, Grégory Thurin, Ludovic Galabru et David Mollard (tous trois identifiés avec profils LinkedIn), et non par Grégory Thurin seul. Le statut 'stopped' est confirmé pour le produit Skerou lui-même (dernière mise à jour de l'application en avril 2014, domaine skerou.com mort), mais la statusDetails d'origine était trompeuse : la même équipe, via la société PurchEase, a pivoté vers une autre application de fidélité, FidMarques, lancée en 2014 et toujours active et mise à jour en 2025-2026. Aucun site web actuel pour Skerou. Pas de preuve d'acquisition par un tiers."
+ "summary": "Skerou (saison 1 du Camping, 2011) était une application permettant de photographier ses tickets de caisse pour suivre ses achats et obtenir des remises ; confirmée dans la cohorte saison 1 par plusieurs sources de presse 2011-2012. Le fondateur unique du fichier (Grégory Thurin) est confirmé, et un second cofondateur (Ludovic Galabru) est ajouté avec preuve presse + LinkedIn. Le statut 'stopped' est confirmé (et non plus 'unverifiable') : Thurin a quitté Skerou en mars 2014 pour fonder PurchEase/FidMarques avec Galabru, et le domaine skerou.com, actif au moins jusqu'en 2016, ne résout plus en 2026. Le pivot vers PurchEase indiqué dans la fiche est cohérent avec les sources, bien qu'il s'agisse plus précisément d'une nouvelle société lancée par la même équipe que d'un simple changement de nom."
 }

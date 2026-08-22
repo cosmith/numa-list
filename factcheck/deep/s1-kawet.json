@@ -7,61 +7,69 @@
  "fields": {
   "season": "verified",
   "name": "verified",
-  "formerNamesOrPivots": "verified",
+  "formerNamesOrPivots": "corrected",
   "founders": "corrected",
   "status": "verified",
   "statusDetails": "corrected",
   "website": "corrected"
  },
  "corrections": {
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": ["Cashew (nom du produit / plateforme de création d'applications iPhone grand public, 2010-2013, avant le pivot vers une offre B2B commercialisée sous la marque Kawet)"],
+   "preuves": [
+    "https://www.frenchweb.fr/start-up-de-la-semaine-kawet-construire-son-application-iphone-comme-un-lego/8716",
+    "https://www.frenchweb.fr/kawet-le-pivot-dune-start-up-vers-la-cible-btob/103316",
+    "http://blog.madebykawet.com/kawet-presents-cashew/"
+   ]
+  },
   "founders": {
-   "avant": [ { "name": "Benjamin Hardy" } ],
+   "avant": [{"name": "Benjamin Hardy"}],
    "apres": [
-    { "name": "Benjamin Hardy" },
-    { "name": "Charles Niaulin" },
-    { "name": "Dante Planterose" }
+    {"name": "Benjamin Hardy", "linkedin": "https://fr.linkedin.com/in/hardybenjamin"},
+    {"name": "Charles Niaulin", "linkedin": "https://fr.linkedin.com/in/charlesniaulin"},
+    {"name": "Dante Planterose", "linkedin": "https://fr.linkedin.com/in/dplanterose"}
    ],
    "preuves": [
     "https://www.frenchweb.fr/start-up-de-la-semaine-kawet-construire-son-application-iphone-comme-un-lego/8716",
-    "https://vimeo.com/17754600/credits",
-    "https://www.mind.eu.com/media/medias-audiovisuel/la-sncf-experimente-linterface-mobile-de-kawet-pour-sa-communication-de-crise/",
+    "https://www.frenchweb.fr/kawet-le-pivot-dune-start-up-vers-la-cible-btob/103316",
+    "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+    "https://mindmedia.fr/medias-audiovisuel/la-sncf-experimente-linterface-mobile-de-kawet-pour-sa-communication-de-crise",
+    "https://www.channelnews.fr/kawet-accelere-le-developpement-et-le-deploiement-dapplications-mobiles-15687",
     "https://www.f6s.com/danteplanterose",
     "https://fr.linkedin.com/in/charlesniaulin",
-    "https://fr.linkedin.com/in/dplanterose"
+    "https://fr.linkedin.com/in/hardybenjamin"
    ]
   },
   "statusDetails": {
    "avant": "Kawet a été rachetée en 2013 et poursuit son activité sous sa marque.",
-   "apres": "Kawet (plateforme Cashew puis solution mobile B2B) a été rachetée fin 2013 par le groupe Insert, fusion officialisée en mars 2014 sous le nom Phenix Groupe ; la marque Kawet a ensuite été absorbée/rebaptisée (Phenix Technologies) et n'existe plus en tant que telle, le site madebykawet.com étant hors ligne en 2026.",
+   "apres": "Kawet (SAS, RCS Nanterre 520 469 990) a été rapprochée d'Insert et StoreQuest fin 2013 pour créer Phenix Groupe (annonce publique en mars 2014), Benjamin Hardy devenant président de la filiale Kawet au sein du nouveau pôle « Mobile ». La marque Kawet n'apparaît plus dans les activités actuelles de Phenix Groupe (site et frise chronologique officiels consultés en 2026, qui ne mentionnent ni Kawet ni StoreQuest) et le site madebykawet.com n'est plus accessible : la marque et le produit semblent avoir été abandonnés après l'intégration, même si le rachat lui-même reste confirmé.",
    "preuves": [
     "https://www.mind.eu.com/media/article/6185/insert-rachat-de-kawet-et-creation-de-phenix-groupe/",
     "https://fr.themedialeader.com/insert-et-la-startup-mobile-kawet-se-rapprochent-pour-creer-phenix-groupe-/",
-    "https://www.frenchweb.fr/phenix-groupe-10-millions-deuros-pour-accelerer-sur-laffichage-digital/287272",
-    "https://pitchbook.com/profiles/company/86842-27"
+    "https://www.phenixgroupe.com/legroupe/time-line",
+    "https://www.phenixgroupe.com/"
    ]
   },
   "website": {
    "avant": "https://madebykawet.com",
    "apres": null,
    "preuves": [
-    "recherche directe le 22/08/2026 : madebykawet.com ne résout plus (DNS introuvable)"
+    "Tentative de résolution DNS de madebykawet.com en 2026 : échec (domaine ne répond plus)",
+    "https://www.phenixgroupe.com/"
    ]
   }
  },
  "founders": [
-  { "name": "Benjamin Hardy", "linkedin": "https://www.linkedin.com/in/hardybenjamin/" },
-  { "name": "Charles Niaulin", "linkedin": "https://fr.linkedin.com/in/charlesniaulin" },
-  { "name": "Dante Planterose", "linkedin": "https://fr.linkedin.com/in/dplanterose" }
+  {"name": "Benjamin Hardy", "linkedin": "https://fr.linkedin.com/in/hardybenjamin"},
+  {"name": "Charles Niaulin", "linkedin": "https://fr.linkedin.com/in/charlesniaulin"},
+  {"name": "Dante Planterose", "linkedin": "https://fr.linkedin.com/in/dplanterose"}
  ],
  "status": "exit",
- "statusDetails": "Kawet (plateforme Cashew puis solution mobile B2B pour entreprises) a été rachetée fin 2013 par le groupe Insert (spécialiste de l'affichage urbain), fusion officialisée en mars 2014 donnant naissance à Phenix Groupe, dont Kawet est devenue filiale à 100 %. La marque Kawet n'a pas perdurée en tant que telle (renommée Phenix Technologies) et son site historique madebykawet.com est hors ligne en 2026.",
- "acquirer": "Insert / Phenix Groupe",
- "archiveEvidence": [
-  {
-   "url": "https://web.archive.org/web/2011/http://kawet.com",
-   "montre": "Tentative de consultation non aboutie : l'outil WebFetch de cette session est bloqué sur web.archive.org (erreur systématique « Claude Code is unable to fetch from web.archive.org »). Aucune capture Wayback n'a donc pu être vérifiée directement ; voir openQuestions."
-  }
- ],
+ "activityDescription": "Kawet est une solution mobile qui permet aux entreprises de créer, publier et gérer facilement des applications natives (iOS et Android) pour leurs salariés et leurs clients, sans compétences techniques, à partir d'une plateforme de type CMS fonctionnant par blocs (issue de son produit d'origine Cashew).",
+ "statusDetails": "Kawet (SAS, RCS Nanterre 520 469 990) a été rapprochée d'Insert et StoreQuest fin 2013 pour créer Phenix Groupe (annonce publique en mars 2014), Benjamin Hardy devenant président de la filiale Kawet au sein du nouveau pôle « Mobile ». La marque Kawet n'apparaît plus dans les activités actuelles de Phenix Groupe (site et frise chronologique officiels consultés en 2026) et le site madebykawet.com n'est plus accessible : la marque et le produit semblent avoir été abandonnés après l'intégration, même si le rachat lui-même reste confirmé.",
+ "acquirer": "Phenix Groupe (via le rapprochement avec Insert, qui a créé la holding Phenix Groupe)",
+ "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://www.frenchweb.fr/start-up-de-la-semaine-kawet-construire-son-application-iphone-comme-un-lego/8716",
@@ -79,11 +87,11 @@
    "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
    "titre": "Le bilan de la première cuvée de startups du Camping",
    "annee": "2011",
-   "soutient": ["cohort"]
+   "soutient": ["cohort", "founders"]
   },
   {
    "url": "https://www.mind.eu.com/media/article/6185/insert-rachat-de-kawet-et-creation-de-phenix-groupe/",
-   "titre": "Insert : rachat de Kawet et création de Phénix Groupe",
+   "titre": "Insert : rachat de Kawet et création de Phenix Groupe",
    "annee": "2014",
    "soutient": ["status"]
   },
@@ -91,33 +99,20 @@
    "url": "https://fr.themedialeader.com/insert-et-la-startup-mobile-kawet-se-rapprochent-pour-creer-phenix-groupe-/",
    "titre": "Insert et la startup mobile Kawet se rapprochent pour créer Phenix Groupe",
    "annee": "2014",
-   "soutient": ["status"]
+   "soutient": ["status", "founders"]
   },
   {
-   "url": "https://www.mind.eu.com/media/medias-audiovisuel/la-sncf-experimente-linterface-mobile-de-kawet-pour-sa-communication-de-crise/",
-   "titre": "La SNCF expérimente l'interface mobile de Kawet pour sa communication de crise",
-   "annee": "2013",
-   "soutient": ["identity", "founders"]
-  },
-  {
-   "url": "https://www.frenchweb.fr/phenix-groupe-10-millions-deuros-pour-accelerer-sur-laffichage-digital/287272",
-   "titre": "Phenix Groupe, 10 millions d'euros pour accélérer sur l'affichage digital",
-   "annee": "2017",
-   "soutient": ["status"]
-  },
-  {
-   "url": "https://www.calmstorm.vc/founder/benjamin-hardy",
-   "titre": "Benjamin Hardy · Calm/Storm Ventures (profil Biloba)",
-   "annee": "2023",
-   "soutient": ["founders"]
+   "url": "https://www.journaldunet.com/web-tech/start-up/1010558-ces-start-up-francaises-que-google-devrait-s-offrir/1010569-kawet",
+   "titre": "Kawet, la solution clef en main pour créer son application",
+   "annee": "2011",
+   "soutient": ["identity"]
   }
  ],
- "linkedinCompany": null,
  "openQuestions": [
-  "La page LinkedIn officielle de l'entreprise Kawet (linkedin.com/company/kawet...) n'a pas pu être localisée avec certitude ; seules des mentions de profils individuels ('X — Kawet') sont apparues dans les résultats de recherche.",
-  "Le montant/les termes financiers exacts du rachat par Insert n'ont pas été rendus publics dans les sources consultées.",
-  "Impossible de vérifier directement les captures Wayback Machine (web.archive.org) : l'outil WebFetch de cet environnement refuse systématiquement ces requêtes (erreur outil, pas absence de données). Un contrôle manuel via un navigateur serait utile pour corroborer davantage l'historique du site.",
-  "Le rôle exact de Dante Planterose (co-fondateur à part entière vs. associé/VP Sales entré en cours de route) varie légèrement selon les sources ; toutes s'accordent cependant à le qualifier de co-fondateur ou directeur associé."
+  "La date exacte du rachat varie selon les sources : Dealroom indique novembre 2013, tandis que l'annonce publique (mind Media, The Media Leader) date de mars 2014 ; il s'agit probablement d'un accord finalisé fin 2013 et officialisé publiquement en 2014.",
+  "Impossible d'accéder à web.archive.org depuis cet environnement (requêtes bloquées par le proxy réseau) : aucune capture Wayback Machine n'a pu être consultée pour confirmer directement le contenu du site madebykawet.com pendant la saison 1 (2011) ou la page de cohorte de Le Camping. Les informations sur l'identité et le produit reposent donc sur la presse contemporaine (FrenchWeb, JDN) et des caches de moteur de recherche du site officiel, pas sur des captures d'archive directement consultées.",
+  "Le nombre exact de fondateurs (l'article FrenchWeb 2014 parle de « 5 entrepreneurs » devenus associés chez Phenix Groupe) n'a pu être confirmé au-delà de 3 noms identifiés (Hardy, Niaulin, Planterose) ; il pourrait manquer 1 ou 2 personnes à la liste.",
+  "Aucune page LinkedIn d'entreprise « Kawet » retrouvée ; seul le domaine madebykawet.com (aujourd'hui hors ligne) faisait référence."
  ],
- "summary": "Kawet (saison 1, Le Camping, 2011) est confirmée : plateforme Cashew de création d'apps mobiles sans code, pivotée vers une solution mobile B2B pour entreprises (clients dont la SNCF), présente dans le premier bilan du Camping. Le statut 'exit' est confirmé : rachat fin 2013 par le groupe Insert, fusion officialisée en mars 2014 sous le nom Phenix Groupe (Kawet devenue filiale à 100 %, puis renommée/absorbée sous Phenix Technologies — la marque Kawet n'a donc pas perduré, contrairement à ce qu'indiquait statusDetails). La liste des fondateurs était incomplète : outre Benjamin Hardy (CEO), Charles Niaulin (CTO) et Dante Planterose (co-fondateur/VP Sales) sont documentés dès 2010-2013 par la presse et des profils professionnels ; les trois disposent d'un profil LinkedIn identifiable. Le site madebykawet.com ne résout plus en 2026 (champ website à retirer)."
+ "summary": "Kawet a bien fait partie de la saison 1 du Camping (2011, 12 startups sur 161 candidatures). Fondée en 2010 par au moins Benjamin Hardy, Charles Niaulin et Dante Planterose, elle a lancé la plateforme grand public de création d'applications iPhone « Cashew » avant de pivoter vers une offre B2B d'applications mobiles d'entreprise sous la marque Kawet. Le statut « exit » est confirmé : Kawet a rejoint Insert et StoreQuest fin 2013 pour former Phenix Groupe (annonce publique mars 2014), Benjamin Hardy prenant la présidence de la filiale Kawet. En revanche, l'affirmation selon laquelle Kawet « poursuit son activité sous sa marque » est aujourd'hui obsolète : la marque Kawet n'apparaît plus dans les divisions actuelles de Phenix Groupe et le site madebykawet.com est hors ligne. La liste des fondateurs a été complétée (Niaulin, Planterose ajoutés, avec LinkedIn), un pivot produit (Cashew) a été documenté, et le site web doit être retiré du champ website car non fonctionnel."
 }

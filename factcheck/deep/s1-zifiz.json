@@ -1,0 +1,91 @@
+{
+ "id": "s1-zifiz",
+ "name": "Zifiz",
+ "season": 1,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "unverifiable"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Service non retrouvé comme activité actuelle.",
+   "apres": "Zifiz (SIREN 530996750) a été placée en liquidation dès le 3 mars 2012, moins d'un an après la fin du programme Le Camping ; le cofondateur Bora Kizil a lui-même décrit Zifiz comme un échec dans une interview ultérieure.",
+   "preuves": [
+    "https://www.societe.com/manager/Pierre-Antoine.ANTONINI.2sH8yLPXMEP.html",
+    "https://www.rudebaguette.com/en/2012/02/against-copycat-debate/"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Bora Kizil",
+   "linkedin": "https://fr.linkedin.com/in/borakizil"
+  },
+  {
+   "name": "Pierre-Antoine Antonini"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Zifiz était un moteur de recherche mobile et web permettant aux consommateurs de localiser un produit en magasin à proximité et d'en connaître le prix, la disponibilité et les promotions en cours (commerce O2O).",
+ "statusDetails": "Zifiz (SIREN 530996750, activité de programmation informatique, siège au 5 rue des Suisses, 75014 Paris) a été mise en liquidation dès le 3 mars 2012, Pierre-Antoine Antonini en étant nommé liquidateur — soit moins d'un an après la fin de la saison 1 du Camping (janvier-juin 2011). Le cofondateur Bora Kizil a ensuite qualifié publiquement Zifiz d'échec (« a failure ») avant de rejoindre Rocket Internet Turquie puis de fonder Ezako.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.paperblog.fr/4770661/regard-d-expert-4-bora-zifif/",
+   "titre": "Regard d'expert #4 : Bora (Zifiz)",
+   "annee": "2011",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.businessinsider.com/le-camping-2011-4",
+   "titre": "Le Camping 2011 (liste des startups de la saison 1)",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
+   "titre": "Le bilan de la première cuvée de startups du Camping",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/en/2012/02/against-copycat-debate/",
+   "titre": "For or Against: The CopyCat Debate",
+   "annee": "2012",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/79902/zifiz",
+   "titre": "Startup ZIFIZ, Moteur de recherche des produits en magasin",
+   "annee": "2011",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/manager/Pierre-Antoine.ANTONINI.2sH8yLPXMEP.html",
+   "titre": "Fiche dirigeant Pierre-Antoine Antonini — liquidateur de ZIFIZ",
+   "annee": "2012",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.numaparis.com/accelerate_subdomain/Accelerate-Startups-Season-1/",
+   "titre": "Numa Paris — Accelerate Startups Season 1 (liste)",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  }
+ ],
+ "openQuestions": [
+  "Web.archive.org est bloqué dans cet environnement d'exécution (échec systématique de récupération) : aucune capture Wayback Machine n'a pu être consultée directement pour confirmer visuellement le site ou l'équipe de 2011, malgré plusieurs tentatives (CDX API et snapshots directs).",
+  "Le domaine zifiz.com existe toujours mais renvoie une erreur 403 (protection anti-bot) lors de la tentative de consultation ; impossible de déterminer s'il est aujourd'hui reparké, revendu ou inactif — cela ne change toutefois pas la conclusion sur l'arrêt de l'activité, déjà établie par le registre du commerce.",
+  "Aucune page LinkedIn d'entreprise (linkedin.com/company/...) trouvée pour Zifiz.",
+  "Le profil LinkedIn personnel de Pierre-Antoine Antonini n'a pas pu être identifié avec certitude (plusieurs homonymes sur LinkedIn) ; en revanche societe.com confirme qu'il gère aujourd'hui Emporiatech et une activité indépendante.",
+  "Le lien entre le profil LinkedIn fr.linkedin.com/in/borakizil (Ezako/Upalgo) et le fondateur de Zifiz repose sur la correspondance de nom/parcours avec l'article Rude Baguette (2012), et non sur une mention explicite de « Zifiz » dans le profil LinkedIn lui-même."
+ ],
+ "summary": "Cohorte (saison 1, 2011), nom et liste des deux fondateurs (Bora Kizil, Pierre-Antoine Antonini) confirmés par plusieurs sources indépendantes (presse 2011-2012, annuaire myfrenchstartup, page saison 1 de Numa Paris). Le statut « stopped » déjà présent dans data.json est confirmé et considérablement renforcé : le registre du commerce (societe.com) montre que Zifiz (SIREN 530996750) a été placée en liquidation dès mars 2012, avec Pierre-Antoine Antonini comme liquidateur, et Bora Kizil a lui-même qualifié Zifiz d'échec dans la presse. La statusDetails du fichier est donc corrigée pour refléter cette preuve concrète plutôt qu'une simple absence de site actif. Aucun site web actuel ne peut être rattaché avec certitude à l'activité d'origine (zifiz.com renvoie une erreur 403). L'accès à Internet Archive a été bloqué dans cet environnement, limitant la vérification visuelle directe du site de 2011, mais la presse contemporaine (paperblog.fr, août 2011) et les registres suffisent pour un dossier solide."
+}

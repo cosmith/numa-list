@@ -1,0 +1,84 @@
+{
+ "id": "s2-onefeat",
+ "name": "Onefeat",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "unverifiable",
+  "status": "unverifiable",
+  "statusDetails": "corrected",
+  "website": "unverifiable"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Jeu social arrêté.",
+   "apres": "N'a pas réussi à lever des fonds en France : la startup s'est relocalisée dans la Silicon Valley et a intégré l'accélérateur IO Ventures, où elle a levé 500 000 $ (annonce reprise de La Tribune, juin 2012). Aucune trace de presse, de produit ou d'activité n'a été retrouvée après juin 2012 ; le domaine onefeat.com ne semble plus lié à l'entreprise d'origine (site actuel inaccessible/probablement repris par un tiers).",
+   "preuves": [
+    "https://www.frenchweb.fr/news-ce-quil-faut-savoir-ce-matin-9-61981/65561",
+    "https://www.frenchweb.fr/start-up-le-camping-onefeat-le-social-game-des-defis/39775"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Arnaud Ferreri" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Onefeat est une plateforme de « social gaming » qui transforme les défis du quotidien en jeux sociaux à relever entre amis.",
+ "statusDetails": "N'a pas réussi à lever des fonds en France : la startup s'est relocalisée dans la Silicon Valley et a intégré l'accélérateur IO Ventures, où elle a levé 500 000 $ (annonce reprise de La Tribune, juin 2012). Aucune trace de presse, de produit ou d'activité n'a été retrouvée après juin 2012 ; le domaine onefeat.com ne semble plus lié à l'entreprise d'origine.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=onefeat.com&timestamp=2011",
+   "montre": "API de disponibilité Wayback : plus proche capture au 2012-01-03, confirmant que onefeat.com était en ligne dès le début de la saison 2 du Camping."
+  },
+  {
+   "url": "http://web.archive.org/web/20121213082216/http://onefeat.com:80/",
+   "montre": "Capture du 13/12/2012 : le site onefeat.com était toujours actif fin 2012, après l'annonce de la relocalisation aux États-Unis (contenu non consultable directement dans cette session, web.archive.org étant bloqué par l'outil de récupération web ; URL fournie pour vérification manuelle)."
+  },
+  {
+   "url": "http://web.archive.org/web/20140517163704/http://onefeat.com/",
+   "montre": "Dernière capture significative connue avant une longue interruption : plus proche capture retrouvée pour 2016 est encore celle de mai 2014, suggérant une absence de nouvelles captures entre 2014 et 2022."
+  },
+  {
+   "url": "http://web.archive.org/web/20220630191624/https://onefeat.com/",
+   "montre": "Reprise des captures en 2022 après un vide de ~8 ans, ce qui est cohérent avec une reprise du nom de domaine par un tiers plutôt qu'une continuité d'activité de la startup d'origine (non consultable directement, outil de fetch bloqué sur web.archive.org)."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/start-up-le-camping-onefeat-le-social-game-des-defis/39775",
+   "titre": "[Start-up Le Camping] OneFeat, le social game des défis",
+   "annee": "2011",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/election-presidentielle-mon-idee-pour-2012-arnaud-ferreri-onefeat-60175/44138",
+   "titre": "[Election Présidentielle] Mon idée pour 2012 – Arnaud Ferreri / Onefeat",
+   "annee": "2012",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/news-ce-quil-faut-savoir-ce-matin-9-61981/65561",
+   "titre": "[News] Ce qu'il faut savoir ce matin",
+   "annee": "2012",
+   "soutient": ["status"]
+  }
+ ],
+ "openQuestions": [
+  "L'identité des deux autres cofondateurs (Arnaud Ferreri est présenté comme « co-fondateur », impliquant au moins deux associés supplémentaires jamais nommés dans la presse consultée) reste inconnue.",
+  "Aucune date précise d'arrêt d'activité n'a été trouvée : la dernière trace presse date de juin 2012 (levée de 500 000 $ via IO Ventures à San Francisco) ; on ignore si la société a continué quelque temps sous statut américain avant de cesser.",
+  "Le profil LinkedIn personnel d'Arnaud Ferreri n'a pas pu être localisé dans cette session : le budget WebSearch de la session était déjà épuisé (200/200) avant le début de cette recherche, et l'accès direct à linkedin.com/in/... a été bloqué (HTTP 999) sans passer par une recherche.",
+  "L'outil WebFetch de cette session refuse toute requête vers le domaine web.archive.org (erreur explicite), empêchant la lecture directe du contenu des captures ; seules l'API de disponibilité (archive.org/wayback/available) a pu être interrogée pour dater les captures. Une vérification humaine directe des captures listées est recommandée.",
+  "Le contenu actuel de onefeat.com (2025) n'a pas pu être examiné (403 Forbidden au fetch direct) ; impossible de confirmer si le domaine a été repris par un tiers ou est simplement protégé par un pare-feu applicatif."
+ ],
+ "summary": "Saison 2 et nom confirmés par Journal du Net (14/09/2011, 12 start-up du Camping) et FrenchWeb. Arnaud Ferreri est bien co-fondateur (FrenchWeb, déc. 2011 et janv. 2012), mais la presse elle-même indique qu'il y a d'autres cofondateurs jamais nommés — la liste reste donc incomplète sans qu'on puisse la corriger. Élément nouveau et important : FrenchWeb (08/06/2012, citant La Tribune) rapporte que Onefeat, faute de financement en France, s'est relocalisée dans la Silicon Valley et a levé 500 000 $ via l'accélérateur IO Ventures — c'est la dernière trace de presse retrouvée. Le statut « stopped » du dossier reste plausible mais non daté avec certitude (méthodologiquement « unverifiable » au sens strict), tandis que statusDetails a été enrichi avec ce contexte de relocalisation. Les vérifications Internet Archive complètes et LinkedIn n'ont pas pu être menées à leur terme : le budget WebSearch de la session était épuisé et l'outil WebFetch bloque explicitement le domaine web.archive.org, limitant la recherche aux métadonnées de l'API de disponibilité Wayback et aux pages de presse directement accessibles."
+}

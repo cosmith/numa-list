@@ -21,7 +21,8 @@
   }
  ],
  "status": "active",
- "statusDetails": "P1 Security est une entreprise de cybersécurité télécom (SS7, Diameter, GTP, IMS, VoLTE, 5G) toujours en activité en 2026 : environ 26 employés, page carrières avec offres ouvertes, membre GSMA, présente au Mobile World Congress 2026 (Barcelone). Aucune trace de liquidation ou d'arrêt d'activité.",
+ "activityDescription": "P1 Security est une entreprise de cybersécurité télécom qui fournit des produits et services (recherche de vulnérabilités, détection de menaces, pare-feu de signalisation) pour protéger les réseaux mobiles et opérateurs contre les attaques sur les protocoles SS7/SIGTRAN, Diameter, GTP-C, IMS/SIP et 5G.",
+ "statusDetails": "Société active (SAS), immatriculée le 26 janvier 2011 à Paris, dirigée par son fondateur Philippe Langlois, toujours en activité en 2026 avec 10 à 19 salariés déclarés.",
  "website": "https://www.p1sec.com",
  "archiveEvidence": [],
  "pressEvidence": [
@@ -29,43 +30,37 @@
    "url": "https://www.frenchweb.fr/le-bilan-de-la-premiere-cuvee-de-startups-du-camping/18664",
    "titre": "Le bilan de la première cuvée de startups du Camping",
    "annee": "2011",
-   "soutient": ["cohort"]
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/p1-security-529778243.html",
+   "titre": "Société P1 SECURITY à Paris - fiche registre",
+   "annee": "2026",
+   "soutient": ["status", "founders", "identity"]
   },
   {
    "url": "https://www.p1sec.com/about-us",
    "titre": "Who we are | P1 Security",
    "annee": "2026",
-   "soutient": ["identity", "founders", "status"]
+   "soutient": ["status", "founders", "identity"]
   },
   {
-   "url": "https://theorg.com/org/p1-security",
-   "titre": "P1 Security | The Org — organigramme",
+   "url": "https://www.crunchbase.com/organization/p1-security",
+   "titre": "P1 Security - Crunchbase Company Profile & Funding",
+   "annee": "2026",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/philippe-langlois",
+   "titre": "Philippe Langlois - Founder, CEO @ P1 Security",
    "annee": "2026",
    "soutient": ["founders"]
-  },
-  {
-   "url": "https://fr.linkedin.com/in/langlois",
-   "titre": "Philippe Langlois - Founder & CEO at P1 Security",
-   "annee": "2026",
-   "soutient": ["founders", "status"]
-  },
-  {
-   "url": "https://www.p1sec.com/careers",
-   "titre": "Join P1 Security and secure critical networks",
-   "annee": "2026",
-   "soutient": ["status"]
-  },
-  {
-   "url": "https://gsma.com/membership/m/p1-security",
-   "titre": "P1 Security - Membership - GSMA",
-   "annee": "2026",
-   "soutient": ["status", "identity"]
   }
  ],
  "linkedinCompany": "https://www.linkedin.com/company/p1security",
  "openQuestions": [
-  "L'archive.org (web.archive.org) était inaccessible via les outils de récupération web de cette session (blocage technique côté outil, pas côté site) — impossible de confirmer directement via capture d'écran d'époque que p1sec.com existait déjà en 2011 sous ce nom, bien que la presse contemporaine (frenchweb) confirme sans ambiguïté l'appartenance à la saison 1 du Camping sous le nom P1 Security / P1SEC.",
-  "Impossible de récupérer directement l'article Business Insider cité dans la source existante (403/blocage outil) ; la cohorte est toutefois corroborée par une source de presse française indépendante (FrenchWeb) citant explicitement P1 Security parmi les 12 startups de la première promotion du Camping (2011)."
+  "Le Wayback Machine (web.archive.org) était inaccessible depuis cet environnement (blocage réseau) ; l'historique des captures du site p1sec.com et les instantanés d'archive de lecamping.org/numa.co listant la saison 1 n'ont donc pas pu être consultés directement pour cette vérification. La confirmation de la cohorte s'appuie ici sur l'article FrenchWeb (2011) et les fiches sociétés/Crunchbase, cohérentes avec la source businessinsider.com déjà citée dans data.json.",
+  "Guillaume Drapier apparaît comme COO de P1 Security dans les sources récentes (Crunchbase, LinkedIn) mais rien n'indique qu'il soit cofondateur en 2011 ; il n'a donc pas été ajouté à la liste des fondateurs."
  ],
- "summary": "Tous les champs du dossier P1 Security sont confirmés par des sources indépendantes. La FrenchWeb confirme l'appartenance à la saison 1 du Camping (2011, 12 startups dont P1 Security/P1SEC). Philippe Langlois est bien l'unique fondateur (CEO), avec son profil LinkedIn identifié ; Pierre Godret, parfois cité, est Directeur Général (General Manager) et non cofondateur. L'entreprise est active en 2026 : cybersécurité télécom (SS7/5G), ~26 employés, recrutement en cours, membre GSMA, présente au MWC 2026. Le site web www.p1sec.com est le domaine officiel actuel. Aucun changement de nom ni pivot identifié. Aucune correction nécessaire."
+ "summary": "Tous les champs du dossier P1 Security sont confirmés : startup de la saison 1 du Camping (immatriculée le 26 janvier 2011, cohérent avec le calendrier janvier-juillet 2011), fondée et dirigée par Philippe Langlois (LinkedIn et Crunchbase concordants), sans changement de nom ni pivot. La société est active en 2026 (registre du commerce, 10-19 salariés, site p1sec.com en ligne), toujours positionnée sur la cybersécurité des réseaux télécoms (SS7/Diameter/5G). Aucune correction nécessaire."
 }

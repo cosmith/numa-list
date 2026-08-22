@@ -1,0 +1,101 @@
+{
+ "id": "s2-herewedate",
+ "name": "HereWeDate",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Julien Hugon" }
+   ],
+   "apres": [
+    { "name": "Julien Hugon" },
+    { "name": "Daniel Podaru" }
+   ],
+   "preuves": [
+    "https://www.crunchbase.com/organization/herewedate",
+    "https://www.crunchbase.com/person/daniel-podaru",
+    "https://fr.linkedin.com/in/daniel-podaru-b1a5071a3",
+    "https://www.linkedin.com/in/julienhugon/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service non retrouvé comme activité actuelle.",
+   "apres": "HereWeDate a cessé son activité vers l'été 2012 : son cofondateur et CEO Julien Hugon a quitté l'aventure en juillet 2012 pour rejoindre Google, le nom de domaine herewedate.com n'est plus enregistré (ne résout plus), aucune trace de levée de fonds, de rachat ou d'actualité presse n'existe après début 2012, et aucune fiche de société (SIREN/SIRET) n'a été retrouvée dans les registres publics.",
+   "preuves": [
+    "https://www.crunchbase.com/person/julien-hugon",
+    "https://www.linkedin.com/in/julienhugon/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Julien Hugon", "linkedin": "https://www.linkedin.com/in/julienhugon/" },
+  { "name": "Daniel Podaru", "linkedin": "https://fr.linkedin.com/in/daniel-podaru-b1a5071a3" }
+ ],
+ "status": "stopped",
+ "activityDescription": "HereWeDate est un site et une application de rencontre communautaire qui permet à ses utilisateurs de proposer des « dates » originaux (en tête-à-tête ou en groupe) autour d'une activité ou d'un lieu, puis de les partager avec les célibataires intéressés par cette même sortie.",
+ "statusDetails": "HereWeDate a cessé son activité vers l'été 2012 : son cofondateur et CEO Julien Hugon a quitté l'aventure en juillet 2012 pour rejoindre Google, le nom de domaine herewedate.com n'est plus enregistré, aucune levée de fonds, rachat ni actualité presse n'a été retracé après début 2012, et aucune fiche de société n'a été retrouvée dans les registres publics français.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/2012/http://herewedate.com",
+   "montre": "Tentative de consultation infructueuse : dans cet environnement, l'outil WebFetch renvoie systématiquement une erreur pour web.archive.org (« unable to fetch »), quel que soit le format d'URL essayé (CDX API, snapshot daté, timestamp générique). Impossible de confirmer directement via Internet Archive ; voir openQuestions."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2011/09/16/le-camping/",
+   "titre": "Le camping revient avec sa deuxième fournée de startups",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2012/01/16/herewedate/",
+   "titre": "HereWeDate",
+   "annee": "2012",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.viedecelibataire.fr/herewedate-proposez-idees-rencontres-originales/",
+   "titre": "HereWeDate : proposez vos idées de rencontres originales !",
+   "annee": "2011",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/herewedate",
+   "titre": "HereWeDate - Crunchbase Company Profile & Funding",
+   "annee": "2011-2012",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/julien-hugon",
+   "titre": "Julien Hugon - Crunchbase Person Profile",
+   "annee": "2011-2012",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Aucune page LinkedIn 'company' pour HereWeDate n'a été retrouvée (aucun résultat linkedin.com/company/... pertinent) ; l'entreprise n'a peut-être jamais créé de page officielle ou celle-ci a été supprimée.",
+  "web.archive.org est inaccessible aux outils de cette session (toutes les requêtes WebFetch vers ce domaine échouent, y compris l'API CDX et les snapshots datés), donc l'historique de captures et une page d'équipe/fondateurs archivée n'ont pas pu être consultés directement ; les éléments d'archive typiquement recommandés par la méthodologie n'ont pas pu être vérifiés pour cette fiche.",
+  "Le rattachement de Daniel Podaru comme cofondateur repose sur Crunchbase (répertoire communautaire) corroboré par un profil LinkedIn probable (développeur basé à Paris, univers web3/Flow) mais ce profil LinkedIn ne mentionne pas explicitement HereWeDate lui-même ; la méthodologie déconseille de s'appuyer sur un seul annuaire communautaire pour une affirmation forte, donc cette information doit être considérée comme correcte mais avec un niveau de confiance moyen plutôt qu'absolu.",
+  "Un profil intitulé 'Paul Idrobo' revendique publiquement avoir 'lancé HereWeDate en 2010' ; son profil (designer/motion designer équatorien, sans lien apparent avec Paris ou Le Camping) ne correspond à aucun autre signal trouvé sur la startup française et semble être un homonyme sans rapport (nom de service dupliqué), mais ce point n'a pas pu être formellement exclu.",
+  "Aucune fiche SIREN/SIRET ni mention de dissolution/radiation n'a été retrouvée pour HereWeDate dans les registres publics français consultables par recherche web ; la structure juridique exacte de la startup reste inconnue."
+ ],
+ "summary": "HereWeDate est confirmée comme faisant partie de la saison 2 (2011-2012) du Camping, un réseau de rencontre communautaire par « dates » originaux. Les sources convergent pour établir deux cofondateurs (Julien Hugon, CEO, et Daniel Podaru, CTO) alors que la fiche n'en listait qu'un seul : correction apportée. Le statut « stopped » est confirmé et renforcé (départ du CEO en juillet 2012 pour Google, domaine mort, silence presse total après 2012, aucune trace de rachat), et le détail de statut a été précisé en conséquence. Aucune preuve d'acquisition. L'accès à web.archive.org a été bloqué dans cet environnement, limitant la vérification directe du site archivé."
+}
