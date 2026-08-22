@@ -1,0 +1,60 @@
+{
+ "id": "s7-read",
+ "name": "Read",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Simon Guigue",
+   "linkedin": "https://fr.linkedin.com/pub/simon-guigue/82/6b5/a97/fr"
+  },
+  {
+   "name": "Thomas Guigue",
+   "linkedin": "https://fr.linkedin.com/pub/thomas-guigue/a7/a28/395"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Read est une application mobile et tablette de lecture collective d'ebooks qui permet d'annoter un livre dans la marge droite, d'extraire et de partager facilement des contenus, et de se connecter aux réseaux sociaux ou aux plateformes cloud.",
+ "statusDetails": "Le nom de domaine read.cx ne répond plus (résolution DNS impossible), aucune actualité ou activité n'a été retrouvée pour Read après 2015, et ni la page LinkedIn de l'entreprise ni le compte Twitter/X @readcx n'ont pu être consultés pour confirmer une activité récente ; aucune trace d'acquisition ou de rachat n'a été trouvée. Ce faisceau d'indices (au-delà du simple site hors ligne) confirme l'arrêt de l'activité tel qu'indiqué dans la fiche.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/116389/read",
+   "titre": "Fiche startup Read - myfrenchstartup.com",
+   "annee": "non daté (postérieur à 2015)",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/12/23/addr-application/",
+   "titre": "Addr, l'application qui redonne du sens à la lecture sur tablette",
+   "annee": "2014",
+   "soutient": []
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/9469550/",
+ "openQuestions": [
+  "Impossible d'accéder à web.archive.org dans cet environnement (l'outil WebFetch a systématiquement échoué sur ce domaine, à la fois pour l'API CDX et pour des snapshots directs de read.cx) : la vérification obligatoire via Internet Archive n'a pas pu être réalisée malgré plusieurs tentatives avec des formats d'URL différents.",
+  "Un article Maddyness du 23/12/2014 décrit une application 'Addr' créée par 'deux frères', aux fonctionnalités quasi identiques à Read (annotation en marge droite, lecture collective, partage, vue globale du livre) : un lien avec Read/les frères Guigue (pivot ou nom antérieur) est plausible mais n'a pas pu être confirmé par une source citant explicitement les deux noms ensemble.",
+  "La date exacte de cessation d'activité de Read n'a pas pu être établie ; aucun communiqué de fermeture officiel n'a été retrouvé.",
+  "Les profils LinkedIn des fondateurs (format historique fr.linkedin.com/pub/...) n'ont pas pu être consultés directement (LinkedIn bloque l'accès automatisé, erreurs HTTP 999) ; leur lien avec Read repose sur les liens sortants de la fiche myfrenchstartup.com, elle-même non datée précisément.",
+  "La page LinkedIn de l'entreprise (linkedin.com/company/9469550/) n'a pas pu être consultée (mur de connexion LinkedIn) pour confirmer le statut actuel affiché par l'entreprise elle-même."
+ ],
+ "summary": "Read (saison 7, Numa Sprint, mai 2015) est confirmée comme application mobile/tablette de lecture collective d'ebooks (annotation, partage, connexion cloud/réseaux sociaux), fondée par les frères Simon et Thomas Guigue - conforme à la fiche actuelle. Le site read.cx est aujourd'hui totalement hors ligne (DNS introuvable) et aucune activité, presse ou profil LinkedIn/Twitter accessible n'a été retrouvé après 2015, ce qui corrobore le statut 'stopped' déjà renseigné. Aucune correction n'a été nécessaire ; l'accès à web.archive.org était bloqué dans cet environnement, ce qui limite la vérification archivistique indépendante. Un lien possible avec une application antérieure nommée 'Addr' (fin 2014, par 'deux frères') reste une piste non confirmée."
+}

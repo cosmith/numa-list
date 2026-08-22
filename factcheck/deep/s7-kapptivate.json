@@ -1,0 +1,41 @@
+{
+ "id": "s7-kapptivate",
+ "name": "Kapptivate",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Julien Sabatier" },
+  { "name": "Alexandre Grais" }
+ ],
+ "status": "active",
+ "activityDescription": "Kapptivate est une plateforme de test automatisé et de supervision (monitoring) qui permet aux opérateurs télécoms, banques et autres entreprises de détecter les problèmes numériques sur le web, le mobile, les API et les réseaux avant que leurs utilisateurs ne les rencontrent.",
+ "statusDetails": "Société active (SAS, SIREN 803 963 214, créée le 7 août 2014), site web opérationnel en 2026, page LinkedIn active avec environ 25 collaborateurs affichés ; se présente comme traitant plus de 500 millions de tests par jour pour des clients dans 25 pays (Orange, MTN, Vodafone notamment).",
+ "website": "https://www.kapptivate.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/kapptivate",
+ "openQuestions": [
+  "web.archive.org a été inaccessible depuis cet environnement (outil WebFetch bloqué sur ce domaine) : impossible de consulter les captures Wayback Machine du site kapptivate.com sur la période 2015, ni les pages d'archive de lecamping.org/numa.co listant la promotion 7.",
+  "Aucun profil LinkedIn personnel (linkedin.com/in/...) n'a pu être localisé pour Julien Sabatier ou Alexandre Grais : LinkedIn bloque le fetch direct, et les moteurs de recherche accessibles (Bing, Google, DuckDuckGo via WebFetch ; le budget WebSearch de la session était épuisé) n'ont renvoyé aucun résultat pertinent. La correspondance avec pappers.fr (mêmes deux dirigeants depuis la création de la société le 9 août 2014) reste une preuve indirecte solide.",
+  "L'article Journal du Net évoque un programme baptisé « Numa Sprint » (première cohorte de 25 lauréats, lancée en mai 2015) sans utiliser explicitement le numéro « saison 7» ; la correspondance avec la numérotation interne du dataset n'a pas pu être recoupée avec une autre source primaire NUMA."
+ ],
+ "summary": "Kapptivate (SAS créée le 7 août 2014, SIREN 803 963 214) est une plateforme de test automatisé et de supervision pour opérateurs télécoms, banques et fintechs, positionnée dès 2015 sur les marchés asiatiques et africains selon Journal du Net, qui confirme son appartenance à la cohorte NUMA (« Numa Sprint », 25 lauréats, 2015). Les deux fondateurs du dossier, Julien Sabatier (président) et Alexandre Grais (directeur général), sont confirmés dirigeants de la société depuis sa création par pappers.fr, données recoupées avec la page LinkedIn de l'entreprise. Le site kapptivate.com est toujours en ligne et actif en 2026, avec un positionnement produit (tests automatisés + monitoring) cohérent avec le statusDetails du dossier. Aucune correction n'a été nécessaire : nom, fondateurs, statut, site web et description d'activité sont tous corroborés par des sources indépendantes (Journal du Net, pappers.fr, LinkedIn, site officiel). Seules limites : accès à web.archive.org impossible depuis cet environnement, et aucun profil LinkedIn personnel des fondateurs localisé malgré plusieurs tentatives via différents moteurs de recherche."
+}

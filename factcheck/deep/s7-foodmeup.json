@@ -1,0 +1,82 @@
+{
+  "id": "s7-foodmeup",
+  "name": "FoodMeUp",
+  "season": 7,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "corrected",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "corrected",
+    "website": "corrected"
+  },
+  "corrections": {
+    "formerNamesOrPivots": {
+      "avant": [],
+      "apres": ["Melba"],
+      "preuves": [
+        "https://fr.linkedin.com/company/melba-app",
+        "https://melba.io/",
+        "https://www.foodmeup.io"
+      ]
+    },
+    "statusDetails": {
+      "avant": "Logiciel de gestion de recettes/production encore exploité.",
+      "apres": "Le logiciel est toujours exploité, désormais sous le nom Melba (« Melba by FoodMeUp »/« Melba, ex. FoodMeUp »). La société FOODMEUP (SAS, SIREN 802 748 772) fait l'objet d'un plan de sauvegarde (procédure collective de restructuration sur 10 ans) ouvert le 17 décembre 2024 ; le fondateur Sébastien Vassaux, président depuis la création en juin 2014, a été remplacé à la présidence par la société SAFIREO en mai 2024.",
+      "preuves": [
+        "https://www.societe.com/societe/foodmeup-802748772.html",
+        "https://www.pappers.fr/entreprise/foodmeup-802748772",
+        "https://fr.linkedin.com/company/melba-app"
+      ]
+    },
+    "website": {
+      "avant": "https://www.foodmeup.io",
+      "apres": "https://melba.io/",
+      "preuves": [
+        "https://www.foodmeup.io",
+        "https://melba.io/"
+      ]
+    },
+    "activityDescription": {
+      "avant": null,
+      "apres": "FoodMeUp (devenu Melba) est un logiciel (ERP) destiné aux professionnels de la restauration pour gérer leurs recettes, leurs stocks et achats fournisseurs, la conformité hygiène/traçabilité et le calcul de leurs marges.",
+      "preuves": [
+        "https://melba.io/",
+        "https://fr.linkedin.com/company/melba-app",
+        "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Sébastien Vassaux" }
+  ],
+  "status": "active",
+  "activityDescription": "FoodMeUp (devenu Melba) est un logiciel (ERP) destiné aux professionnels de la restauration pour gérer leurs recettes, leurs stocks et achats fournisseurs, la conformité hygiène/traçabilité et le calcul de leurs marges.",
+  "statusDetails": "Le logiciel est toujours exploité, désormais sous le nom Melba (« Melba by FoodMeUp »/« Melba, ex. FoodMeUp »). La société FOODMEUP (SAS, SIREN 802 748 772) fait l'objet d'un plan de sauvegarde (procédure collective de restructuration sur 10 ans) ouvert le 17 décembre 2024 ; le fondateur Sébastien Vassaux, président depuis la création en juin 2014, a été remplacé à la présidence par la société SAFIREO en mai 2024.",
+  "website": "https://melba.io/",
+  "archiveEvidence": [
+    {
+      "url": "https://archive.org/wayback/available?url=foodmeup.io&timestamp=20150601",
+      "montre": "L'API de disponibilité de la Wayback Machine confirme une capture datée du 7 février 2017 (statut HTTP 200) pour foodmeup.io, prouvant que le site historique a bien existé et fonctionné après le passage à NUMA. La consultation directe des pages archivées sur web.archive.org a échoué : l'outil WebFetch de cette session est bloqué sur ce domaine (erreur systématique « unable to fetch from web.archive.org »), quel que soit le format d'URL essayé (http/https, avec/sans slash final). L'identité et l'activité de l'entreprise ont donc été corroborées par d'autres sources primaires (registre pappers/societe.com, page LinkedIn officielle, article Journal du Net de l'époque) plutôt que par une capture archivée consultée directement."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+      "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+      "annee": "2015",
+      "soutient": ["cohort", "identity"]
+    }
+  ],
+  "linkedinCompany": "https://fr.linkedin.com/company/melba-app",
+  "openQuestions": [
+    "Impossible de confirmer l'existence d'un ou plusieurs co-fondateurs supplémentaires au-delà de Sébastien Vassaux (seul dirigeant/fondateur trouvé dans les registres officiels et sur LinkedIn) ; foundersPubliclyIdentified=true semble correct mais reste basé sur une seule source solide (pappers/societe.com).",
+    "Profil LinkedIn personnel de Sébastien Vassaux non localisé : tous les moteurs de recherche accessibles via WebFetch (Google, Bing, DuckDuckGo, Ecosia, Marginalia) ont renvoyé des pages de CAPTCHA ou des résultats sans rapport, et l'outil WebSearch avait déjà épuisé son quota de session ; les tentatives d'URL directes (linkedin.com/in/sebastienvassaux, /sebastien-vassaux) ont été bloquées (HTTP 999, anti-scraping LinkedIn). Seule la page entreprise LinkedIn (linkedin.com/company/melba-app, ex-FoodMeUp) a pu être consultée.",
+    "Date exacte du changement de nom FoodMeUp -> Melba non établie précisément (probablement entre 2020 et 2024, à confirmer si une source datée est trouvée) ; seule la coexistence actuelle « Melba by FoodMeUp » / « Melba (ex. FoodMeUp) » est confirmée.",
+    "Portée exacte et issue probable du plan de sauvegarde ouvert le 17/12/2024 à suivre : le statut retenu ici reste 'active' car le site et le produit sont opérationnels et la société n'est pas liquidée, mais la situation financière mérite un nouveau contrôle dans les mois à venir."
+  ],
+  "summary": "FoodMeUp, lauréat du programme NUMA Sprint (saison 7, 2015), correspond à une plateforme/logiciel pour professionnels de la restauration (recettes, stocks, marges). Fondée par Sébastien Vassaux (SAS FOODMEUP, SIREN 802748772, créée en juin 2014), l'entreprise est toujours en activité en 2026 mais opère désormais sous la marque Melba (« Melba by FoodMeUp », page LinkedIn « Melba (ex. FoodMeUp) », domaine foodmeup.io redirigeant vers melba.io). Corrections apportées : ajout de « Melba » comme pivot/nouveau nom, mise à jour du site web vers melba.io, ajout d'une description d'activité, et enrichissement du statusDetails pour mentionner le plan de sauvegarde ouvert en décembre 2024 et le remplacement de Vassaux à la présidence par SAFIREO en mai 2024. Statut retenu : active. Aucun profil LinkedIn personnel du fondateur n'a pu être localisé malgré des tentatives multiples (moteurs de recherche bloqués/captcha, quota WebSearch épuisé, LinkedIn anti-scraping)."
+}

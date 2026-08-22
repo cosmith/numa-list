@@ -1,0 +1,65 @@
+{
+ "id": "s6-sharepay",
+ "name": "SharePay",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "David Finel" },
+  { "name": "Jonas Braoudé" }
+ ],
+ "status": "exit",
+ "activityDescription": "SharePay est une application qui permet à plusieurs personnes (couple, amis, famille) de mettre de l'argent en commun sur une carte bancaire virtuelle unique, afin de centraliser les virements et de payer des dépenses partagées sur n'importe quel site e-commerce sans avance de fonds individuelle.",
+ "statusDetails": "SharePay, fondée en avril 2014 par David Finel et Jonas Braoudé, a été rachetée par la fintech Linxo le 10 avril 2018 (modalités financières non divulguées) pour renforcer l'offre de paiement de Linxo ; le site sharepay.fr n'est plus en ligne (erreur 503 constatée en 2026) et la marque SharePay n'apparaît plus dans l'offre actuelle de Linxo, qui commercialise désormais Oxlin et Linxo Lab, ce qui confirme l'arrêt du service autonome après intégration.",
+ "acquirer": "Linxo",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=sharepay.fr&timestamp=20141001",
+   "montre": "API de disponibilité Wayback : capture de sharepay.fr en HTTP 200 dès le 10 avril 2014 (http://web.archive.org/web/20140410144205/http://www.sharepay.fr:80/), soit la date de fondation annoncée par la presse."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=sharepay.fr&timestamp=2015",
+   "montre": "Nouvelle capture HTTP 200 le 19 janvier 2016 (http://web.archive.org/web/20160119204411/https://www.sharepay.fr/), confirmant que le site était toujours en ligne fin 2015/début 2016."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=sharepayers.com&timestamp=2014",
+   "montre": "Capture du 5 novembre 2014 (http://web.archive.org/web/20141105004134/http://sharepayers.com:80/) : au moment de l'article Maddyness de septembre 2014, la startup communiquait aussi sous le nom de domaine www.sharepayers.com, avant de se stabiliser sur sharepay.fr."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping, saison 6 : la présentation des startups sélectionnées",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/linxo-soffre-sharepay-pour-accelerer-dans-le-paiement/321870",
+   "titre": "Linxo s'offre SharePay pour accélérer dans le paiement",
+   "annee": "2018",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://www.linxo.com",
+   "titre": "Site actuel de Linxo",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "openQuestions": [
+  "Impossible d'obtenir les URL LinkedIn personnelles de David Finel et Jonas Braoudé : le budget WebSearch de la session était épuisé et les moteurs alternatifs interrogés via WebFetch (Google, Bing, DuckDuckGo, Mojeek, Startpage, Marginalia) ont tous renvoyé des pages de CAPTCHA/anti-bot ou des résultats non pertinents ; LinkedIn bloque également le fetch direct des profils (HTTP 999). Aucune page LinkedIn (personnelle ou entreprise) n'a donc pu être confirmée.",
+  "web.archive.org est inaccessible en fetch direct dans cet environnement (l'outil WebFetch renvoie explicitement une erreur pour cet hôte) ; seule l'API de disponibilité (archive.org/wayback/available) a pu être interrogée, ce qui donne la métadonnée des captures mais pas leur contenu HTML complet (page d'équipe, etc.).",
+  "La bascule du nom de domaine de sharepayers.com (constaté en septembre/novembre 2014) vers sharepay.fr n'est pas expliquée dans la presse trouvée ; il pourrait s'agir d'un simple changement de domaine sans changement de marque, mais cela n'a pas pu être confirmé par une page d'archive lisible."
+ ],
+ "summary": "Tous les champs du dossier SharePay (saison 6, nom, fondateurs David Finel et Jonas Braoudé, statut « exit », rachat par Linxo en avril 2018) sont confirmés par deux sources de presse indépendantes (Maddyness 2014 pour la cohorte, FrenchWeb 2018 pour le rachat) et corroborés par l'historique Wayback du domaine sharepay.fr (en ligne d'avril 2014 à au moins janvier 2016) ainsi que par l'absence de toute mention de SharePay sur le site actuel de Linxo et l'indisponibilité du site sharepay.fr en 2026. Aucune correction n'est nécessaire. Point non résolu : aucune URL LinkedIn n'a pu être trouvée pour les deux fondateurs, faute de budget de recherche web disponible dans cette session et en raison du blocage des moteurs de recherche alternatifs testés."
+}

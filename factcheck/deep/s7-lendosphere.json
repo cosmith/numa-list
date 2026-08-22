@@ -1,0 +1,71 @@
+{
+  "id": "s7-lendosphere",
+  "name": "Lendosphere",
+  "season": 7,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {},
+  "founders": [
+    { "name": "Laure Verhaeghe" },
+    { "name": "Amaury Blais" }
+  ],
+  "status": "active",
+  "activityDescription": "Lendosphere est une plateforme de financement participatif (crowdfunding) spécialisée dans la transition énergétique, qui permet à des particuliers et entreprises de prêter de l'argent ou d'investir directement dans des projets d'énergies renouvelables et de développement durable rigoureusement sélectionnés.",
+  "statusDetails": "Plateforme active et en croissance : approuvée par l'AMF comme prestataire de services de financement participatif, elle revendique plusieurs centaines de projets financés et plusieurs centaines de millions d'euros investis, et a elle-même absorbé d'autres acteurs du secteur (reprise de l'activité de crowdfunding du groupe Akuo en 2023-2024, rapprochement avec Lendopolis fin 2024, le tout logé dans la holding Lendocompany).",
+  "website": "https://www.lendosphere.com",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+      "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+      "annee": "2015",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.lendosphere.com/infos/qui-sommes-nous?locale=fr",
+      "titre": "Qui sommes-nous - Lendosphere",
+      "annee": "2026",
+      "soutient": ["founders", "identity", "status"]
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Lendosphere",
+      "titre": "Lendosphere (Wikipédia)",
+      "annee": "2026",
+      "soutient": ["founders", "identity"]
+    },
+    {
+      "url": "https://www.linkedin.com/company/lendosphere/",
+      "titre": "Lendosphere - page entreprise LinkedIn",
+      "annee": "2026",
+      "soutient": ["status", "founders"]
+    },
+    {
+      "url": "https://www.lendosphere.com",
+      "titre": "Site officiel Lendosphere (en ligne, campagnes actives)",
+      "annee": "2026",
+      "soutient": ["status", "identity"]
+    },
+    {
+      "url": "https://www.lendosphere.com/lendopolis",
+      "titre": "Page Lendosphere sur le rapprochement avec Akuo/AkuoCoop",
+      "annee": "2026",
+      "soutient": ["status"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/lendosphere/",
+  "openQuestions": [
+    "Internet Archive (web.archive.org) était totalement inaccessible depuis cet environnement (connexion réinitiée par le proxy réseau) : impossible de vérifier une capture d'écran archivée de 2015 ou une page de cohorte lecamping.org/numa.co listant la saison 7. Le rattachement à la saison 7 repose donc sur l'article Journal du Net (2015, '25 lauréats') dont le nombre de startups (25) correspond exactement au nombre de startups listées sous s7 dans data.json.",
+    "Le budget de recherche web (WebSearch) était déjà épuisé pour cette session au moment de cette vérification ; les moteurs de recherche alternatifs (Bing, Google, DuckDuckGo) ont renvoyé des pages de CAPTCHA ou des résultats non pertinents via WebFetch, empêchant de retrouver les profils LinkedIn personnels de Laure Verhaeghe et Amaury Blais (seule la page entreprise LinkedIn a pu être consultée avec succès).",
+    "Aucune preuve indépendante (presse) de la date exacte ou des conditions financières du rapprochement Lendosphere/Lendopolis/AkuoCoop n'a été trouvée au-delà des pages du site officiel ; les dates données (2023-2024) proviennent d'une synthèse automatique du contenu du site et mériteraient une source de presse dédiée pour confirmation précise."
+  ],
+  "summary": "Lendosphere (saison 7, ~2015) est une plateforme de crowdfunding dédiée à la transition énergétique, cofondée par Laure Verhaeghe (présidente) et Amaury Blais (directeur général) en octobre 2014 - cohérent avec les 25 lauréats du programme NUMA cités par Journal du Net en 2015. La société est toujours active en 2026, son site officiel fonctionne et affiche des campagnes en cours, elle est agréée par l'AMF, et elle a elle-même absorbé d'autres acteurs du secteur (Akuo/AkuoCoop, Lendopolis) sous la holding Lendocompany plutôt que d'être rachetée. Aucun champ du dossier existant n'a nécessité de correction ; l'accès à Internet Archive et aux moteurs de recherche a cependant été limité dans cet environnement, ce qui limite la vérification croisée indépendante (voir openQuestions)."
+}

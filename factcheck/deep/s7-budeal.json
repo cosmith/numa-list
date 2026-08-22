@@ -1,0 +1,46 @@
+{
+ "id": "s7-budeal",
+ "name": "Budeal",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "unverifiable",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "unverifiable",
+  "statusDetails": "unverifiable",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Stéphane Perrin" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Budeal est une application mobile de petites annonces entre particuliers qui s'appuie sur les réseaux sociaux (notamment Facebook) pour montrer en priorité les objets vendus par ses amis, leurs amis et ses voisins, afin de créer de la confiance entre acheteurs et vendeurs.",
+ "statusDetails": "Le nom de domaine budeal.com est aujourd'hui parqué et proposé à la vente par un revendeur de noms de domaine (HugeDomains), aucune page entreprise LinkedIn n'a été retrouvée, et aucun article de presse postérieur à 2015 ne mentionne Budeal ; ces éléments corroborent un arrêt de l'activité mais ne constituent pas une preuve formelle (aucune source officielle ni registre consulté ne confirme une liquidation ou une cession).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/bon-app-budeal-les-petits-annonces-entre-connaissances/162662",
+   "titre": "[Bon App'] Budeal, les petites annonces entre connaissances",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "L'article FrenchWeb (2014) cite Stéphane Perrin qui déclare 'Nous sommes actuellement deux associés' : le nom du second cofondateur n'a pas pu être identifié (aucune source ne le nomme, LinkedIn n'a pas pu être consulté pour ce nom manquant).",
+  "Impossible de consulter web.archive.org dans cet environnement (blocage réseau/proxy sur ce domaine) : les captures d'écran historiques du site budeal.com et des pages de cohorte lecamping.org/numa.co n'ont pas pu être vérifiées directement ; il faudrait relancer cette vérification depuis un environnement où archive.org est accessible.",
+  "Le programme dans lequel Budeal apparaît (article JDN, mai 2015) est nommé 'Numa Sprint' (25 lauréats sur 650 candidatures) plutôt que 'Le Camping' — cohérent avec le renommage Le Camping → NUMA (2013-2014), mais la correspondance exacte avec le numéro de saison interne 'saison 7' de cette base de données n'a pas pu être recoupée avec une source NUMA officielle listant les saisons par numéro.",
+  "Aucune fiche de registre du commerce (societe.com, pappers.fr) n'a pu être consultée (accès bloqué/403 pour les outils disponibles) pour confirmer une radiation ou liquidation formelle de la société Budeal.",
+  "Aucune page LinkedIn d'entreprise 'Budeal' n'a été trouvée (404), et les profils LinkedIn individuels ne sont pas accessibles en fetch direct (blocage anti-bot), donc aucun profil LinkedIn de fondateur n'a pu être confirmé pour ce rapport."
+ ],
+ "summary": "Les faits de base du dossier existant sont confirmés par deux sources de presse (FrenchWeb 2014 et Journal du Net 2015) : Budeal est bien une application mobile de petites annonces entre particuliers fondée par Stéphane Perrin (avec un second associé non identifié), lancée en juillet 2014 et sélectionnée en 2015 dans le programme d'accélération Numa Sprint. Le domaine budeal.com est aujourd'hui parqué/à vendre et aucune trace d'activité, de presse ou de page LinkedIn postérieure à 2015 n'a été retrouvée, ce qui appuie sans le prouver formellement le statut 'stopped' déjà enregistré. Aucune correction de fond n'a pu être apportée par manque d'accès à Internet Archive (bloqué par le proxy de cet environnement), à LinkedIn (blocage anti-bot) et aux registres d'entreprise (403), donc le verdict reste 'unverifiable' sur le statut précis et l'identité du second fondateur, malgré la confirmation solide du reste du dossier."
+}

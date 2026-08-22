@@ -1,0 +1,110 @@
+{
+ "id": "s7-citytaps",
+ "name": "CityTaps",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Solutions de prépaiement de l'eau toujours déployées.",
+   "apres": "CityTaps a déployé ses compteurs d'eau prépayés connectés en France, au Niger et au Kenya, avec une couverture presse continue jusqu'en 2021 (Les Echos, GSMA) et une page LinkedIn toujours active (« Utilities », Montrouge, 11-50 salariés). Le site officiel, encore accessible via Wayback Machine le 27 décembre 2025, renvoie une erreur 404 au 22 août 2026 ; aucune annonce de cessation, liquidation ou rachat n'a été trouvée à cette date, donc le statut actif est maintenu sous réserve de vérification ultérieure.",
+   "preuves": [
+    "https://www.maddyness.com/2017/01/18/citytaps-tech4good-gregoire-landel/",
+    "https://www.linkedin.com/company/citytaps/",
+    "http://archive.org/wayback/available?url=citytaps.org&timestamp=20260701",
+    "https://www.citytaps.org/"
+   ]
+  },
+  "website": {
+   "avant": "https://www.citytaps.org",
+   "apres": "https://www.citytaps.org",
+   "preuves": [
+    "http://archive.org/wayback/available?url=citytaps.org&timestamp=20260701",
+    "https://www.citytaps.org/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Grégoire Landel" }
+ ],
+ "status": "active",
+ "activityDescription": "CityTaps conçoit des compteurs d'eau prépayés et connectés (IoT) qui permettent aux ménages défavorisés des pays en développement de payer leur accès à l'eau courante par micro-paiements via mobile money.",
+ "statusDetails": "CityTaps a déployé ses compteurs d'eau prépayés connectés en France, au Niger et au Kenya, avec une couverture presse continue jusqu'en 2021 (Les Echos, GSMA) et une page LinkedIn toujours active (« Utilities », Montrouge, 11-50 salariés). Le site officiel, encore accessible via Wayback Machine le 27 décembre 2025, renvoie une erreur 404 au 22 août 2026 ; aucune annonce de cessation, liquidation ou rachat n'a été trouvée à cette date, donc le statut actif est maintenu sous réserve de vérification ultérieure.",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=citytaps.org&timestamp=20150601",
+   "montre": "Capture disponible le 9 juillet 2015 (statut 200), confirmant que le site était en ligne pendant la saison NUMA Sprint 2015."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=citytaps.org&timestamp=20170101",
+   "montre": "Capture disponible le 23 novembre 2016 (statut 200)."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=citytaps.org&timestamp=20200101",
+   "montre": "Capture disponible le 11 décembre 2019 (statut 200)."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=citytaps.org&timestamp=20230601",
+   "montre": "Capture disponible le 31 mai 2023 (statut 200)."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=citytaps.org&timestamp=20260701",
+   "montre": "Dernière capture connue le 27 décembre 2025 (statut 200) ; aucune capture plus récente au moment du contrôle (site vivant en direct testé le 22 août 2026 renvoie 404)."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/01/18/citytaps-tech4good-gregoire-landel/",
+   "titre": "#Tech4Good : Pour distribuer l'eau dans le monde entier, CityTaps mise sur l'IoT et une équipe de choc",
+   "annee": "2017",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/12/11/enbref-ouiville-citytaps-lengow/",
+   "titre": "Tout ce qu'Emmanuel Macron devrait savoir aujourd'hui sur Lengow, Ouiville et CityTaps",
+   "annee": "2015",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/05/09/accompagnement-5-startups-decouverte-des-ecosystemes-innovants-afrique/",
+   "titre": "5 startups à la découverte des écosystèmes innovants d'Afrique du sud et de Côte d'Ivoire",
+   "annee": "2017",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://www.lesechos.fr (article : CityTaps veut répondre au défi de l'eau courante pour tous)",
+   "titre": "CityTaps veut répondre au défi de l'eau courante pour tous",
+   "annee": "2021",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.gsma.com (CityTaps: Delivering safe water to the urban poor through prepaid smart metering and mobile money)",
+   "titre": "CityTaps: Delivering safe water to the urban poor through prepaid smart metering and mobile money",
+   "annee": "2020",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/citytaps/",
+ "openQuestions": [
+  "Le site officiel citytaps.org, capturé en ligne (statut 200) par la Wayback Machine le 27 décembre 2025, renvoie désormais une erreur 404 sur plusieurs chemins testés le 22 août 2026 ; il faudrait revérifier dans quelques mois pour distinguer une panne temporaire d'un arrêt réel, aucune presse ni registre n'ayant confirmé de cessation d'activité à ce jour.",
+  "Impossible de confirmer une URL LinkedIn personnelle pour Grégoire Landel (LinkedIn bloque l'accès direct et les moteurs de recherche généralistes n'ont pas renvoyé de résultat exploitable) ; aucun autre cofondateur n'a été trouvé dans la presse (2015-2021), ce qui corrobore le dossier existant listant Grégoire Landel comme fondateur unique identifié publiquement.",
+  "Le programme qui a accueilli CityTaps en 2015 est désigné par Journal du Net comme la première promotion de « NUMA Sprint », programme de 6 mois ayant remplacé Le Camping et Rise ; la correspondance avec le numéro de saison 7 du jeu de données repose sur la convention de numérotation déjà établie lors du contrôle précédent (batch-02), non re-vérifiée ici.",
+  "Accès direct à web.archive.org/web/... impossible depuis cet environnement (uniquement l'API archive.org/wayback/available a fonctionné) ; le contenu détaillé des pages archivées (équipe, description produit exacte au moment de la saison) n'a donc pas pu être relu mot à mot, seule leur existence/statut a pu être confirmée."
+ ],
+ "summary": "Fiche globalement fiable : saison 7 (promotion NUMA Sprint 2015), nom CityTaps, fondateur unique publiquement identifié Grégoire Landel, activité confirmée par plusieurs sources de presse indépendantes (Maddyness, Les Echos, GSMA) entre 2015 et 2021 (compteurs d'eau prépayés connectés, déploiements France/Niger/Kenya). Aucune preuve d'arrêt, de liquidation ou de rachat. Point d'attention : le site officiel, encore en ligne fin décembre 2025 selon la Wayback Machine, est actuellement inaccessible (404) au 22 août 2026 sans confirmation presse d'un arrêt — statut actif maintenu par prudence méthodologique mais à revérifier."
+}

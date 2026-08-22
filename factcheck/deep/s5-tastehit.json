@@ -1,0 +1,61 @@
+{
+ "id": "s5-tastehit",
+ "name": "TasteHit",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "conflicting",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "conflicting",
+  "statusDetails": "conflicting",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Alexei Kounine" },
+  { "name": "Harold Christopher Burger" }
+ ],
+ "status": "exit",
+ "activityDescription": "TasteHit est un service qui analyse en temps réel le comportement des visiteurs de sites e-commerce pour leur proposer des recommandations de produits personnalisées selon leurs goûts.",
+ "statusDetails": "La seule source trouvant une acquisition par Selligent Marketing Cloud est la fiche communautaire Wellfound utilisée par l'audit précédent (page inaccessible lors de cette vérification, retour HTTP 403 systématique) ; aucune presse (TechCrunch, Rude Baguette, Maddyness, FinSMEs, EU-Startups), aucun communiqué de Selligent/Zeta Global, ni Wikipédia ne mentionnent ce rachat. À l'inverse, la page LinkedIn officielle de l'entreprise (toujours active) la décrit comme « privately held », fondée en 2014, avec 2 à 10 salariés et des bureaux à Paris et Lausanne, sans aucune mention de rachat ; CBInsights indique un statut « Alive » sans acquisition enregistrée ; Owler ne mentionne pas non plus d'acquisition. Le site tastehit.com a en revanche cessé d'être exploité par l'entreprise : le domaine affiche aujourd'hui (2026) un site de paris/loterie en ligne sans rapport, signe d'un abandon du nom de domaine plutôt qu'une preuve directe du rachat allégué.",
+ "acquirer": "Selligent Marketing Cloud",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20140528174053/https://tastehit.com/",
+   "montre": "Capture Wayback Machine du 28 mai 2014 confirmant que tastehit.com était en ligne pendant la saison 5 (source: API archive.org/wayback/available). Le contenu détaillé de la capture n'a pas pu être rendu car l'outil de récupération web de cette session refuse systématiquement les requêtes vers le domaine web.archive.org (erreur 'unable to fetch from web.archive.org')."
+  },
+  {
+   "url": "http://web.archive.org/web/20181129222151/https://www.tastehit.com/",
+   "montre": "Dernière capture connue avant un long vide dans l'historique Wayback (aucune capture rapprochée entre fin 2018 et fin 2024 selon l'API archive.org/wayback/available), cohérent avec un arrêt de la maintenance du site après cette date."
+  },
+  {
+   "url": "https://tastehit.com/",
+   "montre": "Vérification directe (22 août 2026) : le domaine tastehit.com affiche désormais un site de paris/loterie en ligne sans rapport avec l'entreprise d'origine — le site officiel de TasteHit n'existe plus."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/",
+   "titre": "Le Camping 5th Demo Day: Meet StreamRoot, Hublo, Krack And More",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+   "titre": "12 start-up sélectionnées saison 5 - Le Camping",
+   "annee": "2013",
+   "soutient": ["cohort", "founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/tastehit",
+ "openQuestions": [
+  "Impossible de confirmer indépendamment l'acquisition par Selligent Marketing Cloud : Wellfound (seule source citée) est resté inaccessible (403) durant cette vérification ; Crunchbase, Wellfound, Craft.co et Tracxn ont tous renvoyé des erreurs 403 lors des tentatives de vérification croisée.",
+  "Impossible d'obtenir les URLs LinkedIn personnelles des deux fondateurs : les pages /in/ de LinkedIn renvoient une page de connexion ou une erreur pour cette session (les comptes GitHub github.com/kounine et github.com/hcburger existent mais sont vides et ne peuvent être formellement rattachés aux fondateurs).",
+  "Impossible d'afficher le contenu détaillé des captures Wayback Machine (page d'équipe, mention éventuelle d'un rachat) : l'outil WebFetch de cette session bloque systématiquement le domaine web.archive.org ; seule l'API archive.org/wayback/available (résumé JSON) a pu être utilisée.",
+  "La date précise de cessation d'activité du site tastehit.com (entre fin 2018 et fin 2024) n'a pas pu être établie faute d'accès aux captures elles-mêmes."
+ ],
+ "summary": "Saison 5, nom et fondateurs (Alexei Kounine, Harold Christopher Burger / « Christopher Burger ») confirmés par la presse contemporaine (TechCrunch, Wydden) ; l'activité (recommandation produit personnalisée par ML pour l'e-commerce) est bien décrite. En revanche, le statut « exit / racheté par Selligent Marketing Cloud » repose uniquement sur une fiche communautaire (Wellfound) non re-vérifiable ici, alors que la page LinkedIn officielle de l'entreprise, CBInsights et Owler ne mentionnent aucun rachat et présentent plutôt une société restée indépendante mais dormante ; seul le site web tastehit.com a clairement disparu (domaine aujourd'hui squatté). Verdict retenu : conflicting sur le statut/l'acquéreur, le reste étant vérifié."
+}
