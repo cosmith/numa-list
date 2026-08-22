@@ -1,3 +1,6 @@
+const STATUS_LABELS = { active: "En activité", exit: "Exit", stopped: "Stoppé" };
+const CONFIDENCE_LABELS = { high: "élevée", medium: "moyenne", low: "faible" };
+
 const state = {
   startups: [],
   query: "",
@@ -41,18 +44,19 @@ const metaGroup = (label, value, className = "") => {
 
 const makeFoundersHtml = (startup) => {
   if (!startup.founders?.length) return escapeHtml("Non identifiés");
-  const profiles = new Map((startup.founderProfiles || []).map(({ name, linkedin }) => [name, linkedin]));
   return startup.founders
-    .map((name) => (profiles.get(name) ? sourceLink(profiles.get(name), name) : escapeHtml(name)))
+    .map(({ name, linkedin }) => (linkedin ? sourceLink(linkedin, name) : escapeHtml(name)))
     .join(", ");
 };
+
+const sourcesFor = (startup, claims) => (startup.sources || [])
+  .filter((source) => source.supports?.some((claim) => claims.includes(claim)));
 
 const makeDetails = (startup) => {
   const refs = [];
   // Références numérotées façon Wikipédia, dédupliquées par URL, 3 max.
-  // Une source est une URL ou un objet enrichi { url, title, … }.
   const refLink = (source) => {
-    const url = typeof source === "string" ? source : source?.url;
+    const url = source?.url;
     if (!url) return "";
     let index = refs.indexOf(url);
     if (index === -1) {
@@ -64,7 +68,8 @@ const makeDetails = (startup) => {
   };
 
   const description = startup.statusDetails || "Information non documentée.";
-  const lead = `<p class="detail-lead"><strong>${escapeHtml(startup.statusLabel)}.</strong> ${escapeHtml(description)}${refLink(startup.sources?.foundersOrStatus)}</p>`;
+  const leadRefs = sourcesFor(startup, ["status", "founders", "identity"]).map(refLink).join("");
+  const lead = `<p class="detail-lead"><strong>${escapeHtml(STATUS_LABELS[startup.status] || startup.status)}.</strong> ${escapeHtml(description)}${leadRefs}</p>`;
 
   const activity = startup.activityDescription && startup.activityDescription !== startup.statusDetails
     ? `<p class="detail-activity">${escapeHtml(startup.activityDescription)}</p>`
@@ -76,9 +81,11 @@ const makeDetails = (startup) => {
   const website = startup.website
     ? sourceLink(startup.website, startup.website.replace(/^https?:\/\//, "").replace(/\/$/, ""))
     : "";
-  const selection = `Saison ${String(startup.season).padStart(2, "0")}${refLink(startup.sources?.cohort)}`;
+  const selectionRefs = sourcesFor(startup, ["cohort"]).map(refLink).join("");
+  const selection = `Saison ${String(startup.season).padStart(2, "0")}${selectionRefs}`;
+  const confidenceLabel = CONFIDENCE_LABELS[startup.confidence];
   const verification = [
-    startup.confidenceLabel ? `Confiance ${escapeHtml(startup.confidenceLabel.toLocaleLowerCase("fr"))}` : "",
+    confidenceLabel ? `Confiance ${escapeHtml(confidenceLabel)}` : "",
     startup.statusAsOf ? `vérifié le ${escapeHtml(formatDate(startup.statusAsOf))}` : "",
   ].filter(Boolean).join(" · ");
 
@@ -95,7 +102,7 @@ const makeDetails = (startup) => {
 const matches = (startup) => {
   const queryHaystack = normalize([
     startup.name,
-    ...(startup.founders || []),
+    ...(startup.founders || []).map((founder) => founder.name),
     ...(startup.formerNamesOrPivots || []),
     startup.activityDescription,
     startup.statusDetails,
@@ -127,7 +134,7 @@ const render = () => {
     fragment.querySelector(".startup-name").textContent = startup.name;
     fragment.querySelector(".startup-season").textContent = `Saison ${String(startup.season).padStart(2, "0")}`;
     fragment.querySelector(".startup-founders").innerHTML = foundersHtml;
-    fragment.querySelector(".startup-status").textContent = startup.statusLabel;
+    fragment.querySelector(".startup-status").textContent = STATUS_LABELS[startup.status] || startup.status;
     fragment.querySelector(".startup-mobile-meta").innerHTML = `Saison ${String(startup.season).padStart(2, "0")} · ${foundersHtml}`;
     details.innerHTML = makeDetails(startup);
 
@@ -194,12 +201,10 @@ fetch("data.json")
   })
   .then((data) => {
     state.startups = data.startups;
-    const counts = {
-      all: data.summary.startupCount,
-      active: data.summary.statusCounts.active,
-      exit: data.summary.statusCounts.exit,
-      stopped: data.summary.statusCounts.stopped,
-    };
+    const counts = { all: state.startups.length, active: 0, exit: 0, stopped: 0 };
+    state.startups.forEach((startup) => {
+      if (counts[startup.status] !== undefined) counts[startup.status] += 1;
+    });
     document.querySelectorAll("[data-count]").forEach((element) => {
       element.textContent = counts[element.dataset.count];
     });

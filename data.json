@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "2.0.0",
   "dataset": {
     "title": "Startups passées par Le Camping / NUMA Paris",
     "scope": "Promotions 1 à 9, sélections 2011–2016",
@@ -19,202 +19,6 @@
       "factcheck/batch-03.json"
     ]
   },
-  "summary": {
-    "startupCount": 121,
-    "founderTeamsIdentified": 121,
-    "statusCounts": {
-      "active": 33,
-      "exit": 39,
-      "stopped": 49
-    },
-    "confidenceCounts": {
-      "high": 60,
-      "low": 4,
-      "medium": 57
-    },
-    "factCheckVerdictCounts": {
-      "corrected": 89,
-      "unverifiable": 1,
-      "verified": 31
-    }
-  },
-  "seasons": [
-    {
-      "number": 1,
-      "startupCount": 12,
-      "startupIds": [
-        "s1-bankin",
-        "s1-beansight",
-        "s1-dabla",
-        "s1-doctrackr",
-        "s1-itipic",
-        "s1-kawet",
-        "s1-mesagraph",
-        "s1-p1-security",
-        "s1-prepmyfuture",
-        "s1-skerou",
-        "s1-studyka",
-        "s1-zifiz"
-      ]
-    },
-    {
-      "number": 2,
-      "startupCount": 12,
-      "startupIds": [
-        "s2-herewedate",
-        "s2-infinit",
-        "s2-loungeup",
-        "s2-oleapark",
-        "s2-onefeat",
-        "s2-pictarine",
-        "s2-pili-pop",
-        "s2-qunb",
-        "s2-siz",
-        "s2-skimm",
-        "s2-tvshow-time",
-        "s2-wecook"
-      ]
-    },
-    {
-      "number": 3,
-      "startupCount": 12,
-      "startupIds": [
-        "s3-augment",
-        "s3-explee",
-        "s3-fleex",
-        "s3-home-n-go",
-        "s3-jellynote",
-        "s3-lima",
-        "s3-poutsch",
-        "s3-sketchfab",
-        "s3-stormz",
-        "s3-veezio",
-        "s3-webshell",
-        "s3-whale-street"
-      ]
-    },
-    {
-      "number": 4,
-      "startupCount": 12,
-      "startupIds": [
-        "s4-auticiel",
-        "s4-cours-avenue",
-        "s4-darjeelin",
-        "s4-decovery",
-        "s4-lingocracy",
-        "s4-melusyn",
-        "s4-pricing-assistant",
-        "s4-smiirl",
-        "s4-soap",
-        "s4-sportdub",
-        "s4-wepopp",
-        "s4-zero-gachis"
-      ]
-    },
-    {
-      "number": 5,
-      "startupCount": 12,
-      "startupIds": [
-        "s5-agriconomie",
-        "s5-artips",
-        "s5-bandsquare",
-        "s5-hublo",
-        "s5-krack",
-        "s5-localeyes",
-        "s5-qleek",
-        "s5-realytics",
-        "s5-streamroot",
-        "s5-takes",
-        "s5-tastehit",
-        "s5-tripndrive"
-      ]
-    },
-    {
-      "number": 6,
-      "startupCount": 12,
-      "startupIds": [
-        "s6-soundsgood",
-        "s6-uniquesound",
-        "s6-sharette",
-        "s6-drust",
-        "s6-sharepay",
-        "s6-pulpix",
-        "s6-smyle",
-        "s6-tiller-systems",
-        "s6-kokot",
-        "s6-nunki",
-        "s6-artchy",
-        "s6-jam"
-      ]
-    },
-    {
-      "number": 7,
-      "startupCount": 25,
-      "startupIds": [
-        "s7-read",
-        "s7-budeal",
-        "s7-citytaps",
-        "s7-cloudorbit",
-        "s7-coursierprive-com",
-        "s7-corilla",
-        "s7-filoute",
-        "s7-lendosphere",
-        "s7-foodmeup",
-        "s7-fretx",
-        "s7-gorgias",
-        "s7-kapptivate",
-        "s7-kwalito",
-        "s7-la-boite-qui-cartonne",
-        "s7-le-zeste",
-        "s7-les-petites-tables",
-        "s7-pandascore",
-        "s7-popmyday",
-        "s7-popup-immo",
-        "s7-sentimy",
-        "s7-show-roomer",
-        "s7-skippair",
-        "s7-tationem",
-        "s7-vocal-apps",
-        "s7-welcome-to-the-jungle"
-      ]
-    },
-    {
-      "number": 8,
-      "startupCount": 17,
-      "startupIds": [
-        "s8-bienvenue-wifi",
-        "s8-blueboard",
-        "s8-bretzel",
-        "s8-buffactory",
-        "s8-deploystation",
-        "s8-energysquare",
-        "s8-hopfab",
-        "s8-kantree",
-        "s8-koober",
-        "s8-meloflow",
-        "s8-montransport-com",
-        "s8-travauxlib",
-        "s8-truckfly",
-        "s8-willty",
-        "s8-workiz",
-        "s8-yellow",
-        "s8-zack"
-      ]
-    },
-    {
-      "number": 9,
-      "startupCount": 7,
-      "startupIds": [
-        "s9-advitam",
-        "s9-airkit",
-        "s9-bob-depannage",
-        "s9-destygo",
-        "s9-phantombuster",
-        "s9-shipup",
-        "s9-syos"
-      ]
-    }
-  ],
   "startups": [
     {
       "id": "s1-bankin",
@@ -224,23 +28,35 @@
         "Perspecteev"
       ],
       "founders": [
-        "Joan Burkovic",
-        "Robin Dauzon"
+        {
+          "name": "Joan Burkovic"
+        },
+        {
+          "name": "Robin Dauzon"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service actif sous la marque Bankin'.",
       "website": "https://bankin.com",
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://commerzventures.com/news/bankin-announces-raising-eur-84-million"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://commerzventures.com/news/bankin-announces-raising-eur-84-million",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -264,25 +80,41 @@
       "name": "Beansight",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Wolf",
-        "Steren Giannini",
-        "Cyril Dorsaz",
-        "Jean-Baptiste Claramonte"
+        {
+          "name": "Guillaume Wolf"
+        },
+        {
+          "name": "Steren Giannini",
+          "linkedin": "https://www.linkedin.com/in/steren"
+        },
+        {
+          "name": "Cyril Dorsaz"
+        },
+        {
+          "name": "Jean-Baptiste Claramonte"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Projet devenu open source en 2014; service historique aujourd’hui hors ligne.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.maddyness.com/2011/12/09/beansight/"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2011/12/09/beansight/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -298,13 +130,7 @@
         },
         "evidenceCount": 2,
         "auditFile": "factcheck/batch-01.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Steren Giannini",
-          "linkedin": "https://www.linkedin.com/in/steren"
-        }
-      ]
+      }
     },
     {
       "id": "s1-dabla",
@@ -312,22 +138,31 @@
       "name": "Dabla",
       "formerNamesOrPivots": [],
       "founders": [
-        "Pierre-Antoine Duchateau"
+        {
+          "name": "Pierre-Antoine Duchateau"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La société DABLA (SIREN 533 761 961), créée en 2011 et dirigée par Pierre-Antoine Duchateau, est toujours active; le service historique n’a pas été retrouvé.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/dabla-533761961"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/dabla-533761961",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -352,25 +187,40 @@
       "name": "docTrackr",
       "formerNamesOrPivots": [],
       "founders": [
-        "Clément Cazalot",
-        "Alex Negrea",
-        "Uli Mittermaier",
-        "Alexander Gentea"
+        {
+          "name": "Clément Cazalot"
+        },
+        {
+          "name": "Alex Negrea"
+        },
+        {
+          "name": "Uli Mittermaier"
+        },
+        {
+          "name": "Alexander Gentea"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Intralinks en 2014.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.intralinks.com/company/news-press-events/press-releases/intralinks-acquires-doctrackr"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.intralinks.com/company/news-press-events/press-releases/intralinks-acquires-doctrackr",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -394,23 +244,34 @@
       "name": "Itipic",
       "formerNamesOrPivots": [],
       "founders": [
-        "Fabienne Rousseau",
-        "Alain Beauvois"
+        {
+          "name": "Fabienne Rousseau"
+        },
+        {
+          "name": "Alain Beauvois"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.annuaire-startups.pro/startup/itipic/"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/startup/itipic/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -435,22 +296,32 @@
       "name": "Kawet",
       "formerNamesOrPivots": [],
       "founders": [
-        "Benjamin Hardy"
+        {
+          "name": "Benjamin Hardy"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Kawet a été rachetée en 2013 et poursuit son activité sous sa marque.",
       "website": "https://madebykawet.com",
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.rolandberger.com/publications/publication_pdf/roland_berger_tab_french_startups_2.pdf"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.rolandberger.com/publications/publication_pdf/roland_berger_tab_french_startups_2.pdf",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -475,22 +346,31 @@
       "name": "Mesagraph",
       "formerNamesOrPivots": [],
       "founders": [
-        "Sébastien Lefebvre"
+        {
+          "name": "Sébastien Lefebvre"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Twitter en 2014.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://techcrunch.com/2014/03/31/twitter-buys-frances-mesagraph-to-ramp-up-social-tv-work-in-euroupe/"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://techcrunch.com/2014/03/31/twitter-buys-frances-mesagraph-to-ramp-up-social-tv-work-in-euroupe/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -514,22 +394,32 @@
       "name": "P1 Security",
       "formerNamesOrPivots": [],
       "founders": [
-        "Philippe Langlois"
+        {
+          "name": "Philippe Langlois"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Entreprise de cybersécurité télécom active.",
       "website": "https://www.p1sec.com",
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.p1sec.com/about-us"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.p1sec.com/about-us",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -549,30 +439,41 @@
     },
     {
       "id": "s1-prepmyfuture",
-      "acquirer": null,
       "season": 1,
       "name": "PrepMyFuture",
       "formerNamesOrPivots": [
         "Everlearn"
       ],
       "founders": [
-        "Hadrien-Achille Pinson",
-        "Richard Fielding"
+        {
+          "name": "Hadrien-Achille Pinson"
+        },
+        {
+          "name": "Richard Fielding"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Activité toujours en ligne; le fondateur indique avoir vendu la société.",
       "website": "https://www.prepmyfuture.com",
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.societe.com/societe/everlearn-prepmyfuture-532611381.html"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.societe.com/societe/everlearn-prepmyfuture-532611381.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -598,22 +499,31 @@
         "PurchEase"
       ],
       "founders": [
-        "Grégory Thurin"
+        {
+          "name": "Grégory Thurin"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service de courses collaboratif non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.maddyness.com/2011/10/18/vision-dentrepreneurs-2-2/"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2011/10/18/vision-dentrepreneurs-2-2/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -640,24 +550,38 @@
         "Agorize"
       ],
       "founders": [
-        "Charles Thou",
-        "Yohann Melamed",
-        "Yohan Attal"
+        {
+          "name": "Charles Thou"
+        },
+        {
+          "name": "Yohann Melamed"
+        },
+        {
+          "name": "Yohan Attal"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Studyka est devenu Agorize; Bloomflow a acquis une participation majoritaire dans Agorize en 2024.",
       "website": "https://www.agorize.com",
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.bloomflow.com/news/bloomflow-acquires-majority-stake-in-agorize"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.bloomflow.com/news/bloomflow-acquires-majority-stake-in-agorize",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -681,23 +605,34 @@
       "name": "Zifiz",
       "formerNamesOrPivots": [],
       "founders": [
-        "Bora Kizil",
-        "Pierre-Antoine Antonini"
+        {
+          "name": "Bora Kizil"
+        },
+        {
+          "name": "Pierre-Antoine Antonini"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.businessinsider.com/le-camping-2011-4",
-        "foundersOrStatus": "https://www.paperblog.fr/4770661/regard-d-expert-4-bora-zifif/"
-      },
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/le-camping-2011-4",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.paperblog.fr/4770661/regard-d-expert-4-bora-zifif/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -721,22 +656,31 @@
       "name": "HereWeDate",
       "formerNamesOrPivots": [],
       "founders": [
-        "Julien Hugon"
+        {
+          "name": "Julien Hugon"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.maddyness.com/2012/01/16/herewedate/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2012/01/16/herewedate/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -761,23 +705,34 @@
       "name": "Infinit",
       "formerNamesOrPivots": [],
       "founders": [
-        "Julien Quintard",
-        "Baptiste Fradin"
+        {
+          "name": "Julien Quintard"
+        },
+        {
+          "name": "Baptiste Fradin"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Docker en 2016; produit grand public fermé en 2017.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.docker.com/blog/docker-acquires-infinit/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.docker.com/blog/docker-acquires-infinit/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -802,23 +757,35 @@
       "name": "LoungeUp",
       "formerNamesOrPivots": [],
       "founders": [
-        "Mathieu Pollet",
-        "Lionel Tressens"
+        {
+          "name": "Mathieu Pollet"
+        },
+        {
+          "name": "Lionel Tressens"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "LoungeUp a rejoint D-EDGE en 2024 et poursuit son activité sous sa marque.",
       "website": "https://www.loungeup.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.loungeup.com/blog/loungeup-rejoint-d-edge-et-consolide-sa-position-de-leader-europeen-des-crm-pour-lhotellerie"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.loungeup.com/blog/loungeup-rejoint-d-edge-et-consolide-sa-position-de-leader-europeen-des-crm-pour-lhotellerie",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -842,22 +809,31 @@
       "name": "Oleapark",
       "formerNamesOrPivots": [],
       "founders": [
-        "Florent Quinti"
+        {
+          "name": "Florent Quinti"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.frenchweb.fr/semaine-speciale-berlin-oleapark-une-start-up-francaise-en-allemagne/79324"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/semaine-speciale-berlin-oleapark-une-start-up-francaise-en-allemagne/79324",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -881,22 +857,31 @@
       "name": "Onefeat",
       "formerNamesOrPivots": [],
       "founders": [
-        "Arnaud Ferreri"
+        {
+          "name": "Arnaud Ferreri"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Jeu social arrêté.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.frenchweb.fr/start-up-le-camping-onefeat-le-social-game-des-defis/39775"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/start-up-le-camping-onefeat-le-social-game-des-defis/39775",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -920,23 +905,35 @@
       "name": "Pictarine",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Martin",
-        "Maxime Rafalimanana"
+        {
+          "name": "Guillaume Martin"
+        },
+        {
+          "name": "Maxime Rafalimanana"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Applications d'impression photo actives.",
       "website": "https://www.pictarine.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.maddyness.com/2022/12/01/pictarine-photo/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2022/12/01/pictarine-photo/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -964,24 +961,38 @@
         "Babble Planet"
       ],
       "founders": [
-        "Elsa Prieto",
-        "Soiny Duval",
-        "Eugène Ernoult"
+        {
+          "name": "Elsa Prieto"
+        },
+        {
+          "name": "Soiny Duval"
+        },
+        {
+          "name": "Eugène Ernoult"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Teeniz est devenu Babble Planet puis Pili Pop; Pili Pop Labs a été acquis par Unique Heritage Media en 2016 et le produit a continué.",
       "website": "https://www.pilipop.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/pili-pop-labs-751213182"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/pili-pop-labs-751213182",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1006,23 +1017,34 @@
       "name": "qunb",
       "formerNamesOrPivots": [],
       "founders": [
-        "Cyrille Vincey",
-        "Jean-Baptiste Théard"
+        {
+          "name": "Cyrille Vincey"
+        },
+        {
+          "name": "Jean-Baptiste Théard"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Ve Global en 2014.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://en.wikipedia.org/wiki/Qunb"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Qunb",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1048,23 +1070,34 @@
         "Viewrz"
       ],
       "founders": [
-        "Axel Hauguel",
-        "Guillaume Rivals"
+        {
+          "name": "Axel Hauguel"
+        },
+        {
+          "name": "Guillaume Rivals"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service mode non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://startupbeat.com/featured-startup-pitch-id3635/10132/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://startupbeat.com/featured-startup-pitch-id3635/10132/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1088,23 +1121,34 @@
       "name": "Skimm!",
       "formerNamesOrPivots": [],
       "founders": [
-        "Antoine Sakho",
-        "Valentin Lautier"
+        {
+          "name": "Antoine Sakho"
+        },
+        {
+          "name": "Valentin Lautier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service de paiement mobile non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.jaimelesstartups.fr/skimm-google-wallet-le-camping-paiement-android/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.jaimelesstartups.fr/skimm-google-wallet-le-camping-paiement-android/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1132,23 +1176,34 @@
         "TV Time"
       ],
       "founders": [
-        "Antonio Pinto",
-        "Talal Mazroui"
+        {
+          "name": "Antonio Pinto"
+        },
+        {
+          "name": "Talal Mazroui"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Whip Networks/Whip Media en 2016; TV Time arrêté en juillet 2026.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1173,24 +1228,37 @@
       "name": "WeCook",
       "formerNamesOrPivots": [],
       "founders": [
-        "Matthieu Vincent",
-        "Jérémie Prouteau",
-        "Alexandre Grimault"
+        {
+          "name": "Matthieu Vincent"
+        },
+        {
+          "name": "Jérémie Prouteau"
+        },
+        {
+          "name": "Alexandre Grimault"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La foodtech française a été vendue; ne pas confondre avec WeCook Meals au Canada.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
-        "foundersOrStatus": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-wecook/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-wecook/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1215,24 +1283,38 @@
       "name": "Augment",
       "formerNamesOrPivots": [],
       "founders": [
-        "Jean-François Chianetta",
-        "Cyril Champier",
-        "Mickaël Jordan"
+        {
+          "name": "Jean-François Chianetta"
+        },
+        {
+          "name": "Cyril Champier"
+        },
+        {
+          "name": "Mickaël Jordan"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Augment a été acquis par StayinFront en mai 2024.",
       "website": "https://www.augment.com",
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.cbinsights.com/company/augment"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.cbinsights.com/company/augment",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1256,23 +1338,34 @@
       "name": "Explee",
       "formerNamesOrPivots": [],
       "founders": [
-        "Morgan Giraud",
-        "Thomas Olivier"
+        {
+          "name": "Morgan Giraud"
+        },
+        {
+          "name": "Thomas Olivier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La société française EXPLEE a été dissoute puis liquidée en 2023; le domaine explee.com est désormais utilisé par une autre activité.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.frenchweb.fr/la-start-up-du-jour-explee-veut-dynamiser-les-supports-de-communication-par-la-video/176955"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/la-start-up-du-jour-explee-veut-dynamiser-les-supports-de-communication-par-la-video/176955",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1296,23 +1389,34 @@
       "name": "Fleex",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alexandre Point",
-        "Guillaume Dupuy"
+        {
+          "name": "Alexandre Point"
+        },
+        {
+          "name": "Guillaume Dupuy"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service d'apprentissage des langues par la vidéo non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.lexpress.fr/culture/fleex-les-series-plus-fortes-que-les-cours-pour-apprendre-l-anglais_1553919.html"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.lexpress.fr/culture/fleex-les-series-plus-fortes-que-les-cours-pour-apprendre-l-anglais_1553919.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1336,24 +1440,37 @@
       "name": "Home'n'go",
       "formerNamesOrPivots": [],
       "founders": [
-        "Margaux Pelen",
-        "Adrien Pavillet",
-        "Sébastien Zerah"
+        {
+          "name": "Margaux Pelen"
+        },
+        {
+          "name": "Adrien Pavillet"
+        },
+        {
+          "name": "Sébastien Zerah"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Moteur immobilier non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.clubic.com/actualite-568832-home.html"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.clubic.com/actualite-568832-home.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1377,24 +1494,37 @@
       "name": "Jellynote",
       "formerNamesOrPivots": [],
       "founders": [
-        "Arthur Lenoir",
-        "Adrien Cognée",
-        "Baptiste Poirier"
+        {
+          "name": "Arthur Lenoir"
+        },
+        {
+          "name": "Adrien Cognée"
+        },
+        {
+          "name": "Baptiste Poirier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme musicale arrêtée/non disponible.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-jellynote/"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-jellynote/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1420,23 +1550,34 @@
         "ForgetBox"
       ],
       "founders": [
-        "Séverin Marcombes",
-        "Gawen Arab"
+        {
+          "name": "Séverin Marcombes"
+        },
+        {
+          "name": "Gawen Arab"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Produit de stockage personnel arrêté.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1131250-le-boitier-lima-unifie-la-memoire-de-tous-vos-appareils/"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1131250-le-boitier-lima-unifie-la-memoire-de-tous-vos-appareils/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1460,24 +1601,37 @@
       "name": "Poutsch",
       "formerNamesOrPivots": [],
       "founders": [
-        "Félix Winckler",
-        "Étienne Adriaenssen",
-        "Melchior Schöller"
+        {
+          "name": "Félix Winckler"
+        },
+        {
+          "name": "Étienne Adriaenssen"
+        },
+        {
+          "name": "Melchior Schöller"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de sondage non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.frenchweb.fr/bon-app-lapplication-de-sondage-poutsch-est-morte-voici-voice/152104"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/bon-app-lapplication-de-sondage-poutsch-est-morte-voici-voice/152104",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1502,24 +1656,38 @@
       "name": "Sketchfab",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alban Denoyel",
-        "Cédric Pinson",
-        "Pierre-Antoine Passet"
+        {
+          "name": "Alban Denoyel"
+        },
+        {
+          "name": "Cédric Pinson"
+        },
+        {
+          "name": "Pierre-Antoine Passet"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Sketchfab a été acquis par Epic Games en 2021, puis par KitBash en août 2026; la marque et le site restent actifs.",
       "website": "https://sketchfab.com",
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.epicgames.com/site/news/kitbash-acquires-artstation-and-sketchfab?lang=en-ca"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.epicgames.com/site/news/kitbash-acquires-artstation-and-sketchfab?lang=en-ca",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1543,23 +1711,35 @@
       "name": "Stormz",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alexandre Eisenchteter",
-        "François de Metz"
+        {
+          "name": "Alexandre Eisenchteter"
+        },
+        {
+          "name": "François de Metz"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme d'ateliers collaboratifs active.",
       "website": "https://stormz.me",
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://about.stormz.me/fr/a-propos/"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://about.stormz.me/fr/a-propos/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1583,23 +1763,34 @@
       "name": "Veezio",
       "formerNamesOrPivots": [],
       "founders": [
-        "Steeve Morin",
-        "Thomas Meson"
+        {
+          "name": "Steeve Morin"
+        },
+        {
+          "name": "Thomas Meson"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.paperblog.fr/5767316/tour-au-camping-bilan-des-deux-premiers-mois/"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.paperblog.fr/5767316/tour-au-camping-bilan-des-deux-premiers-mois/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1625,24 +1816,37 @@
         "OAuth.io"
       ],
       "founders": [
-        "Thibaud Arnault",
-        "Mehdi Medjaoui",
-        "Arnaud Richard"
+        {
+          "name": "Thibaud Arnault"
+        },
+        {
+          "name": "Mehdi Medjaoui"
+        },
+        {
+          "name": "Arnaud Richard"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Le service OAuth.io n'est plus identifié comme activité autonome.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/webshell-753885920"
-      },
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/webshell-753885920",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1666,19 +1870,27 @@
       "name": "Whale Street",
       "formerNamesOrPivots": [],
       "founders": [
-        "Michaël Journo",
-        "Arthur Prat-Carrabin"
+        {
+          "name": "Michaël Journo",
+          "linkedin": "https://fr.linkedin.com/in/micha%C3%ABl-journo-2368a929"
+        },
+        {
+          "name": "Arthur Prat-Carrabin"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-22",
       "activityDescription": "Whale Street analysait les données web afin de produire des indicateurs pour les marchés financiers.",
       "statusDetails": "Société dissoute puis radiée du RCS de Paris en août 2016.",
-      "website": null,
-      "sources": {
-        "cohort": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
-        "foundersOrStatus": {
+      "sources": [
+        {
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
           "url": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20110122_0001_p000.pdf",
           "title": "Avis de constitution de Whale Street",
           "publisher": "BODACC",
@@ -1689,11 +1901,9 @@
             "identity"
           ]
         }
-      },
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -1709,13 +1919,7 @@
         },
         "evidenceCount": 5,
         "auditFile": "factcheck/batch-01.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Michaël Journo",
-          "linkedin": "https://fr.linkedin.com/in/micha%C3%ABl-journo-2368a929"
-        }
-      ]
+      }
     },
     {
       "id": "s4-auticiel",
@@ -1723,23 +1927,35 @@
       "name": "Auticiel",
       "formerNamesOrPivots": [],
       "founders": [
-        "Sarah Cherruault",
-        "François Dupayrat"
+        {
+          "name": "Sarah Cherruault"
+        },
+        {
+          "name": "François Dupayrat"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Solutions numériques pour l'autonomie et le handicap actives.",
       "website": "https://auticiel.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-auticiel/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-auticiel/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -1763,23 +1979,34 @@
       "name": "Cours Avenue",
       "formerNamesOrPivots": [],
       "founders": [
-        "Nicolas Lagarde",
-        "Nima Izadi"
+        {
+          "name": "Nicolas Lagarde"
+        },
+        {
+          "name": "Nima Izadi"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Place de marché de cours non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.frenchweb.fr/exclusif-coursavenue-moteur-de-recherche-de-cours-leve-120-000-euros-nous-avons-ete-approches-alors-que-nous-ne-recherchions-pas-encore-de-fonds/147211"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/exclusif-coursavenue-moteur-de-recherche-de-cours-leve-120-000-euros-nous-avons-ete-approches-alors-que-nous-ne-recherchions-pas-encore-de-fonds/147211",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1804,22 +2031,31 @@
       "name": "Darjeelin",
       "formerNamesOrPivots": [],
       "founders": [
-        "Charles Guilhamon"
+        {
+          "name": "Charles Guilhamon"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Darjeelin a été acquis en 2014 par L'Officiel des Vacances, société du groupe Voyage Privé.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://techcrunch.com/2014/09/17/darjeelin-acquired/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://techcrunch.com/2014/09/17/darjeelin-acquired/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1843,23 +2079,34 @@
       "name": "Decovery",
       "formerNamesOrPivots": [],
       "founders": [
-        "Arthur Fouvez",
-        "François Meteyer"
+        {
+          "name": "Arthur Fouvez"
+        },
+        {
+          "name": "François Meteyer"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service de décoration non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.paperblog.fr/6302012/un-nouveau-site-participatif-qui-donne-des-idees-deco/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.paperblog.fr/6302012/un-nouveau-site-participatif-qui-donne-des-idees-deco/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1883,23 +2130,34 @@
       "name": "Lingocracy",
       "formerNamesOrPivots": [],
       "founders": [
-        "Maxime Vandegeerde",
-        "Yaoyan Yang"
+        {
+          "name": "Maxime Vandegeerde"
+        },
+        {
+          "name": "Yaoyan Yang"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Société dissoute en janvier 2016; clôture de liquidation prononcée en juin 2016.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.journaldunet.com/web-tech/start-up/1108405-decouvrez-la-nouvelle-promotion-du-camping-en-video/1108415-lingocracy"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/web-tech/start-up/1108405-decouvrez-la-nouvelle-promotion-du-camping-en-video/1108415-lingocracy",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1923,25 +2181,40 @@
       "name": "Melusyn",
       "formerNamesOrPivots": [],
       "founders": [
-        "Octave Bory-Bert",
-        "Alexandre Péron",
-        "Hugo Cordier",
-        "Chloé Oternaud"
+        {
+          "name": "Octave Bory-Bert"
+        },
+        {
+          "name": "Alexandre Péron"
+        },
+        {
+          "name": "Hugo Cordier"
+        },
+        {
+          "name": "Chloé Oternaud"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Ancien outil de production audiovisuelle non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.frenchweb.fr/lancement-de-melusyn-la-gestion-de-tournages-de-fiction-en-mode-cloud/95641"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/lancement-de-melusyn-la-gestion-de-tournages-de-fiction-en-mode-cloud/95641",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "low",
-      "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -1966,23 +2239,34 @@
       "name": "Pricing Assistant",
       "formerNamesOrPivots": [],
       "founders": [
-        "Martin de Charette",
-        "Sylvain Zimmer"
+        {
+          "name": "Martin de Charette"
+        },
+        {
+          "name": "Sylvain Zimmer"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Équipe/produit intégré à Contentsquare en 2019.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://sylvainzimmer.com/blog/2019/06/pricing-assistant-joins-contentsquare/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://sylvainzimmer.com/blog/2019/06/pricing-assistant-joins-contentsquare/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2006,24 +2290,38 @@
       "name": "Smiirl",
       "formerNamesOrPivots": [],
       "founders": [
-        "Gauthier Nadaud",
-        "Romain Cochet",
-        "Raphaël Pluvinage"
+        {
+          "name": "Gauthier Nadaud"
+        },
+        {
+          "name": "Romain Cochet"
+        },
+        {
+          "name": "Raphaël Pluvinage"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Compteurs connectés pour réseaux sociaux toujours commercialisés.",
       "website": "https://www.smiirl.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-smiirl/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-smiirl/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -2049,24 +2347,37 @@
         "Znappit"
       ],
       "founders": [
-        "Victor Grange",
-        "Adrien Dupuy",
-        "Nicolas Garnault"
+        {
+          "name": "Victor Grange"
+        },
+        {
+          "name": "Adrien Dupuy"
+        },
+        {
+          "name": "Nicolas Garnault"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Application non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.frenchweb.fr/bon-app-znappit-realise-des-montages-collaboratifs-de-videos-lors-devenements/134338"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/bon-app-znappit-realise-des-montages-collaboratifs-de-videos-lors-devenements/134338",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2090,23 +2401,34 @@
       "name": "Sportdub",
       "formerNamesOrPivots": [],
       "founders": [
-        "Rodolphe Darves-Bornoz",
-        "Marc-Antoine Lacroix"
+        {
+          "name": "Rodolphe Darves-Bornoz"
+        },
+        {
+          "name": "Marc-Antoine Lacroix"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.master-dmc.fr/post/archives-de-la-promotion-2012-2013"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.master-dmc.fr/post/archives-de-la-promotion-2012-2013",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2132,24 +2454,37 @@
         "Popp!"
       ],
       "founders": [
-        "Julien Hobeika",
-        "Nicolas Marlier",
-        "Guillaume Michiels"
+        {
+          "name": "Julien Hobeika"
+        },
+        {
+          "name": "Nicolas Marlier"
+        },
+        {
+          "name": "Guillaume Michiels"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Outil d'organisation de sorties non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://www.rudebaguette.com/en/2013/10/wepopp-looks-to-mobile-to-disrupt-how-we-organize-events-with-friends/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.rudebaguette.com/en/2013/10/wepopp-looks-to-mobile-to-disrupt-how-we-organize-events-with-friends/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2175,23 +2510,35 @@
         "Smartway"
       ],
       "founders": [
-        "Paul-Adrien Ménez",
-        "Christophe Ménez"
+        {
+          "name": "Paul-Adrien Ménez"
+        },
+        {
+          "name": "Christophe Ménez"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Activité poursuivie sous la marque Smartway.",
       "website": "https://smartway.ai",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
-        "foundersOrStatus": "https://smartway.ai/news/to-support-its-growth-in-france-and-speed-up-international-development-zero-gachis-raises-eu10m-and-becomes-smartway"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://smartway.ai/news/to-support-its-growth-in-france-and-speed-up-international-development-zero-gachis-raises-eu10m-and-becomes-smartway",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2217,24 +2564,38 @@
         "Agryco"
       ],
       "founders": [
-        "Paolin Pascot",
-        "Dinh Nguyen",
-        "Clément Le Fournis"
+        {
+          "name": "Paolin Pascot"
+        },
+        {
+          "name": "Dinh Nguyen"
+        },
+        {
+          "name": "Clément Le Fournis"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Place de marché agricole active sous le nom Agryco.",
       "website": "https://www.agryco.com",
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2259,24 +2620,38 @@
       "name": "Artips",
       "formerNamesOrPivots": [],
       "founders": [
-        "Coline Debayle",
-        "Jean Perret",
-        "Gérard Marié"
+        {
+          "name": "Coline Debayle"
+        },
+        {
+          "name": "Jean Perret"
+        },
+        {
+          "name": "Gérard Marié"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme culturelle intégrée au groupe Beaux Arts & Cie.",
       "website": "https://artips.fr",
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://www.artips.fr/qui-sommes-nous"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.artips.fr/qui-sommes-nous",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2301,23 +2676,34 @@
       "name": "BandSquare",
       "formerNamesOrPivots": [],
       "founders": [
-        "Antoine Labbé",
-        "Chloé Julien"
+        {
+          "name": "Antoine Labbé"
+        },
+        {
+          "name": "Chloé Julien"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Société signalée comme acquise; marque autonome arrêtée.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "low",
-      "confidenceLabel": "Faible",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2341,22 +2727,37 @@
       "name": "Hublo",
       "formerNamesOrPivots": [],
       "founders": [
-        "Léo-Paul Goffic",
-        "Cyril Gantzer",
-        "Etienne Le Scaon"
+        {
+          "name": "Léo-Paul Goffic"
+        },
+        {
+          "name": "Cyril Gantzer",
+          "linkedin": "https://www.linkedin.com/in/cyrilgantzer"
+        },
+        {
+          "name": "Etienne Le Scaon"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Hublo analytics a été radiée en juin 2016; ne pas confondre avec la healthtech Hublo actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://techcrunch.com/2014/03/19/hublo-is-the-web-analytics-tool-for-the-rest-of-us/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://techcrunch.com/2014/03/19/hublo-is-the-web-analytics-tool-for-the-rest-of-us/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
       "notes": "Attention à l'homonyme Hublo créé ultérieurement.",
       "factCheck": {
@@ -2374,13 +2775,7 @@
         },
         "evidenceCount": 5,
         "auditFile": "factcheck/batch-02.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Cyril Gantzer",
-          "linkedin": "https://www.linkedin.com/in/cyrilgantzer"
-        }
-      ]
+      }
     },
     {
       "id": "s5-krack",
@@ -2392,25 +2787,41 @@
         "Krak"
       ],
       "founders": [
-        "Martin Joubert",
-        "Kevin Straszburger",
-        "Tristan Nicolas",
-        "Damien Cavailles"
+        {
+          "name": "Martin Joubert"
+        },
+        {
+          "name": "Kevin Straszburger"
+        },
+        {
+          "name": "Tristan Nicolas"
+        },
+        {
+          "name": "Damien Cavailles"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Le projet de capteur Indy Trackers/Krack a évolué vers Krak, communauté et cartographie mondiale du skateboard.",
       "website": "https://skatekrak.com",
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://www.wired.com/story/trick-tracker/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.wired.com/story/trick-tracker/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2435,24 +2846,37 @@
       "name": "LocalEyes",
       "formerNamesOrPivots": [],
       "founders": [
-        "Olivier Mougenot",
-        "Colin Valière",
-        "Livio Lumbroso"
+        {
+          "name": "Olivier Mougenot"
+        },
+        {
+          "name": "Colin Valière"
+        },
+        {
+          "name": "Livio Lumbroso"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Activité de crowdsourcing terrain intégrée à BeMyEye.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://techcrunch.com/2016/05/19/keep-your-eyes-on-the-prize/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://techcrunch.com/2016/05/19/keep-your-eyes-on-the-prize/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2478,24 +2902,37 @@
         "Qleek.me"
       ],
       "founders": [
-        "Ismail Salhi",
-        "Johanna Hartzheim",
-        "Pierre-Rudolf Gerlach"
+        {
+          "name": "Ismail Salhi"
+        },
+        {
+          "name": "Johanna Hartzheim"
+        },
+        {
+          "name": "Pierre-Rudolf Gerlach"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Objet musical connecté arrêté pendant la pandémie.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://www.thepitch.show/16-qleek"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.thepitch.show/16-qleek",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -2520,25 +2957,41 @@
       "name": "Realytics",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Belmas",
-        "Sébastien Monteil",
-        "Vincent Nguyen-Huu",
-        "Gregory Bittan"
+        {
+          "name": "Guillaume Belmas"
+        },
+        {
+          "name": "Sébastien Monteil"
+        },
+        {
+          "name": "Vincent Nguyen-Huu"
+        },
+        {
+          "name": "Gregory Bittan"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquise par smartclip (groupe RTL) en 2022; marque et offre maintenues lors de l'acquisition.",
       "website": "https://www.realytics.io",
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2563,24 +3016,37 @@
       "name": "Streamroot",
       "formerNamesOrPivots": [],
       "founders": [
-        "Pierre-Louis Théron",
-        "Nikolay Rodionov",
-        "Axel Delmas"
+        {
+          "name": "Pierre-Louis Théron"
+        },
+        {
+          "name": "Nikolay Rodionov"
+        },
+        {
+          "name": "Axel Delmas"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par CenturyLink/Lumen en 2019.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://partechpartners.com/companies/streamroot"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://partechpartners.com/companies/streamroot",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2606,25 +3072,40 @@
         "TakeTracker"
       ],
       "founders": [
-        "Jonathan Asquier",
-        "Alexis Ohayon",
-        "Anaël Beutot",
-        "Elie Siauve"
+        {
+          "name": "Jonathan Asquier"
+        },
+        {
+          "name": "Alexis Ohayon"
+        },
+        {
+          "name": "Anaël Beutot"
+        },
+        {
+          "name": "Elie Siauve"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La société TakeTracker a été radiée du RCS en juin 2015.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://www.journaldunet.com/web-tech/start-up/1131258-video-decouvrez-les-start-up-de-la-5e-saison-du-camping/1131278-taketracker"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/web-tech/start-up/1131258-video-decouvrez-les-start-up-de-la-5e-saison-du-camping/1131278-taketracker",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2649,23 +3130,34 @@
       "name": "TasteHit",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alexei Kounine",
-        "Harold Christopher Burger"
+        {
+          "name": "Alexei Kounine"
+        },
+        {
+          "name": "Harold Christopher Burger"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Selligent Marketing Cloud.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://wellfound.com/company/tastehit/people"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://wellfound.com/company/tastehit/people",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2690,24 +3182,37 @@
       "name": "Tripndrive",
       "formerNamesOrPivots": [],
       "founders": [
-        "François-Xavier Leduc",
-        "Arthur de Keyzer",
-        "Nicolas Cosme"
+        {
+          "name": "François-Xavier Leduc"
+        },
+        {
+          "name": "Arthur de Keyzer"
+        },
+        {
+          "name": "Nicolas Cosme"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Activité d'autopartage intégrée/consolidée dans TravelCar.",
-      "website": null,
-      "sources": {
-        "cohort": "https://github.com/lecamping/lecampingmafia",
-        "foundersOrStatus": "https://www.tripndrive.com/en/news/"
-      },
+      "sources": [
+        {
+          "url": "https://github.com/lecamping/lecampingmafia",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.tripndrive.com/en/news/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2732,24 +3237,37 @@
       "name": "Soundsgood",
       "formerNamesOrPivots": [],
       "founders": [
-        "Louis Viallet",
-        "Josquin Farge",
-        "David Billamboz"
+        {
+          "name": "Louis Viallet"
+        },
+        {
+          "name": "Josquin Farge"
+        },
+        {
+          "name": "David Billamboz"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de playlists acquise par Believe.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.believe.com/who-we-are/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.believe.com/who-we-are/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -2769,29 +3287,41 @@
     },
     {
       "id": "s6-uniquesound",
-      "acquirer": null,
       "season": 6,
       "name": "UniqueSound",
       "formerNamesOrPivots": [],
       "founders": [
-        "Romain Cochet",
-        "Julien Declercq",
-        "Cédric Laruelle"
+        {
+          "name": "Romain Cochet"
+        },
+        {
+          "name": "Julien Declercq"
+        },
+        {
+          "name": "Cédric Laruelle"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de musique signalée comme acquise.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2816,22 +3346,31 @@
       "name": "Sharette",
       "formerNamesOrPivots": [],
       "founders": [
-        "Grégoire de Pins"
+        {
+          "name": "Grégoire de Pins"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Communauté intégrée à Citygoo en 2016.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/06/13/consocollab-citygoo-soffre-specialiste-covoiturage-sharette-se-constitue-flotte-de-100-000-utilisateurs/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2016/06/13/consocollab-citygoo-soffre-specialiste-covoiturage-sharette-se-constitue-flotte-de-100-000-utilisateurs/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -2855,24 +3394,37 @@
       "name": "Drust",
       "formerNamesOrPivots": [],
       "founders": [
-        "Michaël Fernandez-Ferri",
-        "Pascal Galacteros",
-        "Florent Pignal"
+        {
+          "name": "Michaël Fernandez-Ferri"
+        },
+        {
+          "name": "Pascal Galacteros"
+        },
+        {
+          "name": "Florent Pignal"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Boîtier automobile connecté non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.eu-startups.com/2016/11/the-french-startup-that-wants-you-to-become-a-superdriver-interview-with-the-co-founder-and-ceo-of-drust/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.eu-startups.com/2016/11/the-french-startup-that-wants-you-to-become-a-superdriver-interview-with-the-co-founder-and-ceo-of-drust/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -2897,23 +3449,34 @@
       "name": "SharePay",
       "formerNamesOrPivots": [],
       "founders": [
-        "David Finel",
-        "Jonas Braoudé"
+        {
+          "name": "David Finel"
+        },
+        {
+          "name": "Jonas Braoudé"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Linxo en 2018; service ensuite arrêté.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.frenchweb.fr/linxo-soffre-sharepay-pour-accelerer-dans-le-paiement/321870"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/linxo-soffre-sharepay-pour-accelerer-dans-le-paiement/321870",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2938,23 +3501,34 @@
       "name": "Pulpix",
       "formerNamesOrPivots": [],
       "founders": [
-        "Sabry Otmani",
-        "Denis Vilar"
+        {
+          "name": "Sabry Otmani"
+        },
+        {
+          "name": "Denis Vilar"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par Adyoulike en 2019.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.ycombinator.com/companies/pulpix"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.ycombinator.com/companies/pulpix",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -2978,24 +3552,37 @@
       "name": "Smyle",
       "formerNamesOrPivots": [],
       "founders": [
-        "Augustin Marty",
-        "Aloïs Brunel",
-        "Vincent Delaitre"
+        {
+          "name": "Augustin Marty"
+        },
+        {
+          "name": "Aloïs Brunel"
+        },
+        {
+          "name": "Vincent Delaitre"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3020,25 +3607,40 @@
       "name": "Tiller Systems",
       "formerNamesOrPivots": [],
       "founders": [
-        "Josef Bovet",
-        "Scott Gordon",
-        "Dimitri Farber",
-        "Vincent Oliveira"
+        {
+          "name": "Josef Bovet"
+        },
+        {
+          "name": "Scott Gordon"
+        },
+        {
+          "name": "Dimitri Farber"
+        },
+        {
+          "name": "Vincent Oliveira"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par SumUp en 2021.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3062,24 +3664,32 @@
       "name": "Kokot'",
       "formerNamesOrPivots": [],
       "founders": [
-        "Quang Hoang",
-        "Jean-Baptiste Coger",
-        "William Pollet"
+        {
+          "name": "Quang Hoang"
+        },
+        {
+          "name": "Jean-Baptiste Coger"
+        },
+        {
+          "name": "William Pollet"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Application culinaire non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.maddyness.com/2014/09/04/lecamping-saison6/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort",
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -3103,24 +3713,38 @@
       "name": "Nunki",
       "formerNamesOrPivots": [],
       "founders": [
-        "Quentin Lhomme",
-        "Jean-Baptiste Janvier",
-        "Quentin Lainé"
+        {
+          "name": "Quentin Lhomme"
+        },
+        {
+          "name": "Jean-Baptiste Janvier"
+        },
+        {
+          "name": "Quentin Lainé"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Solution de veille et d'anticipation des risques encore référencée.",
       "website": "https://www.nunki.co",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3146,24 +3770,38 @@
         "Archive Valley"
       ],
       "founders": [
-        "Mélanie Rozencwaig",
-        "Jhava Chikli",
-        "Tran Nguyen Ngoc"
+        {
+          "name": "Mélanie Rozencwaig"
+        },
+        {
+          "name": "Jhava Chikli"
+        },
+        {
+          "name": "Tran Nguyen Ngoc"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Projet devenu Archive Valley; plateforme patrimoniale encore identifiable.",
       "website": "https://archivevalley.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3187,18 +3825,27 @@
       "name": "Jam",
       "formerNamesOrPivots": [],
       "founders": [
-        "Marjolaine Grondin",
-        "Loïc Delmaire"
+        {
+          "name": "Marjolaine Grondin",
+          "linkedin": "https://fr.linkedin.com/in/marjolainegrondin"
+        },
+        {
+          "name": "Loïc Delmaire",
+          "linkedin": "https://fr.linkedin.com/in/skelz0r"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-22",
       "statusDetails": "Marjolaine Grondin indique avoir vendu Jam après dix ans d'aventure; le chatbot a ensuite été arrêté.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
-        "foundersOrStatus": {
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
           "url": "https://www.societegenerale.com/sites/default/files/17032-cp-societe-generale-sassocie-au-chatbot-jam-pour-mieux-comprendre-les-millenials.pdf",
           "title": "Société Générale s'associe au chatbot Jam",
           "publisher": "Société Générale",
@@ -3208,11 +3855,9 @@
             "founders"
           ]
         }
-      },
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -3228,17 +3873,7 @@
         },
         "evidenceCount": 7,
         "auditFile": "factcheck/batch-02.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Marjolaine Grondin",
-          "linkedin": "https://fr.linkedin.com/in/marjolainegrondin"
-        },
-        {
-          "name": "Loïc Delmaire",
-          "linkedin": "https://fr.linkedin.com/in/skelz0r"
-        }
-      ]
+      }
     },
     {
       "id": "s7-read",
@@ -3246,23 +3881,34 @@
       "name": "Read",
       "formerNamesOrPivots": [],
       "founders": [
-        "Simon Guigue",
-        "Thomas Guigue"
+        {
+          "name": "Simon Guigue"
+        },
+        {
+          "name": "Thomas Guigue"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Application de lecture collective non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.myfrenchstartup.com/fr/startup-france/116389/read"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/116389/read",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3286,22 +3932,31 @@
       "name": "Budeal",
       "formerNamesOrPivots": [],
       "founders": [
-        "Stéphane Perrin"
+        {
+          "name": "Stéphane Perrin"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Place de marché mobile non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.frenchweb.fr/bon-app-budeal-les-petits-annonces-entre-connaissances/162662"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/bon-app-budeal-les-petits-annonces-entre-connaissances/162662",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3325,22 +3980,32 @@
       "name": "CityTaps",
       "formerNamesOrPivots": [],
       "founders": [
-        "Grégoire Landel"
+        {
+          "name": "Grégoire Landel"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Solutions de prépaiement de l'eau toujours déployées.",
       "website": "https://www.citytaps.org",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://wellfound.com/company/citytaps/people"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://wellfound.com/company/citytaps/people",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3364,23 +4029,34 @@
       "name": "CloudOrbit",
       "formerNamesOrPivots": [],
       "founders": [
-        "Jean-Pierre Laisné",
-        "Jean-Philippe Kalfon"
+        {
+          "name": "Jean-Pierre Laisné"
+        },
+        {
+          "name": "Jean-Philippe Kalfon"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "CloudOrbit a cessé son activité et a clôturé sa liquidation en octobre 2015.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.lemagit.fr/actualites/2240232344/CloudOrbit-et-CloudScreener-un-broker-de-cloud-intelligent-qui-sadapte-aux-SLA-et-performances"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.lemagit.fr/actualites/2240232344/CloudOrbit-et-CloudScreener-un-broker-de-cloud-intelligent-qui-sadapte-aux-SLA-et-performances",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3406,24 +4082,37 @@
         "Swoopin"
       ],
       "founders": [
-        "Arnaud Marlois",
-        "Nicolas Papin",
-        "Vincent Wuhrlin"
+        {
+          "name": "Arnaud Marlois"
+        },
+        {
+          "name": "Nicolas Papin"
+        },
+        {
+          "name": "Vincent Wuhrlin"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "CoursierPrivé.com est devenu Swoopin; liquidation judiciaire prononcée en novembre 2022.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.frenchweb.fr/comment-coursier-prive-veut-fluidifier-le-marche-de-la-livraison-2/241894"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/comment-coursier-prive-veut-fluidifier-le-marche-de-la-livraison-2/241894",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3447,23 +4136,34 @@
       "name": "Corilla",
       "formerNamesOrPivots": [],
       "founders": [
-        "David Ryan",
-        "Ben Wilkinson"
+        {
+          "name": "David Ryan"
+        },
+        {
+          "name": "Ben Wilkinson"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Outil d'édition technique non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://corilla.com/about.html"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://corilla.com/about.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -3487,23 +4187,34 @@
       "name": "Filoute",
       "formerNamesOrPivots": [],
       "founders": [
-        "Domitille de Saint-Exupéry",
-        "Flore Morin"
+        {
+          "name": "Domitille de Saint-Exupéry"
+        },
+        {
+          "name": "Flore Morin"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La société Filoute a cessé son activité; les comptes 2016 sont les derniers publiés.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://entreprises.lefigaro.fr/filoute-75/entreprise-813176013"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://entreprises.lefigaro.fr/filoute-75/entreprise-813176013",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3527,23 +4238,35 @@
       "name": "Lendosphere",
       "formerNamesOrPivots": [],
       "founders": [
-        "Laure Verhaeghe",
-        "Amaury Blais"
+        {
+          "name": "Laure Verhaeghe"
+        },
+        {
+          "name": "Amaury Blais"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de financement participatif active.",
       "website": "https://www.lendosphere.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.lendosphere.com/infos/qui-sommes-nous?locale=fr"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.lendosphere.com/infos/qui-sommes-nous?locale=fr",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3567,22 +4290,32 @@
       "name": "FoodMeUp",
       "formerNamesOrPivots": [],
       "founders": [
-        "Sébastien Vassaux"
+        {
+          "name": "Sébastien Vassaux"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Logiciel de gestion de recettes/production encore exploité.",
       "website": "https://www.foodmeup.io",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/foodmeup-802748772"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/foodmeup-802748772",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -3604,22 +4337,31 @@
       "name": "FRETX",
       "formerNamesOrPivots": [],
       "founders": [
-        "Federico Rodríguez Llull"
+        {
+          "name": "Federico Rodríguez Llull"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-22",
       "statusDetails": "Liquidation judiciaire en novembre 2019; clôture pour insuffisance d'actif en juin 2023.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://medium.com/@fretx/fretx-the-smart-device-that-teaches-you-guitar-media-kit-4a7efdeebd29"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://medium.com/@fretx/fretx-the-smart-device-that-teaches-you-guitar-media-kit-4a7efdeebd29",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -3641,23 +4383,35 @@
       "name": "Gorgias",
       "formerNamesOrPivots": [],
       "founders": [
-        "Romain Lapeyre",
-        "Alex Plugaru"
+        {
+          "name": "Romain Lapeyre"
+        },
+        {
+          "name": "Alex Plugaru"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "SaaS de support e-commerce actif à l'international.",
       "website": "https://www.gorgias.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.gorgias.com/about-us"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.gorgias.com/about-us",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -3679,23 +4433,35 @@
       "name": "Kapptivate",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alexandre Grais",
-        "Julien Sabatier"
+        {
+          "name": "Alexandre Grais"
+        },
+        {
+          "name": "Julien Sabatier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme d'automatisation de tests et de supervision de services numériques active.",
       "website": "https://www.kapptivate.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/kapptivate-803963214"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/kapptivate-803963214",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3717,23 +4483,36 @@
       "name": "Kwalito",
       "formerNamesOrPivots": [],
       "founders": [
-        "Pierre Killy",
-        "Aleksandra Mandic Killy"
+        {
+          "name": "Pierre Killy",
+          "linkedin": "https://se.linkedin.com/in/pierrekilly"
+        },
+        {
+          "name": "Aleksandra Mandic Killy",
+          "linkedin": "https://se.linkedin.com/in/aleksandramandickilly"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Société dissoute puis radiée; liquidation décidée le 1er décembre 2019.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.societe.com/societe/kwalito-813015237.html"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.societe.com/societe/kwalito-813015237.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3747,17 +4526,7 @@
         },
         "evidenceCount": 2,
         "auditFile": "factcheck/batch-03.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Pierre Killy",
-          "linkedin": "https://se.linkedin.com/in/pierrekilly"
-        },
-        {
-          "name": "Aleksandra Mandic Killy",
-          "linkedin": "https://se.linkedin.com/in/aleksandramandickilly"
-        }
-      ]
+      }
     },
     {
       "id": "s7-la-boite-qui-cartonne",
@@ -3765,22 +4534,31 @@
       "name": "La Boîte Qui Cartonne",
       "formerNamesOrPivots": [],
       "founders": [
-        "Meryl Benitah"
+        {
+          "name": "Meryl Benitah"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service de stockage non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://feeds.bbci.co.uk/news/av/business-34804575"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://feeds.bbci.co.uk/news/av/business-34804575",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3803,22 +4581,31 @@
       "name": "Le Zeste",
       "formerNamesOrPivots": [],
       "founders": [
-        "Pol Maire"
+        {
+          "name": "Pol Maire"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service de livraison de repas revendu à Frichti.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://lezeste.wordpress.com/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://lezeste.wordpress.com/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3840,23 +4627,35 @@
       "name": "Les Petites Tables",
       "formerNamesOrPivots": [],
       "founders": [
-        "Romain Passelande",
-        "Thomas Le Gourrierec"
+        {
+          "name": "Romain Passelande"
+        },
+        {
+          "name": "Thomas Le Gourrierec"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Site accessible et société toujours inscrite au registre public.",
       "website": "https://www.lespetitestables.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.theguardian.com/travel/2016/sep/24/top-10-paris-restaurants-10-euros?page=with%3Aimg-4"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.theguardian.com/travel/2016/sep/24/top-10-paris-restaurants-10-euros?page=with%3Aimg-4",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3878,22 +4677,32 @@
       "name": "PandaScore",
       "formerNamesOrPivots": [],
       "founders": [
-        "Flavien Guillocheau"
+        {
+          "name": "Flavien Guillocheau"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Fournisseur de données e-sport actif.",
       "website": "https://www.pandascore.co",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.pandascore.co"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pandascore.co",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -3915,23 +4724,35 @@
       "name": "Popmyday",
       "formerNamesOrPivots": [],
       "founders": [
-        "Morgane L'Hostis",
-        "Charles Berenguer"
+        {
+          "name": "Morgane L'Hostis"
+        },
+        {
+          "name": "Charles Berenguer"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service beauté et bien-être à domicile encore exploité.",
       "website": "https://www.popmyday.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/popmyday-805322823"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/popmyday-805322823",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -3949,30 +4770,42 @@
     },
     {
       "id": "s7-popup-immo",
-      "acquirer": null,
       "season": 7,
       "name": "PopUp Immo",
       "formerNamesOrPivots": [
         "Storefront"
       ],
       "founders": [
-        "Mohamed Haouache",
-        "Adrien Kerbrat"
+        {
+          "name": "Mohamed Haouache"
+        },
+        {
+          "name": "Adrien Kerbrat",
+          "linkedin": "https://fr.linkedin.com/in/adrienkerbrat"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "PopUp Immo a fusionné avec Storefront en 2016; la société française opérant Storefront a ensuite été placée en liquidation judiciaire le 20 décembre 2024 avec un plan de cession.",
       "website": "https://www.thestorefront.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.frenchweb.fr/la-start-up-du-jour-popup-immo-louer-des-boutiques-ephemeres-a-plusieurs/174975"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/la-start-up-du-jour-popup-immo-louer-des-boutiques-ephemeres-a-plusieurs/174975",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -3986,40 +4819,45 @@
         },
         "evidenceCount": 4,
         "auditFile": "factcheck/batch-03.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Adrien Kerbrat",
-          "linkedin": "https://fr.linkedin.com/in/adrienkerbrat"
-        }
-      ]
+      }
     },
     {
       "id": "s7-sentimy",
-      "acquirer": null,
       "season": 7,
       "name": "Sentimy",
       "formerNamesOrPivots": [
         "Supermood"
       ],
       "founders": [
-        "Kevin Bourgeois",
-        "Robin Nicollet"
+        {
+          "name": "Kevin Bourgeois"
+        },
+        {
+          "name": "Robin Nicollet"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Sentimy a donné naissance à Supermood; Supermood et ZestMeUp ont fusionné en mars 2025 et ZestMeUp dirige désormais la société Sentimy.",
       "website": "https://zestmeup.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.societe.com/societe/sentimy-814058509.html"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.societe.com/societe/sentimy-814058509.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4041,24 +4879,37 @@
       "name": "Show-Roomer",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Gardair",
-        "Armel Tricaud",
-        "Frédéric Pailley"
+        {
+          "name": "Guillaume Gardair"
+        },
+        {
+          "name": "Armel Tricaud"
+        },
+        {
+          "name": "Frédéric Pailley"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service communautaire produit non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/08/30/show-roomer/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2016/08/30/show-roomer/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "unverifiable",
         "checkedAt": "2026-08-21",
@@ -4080,23 +4931,35 @@
       "name": "Skippair",
       "formerNamesOrPivots": [],
       "founders": [
-        "Maïna Marquette",
-        "Claire Blangez"
+        {
+          "name": "Maïna Marquette"
+        },
+        {
+          "name": "Claire Blangez"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de croisières avec skipper active.",
       "website": "https://www.skippair.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.maddyness.com/2016/12/06/nautisme-skippair-leve-800-000-euros/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.maddyness.com/2016/12/06/nautisme-skippair-leve-800-000-euros/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4118,19 +4981,28 @@
       "name": "Tationem",
       "formerNamesOrPivots": [],
       "founders": [
-        "Vijaykant Nadadue",
-        "Aravind Kamath",
-        "Senthil Kumar"
+        {
+          "name": "Vijaykant Nadadue"
+        },
+        {
+          "name": "Aravind Kamath"
+        },
+        {
+          "name": "Senthil Kumar"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme d'analyse de texte non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": {
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
           "url": "https://yourstory.com/2013/08/i-will-move-back-to-india-soon-after-my-stint-at-the-university-tationem",
           "title": "Tationem founder interview",
           "publisher": "YourStory",
@@ -4141,11 +5013,9 @@
             "identity"
           ]
         }
-      },
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -4167,24 +5037,37 @@
       "name": "Vocal Apps",
       "formerNamesOrPivots": [],
       "founders": [
-        "Hicham Tahiri",
-        "Henri Chabrand",
-        "Karim Lourci"
+        {
+          "name": "Hicham Tahiri"
+        },
+        {
+          "name": "Henri Chabrand"
+        },
+        {
+          "name": "Karim Lourci"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme d'assistants vocaux non retrouvée comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.annuaire-startups.pro/startup/vocal-apps/"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/startup/vocal-apps/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4206,23 +5089,35 @@
       "name": "Welcome to the Jungle",
       "formerNamesOrPivots": [],
       "founders": [
-        "Jérémy Clédat",
-        "Bertrand Uzeel"
+        {
+          "name": "Jérémy Clédat"
+        },
+        {
+          "name": "Bertrand Uzeel"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Média et plateforme de recrutement actifs.",
       "website": "https://www.welcometothejungle.com",
-      "sources": {
-        "cohort": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
-        "foundersOrStatus": "https://www.welcometothejungle.com"
-      },
+      "sources": [
+        {
+          "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.welcometothejungle.com",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4245,22 +5140,32 @@
       "name": "Bienvenue WiFi",
       "formerNamesOrPivots": [],
       "founders": [
-        "Jean-Baptiste Queromes"
+        {
+          "name": "Jean-Baptiste Queromes"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Acquisition par DHI Telecom en 2020.",
       "website": "https://b-connect.io",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.businesswire.com/news/home/20200311005836/en/DHI-Telecom-Acquires-Paris-based-Bienvenue-WiFi-for-Travelers"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20200311005836/en/DHI-Telecom-Acquires-Paris-based-Bienvenue-WiFi-for-Travelers",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4283,21 +5188,34 @@
       "name": "BlueBoard",
       "formerNamesOrPivots": [],
       "founders": [
-        "Kevin Cohen",
-        "Francis Bouvier"
+        {
+          "name": "Kevin Cohen"
+        },
+        {
+          "name": "Francis Bouvier",
+          "linkedin": "https://fr.linkedin.com/in/francisbouvier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "BlueBoard a été acquis par ChannelAdvisor le 24 juillet 2020 et intégré à ChannelAdvisor Brand Analytics.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.entreprises.gouv.fr/files/files/directions_services/numerique/appels-a-projets/Dossier_de_presse_-_Laureats_CIN_6.pdf"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.entreprises.gouv.fr/files/files/directions_services/numerique/appels-a-projets/Dossier_de_presse_-_Laureats_CIN_6.pdf",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
       "notes": "Ne pas confondre avec l'actuelle plateforme française de gouvernance BlueBoard.",
       "factCheck": {
@@ -4313,13 +5231,7 @@
         },
         "evidenceCount": 3,
         "auditFile": "factcheck/batch-03.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Francis Bouvier",
-          "linkedin": "https://fr.linkedin.com/in/francisbouvier"
-        }
-      ]
+      }
     },
     {
       "id": "s8-bretzel",
@@ -4327,22 +5239,31 @@
       "name": "Bretzel",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Tessier"
+        {
+          "name": "Guillaume Tessier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Projet non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://startupxplore.com/en/startups/bretzel"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://startupxplore.com/en/startups/bretzel",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "low",
-      "confidenceLabel": "Faible",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4364,24 +5285,37 @@
       "name": "Buffactory",
       "formerNamesOrPivots": [],
       "founders": [
-        "Mikhail Zaitsev",
-        "Pierre Rodier",
-        "Rémi Gasnier"
+        {
+          "name": "Mikhail Zaitsev"
+        },
+        {
+          "name": "Pierre Rodier"
+        },
+        {
+          "name": "Rémi Gasnier"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Projet musical collaboratif non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://entreprises.lefigaro.fr/buffactory-92/entreprise-821325784"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://entreprises.lefigaro.fr/buffactory-92/entreprise-821325784",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4403,23 +5337,34 @@
       "name": "DeployStation",
       "formerNamesOrPivots": [],
       "founders": [
-        "Oksana Voronova",
-        "Christian Dyl"
+        {
+          "name": "Oksana Voronova"
+        },
+        {
+          "name": "Christian Dyl"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service de déploiement non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://app.dealroom.co/companies/deploystation"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://app.dealroom.co/companies/deploystation",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4441,24 +5386,38 @@
       "name": "Energysquare",
       "formerNamesOrPivots": [],
       "founders": [
-        "Timothée Le Quesne",
-        "Daniel Lollo",
-        "Matthieu Poidatz"
+        {
+          "name": "Timothée Le Quesne"
+        },
+        {
+          "name": "Daniel Lollo"
+        },
+        {
+          "name": "Matthieu Poidatz"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Solutions de recharge sans fil actives.",
       "website": "https://energysquare.co",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.wipo.int/en/web/wipo-magazine/articles/energysquare-makes-wireless-recharging-a-reality-41872"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.wipo.int/en/web/wipo-magazine/articles/energysquare-makes-wireless-recharging-a-reality-41872",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4476,26 +5435,39 @@
     },
     {
       "id": "s8-hopfab",
-      "acquirer": null,
       "season": 8,
       "name": "Hopfab",
       "formerNamesOrPivots": [],
       "founders": [
-        "Géraldine Bal",
-        "Arnaud Verlet"
+        {
+          "name": "Géraldine Bal"
+        },
+        {
+          "name": "Arnaud Verlet",
+          "linkedin": "https://fr.linkedin.com/in/arnaud-verlet-5b5599137"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La société Hopfab a été placée en liquidation judiciaire le 4 avril 2023; l'activité et la marque ont ensuite continué avec La Conciergerie de l'Architecture.",
       "website": "https://www.hopfab.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.hopfab.com/a-propos"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.hopfab.com/a-propos",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
       "notes": "Distinguer la société Hopfab, liquidée en 2023, de la marque et du réseau toujours exploités avec La Conciergerie de l'Architecture.",
       "factCheck": {
@@ -4511,13 +5483,7 @@
         },
         "evidenceCount": 4,
         "auditFile": "factcheck/batch-03.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Arnaud Verlet",
-          "linkedin": "https://fr.linkedin.com/in/arnaud-verlet-5b5599137"
-        }
-      ]
+      }
     },
     {
       "id": "s8-kantree",
@@ -4525,23 +5491,35 @@
       "name": "Kantree",
       "formerNamesOrPivots": [],
       "founders": [
-        "Maxime Bouroumeau-Fuseau",
-        "Jérémy Moresmau"
+        {
+          "name": "Maxime Bouroumeau-Fuseau"
+        },
+        {
+          "name": "Jérémy Moresmau"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme collaborative de gestion du travail active.",
       "website": "https://kantree.io",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://project-management.com/kantree-software-review/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://project-management.com/kantree-software-review/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4563,22 +5541,32 @@
       "name": "Koober",
       "formerNamesOrPivots": [],
       "founders": [
-        "Alexandre Bruneau"
+        {
+          "name": "Alexandre Bruneau"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Application de résumés de livres active.",
       "website": "https://koober.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.lacombinaison.fr/episode/alexandre-bruneau-koober-podcast/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.lacombinaison.fr/episode/alexandre-bruneau-koober-podcast/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4600,23 +5588,34 @@
       "name": "Meloflow",
       "formerNamesOrPivots": [],
       "founders": [
-        "Michael Brouard",
-        "Bertrand de Bodinat"
+        {
+          "name": "Michael Brouard"
+        },
+        {
+          "name": "Bertrand de Bodinat"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service musical non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://medium.com/numa/lhumain-avant-tout-comment-numa-acc%C3%A9l%C3%A8re-ses-start-ups-5f02edbe4acd"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://medium.com/numa/lhumain-avant-tout-comment-numa-acc%C3%A9l%C3%A8re-ses-start-ups-5f02edbe4acd",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4638,22 +5637,32 @@
       "name": "MonTransport.com",
       "formerNamesOrPivots": [],
       "founders": [
-        "Albéric de Bernis"
+        {
+          "name": "Albéric de Bernis"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de transport professionnel encore accessible.",
       "website": "https://www.montransport.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://montransport.com/en/about.html"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://montransport.com/en/about.html",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4677,23 +5686,35 @@
         "Hemea"
       ],
       "founders": [
-        "Matthieu Burin",
-        "Arnaud Kleinpeter"
+        {
+          "name": "Matthieu Burin"
+        },
+        {
+          "name": "Arnaud Kleinpeter"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Activité de rénovation poursuivie sous la marque Hemea.",
       "website": "https://www.hemea.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.frenchweb.fr/la-startup-travauxlib-leve-5-millions-deuros-et-devient-hemea/376769"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchweb.fr/la-startup-travauxlib-leve-5-millions-deuros-et-devient-hemea/376769",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4716,22 +5737,40 @@
       "name": "Truckfly",
       "formerNamesOrPivots": [],
       "founders": [
-        "Benoît Joncquez",
-        "Corentin Smith",
-        "Arthur Ouaki"
+        {
+          "name": "Benoît Joncquez",
+          "linkedin": "https://www.linkedin.com/in/benoit-joncquez"
+        },
+        {
+          "name": "Corentin Smith",
+          "linkedin": "https://fr.linkedin.com/in/corentinsmith"
+        },
+        {
+          "name": "Arthur Ouaki",
+          "linkedin": "https://fr.linkedin.com/in/aouaki"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-22",
       "statusDetails": "Truckfly a été acquis par Michelin le 26 juillet 2018.",
       "website": "https://www.truckfly.com",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20150191_0001_p000.pdf"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20150191_0001_p000.pdf",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
       "notes": "Maxime Legardez, précédemment attribué à cette fiche, est le fondateur de Convargo et non de Truckfly.",
       "factCheck": {
@@ -4747,21 +5786,7 @@
         },
         "evidenceCount": 5,
         "auditFile": "factcheck/batch-03.json"
-      },
-      "founderProfiles": [
-        {
-          "name": "Benoît Joncquez",
-          "linkedin": "https://www.linkedin.com/in/benoit-joncquez"
-        },
-        {
-          "name": "Corentin Smith",
-          "linkedin": "https://fr.linkedin.com/in/corentinsmith"
-        },
-        {
-          "name": "Arthur Ouaki",
-          "linkedin": "https://fr.linkedin.com/in/aouaki"
-        }
-      ]
+      }
     },
     {
       "id": "s8-willty",
@@ -4769,24 +5794,37 @@
       "name": "Willty",
       "formerNamesOrPivots": [],
       "founders": [
-        "Felipe Faraggi",
-        "Nathan Paucton",
-        "Rémy Pillot"
+        {
+          "name": "Felipe Faraggi"
+        },
+        {
+          "name": "Nathan Paucton"
+        },
+        {
+          "name": "Rémy Pillot"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Service non retrouvé comme activité actuelle.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.bonjouridee.com/willty/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.bonjouridee.com/willty/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -4808,21 +5846,33 @@
       "name": "Workiz",
       "formerNamesOrPivots": [],
       "founders": [
-        "François Marie",
-        "Julien Thiebault"
+        {
+          "name": "François Marie"
+        },
+        {
+          "name": "Julien Thiebault"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
-      "statusLabel": "Stoppé",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Projet de la cohorte non retrouvé avec certitude; homonyme international actif.",
-      "website": null,
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://wellfound.com/company/workiz/people"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://wellfound.com/company/workiz/people",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "low",
-      "confidenceLabel": "Faible",
       "seenInPhoto": false,
       "notes": "Ne pas confondre avec le SaaS américain Workiz.",
       "factCheck": {
@@ -4848,24 +5898,38 @@
         "Yubo"
       ],
       "founders": [
-        "Sacha Lazimi",
-        "Jérémie Aouate",
-        "Arthur Patora"
+        {
+          "name": "Sacha Lazimi"
+        },
+        {
+          "name": "Jérémie Aouate"
+        },
+        {
+          "name": "Arthur Patora"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Application sociale devenue Yubo, toujours active.",
       "website": "https://www.yubo.live",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.frenchtechjournal.com/yubo-international-hit/"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.frenchtechjournal.com/yubo-international-hit/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4890,23 +5954,35 @@
         "HelloZack"
       ],
       "founders": [
-        "Timothée Mével",
-        "Pierre-Emmanuel Saint-Esprit"
+        {
+          "name": "Timothée Mével"
+        },
+        {
+          "name": "Pierre-Emmanuel Saint-Esprit"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Activité intégrée au groupe Manutan; marque encore exploitée.",
       "website": "https://www.zack.eco",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
-        "foundersOrStatus": "https://www.manutan.com/fr/accueil/presse/actualites/2022/participation-zack"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.manutan.com/fr/accueil/presse/actualites/2022/participation-zack",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4928,23 +6004,35 @@
       "name": "AdVitam",
       "formerNamesOrPivots": [],
       "founders": [
-        "Philippe Meyralbe",
-        "Henri di Costanzo"
+        {
+          "name": "Philippe Meyralbe"
+        },
+        {
+          "name": "Henri di Costanzo"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Services funéraires numériques actifs.",
       "website": "https://advitam.fr",
-      "sources": {
-        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://advitam.fr"
-      },
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://advitam.fr",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": true,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -4966,22 +6054,36 @@
       "name": "Airkit",
       "formerNamesOrPivots": [],
       "founders": [
-        "Nicolas Deburaux",
-        "Marguerite Deschamps",
-        "Charles de Pelleport"
+        {
+          "name": "Nicolas Deburaux"
+        },
+        {
+          "name": "Marguerite Deschamps"
+        },
+        {
+          "name": "Charles de Pelleport"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "La société AIRKIT reste immatriculée; son objet a été étendu en 2024 à la commercialisation et livraison de produits alimentaires, sans preuve de continuité du service touristique initial.",
-      "website": null,
-      "sources": {
-        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://www.pappers.fr/entreprise/airkit-823501291"
-      },
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/airkit-823501291",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "medium",
-      "confidenceLabel": "Moyenne",
       "seenInPhoto": false,
       "notes": "Le projet NUMA concernait la réservation d'activités touristiques, pas le partage de données mobiles. Société juridiquement active mais pivot actuel non totalement documenté.",
       "factCheck": {
@@ -5005,23 +6107,35 @@
       "name": "Bob! Dépannage",
       "formerNamesOrPivots": [],
       "founders": [
-        "Hamza Hassoun",
-        "Blaise Chavanne"
+        {
+          "name": "Hamza Hassoun"
+        },
+        {
+          "name": "Blaise Chavanne"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Plateforme de dépannage encore accessible.",
       "website": "https://www.bobdepannage.fr",
-      "sources": {
-        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://bob-desk.fr/285578-2/"
-      },
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://bob-desk.fr/285578-2/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-21",
@@ -5046,24 +6160,37 @@
         "Mindsay"
       ],
       "founders": [
-        "Guillaume Laporte",
-        "Ilias Hicham",
-        "Pierre Pakey"
+        {
+          "name": "Guillaume Laporte"
+        },
+        {
+          "name": "Ilias Hicham"
+        },
+        {
+          "name": "Pierre Pakey"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Devenu Mindsay, acquis par Laiye en 2022.",
-      "website": null,
-      "sources": {
-        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://partechpartners.com/companies/mindsay"
-      },
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://partechpartners.com/companies/mindsay",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -5085,23 +6212,35 @@
       "name": "PhantomBuster",
       "formerNamesOrPivots": [],
       "founders": [
-        "Guillaume Boiret",
-        "Martin Tapia"
+        {
+          "name": "Guillaume Boiret"
+        },
+        {
+          "name": "Martin Tapia"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "SaaS d'automatisation commerciale actif.",
       "website": "https://phantombuster.com",
-      "sources": {
-        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://thephantomcompany.com/"
-      },
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://thephantomcompany.com/",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -5124,24 +6263,38 @@
       "name": "Shipup",
       "formerNamesOrPivots": [],
       "founders": [
-        "Romain Ogiela",
-        "Quentin Maurice",
-        "Térence Delahaye"
+        {
+          "name": "Romain Ogiela"
+        },
+        {
+          "name": "Quentin Maurice"
+        },
+        {
+          "name": "Térence Delahaye"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "exit",
-      "statusLabel": "Exit",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Participation majoritaire acquise par Global Blue en 2022.",
       "website": "https://www.shipup.co",
-      "sources": {
-        "cohort": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
-        "foundersOrStatus": "https://www.businesswire.com/news/home/20221004005613/en/Global-Blue-Announces-the-Acquisition-of-a-Majority-Stake-in-Shipup-a-Leading-Post-purchase-Experience-Solution"
-      },
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2016/10/20/exclu-numa-devoile-sa-9eme-promo/",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20221004005613/en/Global-Blue-Announces-the-Acquisition-of-a-Majority-Stake-in-Shipup-a-Leading-Post-purchase-Experience-Solution",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
@@ -5163,23 +6316,35 @@
       "name": "Syos",
       "formerNamesOrPivots": [],
       "founders": [
-        "Pauline Eveno",
-        "Maxime Carron"
+        {
+          "name": "Pauline Eveno"
+        },
+        {
+          "name": "Maxime Carron"
+        }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
-      "statusLabel": "En activité",
       "statusAsOf": "2026-08-21",
       "statusDetails": "Fabricant d'instruments et becs personnalisés actif.",
       "website": "https://syos.co",
-      "sources": {
-        "cohort": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
-        "foundersOrStatus": "https://syos.co/en-us/pages/about-us"
-      },
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+          "supports": [
+            "cohort"
+          ]
+        },
+        {
+          "url": "https://syos.co/en-us/pages/about-us",
+          "supports": [
+            "status",
+            "founders"
+          ]
+        }
+      ],
       "confidence": "high",
-      "confidenceLabel": "Élevée",
       "seenInPhoto": false,
-      "notes": null,
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-21",
