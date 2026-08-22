@@ -3,56 +3,151 @@
  "name": "Goodeed",
  "season": 10,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
-  "season": "partially_verified",
+  "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
-  "statusDetails": "verified",
+  "statusDetails": "corrected",
   "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Vincent Touboul"
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Vincent Touboul" },
+    { "name": "Thierry Théophile" }
+   ],
+   "apres": [
+    { "name": "Vincent Touboul Flachaire", "linkedin": "https://www.linkedin.com/in/vincent-touboul-flachaire-87857564/" },
+    { "name": "Théophile Thiery", "linkedin": "https://www.linkedin.com/in/theophilethiery/" },
+    { "name": "Shao-Yun Tang" }
+   ],
+   "preuves": [
+    "https://www.frenchweb.fr/la-start-up-du-jour-goodeed-quand-les-internautes-font-des-dons-sans-depenser-dargent/147507",
+    "https://www.bonjouridee.com/goodeed/",
+    "https://wydden.com/france-start-up-entreprise-goodeed/",
+    "https://www.linkedin.com/in/theophilethiery/",
+    "https://www.linkedin.com/in/vincent-touboul-flachaire-87857564/"
+   ]
   },
-  {
-   "name": "Thierry Théophile"
+  "statusDetails": {
+   "avant": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
+   "apres": "Publicité solidaire active : les internautes regardent de courtes publicités dont une partie du budget est reversée à des associations. Rachetée en mars 2018 par KissKissBankBank & Co (filiale de La Banque Postale), Goodeed a été rachetée en 2025 par son fondateur Vincent Touboul Flachaire, entouré d'une quinzaine d'investisseurs (dont Céline Lazorthes, Antoine Martel, Xavier Durant et Clément Lebras). Toujours immatriculée et active (SIREN 809 819 394, SAS, Paris), Vincent Touboul Flachaire en est président depuis mai 2025. Revendique une équipe d'une trentaine de personnes, 300+ partenaires annonceurs, plus de 10 M$ reversés à environ 800 projets solidaires, certifiée B Corp.",
+   "preuves": [
+    "https://www.maddyness.com/2018/03/21/la-banque-postale-rachete-goodeed-via-kisskissbankbank/",
+    "https://business.ladn.eu/news-business/actualites-startups/goodeed-rejoint-la-banque-postale-et-kisskissbankbank/",
+    "https://www.maddyness.com/2025/04/09/le-fondateur-de-goodeed-retrouve-sa-startup-7-ans-apres-lavoir-cede-a-la-banque-postale/",
+    "https://www.societe.com/societe/goodeed-809819394.html",
+    "https://en.goodeed.com"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Vincent Touboul Flachaire", "linkedin": "https://www.linkedin.com/in/vincent-touboul-flachaire-87857564/" },
+  { "name": "Théophile Thiery", "linkedin": "https://www.linkedin.com/in/theophilethiery/" },
+  { "name": "Shao-Yun Tang" }
  ],
  "status": "active",
- "statusDetails": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
- "archiveEvidence": [],
- "pressEvidence": [
+ "activityDescription": "Goodeed est une plateforme de publicité solidaire : les internautes regardent de courtes publicités dont une partie du budget publicitaire est reversée à des associations et projets solidaires choisis par l'utilisateur.",
+ "statusDetails": "Publicité solidaire active : les internautes regardent de courtes publicités dont une partie du budget est reversée à des associations. Rachetée en mars 2018 par KissKissBankBank & Co (filiale de La Banque Postale), Goodeed a été rachetée en 2025 par son fondateur Vincent Touboul Flachaire, entouré d'une quinzaine d'investisseurs (dont Céline Lazorthes, Antoine Martel, Xavier Durant et Clément Lebras). Toujours immatriculée et active (SIREN 809 819 394, SAS, Paris), Vincent Touboul Flachaire en est président depuis mai 2025. Revendique une équipe d'une trentaine de personnes, 300+ partenaires annonceurs, plus de 10 M$ reversés à environ 800 projets solidaires, certifiée B Corp.",
+ "acquirer": "",
+ "website": "https://en.goodeed.com",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=goodeed.com&timestamp=2017",
+   "montre": "L'API de disponibilité Wayback confirme l'existence d'une capture de goodeed.com au 21 janvier 2018 (http://web.archive.org/web/20180121210233/https://www.goodeed.com/). Le contenu de la capture elle-même n'a pas pu être récupéré : web.archive.org est bloqué par le proxy réseau de cet environnement (échec systématique, plusieurs formes d'URL essayées, y compris http:// et https://)."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=hub.numa.co/public/alumni&timestamp=2017",
+   "montre": "L'API de disponibilité Wayback confirme l'existence d'une capture de hub.numa.co/public/alumni au 28 septembre 2017 (http://web.archive.org/web/20170928193537/https://hub.numa.co/public/alumni). Contenu non récupérable pour la même raison de blocage proxy."
+  },
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
-   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "montre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 » ; source conservée du rapport précédent (nouvelle tentative de récupération lors de ce passage : échec HTTP 503, service Common Crawl indisponible au moment de la vérification)."
+  },
+  {
+   "url": "https://hub.numa.co/public/jobs/374",
+   "montre": "URL d'une offre d'emploi « Business Developer (super-héros commercial) at Goodeed » hébergée sur le hub NUMA (public/jobs), retrouvée via recherche — preuve directe du lien portefeuille NUMA/Goodeed. La page redirige désormais (301) vers www.numa.co, le hub alumni ayant été démantelé ; seul le titre indexé a pu être confirmé, pas le contenu complet de la page d'origine."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/la-start-up-du-jour-goodeed-quand-les-internautes-font-des-dons-sans-depenser-dargent/147507",
+   "titre": "La start-up du jour : Goodeed, quand les internautes font des dons sans dépenser d'argent",
+   "annee": "2014",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.bonjouridee.com/goodeed/",
+   "titre": "#startup : Goodeed, quand la pub que vous regardez finance vos dons",
+   "annee": "2014",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://wydden.com/france-start-up-entreprise-goodeed/",
+   "titre": "[La France a d'incroyable start-up] Goodeed",
+   "annee": "2018",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://fr.wikipedia.org/wiki/Goodeed",
+   "titre": "Goodeed — Wikipédia",
+   "annee": "2026",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2018/03/21/la-banque-postale-rachete-goodeed-via-kisskissbankbank/",
+   "titre": "La Banque Postale rachète Goodeed via KissKissBankBank",
+   "annee": "2018",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://business.ladn.eu/news-business/actualites-startups/goodeed-rejoint-la-banque-postale-et-kisskissbankbank/",
+   "titre": "Goodeed rejoint La Banque Postale et KissKissBankBank",
+   "annee": "2018",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.usine-digitale.fr/article/kisskissbankbank-s-offre-la-start-up-goodeed-specialiste-des-dons-par-la-publicite.N669679",
+   "titre": "KissKissBankBank s'offre la start-up Goodeed, spécialiste des dons par la publicité",
+   "annee": "2018",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2025/04/09/le-fondateur-de-goodeed-retrouve-sa-startup-7-ans-apres-lavoir-cede-a-la-banque-postale/",
+   "titre": "Le fondateur de Goodeed retrouve sa startup 7 ans après l'avoir cédée à la Banque Postale",
+   "annee": "2025",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/societe/goodeed-809819394.html",
+   "titre": "GOODEED — fiche société.com (SIREN 809 819 394)",
+   "annee": "2026",
+   "soutient": ["status"]
   },
   {
    "url": "https://www.annuaire-startups.pro/startup/goodeed/",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Goodeed: startup Webmarketing à Saint Mandé | Annuaire Start-Up France",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://en.goodeed.com",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "Impactful advertising with a purpose - Goodeed",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
- "activityDescription": "Goodeed est une plateforme de « webmarketing solidaire » : les internautes regardent de courtes publicités dont la majorité du budget est reversée à des associations et causes environnementales choisies par l'utilisateur.",
- "website": "https://en.goodeed.com"
+ "linkedinCompany": "https://www.linkedin.com/company/goodeed",
+ "openQuestions": [
+  "web.archive.org est resté totalement inaccessible depuis cet environnement pendant tout le passage (bloqué par le proxy réseau), y compris pour les deux captures dont l'existence est confirmée via l'API archive.org/wayback/available (goodeed.com au 21/01/2018, hub.numa.co/public/alumni au 28/09/2017) — impossible de consulter directement leur contenu pour recouper visuellement identité/équipe/saison.",
+  "Common Crawl (index.commoncrawl.org) a répondu HTTP 503 lors de cette tentative de re-vérification de la capture alumni d'octobre 2018 ; la source est conservée du rapport précédent mais n'a pas pu être re-confirmée pendant ce passage.",
+  "Aucun profil LinkedIn trouvé avec certitude pour Shao-Yun Tang, troisième cofondateur cité par plusieurs médias (FrenchWeb, Bonjour Idée, Wydden) aux côtés de Vincent Touboul Flachaire et Théophile Thiery.",
+  "Un article FrenchWeb cite un « Romain Wu, fondateur » de Goodeed sans que ce nom apparaisse dans l'encadré des fondateurs ni dans aucune autre source recoupée ; probable erreur éditoriale de FrenchWeb (peut-être confusion avec un intervenant lors d'une interview), non retenue comme fondateur faute de corroboration.",
+  "La page Wikipédia mentionne aussi Tristan Joly et Thomas Beauvallet comme rencontrés par Vincent Touboul Flachaire en janvier 2014, juste avant le lancement bêta — rôle exact (cofondateurs vs. premiers collaborateurs) non tranché par les sources disponibles ; non ajoutés à la liste des fondateurs faute de récurrence dans les autres sources.",
+  "Le numéro exact de saison (10) provient de la base alumni NUMA (capture Common Crawl 2018, conservée du rapport précédent) ; aucune annonce de presse contemporaine (2016-2017) mentionnant explicitement « saison 10 » et Goodeed n'a pu être localisée pendant ce passage (recherche interrompue par épuisement du quota WebSearch de la session)."
+ ],
+ "summary": "Goodeed (« publicité solidaire », NUMA saison 10) est fondée en février 2014 par Vincent Touboul Flachaire, Théophile Thiery et Shao-Yun Tang — correction majeure par rapport à la fiche précédente qui donnait un deuxième fondateur mal orthographié (« Thierry Théophile » au lieu de « Théophile Thiery ») et omettait Shao-Yun Tang. Rachetée en mars 2018 par KissKissBankBank & Co (La Banque Postale), l'entreprise a été rachetée en 2025 par son fondateur avec une quinzaine d'investisseurs ; elle reste active, immatriculée (SIREN 809 819 394), site en ligne, statut confirmé 'active'. Lien avec NUMA corroboré par une offre d'emploi archivée sur hub.numa.co. web.archive.org bloqué par le proxy réseau pendant tout le passage : l'existence de captures a pu être confirmée via l'API de disponibilité mais pas leur contenu."
 }

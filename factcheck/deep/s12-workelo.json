@@ -3,17 +3,27 @@
  "name": "Workelo",
  "season": 12,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified",
+  "statusDetails": "corrected",
   "website": "verified"
  },
- "corrections": {},
+ "corrections": {
+  "statusDetails": {
+   "avant": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
+   "apres": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A levé environ 1,1 à 1,4 M€ en 2019 auprès du fonds Holnest et de business angels (dont Patrick Bertrand, ex-Cegid, et David Bizer, ex-RH Google), puis racheté son concurrent Ubbyk fin 2020 pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés.",
+   "preuves": [
+    "https://www.frenchweb.fr/insiders-rh-workelo-leve-11-million-deuros-pour-simplifier-lonboarding-des-collaborateurs/364763",
+    "https://www.rhmatin.com/qvt/motivation-engagement/onboarding-workelo-renforce-sa-position-en-france-en-acquerant-ubbyk.html",
+    "https://www.workelo.eu/societe/"
+   ]
+  }
+ },
  "founders": [
   {
    "name": "Alexandre Grenier",
@@ -24,43 +34,69 @@
   }
  ],
  "status": "active",
- "statusDetails": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
- "archiveEvidence": [],
+ "activityDescription": "Workelo (édité par TEAMR.IO SAS) est une plateforme SaaS RH qui automatise et personnalise le parcours collaborateur : préboarding, onboarding, mobilité interne et offboarding.",
+ "statusDetails": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A levé environ 1,1 à 1,4 M€ en 2019 auprès du fonds Holnest et de business angels (dont Patrick Bertrand, ex-Cegid, et David Bizer, ex-RH Google), puis racheté son concurrent Ubbyk fin 2020 pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés.",
+ "acquirer": "",
+ "website": "https://www.workelo.eu",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=hub.numa.co/public/alumni&timestamp=2018",
+   "montre": "L'API Wayback Availability confirme l'existence d'une capture de hub.numa.co/public/alumni datée du 23 octobre 2018 (20181023051215) — cohérent avec la capture Common Crawl du même mois déjà citée comme preuve de la cohorte saison 12. Le contenu de la page elle-même n'a pas pu être récupéré : le domaine web.archive.org est bloqué par le proxy réseau de cet environnement pour toute requête directe (CDX ou snapshot), seule l'API archive.org/wayback/available (domaine différent) a répondu."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=workelo.eu&timestamp=2018",
+   "montre": "Confirme l'existence d'une capture ancienne de workelo.eu (la plus proche de 2018 disponible date du 3 avril 2019, 20190403122434), preuve que le site était déjà en ligne peu après la période de la promotion. Contenu non consultable pour la même raison de blocage réseau que ci-dessus."
+  }
+ ],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://recherche-entreprises.api.gouv.fr/search?q=teamr.io",
    "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 831337498",
-   "soutient": [
-    "founders",
-    "status"
-   ]
+   "annee": "2026",
+   "soutient": ["founders", "status"]
   },
   {
    "url": "https://www.workelo.eu",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "Site officiel Workelo",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.workelo.eu/societe/",
+   "titre": "Page « Société » de Workelo — historique (2017-2021), acquisition Ubbyk, chiffres clients",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
   },
   {
    "url": "https://www.rhmatin.com/qvt/motivation-engagement/onboarding-workelo-renforce-sa-position-en-france-en-acquerant-ubbyk.html",
-   "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Onboarding : Workelo acquiert Ubbyk pour consolider sa position en France",
+   "annee": "2020",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://blog.workelo.eu/presentation-rencontrez-alexandre-et-mathieu-les-2-fondateurs-de-workelo/",
+   "titre": "Présentation des fondateurs de Workelo (Alexandre Grenier et Mathieu Cochet), parcours et origine du projet",
+   "annee": "2017",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/insiders-rh-workelo-leve-11-million-deuros-pour-simplifier-lonboarding-des-collaborateurs/364763",
+   "titre": "[INSIDERS] RH : Workelo lève 1,1 million d'euros pour simplifier l'onboarding des collaborateurs",
+   "annee": "2019",
+   "soutient": ["status", "founders"]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
- "activityDescription": "Workelo (édité par TEAMR.IO SAS) est une plateforme SaaS RH qui automatise et personnalise le parcours collaborateur : préboarding, onboarding, mobilité interne et offboarding.",
- "website": "https://www.workelo.eu"
+ "linkedinCompany": "https://www.linkedin.com/company/workelo/",
+ "openQuestions": [
+  "web.archive.org (domaine complet) est bloqué par le proxy réseau de cet environnement pour toute requête directe (CDX et snapshots testés sous plusieurs formes) : impossible de visionner directement le contenu de la capture hub.numa.co/public/alumni du 23/10/2018 ni celle de workelo.eu du 03/04/2019, malgré la confirmation via l'API archive.org/wayback/available (domaine différent, non bloqué) que ces captures existent bien. La cohorte saison 12 repose donc sur la preuve Common Crawl déjà établie lors du passage précédent, non re-consultable cette fois-ci (503 du service Common Crawl au moment de l'audit).",
+  "Le profil LinkedIn personnel de Mathieu Cochet (co-fondateur et CTO) n'a pas pu être identifié avec certitude : les résultats de recherche renvoient des homonymes (un infirmier, un auteur-compositeur, une autre personne rattachée à une SAS Cochet) plutôt que le cofondateur de Workelo. Crunchbase et PitchBook confirment son rôle (Polytechnique, HEC, 7 ans chez Bain) mais sans lien LinkedIn vérifiable trouvé.",
+  "Écart mineur entre sources sur le montant de la levée de fonds de 2019 : FrenchWeb (juin 2019) annonce 1,1 M€, RH Matin (novembre 2020, rétrospectif) mentionne 1,4 M€ levés en juin 2019. Il s'agit probablement de la même opération avec un arrondi ou un tour complémentaire, non tranché ici."
+ ],
+ "summary": "Fiche largement confirmée : Workelo (Alexandre Grenier CEO, Mathieu Cochet CTO/co-fondateur) est une SaaS RH d'onboarding/offboarding fondée en janvier 2017, toujours active en 2026 sous l'entité TEAMR.IO SAS avec un site en ligne et fonctionnel. La cohorte saison 12 NUMA repose sur la preuve Common Crawl déjà établie (non re-vérifiable ce jour, web.archive.org étant bloqué par le proxy réseau et Common Crawl ayant renvoyé une erreur 503). Correction apportée : contrairement à l'affirmation précédente, la presse d'époque documente bien une levée de fonds d'environ 1,1 à 1,4 M€ en juin 2019 (fonds Holnest, business angels ex-Cegid et ex-Google RH), avant le rachat du concurrent Ubbyk fin 2020. Page entreprise LinkedIn identifiée (linkedin.com/company/workelo). Le LinkedIn personnel de Mathieu Cochet reste introuvable avec certitude."
 }
