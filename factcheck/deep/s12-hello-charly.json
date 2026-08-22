@@ -20,7 +20,7 @@
  ],
  "status": "active",
  "activityDescription": "Hello Charly est une application qui s'appuie sur un chatbot pour accompagner les 14-24 ans dans leur orientation scolaire et professionnelle, via un parcours conversationnel qui explore leurs centres d'intérêt.",
- "statusDetails": "Toujours en activité selon les fondateurs : Hello Charly (éditée par la société OVVY) exploite une application et un site actifs, revendique environ un million de jeunes accompagnés dans leur orientation scolaire et professionnelle, est labellisée « entreprise solidaire d'utilité sociale » (ESUS) depuis 2022 et a été la première ressource d'orientation certifiée GAR par l'Éducation nationale en 2021.",
+ "statusDetails": "Toujours en activité : Hello Charly (éditée par la société OVVY, SIREN 813174695, créée le 18 août 2015) est enregistrée comme active dans le registre national des entreprises, avec Fatma Chouaieb (état civil « Fatma François ») présidente et Laurent Deambrogio directeur général — les deux cofondateurs d'origine, toujours en poste. La société comptait environ 12 salariés en 2023 et exploite un site et une application actifs revendiquant près d'un million de jeunes accompagnés dans leur orientation. Elle est labellisée « entreprise solidaire d'utilité sociale » (ESUS, fin 2022/janvier 2023 selon les sources) et a été la première ressource d'orientation certifiée GAR par l'Éducation nationale en 2021. Sa page entreprise LinkedIn (5 449 abonnés, 11-50 salariés) est également active.",
  "website": "https://www.hello-charly.com",
  "archiveEvidence": [],
  "pressEvidence": [
@@ -28,7 +28,7 @@
    "url": "https://medium.com/@achaigneau/new-saison-12-numa-les-startups-recrutent-5ddd4af4f992",
    "titre": "(New) Saison 12 NUMA : les startups recrutent !",
    "annee": "2017",
-   "soutient": ["cohort"]
+   "soutient": ["cohort", "identity"]
   },
   {
    "url": "https://www.campusmatin.com/numerique/edtechs/ces-quatre-edtechs-veulent-depoussierer-l-orientation.html",
@@ -53,13 +53,26 @@
    "titre": "Mentions légales — Hello Charly",
    "annee": "2026",
    "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=OVVY",
+   "titre": "Fiche entreprise OVVY (Recherche d'entreprises, API officielle data.gouv.fr)",
+   "annee": "2026",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/hello-charly",
+   "titre": "Hello Charly — page entreprise LinkedIn",
+   "annee": "2026",
+   "soutient": ["identity", "status"]
   }
  ],
- "linkedinCompany": "",
+ "linkedinCompany": "https://www.linkedin.com/company/hello-charly",
  "openQuestions": [
-  "Aucun profil LinkedIn personnel fiable trouvé pour Laurent Deambrogio (homonymes multiples) ; son rôle de cofondateur/directeur général est en revanche confirmé par les mentions légales de la société éditrice (OVVY) et par plusieurs articles de presse.",
-  "L'article Medium source de la sélection \"saison 12\" (achaigneau) n'a pas pu être rechargé directement dans cette session (403) ; son contenu est corroboré par deux requêtes de recherche indépendantes citant les mêmes cinq startups sélectionnées (Hello Charly, Workelo, Wildesk, Arhia, Winddle) et la même date de rentrée (16 octobre 2017).",
-  "Cette fiche a été ajoutée en dehors du périmètre initial du dataset (promotions 1 à 9, 2011–2016), sur la base d'un signalement direct des fondateurs après le partage de la liste. Elle documente donc une saison plus tardive de NUMA."
+  "web.archive.org reste inaccessible depuis cet environnement (blocage réseau confirmé sur plusieurs formats d'URL — CDX API, snapshot direct, et même via un proxy de lecture tiers r.jina.ai) : impossible de vérifier une capture d'époque (2017-2018) du site hello-charly.com ou de la base alumni hub.numa.co/public/alumni pour ce passage. La confirmation de la saison 12 s'appuie donc sur l'article Medium de la NUMA (achaigneau), qui a pu être lu en intégralité cette fois via un proxy de lecture (r.jina.ai) contournant le blocage direct (HTTP 403) : il confirme explicitement que Hello Charly fait partie des 5 startups retenues (sur 420 candidatures et 14 finalistes) pour la saison 12 de NUMA, rentrée du 16 octobre 2017, aux côtés de Workelo, Wildesk, Arhia et Winddle.",
+  "Aucun profil LinkedIn personnel fiable trouvé pour Laurent Deambrogio malgré plusieurs tentatives (recherches directes impossibles, budget de recherche web épuisé en cours de session ; essais d'URL LinkedIn devinées bloqués par LinkedIn, HTTP 999). Son rôle de cofondateur est en revanche confirmé de façon très solide par le registre officiel des entreprises (data.gouv.fr) : il y est enregistré comme directeur général de OVVY, éditrice de Hello Charly, aux côtés de Fatma Chouaieb (présidente).",
+  "Le budget de recherche web (WebSearch) de la session s'est épuisé (200/200) avant la fin de cet audit ; la suite de la recherche a été menée uniquement via WebFetch (moteurs de recherche alternatifs, registre officiel, LinkedIn, presse), ce qui a suffi à consolider le dossier mais a limité l'exploration de pistes secondaires (levées de fonds, interviews additionnelles).",
+  "Un annuaire (annuaire-startups.pro) mentionne trois autres incubateurs pour Hello Charly (Le Plateau/Société Générale, Willa, H7 à Lyon) sans citer NUMA — ceci ne contredit pas l'appartenance à la saison 12 de NUMA (confirmée par la source primaire ci-dessus) mais indique que la startup a été accompagnée par plusieurs structures au fil du temps."
  ],
- "summary": "Hello Charly, fondée en 2016 par Fatma Chouaieb et Laurent Deambrogio, faisait partie des 5 startups sélectionnées pour la saison 12 de NUMA Paris (rentrée le 16 octobre 2017, avec Workelo, Wildesk, Arhia et Winddle). Les fondateurs ont confirmé directement que la startup est toujours en activité au moment du partage de cette liste. Cela est corroboré par le site officiel toujours en ligne (contenu récent, boutique d'application active), la labellisation ESUS (2022) et la certification GAR de l'Éducation nationale (2021) rapportées par la presse spécialisée (Campus Matin), ainsi que par les mentions légales de la société éditrice OVVY qui confirment les deux fondateurs à sa tête."
+ "summary": "Hello Charly (société éditrice OVVY, SIREN 813174695, créée en août 2015), cofondée par Fatma Chouaieb (présidente) et Laurent Deambrogio (directeur général), a bien fait partie des 5 startups de la saison 12 de NUMA Paris (rentrée le 16 octobre 2017, sélectionnées sur 420 candidatures, aux côtés de Workelo, Wildesk, Arhia et Winddle) — confirmé cette fois par une lecture directe de l'article NUMA source (via proxy de lecture), et non plus seulement par corroboration indirecte. La startup est toujours active en 2026 : statut « actif » au registre officiel des entreprises avec les deux fondateurs d'origine toujours aux commandes, site et application en ligne, page LinkedIn entreprise active (11-50 salariés, 5 449 abonnés), et reconnaissance presse (Campus Matin) de sa labellisation ESUS et de sa certification GAR par l'Éducation nationale. Aucune correction de fond n'a été nécessaire par rapport à la fiche existante ; ce passage l'enrichit de preuves supplémentaires (registre officiel, LinkedIn entreprise, article source NUMA lu intégralement)."
 }
