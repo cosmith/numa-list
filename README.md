@@ -16,6 +16,12 @@ Puis ouvrir `http://localhost:4173`.
 
 Les données sont dans [`data.json`](data.json). Les corrections et compléments sont les bienvenus via une pull request.
 
+Le fichier est validé en CI contre [`data.schema.json`](data.schema.json). Pour vérifier localement :
+
+```sh
+npx ajv-cli@5 validate --spec=draft2020 --all-errors -s data.schema.json -d data.json
+```
+
 ## Hébergement
 
 Le site est publié sur `numa.cosmith.fr`.

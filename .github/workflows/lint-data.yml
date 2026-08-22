@@ -1,0 +1,25 @@
+name: Lint data.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - data.json
+      - data.schema.json
+      - .github/workflows/lint-data.yml
+  pull_request:
+    paths:
+      - data.json
+      - data.schema.json
+      - .github/workflows/lint-data.yml
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Valider data.json contre data.schema.json
+        run: npx --yes ajv-cli@5 validate --spec=draft2020 --all-errors -s data.schema.json -d data.json
