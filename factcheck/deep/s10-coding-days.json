@@ -1,0 +1,41 @@
+{
+ "id": "s10-coding-days",
+ "name": "Coding Days",
+ "season": 10,
+ "checkedAt": "2026-08-22",
+ "verdict": "unverifiable",
+ "fields": {
+  "season": "partially_verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "unverifiable",
+  "status": "unverifiable",
+  "statusDetails": "unverifiable"
+ },
+ "corrections": {},
+ "founders": [],
+ "status": "stopped",
+ "statusDetails": "Présente dans le portfolio NUMA Paris et dans la base alumni officielle de NUMA (saison 10, tag « Alive » en 2018), mais aucune information vérifiable (fondateurs, activité précise) n'a pu être retrouvée au-delà de cette présence : le domaine codingdays.fr a disparu et codingdays.com redirige vers une page de vente de domaine GoDaddy en 2026.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/startup/accelerateur-numa-paris-accceleration/",
+   "titre": "",
+   "soutient": [
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Fondateurs et activité précise non retrouvés malgré recherche ; fiche volontairement minimale plutôt qu'incomplète par extrapolation."
+ ],
+ "summary": "Fondateurs et activité précise non retrouvés malgré recherche ; fiche volontairement minimale plutôt qu'incomplète par extrapolation."
+}

@@ -1,0 +1,58 @@
+{
+ "id": "s11-izifret",
+ "name": "IZIFRET",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Stéphane Raynal"
+  },
+  {
+   "name": "Mahsum Yildirim"
+  },
+  {
+   "name": "Guillaume Deslandes"
+  }
+ ],
+ "status": "stopped",
+ "statusDetails": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=izifret",
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 829380062",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/izifret",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
+ "activityDescription": "Izifret était une marketplace B2B de fret mettant en relation des industriels expéditeurs avec des transporteurs routiers et multimodaux, avec suivi de livraison en temps réel."
+}

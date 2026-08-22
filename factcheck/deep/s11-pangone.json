@@ -1,0 +1,69 @@
+{
+ "id": "s11-pangone",
+ "name": "Pangone",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Stanislas De Zutter",
+   "linkedin": "https://fr.linkedin.com/in/stanislasdezutter"
+  },
+  {
+   "name": "Félix Levious",
+   "linkedin": "https://fr.linkedin.com/in/felix-levious"
+  },
+  {
+   "name": "Jessym Reziga",
+   "linkedin": "https://fr.linkedin.com/in/jessym-reziga-68024855"
+  }
+ ],
+ "status": "stopped",
+ "statusDetails": "Micro-learning sous forme de cartes courtes, arrêté vers 2017. La même équipe fondatrice a ensuite créé AirTeach (2017-2019, hébergée à Station F) puis Santé Académie (2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous un autre nom. L'entité légale d'origine (SIREN 821971223) existe toujours mais sous le nom « Santé Académie Groupe », avec un chiffre d'affaires nul en 2024 (structure de holding dormante).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/168397/pangone",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=821971223",
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 821971223",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.brefeco.com/actualite/formation-professionnelle/le-lyonnais-sante-academie-leve-12-millions-deuros",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Micro-learning sous forme de cartes courtes, arrêté vers 2017. La même équipe fondatrice a ensuite créé AirTeach (2017-2019, hébergée à Station F) puis Santé Académie (2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous un autre nom. L'entité légale d'origine (SIREN 821971223) existe toujours mais sous le nom « Santé Académie Groupe », avec un chiffre d'affaires nul en 2024 (structure de holding dormante).",
+ "activityDescription": "Pangone permettait à des formateurs, managers et enseignants de créer et diffuser de courtes cartes d'apprentissage (« micro-learning ») consultables en moins de 5 minutes sur mobile."
+}

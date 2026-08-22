@@ -1,0 +1,65 @@
+{
+ "id": "s11-kintribe",
+ "name": "KinTribe",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Chloé Desault",
+   "linkedin": "https://fr.linkedin.com/in/cdesault"
+  },
+  {
+   "name": "Louis Laroche"
+  }
+ ],
+ "status": "stopped",
+ "statusDetails": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.societe.com/societe/kintribe-823367933.html",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://medium.com/hiridium/hiridium-lhistoire-d-un-pivot-bb31758f5615",
+   "titre": "Hiridium — l'histoire d'un pivot",
+   "soutient": [
+    "cohort",
+    "identity",
+    "status"
+   ]
+  },
+  {
+   "url": "https://medium.com/hiridium/quand-deux-recruteurs-cr%C3%A9ent-leur-propre-logiciel-de-recrutement-89db0dbc9661",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
+ "activityDescription": "KinTribe était un outil SaaS destiné aux recruteurs et sourceurs pour constituer et gérer des viviers de candidats passifs importés depuis LinkedIn."
+}

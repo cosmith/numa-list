@@ -1,0 +1,63 @@
+{
+ "id": "s10-medelse",
+ "name": "Medelse",
+ "season": 10,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Thomas Gendron"
+  },
+  {
+   "name": "Tristan Renoul"
+  }
+ ],
+ "status": "exit",
+ "statusDetails": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.businessman.fr/information-veille-economique-actualite-entreprise-industrie/information-veille-economique-actualite-entreprise-pharmacie-medical-cosmetique/medtech-medelse-planifie-une-levee-de-fonds-de-600-000e/524689",
+   "titre": "Medelse, membre de la 10ème promotion de l'accélérateur NUMA",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/startup/medelse/",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://synergie-care.fr",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
+ "activityDescription": "Medelse était une plateforme mettant en relation les professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins) avec des établissements pour des missions de remplacement.",
+ "acquirer": "Synergie Care"
+}

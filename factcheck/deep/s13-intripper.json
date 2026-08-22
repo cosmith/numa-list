@@ -1,0 +1,35 @@
+{
+ "id": "s13-intripper",
+ "name": "Intripper",
+ "season": 13,
+ "checkedAt": "2026-08-22",
+ "verdict": "unverifiable",
+ "fields": {
+  "season": "corrected",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "unverifiable",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [],
+ "status": "stopped",
+ "statusDetails": "Plateforme destinée aux grands lieux de passage (aéroports, gares, centres commerciaux) pour développer des opportunités de revenus additionnels. Le site intripper.com n'affiche plus qu'une page d'hébergement par défaut ; aucune fiche de registre d'entreprise ni dépôt de marque n'a été retrouvé sous ce nom, et les fondateurs n'ont pas pu être identifiés.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo). Fondateurs non identifiés malgré recherche."
+ ],
+ "summary": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo). Fondateurs non identifiés malgré recherche.",
+ "activityDescription": "Intripper aidait les grands lieux de passage (aéroports, gares, centres commerciaux) à développer des opportunités de revenus additionnels."
+}

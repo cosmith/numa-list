@@ -1,0 +1,87 @@
+{
+ "id": "s6-deepomatic",
+ "name": "Deepomatic",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "conflicting",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Augustin Marty",
+   "linkedin": "https://www.linkedin.com/in/augustindeepomatic/"
+  },
+  {
+   "name": "Vincent Delaitre",
+   "linkedin": "https://www.linkedin.com/in/vincent-delaitre/"
+  },
+  {
+   "name": "Aloïs Brunel",
+   "linkedin": "https://fr.linkedin.com/in/aloisbrunel"
+  }
+ ],
+ "status": "exit",
+ "statusDetails": "Deepomatic a été racheté par la société britannique IQGeo : négociations exclusives annoncées le 24 mars 2025, acquisition finalisée le 4 août 2025. Le site deepomatic.com affiche désormais « Deepomatic is now part of IQGeo ».",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://medium.com/@numaparis/le-crash-test-episode-9-deepomatic-le-shazam-de-la-mode-6e806553ad0a",
+   "titre": "Le Crash Test — Épisode 9 : Deepomatic, le Shazam de la mode",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.actuia.com/en/actors/deepomatic/",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://techcrunch.com/2019/02/07/deepomatic-raises-6-2-million-for-its-industrial-computer-vision-technology",
+   "titre": "",
+   "soutient": [
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.iqgeo.com/news/iqgeo-enters-exclusive-negotiations-to-acquire-ai-software-developer-deepomatic",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://deepomatic.com/blog/iqgeo-completes-deepomatic-acquisition",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+   "titre": "Annonce de presse des 12 startups officiellement sélectionnées pour la saison 6 (Deepomatic absente de cette liste)",
+   "soutient": [
+    "cohort"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Startup identifiée comme saison 6 par le blog NUMA lui-même (émission « Crash Test » consacrée à Deepomatic) et par la liste alumni de NUMA, mais absente de l'annonce de presse contemporaine des 12 startups officiellement sélectionnées pour cette saison (Journal du Net, sept. 2014). Ajoutée malgré cette divergence, la source NUMA elle-même faisant foi en priorité."
+ ],
+ "summary": "Startup identifiée comme saison 6 par le blog NUMA lui-même (émission « Crash Test » consacrée à Deepomatic) et par la liste alumni de NUMA, mais absente de l'annonce de presse contemporaine des 12 startups officiellement sélectionnées pour cette saison (Journal du Net, sept. 2014). Ajoutée malgré cette divergence, la source NUMA elle-même faisant foi en priorité.",
+ "activityDescription": "Deepomatic est une plateforme d'IA de vision par ordinateur, à l'origine un moteur de reconnaissance visuelle pour la mode, réorientée vers l'automatisation du contrôle qualité et des opérations terrain pour les opérateurs télécoms et réseaux.",
+ "website": "https://deepomatic.com",
+ "acquirer": "IQGeo"
+}

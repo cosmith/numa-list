@@ -1,0 +1,67 @@
+{
+ "id": "s10-ma-coiffeuse-afro",
+ "name": "Ma Coiffeuse Afro",
+ "season": 10,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "partially_verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "conflicting",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Rebecca Cathline"
+  },
+  {
+   "name": "Emmanuel Derozin"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "Plateforme active mettant en relation des femmes aux cheveux texturés/afro avec des coiffeurs spécialisés (tresses, soins naturels, à domicile) ; revendique 200 000+ membres. A levé 350 K€ en novembre 2019 (CRE.VC, Denis Fayolle) ; fondatrice distinguée parmi les « 10 femmes digitales de l'année » en 2020.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/startup/ma-coiffeuse-afro/",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.relations-publiques.pro/156317/ma-coiffeuse-afro-la-success-story-dune-start-up-qui-prone-une-beaute-all-inclusive.html",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://macoiffeuseafro.com",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Les sources divergent sur la composition exacte de l'équipe fondatrice : certaines ne créditent que Rebecca Cathline comme fondatrice, l'annuaire NUMA Paris ajoutant Emmanuel Derozin."
+ ],
+ "summary": "Les sources divergent sur la composition exacte de l'équipe fondatrice : certaines ne créditent que Rebecca Cathline comme fondatrice, l'annuaire NUMA Paris ajoutant Emmanuel Derozin.",
+ "activityDescription": "Ma Coiffeuse Afro est une plateforme qui met en relation les femmes aux cheveux texturés ou afro avec des coiffeurs et coiffeuses spécialisés, pour des prestations en salon ou à domicile.",
+ "website": "https://macoiffeuseafro.com"
+}

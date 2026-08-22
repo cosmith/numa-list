@@ -2,7 +2,7 @@
   "schemaVersion": "2.0.0",
   "dataset": {
     "title": "Startups passées par Le Camping / NUMA Paris",
-    "scope": "Promotions 1 à 9, sélections 2011–2016, plus quelques exceptions signalées directement par leurs fondateurs (ex. saison 12)",
+    "scope": "Promotions 1 à 9 (sélections 2011–2016), complétées par les saisons 10 à 13 identifiées via la base alumni officielle de NUMA (saisons 10 à 12, plus une cohorte finale non numérotée fin 2018 avant l'arrêt de l'accélération de startups par NUMA en janvier 2019), et par quelques exceptions ponctuelles signalées directement par leurs fondateurs",
     "generatedAt": "2026-08-22",
     "statusAsOf": "2026-08-22",
     "language": "fr",
@@ -11300,6 +11300,1455 @@
         "auditFile": "factcheck/deep/s12-hello-charly.json"
       },
       "activityDescription": "Hello Charly est une application qui s'appuie sur un chatbot pour accompagner les 14-24 ans dans leur orientation scolaire et professionnelle, via un parcours conversationnel qui explore leurs centres d'intérêt."
+    },
+    {
+      "id": "s6-deepomatic",
+      "season": 6,
+      "name": "Deepomatic",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Augustin Marty",
+          "linkedin": "https://www.linkedin.com/in/augustindeepomatic/"
+        },
+        {
+          "name": "Vincent Delaitre",
+          "linkedin": "https://www.linkedin.com/in/vincent-delaitre/"
+        },
+        {
+          "name": "Aloïs Brunel",
+          "linkedin": "https://fr.linkedin.com/in/aloisbrunel"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Deepomatic a été racheté par la société britannique IQGeo : négociations exclusives annoncées le 24 mars 2025, acquisition finalisée le 4 août 2025. Le site deepomatic.com affiche désormais « Deepomatic is now part of IQGeo ».",
+      "website": "https://deepomatic.com",
+      "sources": [
+        {
+          "url": "https://medium.com/@numaparis/le-crash-test-episode-9-deepomatic-le-shazam-de-la-mode-6e806553ad0a",
+          "title": "Le Crash Test — Épisode 9 : Deepomatic, le Shazam de la mode",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.actuia.com/en/actors/deepomatic/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://techcrunch.com/2019/02/07/deepomatic-raises-6-2-million-for-its-industrial-computer-vision-technology",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.iqgeo.com/news/iqgeo-enters-exclusive-negotiations-to-acquire-ai-software-developer-deepomatic",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://deepomatic.com/blog/iqgeo-completes-deepomatic-acquisition",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+          "title": "Annonce de presse des 12 startups officiellement sélectionnées pour la saison 6 (Deepomatic absente de cette liste)",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Startup identifiée comme saison 6 par le blog NUMA lui-même (émission « Crash Test » consacrée à Deepomatic) et par la liste alumni de NUMA, mais absente de l'annonce de presse contemporaine des 12 startups officiellement sélectionnées pour cette saison (Journal du Net, sept. 2014). Ajoutée malgré cette divergence, la source NUMA elle-même faisant foi en priorité.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "conflicting",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 6,
+        "auditFile": "factcheck/deep/s6-deepomatic.json"
+      },
+      "activityDescription": "Deepomatic est une plateforme d'IA de vision par ordinateur, à l'origine un moteur de reconnaissance visuelle pour la mode, réorientée vers l'automatisation du contrôle qualité et des opérations terrain pour les opérateurs télécoms et réseaux.",
+      "acquirer": "IQGeo"
+    },
+    {
+      "id": "s10-beewake",
+      "season": 10,
+      "name": "Beewake",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Jérémie Catez"
+        },
+        {
+          "name": "Sébastien Trouillet"
+        },
+        {
+          "name": "Gabriel Munch-Andersen"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Marketplace de location d'espaces hôteliers inoccupés en journée pour voyageurs d'affaires ; CB Insights classe la société « Dead » et le domaine beewake.com héberge désormais un contenu de jeux d'argent en ligne sans rapport, signe d'un abandon suivi d'une reprise du nom de domaine.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.cbinsights.com/company/beewake-corp",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://startupxplore.com/en/startups/beewake",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Rattachement à la saison 10 corroboré par la base alumni officielle de NUMA (co-occurrence avec Medelse, dont la « 10ème promotion » est confirmée par une source de presse indépendante) plutôt que par une annonce de presse dédiée à Beewake elle-même.",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "partially_verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 3
+      },
+      "activityDescription": "Beewake était une marketplace permettant de réserver des espaces hôteliers inoccupés en journée (chambres, salles de réunion) pour les voyageurs d'affaires et freelances."
+    },
+    {
+      "id": "s10-coding-days",
+      "season": 10,
+      "name": "Coding Days",
+      "formerNamesOrPivots": [],
+      "founders": [],
+      "foundersPubliclyIdentified": false,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Présente dans le portfolio NUMA Paris et dans la base alumni officielle de NUMA (saison 10, tag « Alive » en 2018), mais aucune information vérifiable (fondateurs, activité précise) n'a pu être retrouvée au-delà de cette présence : le domaine codingdays.fr a disparu et codingdays.com redirige vers une page de vente de domaine GoDaddy en 2026.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/startup/accelerateur-numa-paris-accceleration/",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "low",
+      "notes": "Fondateurs et activité précise non retrouvés malgré recherche ; fiche volontairement minimale plutôt qu'incomplète par extrapolation.",
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "partially_verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "unverifiable",
+          "status": "unverifiable",
+          "statusDetails": "unverifiable"
+        },
+        "evidenceCount": 2
+      }
+    },
+    {
+      "id": "s10-goodeed",
+      "season": 10,
+      "name": "Goodeed",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Vincent Touboul"
+        },
+        {
+          "name": "Thierry Théophile"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
+      "website": "https://en.goodeed.com",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/startup/goodeed/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://en.goodeed.com",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "partially_verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 3
+      },
+      "activityDescription": "Goodeed est une plateforme de « webmarketing solidaire » : les internautes regardent de courtes publicités dont la majorité du budget est reversée à des associations et causes environnementales choisies par l'utilisateur."
+    },
+    {
+      "id": "s10-ma-coiffeuse-afro",
+      "season": 10,
+      "name": "Ma Coiffeuse Afro",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Rebecca Cathline"
+        },
+        {
+          "name": "Emmanuel Derozin"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme active mettant en relation des femmes aux cheveux texturés/afro avec des coiffeurs spécialisés (tresses, soins naturels, à domicile) ; revendique 200 000+ membres. A levé 350 K€ en novembre 2019 (CRE.VC, Denis Fayolle) ; fondatrice distinguée parmi les « 10 femmes digitales de l'année » en 2020.",
+      "website": "https://macoiffeuseafro.com",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/startup/ma-coiffeuse-afro/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.relations-publiques.pro/156317/ma-coiffeuse-afro-la-success-story-dune-start-up-qui-prone-une-beaute-all-inclusive.html",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://macoiffeuseafro.com",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Les sources divergent sur la composition exacte de l'équipe fondatrice : certaines ne créditent que Rebecca Cathline comme fondatrice, l'annuaire NUMA Paris ajoutant Emmanuel Derozin.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "partially_verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "conflicting",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Ma Coiffeuse Afro est une plateforme qui met en relation les femmes aux cheveux texturés ou afro avec des coiffeurs et coiffeuses spécialisés, pour des prestations en salon ou à domicile."
+    },
+    {
+      "id": "s10-medelse",
+      "season": 10,
+      "name": "Medelse",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Thomas Gendron"
+        },
+        {
+          "name": "Tristan Renoul"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.businessman.fr/information-veille-economique-actualite-entreprise-industrie/information-veille-economique-actualite-entreprise-pharmacie-medical-cosmetique/medtech-medelse-planifie-une-levee-de-fonds-de-600-000e/524689",
+          "title": "Medelse, membre de la 10ème promotion de l'accélérateur NUMA",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.annuaire-startups.pro/startup/medelse/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://synergie-care.fr",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Medelse était une plateforme mettant en relation les professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins) avec des établissements pour des missions de remplacement.",
+      "acquirer": "Synergie Care"
+    },
+    {
+      "id": "s11-califrais",
+      "season": 11,
+      "name": "Califrais",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Simon Bussy",
+          "linkedin": "https://www.linkedin.com/in/bussysimon"
+        },
+        {
+          "name": "Pierre Levy"
+        },
+        {
+          "name": "Ross Lawrence",
+          "linkedin": "https://fr.linkedin.com/in/rossflawrence"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Fondée en 2014 comme application d'approvisionnement des restaurants en produits frais, la société a pivoté pour devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable.",
+      "website": "https://www.califrais.fr",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.califrais.fr/en/presse",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.frenchweb.fr/fw-radar-califrais-lapplication-qui-facilite-lapprovisionnement-des-restaurants/327612",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2025/06/04/ia-califrais-leve-10-millions-deuros-pour-ameliorer-la-logistique-du-froid/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Califrais est une foodtech française, à l'origine une application d'approvisionnement des restaurants en produits frais, devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis."
+    },
+    {
+      "id": "s11-crafty",
+      "season": 11,
+      "name": "Crafty",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Pierre-Antoine Roy",
+          "linkedin": "https://www.linkedin.com/in/pierreantoineroy/"
+        },
+        {
+          "name": "Guillaume Giudicelli"
+        },
+        {
+          "name": "Emmanuel Chaffraix",
+          "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "HR tech française passée du prêt de compétences entre entreprises à une « cartographie dynamique des compétences ». Rachetée par Talentsoft le 16 juin 2020 (prix non divulgué), équipe intégrée à la R&D de Talentsoft. La société Crafty SAS a été dissoute le 15 décembre 2020 ; crafty.im ne résout plus. Talentsoft a lui-même été absorbé par Cegid (talentsoft.com redirige vers cegid.com).",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/crafty.im_nous-sortons-de-la-saison-11-du-numa-paris-activity-6304349225115222016-clFj",
+          "title": "Crafty : « Nous sortons de la saison 11 du NUMA Paris »",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.societe.com/societe/crafty-819863192.html",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://tropheesdesfutureslicornes.fr/2020/06/16/talentsoft-announces-the-acquisition-of-crafty-a-hr-tech-start-up/",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2017/03/29/rh-crafty-travail-temporaire/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Guillaume Giudicelli a quitté la société en octobre 2017, avant le rachat par Talentsoft ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique.",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Crafty était une startup RH française qui a évolué du prêt de compétences entre entreprises vers une « cartographie dynamique des compétences » pour la mobilité interne et la formation.",
+      "acquirer": "Talentsoft"
+    },
+    {
+      "id": "s11-hello-watt",
+      "season": 11,
+      "name": "Hello Watt",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Sylvain Le Falher",
+          "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en"
+        },
+        {
+          "name": "Xavier Coudert"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme d'accompagnement énergétique (suivi de consommation, comparateur de fournisseurs, rénovation) toujours active : levée de 12 M€ en série A en novembre 2023, expansion en Espagne (Valence) fin 2024, citée parmi les « 50 startups où postuler en 2026 » par Maddyness. Plus de 250 salariés.",
+      "website": "https://www.hellowatt.fr",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hello_Watt",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.hellowatt.fr/equipe-redaction",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2023/11/06/hello-watt-leve-12-millions-deuros-pour-accelerer-la-fin-des-passoires-thermiques/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2026/01/29/doctrine-gitguardian-hello-watt-50-startups-ou-postuler-en-2026/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, 2017 d'après le site officiel de Hello Watt lui-même) ; sans incidence sur le rattachement à la saison 11 (2017).",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 5
+      },
+      "activityDescription": "Hello Watt est une plateforme française qui aide les ménages à suivre et réduire leurs factures d'électricité et de gaz, comparer les fournisseurs d'énergie et accéder à des services de rénovation énergétique."
+    },
+    {
+      "id": "s11-izifret",
+      "season": 11,
+      "name": "IZIFRET",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Stéphane Raynal"
+        },
+        {
+          "name": "Mahsum Yildirim"
+        },
+        {
+          "name": "Guillaume Deslandes"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=izifret",
+          "title": "Registre officiel des entreprises (API gouv.fr), SIREN 829380062",
+          "supports": [
+            "status"
+          ],
+          "sourceType": "registry",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.crunchbase.com/organization/izifret",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 3
+      },
+      "activityDescription": "Izifret était une marketplace B2B de fret mettant en relation des industriels expéditeurs avec des transporteurs routiers et multimodaux, avec suivi de livraison en temps réel."
+    },
+    {
+      "id": "s11-kintribe",
+      "season": 11,
+      "name": "KinTribe",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Chloé Desault",
+          "linkedin": "https://fr.linkedin.com/in/cdesault"
+        },
+        {
+          "name": "Louis Laroche"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.societe.com/societe/kintribe-823367933.html",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://medium.com/hiridium/hiridium-lhistoire-d-un-pivot-bb31758f5615",
+          "title": "Hiridium — l'histoire d'un pivot",
+          "supports": [
+            "cohort",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://medium.com/hiridium/quand-deux-recruteurs-cr%C3%A9ent-leur-propre-logiciel-de-recrutement-89db0dbc9661",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "KinTribe était un outil SaaS destiné aux recruteurs et sourceurs pour constituer et gérer des viviers de candidats passifs importés depuis LinkedIn."
+    },
+    {
+      "id": "s11-pangone",
+      "season": 11,
+      "name": "Pangone",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Stanislas De Zutter",
+          "linkedin": "https://fr.linkedin.com/in/stanislasdezutter"
+        },
+        {
+          "name": "Félix Levious",
+          "linkedin": "https://fr.linkedin.com/in/felix-levious"
+        },
+        {
+          "name": "Jessym Reziga",
+          "linkedin": "https://fr.linkedin.com/in/jessym-reziga-68024855"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Micro-learning sous forme de cartes courtes, arrêté vers 2017. La même équipe fondatrice a ensuite créé AirTeach (2017-2019, hébergée à Station F) puis Santé Académie (2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous un autre nom. L'entité légale d'origine (SIREN 821971223) existe toujours mais sous le nom « Santé Académie Groupe », avec un chiffre d'affaires nul en 2024 (structure de holding dormante).",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/168397/pangone",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=821971223",
+          "title": "Registre officiel des entreprises (API gouv.fr), SIREN 821971223",
+          "supports": [
+            "status"
+          ],
+          "sourceType": "registry",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.brefeco.com/actualite/formation-professionnelle/le-lyonnais-sante-academie-leve-12-millions-deuros",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Pangone permettait à des formateurs, managers et enseignants de créer et diffuser de courtes cartes d'apprentissage (« micro-learning ») consultables en moins de 5 minutes sur mobile."
+    },
+    {
+      "id": "s11-predictice",
+      "season": 11,
+      "name": "Predictice",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Louis Larret-Chahine",
+          "linkedin": "https://fr.linkedin.com/in/louis-larret-chahine-9889a281"
+        },
+        {
+          "name": "Thomas Baduel",
+          "linkedin": "https://www.linkedin.com/in/thomas-baduel-84b39255/"
+        },
+        {
+          "name": "Alexandre Chéronnet",
+          "linkedin": "https://fr.linkedin.com/in/alexandrecheronnet"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+      "website": "https://predictice.com",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Predictice",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=817618051",
+          "title": "Registre officiel des entreprises (API gouv.fr), SIREN 817618051",
+          "supports": [
+            "status"
+          ],
+          "sourceType": "registry",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2025/09/17/doctrine-absorbe-son-rival-francais-predictice/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Predictice était une legaltech française d'analyse prédictive de décisions de justice, aidant les avocats à estimer l'issue, le montant des indemnités et la durée d'un contentieux.",
+      "acquirer": "Doctrine"
+    },
+    {
+      "id": "s11-prof-en-poche",
+      "season": 11,
+      "name": "Prof en Poche",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Vincent Escudé"
+        },
+        {
+          "name": "Paul Escudé"
+        },
+        {
+          "name": "Samuel Imbert"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Application d'aide aux devoirs par chatbot IA, toujours active : suite de produits élargie (Mathia, Pieber, Kidaia, Verdinum, Cogibou), revendique 600 000+ apprenants depuis 2015. L'entité légale VMPS CORPORATION (SIREN 809744907) est active.",
+      "website": "https://profenpoche.com",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://presselib.com/il-a-cree-une-application-mobile-qui-permet-aux-eleves-de-tchater-avec-des-professeurs-et-de-les-guider-dans-la-comprehension-dune-lecon-ou-dun-exercice/",
+          "supports": [
+            "cohort",
+            "founders"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/186195/prof_en_poche",
+          "title": "Prof en Poche, saison 11 de NUMA Paris (avril-septembre 2017)",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://profenpoche.com",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.societe.com/societe/vmps-corporation-809744907.html",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 5
+      },
+      "activityDescription": "Prof en Poche est une application d'aide aux devoirs pour collégiens et lycéens, fondée sur un chatbot IA qui guide les élèves dans la compréhension d'une leçon ou d'un exercice."
+    },
+    {
+      "id": "s12-arhia",
+      "season": 12,
+      "name": "Arhia",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Brankica Pavlovic",
+          "linkedin": "https://www.linkedin.com/in/brankica-pavlovic-31b530116/"
+        },
+        {
+          "name": "Arnaud Benhamdine",
+          "linkedin": "https://fr.linkedin.com/in/arnaudbenhamdine"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://storybee.fr/mna-news/startup-rh-combo-acquiert-arhia",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.payjob.fr/paroles-experts/rencontre-avec-brankica-pavlovic-ceo-et-co-fondatrice-darhia",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=arhia",
+          "title": "Registre officiel des entreprises (API gouv.fr), SIREN 823742002",
+          "supports": [
+            "status"
+          ],
+          "sourceType": "registry",
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Arhia proposait une solution SaaS et d'externalisation de la gestion de la paie et de l'administration du personnel pour les PME (retail, hôtellerie-restauration, pharmacie).",
+      "acquirer": "Combo"
+    },
+    {
+      "id": "s12-wildesk",
+      "season": 12,
+      "name": "Wildesk",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Alexis de Loynes"
+        },
+        {
+          "name": "Yann Simon"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/205247/wildesk",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://lespepitestech.com/startup-de-la-french-tech/wildesk",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 3
+      },
+      "activityDescription": "Wildesk livrait aux entreprises des fruits bio, snacks sains, café/thé équitables et plantes de bureau pour améliorer le bien-être des salariés."
+    },
+    {
+      "id": "s12-winddle",
+      "season": 12,
+      "name": "Winddle",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Emilia Jevakhoff",
+          "linkedin": "https://www.linkedin.com/in/emiliajevakhoff/"
+        },
+        {
+          "name": "Guillaume Grenet",
+          "linkedin": "https://www.linkedin.com/in/guillaume-grenet-9260a924/"
+        },
+        {
+          "name": "Alexandre Godvin",
+          "linkedin": "https://www.linkedin.com/in/alexandregodvin/"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "exit",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme SaaS collaborative de supply chain (SRM + TMS), rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM). Le registre officiel des entreprises confirme le changement de siège vers l'adresse de la holding MyTower le 21 avril 2026 ; le produit Winddle continue d'être commercialisé sous la marque du groupe MyTower.",
+      "website": "https://www.winddle.com",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=winddle",
+          "title": "Registre officiel des entreprises (API gouv.fr), SIREN 811521491",
+          "supports": [
+            "status"
+          ],
+          "sourceType": "registry",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.faq-logistique.com/CP20260410-MyTower-Acquisition-TDI-Winddle-Belharra-e-SCM.htm",
+          "supports": [
+            "status",
+            "founders"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.winddle.com/en",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Winddle est une plateforme SaaS collaborative de gestion de la supply chain, combinant gestion des relations fournisseurs (SRM) et gestion du transport (TMS) pour un suivi en temps réel des commandes et flux logistiques.",
+      "acquirer": "MyTower"
+    },
+    {
+      "id": "s12-workelo",
+      "season": 12,
+      "name": "Workelo",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Alexandre Grenier",
+          "linkedin": "https://fr.linkedin.com/in/alexandregrenier"
+        },
+        {
+          "name": "Mathieu Cochet"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
+      "website": "https://www.workelo.eu",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=teamr.io",
+          "title": "Registre officiel des entreprises (API gouv.fr), SIREN 831337498",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "sourceType": "registry",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.workelo.eu",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.rhmatin.com/qvt/motivation-engagement/onboarding-workelo-renforce-sa-position-en-france-en-acquerant-ubbyk.html",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "high",
+      "factCheck": {
+        "verdict": "verified",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "verified",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 4
+      },
+      "activityDescription": "Workelo (édité par TEAMR.IO SAS) est une plateforme SaaS RH qui automatise et personnalise le parcours collaborateur : préboarding, onboarding, mobilité interne et offboarding."
+    },
+    {
+      "id": "s13-hey-pongo",
+      "season": 13,
+      "name": "Hey Pongo",
+      "formerNamesOrPivots": [
+        "Hello Glu"
+      ],
+      "founders": [
+        {
+          "name": "Ludwig Jamet"
+        },
+        {
+          "name": "Nicolas Samir"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme de fidélisation et d'avis clients pour commerçants, toujours active sous le nom Hey Pongo (renommée depuis Hello Glu). Le registre officiel des entreprises (SIREN 832486765) la montre active, avec des investisseurs identifiés (FRST Capital, AngelSquare, Evolem Start II, TWA Invest).",
+      "website": "https://www.heypongo.com",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/hey-pongo-832486765",
+          "supports": [
+            "founders",
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.heypongo.com",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique, sans annonce de saison numérotée officielle.",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "corrected",
+          "name": "corrected",
+          "formerNamesOrPivots": "corrected",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 3
+      },
+      "activityDescription": "Hey Pongo (ex-Hello Glu) est une plateforme de fidélisation et de gestion des avis clients pour les commerçants."
+    },
+    {
+      "id": "s13-urbyn",
+      "season": 13,
+      "name": "Urbyn",
+      "formerNamesOrPivots": [],
+      "founders": [
+        {
+          "name": "Julien Hamilius"
+        },
+        {
+          "name": "Arthur Däweritz"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
+      "status": "active",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme SaaS B2B mettant en relation des entreprises avec des prestataires locaux de recyclage/gestion des déchets, toujours active : le site urbyn.co affiche « © Urbyn 2026 » et la société a levé 2,18 M€ en amorçage en juin 2023 (My SeedCap, Net-Zero Vision, Asterion).",
+      "website": "https://www.urbyn.co",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://app.dealroom.co/companies/urbyn",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.urbyn.co",
+          "supports": [
+            "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "medium",
+      "notes": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo).",
+      "factCheck": {
+        "verdict": "corrected",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "corrected",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "verified",
+          "status": "verified",
+          "statusDetails": "verified",
+          "website": "verified"
+        },
+        "evidenceCount": 3
+      },
+      "activityDescription": "Urbyn est une plateforme SaaS B2B qui met en relation les entreprises avec des prestataires locaux de recyclage et de gestion des déchets, dans une logique d'économie circulaire."
+    },
+    {
+      "id": "s13-intripper",
+      "season": 13,
+      "name": "Intripper",
+      "formerNamesOrPivots": [],
+      "founders": [],
+      "foundersPubliclyIdentified": false,
+      "status": "stopped",
+      "statusAsOf": "2026-08-22",
+      "statusDetails": "Plateforme destinée aux grands lieux de passage (aéroports, gares, centres commerciaux) pour développer des opportunités de revenus additionnels. Le site intripper.com n'affiche plus qu'une page d'hébergement par défaut ; aucune fiche de registre d'entreprise ni dépôt de marque n'a été retrouvé sous ce nom, et les fondateurs n'ont pas pu être identifiés.",
+      "sources": [
+        {
+          "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+          "title": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+          "supports": [
+            "cohort"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22"
+        }
+      ],
+      "confidence": "low",
+      "notes": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo). Fondateurs non identifiés malgré recherche.",
+      "factCheck": {
+        "verdict": "unverifiable",
+        "checkedAt": "2026-08-22",
+        "fields": {
+          "season": "corrected",
+          "name": "verified",
+          "formerNamesOrPivots": "verified",
+          "founders": "unverifiable",
+          "status": "verified",
+          "statusDetails": "verified"
+        },
+        "evidenceCount": 1
+      },
+      "activityDescription": "Intripper aidait les grands lieux de passage (aéroports, gares, centres commerciaux) à développer des opportunités de revenus additionnels."
     }
   ]
 }

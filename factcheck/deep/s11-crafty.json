@@ -1,0 +1,79 @@
+{
+ "id": "s11-crafty",
+ "name": "Crafty",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Pierre-Antoine Roy",
+   "linkedin": "https://www.linkedin.com/in/pierreantoineroy/"
+  },
+  {
+   "name": "Guillaume Giudicelli"
+  },
+  {
+   "name": "Emmanuel Chaffraix",
+   "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix"
+  }
+ ],
+ "status": "exit",
+ "statusDetails": "HR tech française passée du prêt de compétences entre entreprises à une « cartographie dynamique des compétences ». Rachetée par Talentsoft le 16 juin 2020 (prix non divulgué), équipe intégrée à la R&D de Talentsoft. La société Crafty SAS a été dissoute le 15 décembre 2020 ; crafty.im ne résout plus. Talentsoft a lui-même été absorbé par Cegid (talentsoft.com redirige vers cegid.com).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.linkedin.com/posts/crafty.im_nous-sortons-de-la-saison-11-du-numa-paris-activity-6304349225115222016-clFj",
+   "titre": "Crafty : « Nous sortons de la saison 11 du NUMA Paris »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.societe.com/societe/crafty-819863192.html",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "status"
+   ]
+  },
+  {
+   "url": "https://tropheesdesfutureslicornes.fr/2020/06/16/talentsoft-announces-the-acquisition-of-crafty-a-hr-tech-start-up/",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/03/29/rh-crafty-travail-temporaire/",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Guillaume Giudicelli a quitté la société en octobre 2017, avant le rachat par Talentsoft ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique."
+ ],
+ "summary": "Guillaume Giudicelli a quitté la société en octobre 2017, avant le rachat par Talentsoft ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique.",
+ "activityDescription": "Crafty était une startup RH française qui a évolué du prêt de compétences entre entreprises vers une « cartographie dynamique des compétences » pour la mobilité interne et la formation.",
+ "acquirer": "Talentsoft"
+}

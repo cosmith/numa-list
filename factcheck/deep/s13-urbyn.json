@@ -1,0 +1,60 @@
+{
+ "id": "s13-urbyn",
+ "name": "Urbyn",
+ "season": 13,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "corrected",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Julien Hamilius"
+  },
+  {
+   "name": "Arthur Däweritz"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "Plateforme SaaS B2B mettant en relation des entreprises avec des prestataires locaux de recyclage/gestion des déchets, toujours active : le site urbyn.co affiche « © Urbyn 2026 » et la société a levé 2,18 M€ en amorçage en juin 2023 (My SeedCap, Net-Zero Vision, Asterion).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://app.dealroom.co/companies/urbyn",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.urbyn.co",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo)."
+ ],
+ "summary": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo).",
+ "activityDescription": "Urbyn est une plateforme SaaS B2B qui met en relation les entreprises avec des prestataires locaux de recyclage et de gestion des déchets, dans une logique d'économie circulaire.",
+ "website": "https://www.urbyn.co"
+}

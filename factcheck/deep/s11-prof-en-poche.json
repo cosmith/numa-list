@@ -1,0 +1,75 @@
+{
+ "id": "s11-prof-en-poche",
+ "name": "Prof en Poche",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Vincent Escudé"
+  },
+  {
+   "name": "Paul Escudé"
+  },
+  {
+   "name": "Samuel Imbert"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "Application d'aide aux devoirs par chatbot IA, toujours active : suite de produits élargie (Mathia, Pieber, Kidaia, Verdinum, Cogibou), revendique 600 000+ apprenants depuis 2015. L'entité légale VMPS CORPORATION (SIREN 809744907) est active.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://presselib.com/il-a-cree-une-application-mobile-qui-permet-aux-eleves-de-tchater-avec-des-professeurs-et-de-les-guider-dans-la-comprehension-dune-lecon-ou-dun-exercice/",
+   "titre": "",
+   "soutient": [
+    "cohort",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/186195/prof_en_poche",
+   "titre": "Prof en Poche, saison 11 de NUMA Paris (avril-septembre 2017)",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://profenpoche.com",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.societe.com/societe/vmps-corporation-809744907.html",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Application d'aide aux devoirs par chatbot IA, toujours active : suite de produits élargie (Mathia, Pieber, Kidaia, Verdinum, Cogibou), revendique 600 000+ apprenants depuis 2015. L'entité légale VMPS CORPORATION (SIREN 809744907) est active.",
+ "activityDescription": "Prof en Poche est une application d'aide aux devoirs pour collégiens et lycéens, fondée sur un chatbot IA qui guide les élèves dans la compréhension d'une leçon ou d'un exercice.",
+ "website": "https://profenpoche.com"
+}

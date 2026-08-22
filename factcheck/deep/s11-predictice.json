@@ -1,0 +1,72 @@
+{
+ "id": "s11-predictice",
+ "name": "Predictice",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Louis Larret-Chahine",
+   "linkedin": "https://fr.linkedin.com/in/louis-larret-chahine-9889a281"
+  },
+  {
+   "name": "Thomas Baduel",
+   "linkedin": "https://www.linkedin.com/in/thomas-baduel-84b39255/"
+  },
+  {
+   "name": "Alexandre Chéronnet",
+   "linkedin": "https://fr.linkedin.com/in/alexandrecheronnet"
+  }
+ ],
+ "status": "exit",
+ "statusDetails": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://fr.wikipedia.org/wiki/Predictice",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity",
+    "status"
+   ]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=817618051",
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 817618051",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.maddyness.com/2025/09/17/doctrine-absorbe-son-rival-francais-predictice/",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+ "activityDescription": "Predictice était une legaltech française d'analyse prédictive de décisions de justice, aidant les avocats à estimer l'issue, le montant des indemnités et la durée d'un contentieux.",
+ "website": "https://predictice.com",
+ "acquirer": "Doctrine"
+}

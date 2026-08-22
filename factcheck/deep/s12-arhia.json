@@ -1,0 +1,66 @@
+{
+ "id": "s12-arhia",
+ "name": "Arhia",
+ "season": 12,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Brankica Pavlovic",
+   "linkedin": "https://www.linkedin.com/in/brankica-pavlovic-31b530116/"
+  },
+  {
+   "name": "Arnaud Benhamdine",
+   "linkedin": "https://fr.linkedin.com/in/arnaudbenhamdine"
+  }
+ ],
+ "status": "exit",
+ "statusDetails": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://storybee.fr/mna-news/startup-rh-combo-acquiert-arhia",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.payjob.fr/paroles-experts/rencontre-avec-brankica-pavlovic-ceo-et-co-fondatrice-darhia",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=arhia",
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 823742002",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
+ "activityDescription": "Arhia proposait une solution SaaS et d'externalisation de la gestion de la paie et de l'administration du personnel pour les PME (retail, hôtellerie-restauration, pharmacie).",
+ "acquirer": "Combo"
+}

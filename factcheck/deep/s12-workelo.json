@@ -1,0 +1,66 @@
+{
+ "id": "s12-workelo",
+ "name": "Workelo",
+ "season": 12,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Alexandre Grenier",
+   "linkedin": "https://fr.linkedin.com/in/alexandregrenier"
+  },
+  {
+   "name": "Mathieu Cochet"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=teamr.io",
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 831337498",
+   "soutient": [
+    "founders",
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.workelo.eu",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.rhmatin.com/qvt/motivation-engagement/onboarding-workelo-renforce-sa-position-en-france-en-acquerant-ubbyk.html",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
+ "activityDescription": "Workelo (édité par TEAMR.IO SAS) est une plateforme SaaS RH qui automatise et personnalise le parcours collaborateur : préboarding, onboarding, mobilité interne et offboarding.",
+ "website": "https://www.workelo.eu"
+}

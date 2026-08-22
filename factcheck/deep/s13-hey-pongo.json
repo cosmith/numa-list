@@ -1,0 +1,61 @@
+{
+ "id": "s13-hey-pongo",
+ "name": "Hey Pongo",
+ "season": 13,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "corrected",
+  "name": "corrected",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Ludwig Jamet"
+  },
+  {
+   "name": "Nicolas Samir"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "Plateforme de fidélisation et d'avis clients pour commerçants, toujours active sous le nom Hey Pongo (renommée depuis Hello Glu). Le registre officiel des entreprises (SIREN 832486765) la montre active, avec des investisseurs identifiés (FRST Capital, AngelSquare, Evolem Start II, TWA Invest).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/hey-pongo-832486765",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "status",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.heypongo.com",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique, sans annonce de saison numérotée officielle."
+ ],
+ "summary": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique, sans annonce de saison numérotée officielle.",
+ "activityDescription": "Hey Pongo (ex-Hello Glu) est une plateforme de fidélisation et de gestion des avis clients pour les commerçants.",
+ "website": "https://www.heypongo.com"
+}

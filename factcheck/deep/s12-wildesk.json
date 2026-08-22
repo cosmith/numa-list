@@ -1,0 +1,56 @@
+{
+ "id": "s12-wildesk",
+ "name": "Wildesk",
+ "season": 12,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Alexis de Loynes"
+  },
+  {
+   "name": "Yann Simon"
+  }
+ ],
+ "status": "stopped",
+ "statusDetails": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/205247/wildesk",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://lespepitestech.com/startup-de-la-french-tech/wildesk",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
+ "activityDescription": "Wildesk livrait aux entreprises des fruits bio, snacks sains, café/thé équitables et plantes de bureau pour améliorer le bien-être des salariés."
+}

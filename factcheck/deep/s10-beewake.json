@@ -1,0 +1,60 @@
+{
+ "id": "s10-beewake",
+ "name": "Beewake",
+ "season": 10,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "partially_verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Jérémie Catez"
+  },
+  {
+   "name": "Sébastien Trouillet"
+  },
+  {
+   "name": "Gabriel Munch-Andersen"
+  }
+ ],
+ "status": "stopped",
+ "statusDetails": "Marketplace de location d'espaces hôteliers inoccupés en journée pour voyageurs d'affaires ; CB Insights classe la société « Dead » et le domaine beewake.com héberge désormais un contenu de jeux d'argent en ligne sans rapport, signe d'un abandon suivi d'une reprise du nom de domaine.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.cbinsights.com/company/beewake-corp",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "status"
+   ]
+  },
+  {
+   "url": "https://startupxplore.com/en/startups/beewake",
+   "titre": "",
+   "soutient": [
+    "founders"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Rattachement à la saison 10 corroboré par la base alumni officielle de NUMA (co-occurrence avec Medelse, dont la « 10ème promotion » est confirmée par une source de presse indépendante) plutôt que par une annonce de presse dédiée à Beewake elle-même."
+ ],
+ "summary": "Rattachement à la saison 10 corroboré par la base alumni officielle de NUMA (co-occurrence avec Medelse, dont la « 10ème promotion » est confirmée par une source de presse indépendante) plutôt que par une annonce de presse dédiée à Beewake elle-même.",
+ "activityDescription": "Beewake était une marketplace permettant de réserver des espaces hôteliers inoccupés en journée (chambres, salles de réunion) pour les voyageurs d'affaires et freelances."
+}

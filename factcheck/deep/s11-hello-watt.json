@@ -1,0 +1,74 @@
+{
+ "id": "s11-hello-watt",
+ "name": "Hello Watt",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Sylvain Le Falher",
+   "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en"
+  },
+  {
+   "name": "Xavier Coudert"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "Plateforme d'accompagnement énergétique (suivi de consommation, comparateur de fournisseurs, rénovation) toujours active : levée de 12 M€ en série A en novembre 2023, expansion en Espagne (Valence) fin 2024, citée parmi les « 50 startups où postuler en 2026 » par Maddyness. Plus de 250 salariés.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://fr.wikipedia.org/wiki/Hello_Watt",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.hellowatt.fr/equipe-redaction",
+   "titre": "",
+   "soutient": [
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.maddyness.com/2023/11/06/hello-watt-leve-12-millions-deuros-pour-accelerer-la-fin-des-passoires-thermiques/",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.maddyness.com/2026/01/29/doctrine-gitguardian-hello-watt-50-startups-ou-postuler-en-2026/",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, 2017 d'après le site officiel de Hello Watt lui-même) ; sans incidence sur le rattachement à la saison 11 (2017)."
+ ],
+ "summary": "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, 2017 d'après le site officiel de Hello Watt lui-même) ; sans incidence sur le rattachement à la saison 11 (2017).",
+ "activityDescription": "Hello Watt est une plateforme française qui aide les ménages à suivre et réduire leurs factures d'électricité et de gaz, comparer les fournisseurs d'énergie et accéder à des services de rénovation énergétique.",
+ "website": "https://www.hellowatt.fr"
+}

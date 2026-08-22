@@ -1,0 +1,58 @@
+{
+ "id": "s10-goodeed",
+ "name": "Goodeed",
+ "season": 10,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "partially_verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Vincent Touboul"
+  },
+  {
+   "name": "Thierry Théophile"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/startup/goodeed/",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://en.goodeed.com",
+   "titre": "",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
+ "activityDescription": "Goodeed est une plateforme de « webmarketing solidaire » : les internautes regardent de courtes publicités dont la majorité du budget est reversée à des associations et causes environnementales choisies par l'utilisateur.",
+ "website": "https://en.goodeed.com"
+}

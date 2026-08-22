@@ -1,0 +1,71 @@
+{
+ "id": "s11-califrais",
+ "name": "Califrais",
+ "season": 11,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Simon Bussy",
+   "linkedin": "https://www.linkedin.com/in/bussysimon"
+  },
+  {
+   "name": "Pierre Levy"
+  },
+  {
+   "name": "Ross Lawrence",
+   "linkedin": "https://fr.linkedin.com/in/rossflawrence"
+  }
+ ],
+ "status": "active",
+ "statusDetails": "Fondée en 2014 comme application d'approvisionnement des restaurants en produits frais, la société a pivoté pour devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
+   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "soutient": [
+    "cohort"
+   ]
+  },
+  {
+   "url": "https://www.califrais.fr/en/presse",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity",
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.frenchweb.fr/fw-radar-califrais-lapplication-qui-facilite-lapprovisionnement-des-restaurants/327612",
+   "titre": "",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.maddyness.com/2025/06/04/ia-califrais-leve-10-millions-deuros-pour-ameliorer-la-logistique-du-froid/",
+   "titre": "",
+   "soutient": [
+    "status"
+   ]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [],
+ "summary": "Fondée en 2014 comme application d'approvisionnement des restaurants en produits frais, la société a pivoté pour devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable.",
+ "activityDescription": "Califrais est une foodtech française, à l'origine une application d'approvisionnement des restaurants en produits frais, devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis.",
+ "website": "https://www.califrais.fr"
+}

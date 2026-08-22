@@ -47,3 +47,24 @@ l'environnement d'exécution pour une partie des agents (bloqué par le proxy),
 et LinkedIn bloque la consultation directe des profils — les URL LinkedIn
 retenues proviennent alors de résultats de recherche recoupés. Les points
 non tranchés sont listés dans `openQuestions` de chaque rapport.
+
+## Troisième passage : extension aux saisons 10-13 (22 août 2026)
+
+Le périmètre initial (promotions 1 à 9, 2011-2016) reposait sur une photo de
+promotion et une liste de sélection officielle. Après le partage de cette
+liste à d'anciens fondateurs, une correction reçue (saison 12, Hello Charly)
+a révélé que NUMA avait continué à accélérer des startups à Paris bien
+au-delà de 2016. Une recherche dédiée a permis de récupérer la base alumni
+officielle de NUMA (`hub.numa.co/public/alumni`) via une capture Common
+Crawl d'octobre 2018, listant les saisons 1 à 12 ainsi qu'une cohorte finale
+non numérotée (tag interne `season2018`) précédant l'arrêt de l'accélération
+de startups par NUMA en janvier 2019 — numérotée « saison 13 » dans ce
+dataset par convention chronologique.
+
+Chaque startup des saisons 10 à 13 a été recherchée individuellement
+(fondateurs, statut 2026, sources), avec la même rigueur que le second
+passage. Plusieurs pistes provenant d'un annuaire communautaire non fiable
+(`annuaire-startups.pro`) ont été écartées faute de corroboration réelle, ou
+parce qu'elles concernaient en fait un programme distinct de NUMA (« UR
+Link », co-organisé avec Unibail-Rodamco, ou « Rise », un programme de
+pré-accélération) plutôt qu'une saison numérotée de l'accélérateur.
