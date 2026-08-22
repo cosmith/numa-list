@@ -3,16 +3,28 @@
  "name": "Arhia",
  "season": 12,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "corrected",
+  "website": "unverifiable"
  },
- "corrections": {},
+ "corrections": {
+  "statusDetails": {
+   "avant": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
+   "apres": "Arhia, SaaS et externalisation de la gestion de la paie et de l'administration du personnel pour PME (retail, hôtellerie-restauration, boulangerie, pharmacie), a été rachetée par Combo, éditeur de logiciel RH pour les métiers de terrain, à l'été 2024 (annonce publique le 5 mars 2025 seulement, une fois l'intégration du produit sous la marque « Combo Paie » réussie), peu après la levée de 40 M€ de Combo. Au moment du rachat, l'équipe d'Arhia comptait 6 personnes ; le co-fondateur Arnaud Benhamdine a rejoint Combo comme Head of Product de Combo Paie. Le registre officiel des entreprises (recherche-entreprises.api.gouv.fr) montre la société ARHIA (SIREN 823742002) toujours active administrativement, avec pour président actuel François Le Teuff (personne physique, né en 1991) — et non « la directrice financière de Combo » comme indiqué précédemment. Le site vitrine arhia.fr/www.arhia.fr ne répond plus correctement (503 ou nom non résolu), mais le sous-domaine applicatif app.arhia.fr reste en ligne (écran de connexion « Application paie »), cohérent avec la poursuite du service pour les clients existants sous l'ombrelle Combo.",
+   "preuves": [
+    "https://recherche-entreprises.api.gouv.fr/search?q=823742002",
+    "https://www.rhmatin.com/sirh/sirh-saas/olivier-severyns-combo-le-rachat-d-arhia-pour-la-gestion-de-la-paie-complete-notre-vision-sirh.html",
+    "https://storybee.fr/mna-news/startup-rh-combo-acquiert-arhia",
+    "https://app.arhia.fr/"
+   ]
+  }
+ },
  "founders": [
   {
    "name": "Brankica Pavlovic",
@@ -24,43 +36,52 @@
   }
  ],
  "status": "exit",
- "statusDetails": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
- "archiveEvidence": [],
- "pressEvidence": [
+ "statusDetails": "Arhia, SaaS et externalisation de la gestion de la paie et de l'administration du personnel pour PME (retail, hôtellerie-restauration, boulangerie, pharmacie), a été rachetée par Combo, éditeur de logiciel RH pour les métiers de terrain, à l'été 2024 (annonce publique le 5 mars 2025 seulement, une fois l'intégration du produit sous la marque « Combo Paie » réussie), peu après la levée de 40 M€ de Combo. Au moment du rachat, l'équipe d'Arhia comptait 6 personnes ; le co-fondateur Arnaud Benhamdine a rejoint Combo comme Head of Product de Combo Paie. Le registre officiel des entreprises (recherche-entreprises.api.gouv.fr) montre la société ARHIA (SIREN 823742002) toujours active administrativement, avec pour président actuel François Le Teuff — et non « la directrice financière de Combo » comme indiqué précédemment. Le site vitrine arhia.fr/www.arhia.fr ne répond plus correctement (503 ou nom non résolu), mais le sous-domaine applicatif app.arhia.fr reste en ligne (écran de connexion « Application paie »), cohérent avec la poursuite du service pour les clients existants sous l'ombrelle Combo.",
+ "activityDescription": "Arhia est une solution SaaS et de service d'externalisation de la gestion de la paie et de l'administration du personnel destinée aux PME (retail, hôtellerie-restauration, pharmacie).",
+ "acquirer": "Combo",
+ "archiveEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
-   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "montre": "Index Common Crawl (16 octobre 2018) listant les URL capturées de la base alumni officielle de NUMA (hub.numa.co/public/alumni), couvrant les saisons 1 à 12 et la cohorte finale non numérotée « season2018 » — confirme l'appartenance d'Arhia à la saison 12."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://medium.com/@achaigneau/new-saison-12-numa-les-startups-recrutent-5ddd4af4f992",
+   "titre": "(New) Saison 12 NUMA : les startups recrutent !",
+   "annee": "2017",
+   "soutient": ["cohort", "identity"]
   },
   {
    "url": "https://storybee.fr/mna-news/startup-rh-combo-acquiert-arhia",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "La startup RH pour le TPE/PME Combo acquiert Arhia, experte de la paie",
+   "annee": "2025",
+   "soutient": ["status", "identity"]
   },
   {
    "url": "https://www.payjob.fr/paroles-experts/rencontre-avec-brankica-pavlovic-ceo-et-co-fondatrice-darhia",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Rencontre avec Brankiça Pavlovic, CEO et co-fondatrice d'Arhia",
+   "annee": "2024",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.rhmatin.com/sirh/sirh-saas/olivier-severyns-combo-le-rachat-d-arhia-pour-la-gestion-de-la-paie-complete-notre-vision-sirh.html",
+   "titre": "Olivier Severyns, Combo : « Le rachat d'Arhia pour la gestion de la paie complète notre vision SIRH »",
+   "annee": "2025",
+   "soutient": ["status", "founders", "identity"]
   },
   {
    "url": "https://recherche-entreprises.api.gouv.fr/search?q=arhia",
-   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 823742002",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 823742002, statut administratif actif",
+   "annee": "2026",
+   "soutient": ["status"]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
- "activityDescription": "Arhia proposait une solution SaaS et d'externalisation de la gestion de la paie et de l'administration du personnel pour les PME (retail, hôtellerie-restauration, pharmacie).",
- "acquirer": "Combo"
+ "linkedinCompany": "https://www.linkedin.com/company/arhia/",
+ "openQuestions": [
+  "web.archive.org (y compris le CDX et les snapshots de hub.numa.co/public/alumni) est resté inaccessible depuis cet environnement malgré plusieurs formes d'URL tentées (403, échec de résolution, erreur générique) — la confirmation du calendrier de saison 12 repose donc sur la presse contemporaine (Medium, article Arnaud Chaigneau) et sur l'index Common Crawl de la base alumni NUMA, pas sur une capture directe visualisée.",
+  "Léger désaccord de sources sur les rôles internes : payjob.fr décrit Brankica Pavlovic comme CEO et Arnaud Benhamdine comme CTO, tandis que rhmatin.com qualifie Arnaud Benhamdine de « CEO et co-fondateur » d'Arhia. N'affecte pas l'identification des deux fondateurs ni leurs profils LinkedIn, mais le titre exact de chacun au moment du rachat n'est pas tranché.",
+  "Statut exact du domaine arhia.fr : le nom nu ne se résout pas et www.arhia.fr renvoie une erreur 503, mais app.arhia.fr répond toujours (écran de connexion). Pas assez d'éléments pour dire si Combo maintient ce sous-domaine pour les anciens clients Arhia ou si c'est temporaire avant décommissionnement complet."
+ ],
+ "summary": "Arhia (SaaS + externalisation de la paie et de l'administration du personnel pour PME) confirmée dans la saison 12 de NUMA (cohorte de 5 startups lancée le 16 octobre 2017 : Hello Charly, Workelo, Wildesk, Arhia, Winddle) par la presse contemporaine et par l'index Common Crawl de la base alumni NUMA. Les deux fondateurs (Brankica Pavlovic, Arnaud Benhamdine) et leurs profils LinkedIn sont confirmés par recoupement. La société a été rachetée par Combo (deal conclu été 2024, annoncé le 5 mars 2025) et intégrée sous la marque Combo Paie ; le registre officiel la montre toujours active juridiquement, avec un nouveau président (François Le Teuff) — ce qui corrige la mention erronée d'une « directrice financière de Combo » présidente dans le rapport précédent. Verdict global : corrected."
 }
