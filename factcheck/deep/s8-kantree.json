@@ -1,0 +1,73 @@
+{
+ "id": "s8-kantree",
+ "name": "Kantree",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Maxime Bouroumeau-Fuseau",
+   "linkedin": "https://www.linkedin.com/in/maximebouroumeaufuseau"
+  },
+  {
+   "name": "Jérémy Moresmau",
+   "linkedin": "https://www.linkedin.com/in/jmoresmau"
+  }
+ ],
+ "status": "active",
+ "activityDescription": "Kantree est une plateforme collaborative de gestion du travail qui permet aux équipes d'organiser n'importe quel type d'information et de mettre en place des processus et méthodologies personnalisés (vues Kanban, tableau, calendrier, matrice, chronologie).",
+ "statusDetails": "Kantree est toujours en activité en 2026 : le site officiel kantree.io est en ligne et opérationnel, l'entreprise éditrice Digicoop (coopérative de salariés basée à Paris, RCS 812479806) affiche une équipe active d'une dizaine de personnes et revendique des clients comme Orange, Orano et Thales.",
+ "website": "https://kantree.io",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=kantree.io&timestamp=20160601",
+   "montre": "API Wayback Machine : capture disponible du 29 mars 2016 pour kantree.io (statut 200), cohérente avec la saison 8 (2015-2016). Note méthodologique : l'outil de récupération web de cette session bloque les requêtes directes vers web.archive.org (erreur systématique), seule l'API archive.org/wayback/available a pu être interrogée ; le contenu exact de la page archivée n'a donc pas pu être visualisé directement, mais l'existence du domaine à l'époque est confirmée."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=kantree.io",
+   "montre": "Capture la plus récente indexée : 7 juin 2026 (statut 200), ce qui confirme que le site est resté en ligne de façon continue jusqu'à une date très récente, cohérent avec le constat direct que kantree.io est actif aujourd'hui."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les 17 startups de sa 8ème saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://project-management.com/kantree-software-review/",
+   "titre": "Kantree Software Review",
+   "annee": "2023",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://kantree.io",
+   "titre": "Site officiel Kantree",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://kantree.io/about",
+   "titre": "Page équipe / à propos de Kantree",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/kantree",
+ "openQuestions": [
+  "Le contenu exact de la page kantree.io telle qu'archivée en 2015-2016 n'a pas pu être consulté directement (web.archive.org est bloqué pour l'outil de récupération web de cette session) ; seule l'API de disponibilité a pu confirmer l'existence du domaine à l'époque.",
+  "Aucune page listant explicitement la cohorte complète de la saison 8 sur un domaine NUMA/Le Camping archivé n'a pu être consultée pour corroborer indépendamment l'article Maddyness (même blocage d'accès à web.archive.org)."
+ ],
+ "summary": "Tous les champs de la fiche Kantree sont confirmés. L'article Maddyness de février 2016 place bien Kantree dans la saison 8 de NUMA avec le site kantree.io. Le site officiel actuel (kantree.io et kantree.io/about) confirme l'identité de l'entreprise, les deux fondateurs Maxime Bouroumeau-Fuseau et Jérémy Moresmau (avec leurs profils LinkedIn), l'absence de changement de nom, et un statut actif en 2026 : Kantree est éditée par Digicoop, une coopérative de salariés parisienne toujours en activité, sans trace d'acquisition. Aucune correction nécessaire."
+}
