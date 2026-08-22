@@ -47,13 +47,13 @@ const sourcesFor = (startup, claims) => (startup.sources || [])
 
 const makeDetails = (startup) => {
   const refs = [];
-  // Références numérotées façon Wikipédia, dédupliquées par URL, 3 max.
+  // Références numérotées façon Wikipédia, dédupliquées par URL, 4 max.
   const refLink = (source) => {
     const url = source?.url;
     if (!url) return "";
     let index = refs.indexOf(url);
     if (index === -1) {
-      if (refs.length >= 3) return "";
+      if (refs.length >= 4) return "";
       index = refs.push(url) - 1;
     }
     const displayUrl = url.replace(/^https?:\/\//, "");
