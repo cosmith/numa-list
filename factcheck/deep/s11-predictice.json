@@ -3,17 +3,34 @@
  "name": "Predictice",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
   "founders": "verified",
   "status": "verified",
-  "statusDetails": "verified",
+  "statusDetails": "corrected",
   "website": "verified"
  },
- "corrections": {},
+ "corrections": {
+  "linkedinCompany": {
+   "avant": "",
+   "apres": "https://www.linkedin.com/company/predictice",
+   "preuves": [
+    "https://www.linkedin.com/company/predictice"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+   "apres": "Legaltech française d'analyse prédictive de décisions de justice, fondée le 7 janvier 2016 par Louis Larret-Chahine, Thomas Baduel et Alexandre Chéronnet, accompagnée par l'accélérateur NUMA Paris ; partenariat avec Wolters Kluwer et levée de 5 M€ en 2019 ; rachetée par son concurrent Doctrine (offre à 20 M€ courant juillet 2025, annonce publique le 17 septembre 2025, absorption effective par Doctrine Bidco le 12 mai 2026, radiation le 2 juin 2026 selon le registre officiel des entreprises et Wikipédia).",
+   "preuves": [
+    "https://fr.wikipedia.org/wiki/Predictice",
+    "https://www.maddyness.com/2025/09/17/doctrine-absorbe-son-rival-francais-predictice/",
+    "https://recherche-entreprises.api.gouv.fr/search?q=817618051"
+   ]
+  }
+ },
  "founders": [
   {
    "name": "Louis Larret-Chahine",
@@ -29,19 +46,21 @@
   }
  ],
  "status": "exit",
- "statusDetails": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+ "statusDetails": "Legaltech française d'analyse prédictive de décisions de justice, fondée le 7 janvier 2016 par Louis Larret-Chahine, Thomas Baduel et Alexandre Chéronnet, accompagnée par l'accélérateur NUMA Paris ; partenariat avec Wolters Kluwer et levée de 5 M€ en 2019 ; rachetée par son concurrent Doctrine (offre à 20 M€ courant juillet 2025, annonce publique le 17 septembre 2025, absorption effective par Doctrine Bidco le 12 mai 2026, radiation le 2 juin 2026 selon le registre officiel des entreprises et Wikipédia).",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "annee": "2018",
    "soutient": [
     "cohort"
    ]
   },
   {
    "url": "https://fr.wikipedia.org/wiki/Predictice",
-   "titre": "",
+   "titre": "Predictice — Wikipédia",
+   "annee": "2026",
    "soutient": [
     "founders",
     "identity",
@@ -51,21 +70,55 @@
   {
    "url": "https://recherche-entreprises.api.gouv.fr/search?q=817618051",
    "titre": "Registre officiel des entreprises (API gouv.fr), SIREN 817618051",
+   "annee": "2026",
    "soutient": [
     "status"
    ]
   },
   {
    "url": "https://www.maddyness.com/2025/09/17/doctrine-absorbe-son-rival-francais-predictice/",
-   "titre": "",
+   "titre": "Doctrine absorbe son rival français Predictice",
+   "annee": "2025",
+   "soutient": [
+    "status",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.decideurs-magazine.com/droit/62264-ia-juridique-doctrine-met-la-main-sur-predictice-son-principal-concurrent.html",
+   "titre": "IA juridique : Doctrine met la main sur Predictice, son principal concurrent",
+   "annee": "2025",
    "soutient": [
     "status"
    ]
+  },
+  {
+   "url": "https://paperjam.lu/article/predictice-legaltech-a-chasse-",
+   "titre": "Predictice, legaltech à la chasse aux jugements",
+   "annee": "2019",
+   "soutient": [
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.linkedin.com/company/predictice",
+   "titre": "Page entreprise LinkedIn de Predictice",
+   "annee": "2026",
+   "soutient": [
+    "identity",
+    "founders"
+   ]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+ "linkedinCompany": "https://www.linkedin.com/company/predictice",
+ "openQuestions": [
+  "web.archive.org (Wayback Machine, y compris son CDX et ses snapshots) est resté inaccessible depuis cet environnement lors de cette passe : seule l'API archive.org/wayback/available a répondu (confirmant l'existence d'une capture de hub.numa.co/public/alumni au 6 décembre 2019), mais impossible de consulter le contenu de cette capture pour lister nommément les startups de la saison 11.",
+  "L'index Common Crawl (index.commoncrawl.org) a répondu 503 lors de cette passe, empêchant de revérifier directement le contenu détaillé de la capture de hub.numa.co/public/alumni citée comme preuve de cohorte ; cette preuve avait été établie lors d'un passage antérieur du fact-check et est reconduite ici sans nouvelle vérification de contenu.",
+  "Le dépôt GitHub NumaParis/alumni.numa.co (source alternative de la liste alumni, format startups.json) a été consulté mais ne couvre que les saisons 1 à 8 (ère « LeCamping Mafia ») et Rise ; Predictice n'y figure pas et ne peut donc pas y être confirmé ou infirmé pour la saison 11.",
+  "Aucun article de presse d'époque (2017) mentionnant explicitement « saison 11 » ou « promotion 11 » de NUMA pour Predictice n'a été retrouvé ; l'appartenance à NUMA est corroborée par plusieurs annuaires de startups (non retenus seuls comme preuve forte) mais le numéro de saison précis repose sur la base alumni officielle (Common Crawl) déjà citée.",
+  "Le site predictice.com et le blog blog.predictice.com renvoient un 403 (probable protection anti-bot) à la récupération directe, mais des extraits d'indexation récents montrent un contenu à jour (« Predictice propose plus de 60 millions de documents juridiques... ») et un billet de blog confirmant le maintien de l'hébergement et de l'API après le rachat ; le site semble donc toujours en ligne malgré la radiation de la société."
+ ],
+ "summary": "Predictice, legaltech française fondée le 7 janvier 2016 par Louis Larret-Chahine, Thomas Baduel et Alexandre Chéronnet, a été accompagnée par NUMA Paris (saison 11 selon la base alumni officielle). Les trois fondateurs ont un profil LinkedIn confirmé et une page entreprise LinkedIn a été identifiée. La société a été rachetée par son concurrent Doctrine (offre à 20 M€ en juillet 2025, annonce publique le 17 septembre 2025, absorption par Doctrine Bidco le 12 mai 2026, radiation le 2 juin 2026), confirmé par Wikipédia, Maddyness, Décideurs Magazine et le registre officiel des entreprises. Le site predictice.com semble rester en ligne sous Doctrine. Web.archive.org et l'index Common Crawl étaient inaccessibles pendant cette passe pour revérifier le détail de la cohorte NUMA saison 11 ; l'preuve de cohorte antérieure (capture Common Crawl de hub.numa.co/public/alumni) est reconduite sans nouvelle vérification directe.",
  "activityDescription": "Predictice était une legaltech française d'analyse prédictive de décisions de justice, aidant les avocats à estimer l'issue, le montant des indemnités et la durée d'un contentieux.",
  "website": "https://predictice.com",
  "acquirer": "Doctrine"
