@@ -5,57 +5,121 @@
  "checkedAt": "2026-08-22",
  "verdict": "corrected",
  "fields": {
-  "season": "corrected",
-  "name": "corrected",
+  "season": "verified",
+  "name": "verified",
   "formerNamesOrPivots": "corrected",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
-  "statusDetails": "verified",
+  "statusDetails": "corrected",
   "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Ludwig Jamet"
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": ["Hello Glu"],
+   "apres": ["Hello Glu", "Pongo"],
+   "preuves": [
+    "https://www.myfrenchstartup.com/fr/startup-france/221923/pongo",
+    "https://www.myfrenchstartup.com/fr/startup-france/314895/hey_pongo"
+   ]
   },
-  {
-   "name": "Nicolas Samir"
+  "founders": {
+   "avant": [
+    { "name": "Ludwig Jamet" },
+    { "name": "Nicolas Samir" }
+   ],
+   "apres": [
+    { "name": "Ludwig Jamet" },
+    { "name": "Nicolas Samir" },
+    { "name": "Nora Barault" }
+   ],
+   "preuves": [
+    "https://www.frenchweb.fr/serie-a-hey-pongo-leve-5-millions-deuros-aupres-devolem-techmind-et-altavia-adventures/440268",
+    "https://data.ladn.eu/blog/startup/levee-fonds-hey-pongo-assistant-marketing/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Plateforme de fidélisation et d'avis clients pour commerçants, toujours active sous le nom Hey Pongo (renommée depuis Hello Glu). Le registre officiel des entreprises (SIREN 832486765) la montre active, avec des investisseurs identifiés (FRST Capital, AngelSquare, Evolem Start II, TWA Invest).",
+   "apres": "Plateforme marketing et de fidélisation pour commerçants et restaurateurs, active sous le nom Hey Pongo depuis 2017 (anciennement Hello Glu, puis Pongo). A levé 5 millions d'euros en série A en février 2023 (Evolem, Techmind, Altavia Adventures, avec la participation de Frst et Angelsquare, déjà investisseurs). Compte plus de 3000 clients dans une dizaine de pays et environ 50 salariés en 2023-2025. Le registre officiel des entreprises (SIREN 832486765, SAS, siège à Saint-Mandé) la montre active avec des modifications de capital jusqu'en 2025 ; Ludwig Jamet (président) et Nicolas Samir (directeur général) y sont enregistrés comme dirigeants.",
+   "preuves": [
+    "https://www.frenchweb.fr/serie-a-hey-pongo-leve-5-millions-deuros-aupres-devolem-techmind-et-altavia-adventures/440268",
+    "https://data.ladn.eu/blog/startup/levee-fonds-hey-pongo-assistant-marketing/",
+    "https://www.frenchweb.fr/connaissez-vous-hey-pongo-une-solution-marketing-dediee-aux-restaurateurs-et-commercants/441476",
+    "https://www.societe.com/societe/hey-pongo-832486765.html",
+    "https://www.pappers.fr/entreprise/hey-pongo-832486765"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Ludwig Jamet", "linkedin": "https://www.linkedin.com/in/ludwig-jamet-79692043/" },
+  { "name": "Nicolas Samir", "linkedin": "https://www.linkedin.com/in/nicolassamir/" },
+  { "name": "Nora Barault", "linkedin": "" }
  ],
  "status": "active",
- "statusDetails": "Plateforme de fidélisation et d'avis clients pour commerçants, toujours active sous le nom Hey Pongo (renommée depuis Hello Glu). Le registre officiel des entreprises (SIREN 832486765) la montre active, avec des investisseurs identifiés (FRST Capital, AngelSquare, Evolem Start II, TWA Invest).",
- "archiveEvidence": [],
- "pressEvidence": [
+ "activityDescription": "Hey Pongo (ex-Hello Glu, ex-Pongo) est une plateforme marketing et de fidélisation qui aide les commerçants et restaurateurs à collecter les données de leurs clients et à les fidéliser via des campagnes ciblées (SMS, avis clients, programme de fidélité).",
+ "statusDetails": "Plateforme marketing et de fidélisation pour commerçants et restaurateurs, active sous le nom Hey Pongo depuis 2017 (anciennement Hello Glu, puis Pongo). A levé 5 millions d'euros en série A en février 2023 (Evolem, Techmind, Altavia Adventures, avec la participation de Frst et Angelsquare, déjà investisseurs). Compte plus de 3000 clients dans une dizaine de pays et environ 50 salariés en 2023-2025. Le registre officiel des entreprises (SIREN 832486765, SAS, siège à Saint-Mandé) la montre active avec des modifications de capital jusqu'en 2025 ; Ludwig Jamet (président) et Nicolas Samir (directeur général) y sont enregistrés comme dirigeants.",
+ "acquirer": "",
+ "website": "https://www.heypongo.com",
+ "archiveEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
-   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "montre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 », dont Hey Pongo (alors Hello Glu) fait partie."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/221923/pongo",
+   "titre": "Startup PONGO, Le programme de fidélité réinventé",
+   "annee": "2017",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/314895/hey_pongo",
+   "titre": "Startup HEY PONGO, L'assistant marketing qui renforce l'indépendance des commerçants",
+   "annee": "2023",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/connaissez-vous-hey-pongo-une-solution-marketing-dediee-aux-restaurateurs-et-commercants/441476",
+   "titre": "Connaissez-vous HEY PONGO, une solution marketing dédiée aux restaurateurs et commerçants ?",
+   "annee": "2023",
+   "soutient": ["identity", "status", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/serie-a-hey-pongo-leve-5-millions-deuros-aupres-devolem-techmind-et-altavia-adventures/440268",
+   "titre": "[Série A] Hey Pongo lève 5 millions d'euros auprès d'Evolem, Techmind et Altavia Adventures",
+   "annee": "2023",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://data.ladn.eu/blog/startup/levee-fonds-hey-pongo-assistant-marketing/",
+   "titre": "Hey Pongo annonce une levée de fonds de 5 millions d'euros",
+   "annee": "2023",
+   "soutient": ["status", "founders", "identity"]
   },
   {
    "url": "https://www.pappers.fr/entreprise/hey-pongo-832486765",
    "titre": "",
-   "soutient": [
-    "founders",
-    "status",
-    "identity"
-   ]
+   "annee": "2026",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/hey-pongo-832486765.html",
+   "titre": "HEY PONGO - fiche société (SIREN 832486765)",
+   "annee": "2026",
+   "soutient": ["status", "founders", "identity"]
   },
   {
    "url": "https://www.heypongo.com",
    "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "annee": "2026",
+   "soutient": ["status", "identity"]
   }
  ],
- "linkedinCompany": "",
+ "linkedinCompany": "https://fr.linkedin.com/company/heypongo",
  "openQuestions": [
-  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique, sans annonce de saison numérotée officielle."
+  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique. Un indice indépendant renforce toutefois cette convention : une fiche tierce (myfrenchstartup.com) mentionne Ludwig Jamet comme « Alumni Saison 13 chez NUMA Paris », vraisemblablement reprise de l'intitulé affiché sur son profil LinkedIn.",
+  "Profil LinkedIn de Nora Barault (troisième cofondatrice, rejointe après la création) non retrouvé — web.archive.org, LinkedIn et plusieurs moteurs de recherche alternatifs (DuckDuckGo, Bing, Marginalia, Ecosia) étaient inaccessibles ou bloqués depuis cet environnement lors de cette recherche ; le budget de recherche web de la session a par ailleurs été épuisé en cours d'audit.",
+  "web.archive.org (CDX API et snapshots directs, y compris pour heypongo.com, helloglu.com et hub.numa.co/public/alumni) était inaccessible depuis cet environnement (bloqué par le proxy réseau) : impossible de confirmer visuellement l'ancien site Hello Glu ou Pongo via une capture Wayback ; la preuve de cohorte repose donc sur l'index Common Crawl déjà cité, corroboré indépendamment par la mention « Saison 13 » relevée sur myfrenchstartup.com."
  ],
- "summary": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique, sans annonce de saison numérotée officielle.",
- "activityDescription": "Hey Pongo (ex-Hello Glu) est une plateforme de fidélisation et de gestion des avis clients pour les commerçants.",
- "website": "https://www.heypongo.com"
+ "summary": "Hey Pongo (ex-Hello Glu, ex-Pongo), fondée en 2017 par Ludwig Jamet et Nicolas Samir (rejoints ensuite par Nora Barault), fait bien partie de la cohorte finale de NUMA Paris (« season2018 », numérotée 13 par convention), confirmée par l'archive Common Crawl de la base alumni et corroborée indépendamment par une source tierce mentionnant Ludwig Jamet comme « Alumni Saison 13 ». La société est active : levée de série A de 5 M€ en février 2023, environ 50 salariés, plus de 3000 clients, registre officiel actif (SIREN 832486765) avec Ludwig Jamet et Nicolas Samir comme dirigeants enregistrés. LinkedIn retrouvé pour Ludwig Jamet et Nicolas Samir ; celui de Nora Barault reste introuvable. web.archive.org était inaccessible depuis cet environnement pour cette recherche."
 }
