@@ -3,33 +3,75 @@
  "name": "Intripper",
  "season": 13,
  "checkedAt": "2026-08-22",
- "verdict": "unverifiable",
+ "verdict": "corrected",
  "fields": {
   "season": "corrected",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "unverifiable",
-  "status": "verified",
-  "statusDetails": "verified"
+  "founders": "corrected",
+  "status": "conflicting",
+  "statusDetails": "corrected",
+  "website": "verified"
  },
- "corrections": {},
- "founders": [],
+ "corrections": {
+  "founders": {
+   "avant": [],
+   "apres": ["Yonathan Berdugo", "Johan Chrzanowski"],
+   "preuves": [
+    "https://recherche-entreprises.api.gouv.fr/search?q=810185694",
+    "https://www.societe.com/societe/intrippr-810185694.html",
+    "https://www.linkedin.com/company/intripper"
+   ]
+  },
+  "activityDescription": {
+   "avant": "Intripper aidait les grands lieux de passage (aéroports, gares, centres commerciaux) à développer des opportunités de revenus additionnels.",
+   "apres": "Intripper propose une solution de cartographie et de navigation intérieure par géolocalisation indoor, avec recherche et publicité localisée, destinée aux grands lieux de passage comme les aéroports, gares et centres commerciaux.",
+   "preuves": ["https://www.linkedin.com/company/intripper"]
+  }
+ },
+ "founders": [
+  { "name": "Yonathan Berdugo", "linkedin": "" },
+  { "name": "Johan Chrzanowski", "linkedin": "" }
+ ],
  "status": "stopped",
- "statusDetails": "Plateforme destinée aux grands lieux de passage (aéroports, gares, centres commerciaux) pour développer des opportunités de revenus additionnels. Le site intripper.com n'affiche plus qu'une page d'hébergement par défaut ; aucune fiche de registre d'entreprise ni dépôt de marque n'a été retrouvé sous ce nom, et les fondateurs n'ont pas pu être identifiés.",
- "archiveEvidence": [],
- "pressEvidence": [
+ "activityDescription": "Intripper propose une solution de cartographie et de navigation intérieure par géolocalisation indoor, avec recherche et publicité localisée, destinée aux grands lieux de passage comme les aéroports, gares et centres commerciaux.",
+ "statusDetails": "Le site intripper.com est aujourd'hui hors ligne (erreur serveur/hébergement par défaut) et aucune activité, presse ou publication n'a été retrouvée depuis 2018 : le produit semble à l'arrêt. La situation de la société qui l'exploitait (SAS « INTRIPPR », SIREN 810185694, créée le 1ᵉʳ mars 2015, siège à Biot) est cependant contradictoire selon les sources : le registre officiel INSEE/RNE (recherche-entreprises.api.gouv.fr) l'indique toujours à l'état administratif « actif » avec une mise à jour RNE datée de mai 2024, tandis que le site tiers societe.com la présente comme radiée du RCS depuis le 14 juin 2018, date qui coïncide avec la fin de mandat indiquée pour ses deux dirigeants. Aucune trace d'acquisition ni de liquidation formelle n'a été trouvée.",
+ "acquirer": "",
+ "archiveEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
-   "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "montre": "Capture Common Crawl du 16 octobre 2018 (200 OK, 37 933 octets) de la base alumni officielle de NUMA (hub.numa.co/public/alumni), qui couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 » — preuve de l'appartenance à la dernière cohorte de NUMA avant l'arrêt de l'accélération en janvier 2019."
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [
-  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo). Fondateurs non identifiés malgré recherche."
+ "pressEvidence": [
+  {
+   "url": "https://www.linkedin.com/company/intripper",
+   "titre": "Page entreprise LinkedIn d'Intripper",
+   "annee": "n/d",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=810185694",
+   "titre": "Fiche INSEE/RNE de la société INTRIPPR (SIREN 810185694) via l'API officielle recherche-entreprises.api.gouv.fr",
+   "annee": "2015-2026",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/intrippr-810185694.html",
+   "titre": "Fiche societe.com de la société INTRIPPR — indique une radiation du RCS au 14 juin 2018",
+   "annee": "2018",
+   "soutient": ["founders", "status"]
+  }
  ],
- "summary": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo). Fondateurs non identifiés malgré recherche.",
- "activityDescription": "Intripper aidait les grands lieux de passage (aéroports, gares, centres commerciaux) à développer des opportunités de revenus additionnels."
+ "linkedinCompany": "https://www.linkedin.com/company/intripper",
+ "openQuestions": [
+  "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo).",
+  "Statut légal contradictoire : le registre officiel INSEE/RNE indique la société INTRIPPR toujours active (mise à jour RNE de mai 2024), alors que societe.com la donne radiée du RCS depuis le 14 juin 2018. Un dépôt de comptes ou une consultation directe du Kbis à jour permettrait de trancher.",
+  "Aucun profil LinkedIn personnel (linkedin.com/in/...) n'a pu être confirmé pour Yonathan Berdugo ni pour Johan Chrzanowski malgré une recherche étendue (LinkedIn bloque la consultation directe des profils, et les moteurs de recherche alternatifs testés — Bing, DuckDuckGo, Qwant, Google — ont renvoyé des résultats non pertinents ou n'ont pas pu être interrogés depuis cet environnement).",
+  "Un « Pascal Boyeau » apparaît comme employé sur la page entreprise LinkedIn d'Intripper, sans titre précisé et sans confirmation qu'il s'agisse d'un fondateur : à vérifier séparément si des sources supplémentaires apparaissent.",
+  "Le siège social officiel de la société (Biot, Alpes-Maritimes) diffère de Paris où NUMA opérait ; ceci n'est pas nécessairement contradictoire (adresse de domiciliation courante pour une petite SAS) mais n'a pas pu être expliqué.",
+  "web.archive.org est resté inaccessible depuis cet environnement (bloqué explicitement) pour toute la durée de cette vérification, y compris pour retrouver une capture directe du site intripper.com ou de la page alumni elle-même en rendu visuel ; seule la preuve d'index Common Crawl a pu être obtenue.",
+  "Aucun article de presse (Maddyness, FrenchWeb) mentionnant Intripper ou Intrippr n'a été retrouvé, ce qui limite la corroboration de son passage par NUMA à la seule base alumni."
+ ],
+ "summary": "Intripper est une solution de géolocalisation et navigation intérieure pour grands lieux de passage (aéroports, gares, centres commerciaux), passée par la dernière cohorte non numérotée de NUMA (« season2018 », saison 13 par convention). La recherche approfondie a permis d'identifier pour la première fois deux fondateurs via le registre officiel des entreprises françaises — Yonathan Berdugo (directeur général) et Johan Chrzanowski (président de la SAS) — associés à la société INTRIPPR (SIREN 810185694, créée en 2015). Le site web est hors ligne et aucune activité récente n'a été retrouvée, mais le statut légal de la société reste contradictoire entre le registre officiel INSEE (toujours actif) et societe.com (radié depuis 2018) ; le statut « stopped » retenu reflète l'arrêt apparent du produit plutôt qu'une liquidation confirmée. Aucun profil LinkedIn personnel des fondateurs n'a pu être confirmé malgré une recherche étendue."
 }
