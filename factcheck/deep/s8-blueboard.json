@@ -1,0 +1,74 @@
+{
+ "id": "s8-blueboard",
+ "name": "BlueBoard",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "unverifiable",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "BlueBoard a été acquis par ChannelAdvisor le 24 juillet 2020 et intégré à ChannelAdvisor Brand Analytics.",
+   "apres": "BlueBoard, plateforme parisienne d'e-commerce analytics (clients : L'Oréal, Clarins, Logitech), a été acquis par ChannelAdvisor : opération conclue le 23 juillet 2020 et annoncée le 24 juillet 2020 (9 M$ à la clôture, jusqu'à 3 M$ de complément de prix), pour un montant total pouvant atteindre 12 M$. La technologie a alimenté le produit ChannelAdvisor puis Rithum \"Brand Analytics\" ; ChannelAdvisor a fusionné avec CommerceHub en 2022 et le groupe a été renommé Rithum fin 2023, sous lequel BlueBoard n'apparaît plus comme marque distincte.",
+   "preuves": [
+    "https://www.sec.gov/Archives/edgar/data/1169652/000116965220000078/ecom8-k2020724exhibit9.htm",
+    "https://www.sec.gov/Archives/edgar/data/1169652/000116965220000082/ecom-20200630.htm",
+    "https://rithum.com/about/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Kevin Cohen" },
+  { "name": "Francis Bouvier", "linkedin": "https://fr.linkedin.com/in/francisbouvier" }
+ ],
+ "status": "exit",
+ "activityDescription": "BlueBoard est un outil B2B d'e-commerce analytics qui permet aux marques de suivre en temps réel la performance de leurs produits chez des milliers de revendeurs en ligne et places de marché.",
+ "statusDetails": "BlueBoard, plateforme parisienne d'e-commerce analytics servant des marques comme L'Oréal, Clarins et Logitech, a été acquis par ChannelAdvisor (transaction conclue le 23 juillet 2020, annoncée le 24 juillet 2020, pour 9 M$ à la clôture plus jusqu'à 3 M$ de complément de prix). Sa technologie a alimenté le produit \"Brand Analytics\" de ChannelAdvisor ; ChannelAdvisor a ensuite fusionné avec CommerceHub (2022) et le groupe a été renommé Rithum fin 2023, où BlueBoard n'existe plus comme marque autonome et le domaine blueboard.it est hors service.",
+ "acquirer": "ChannelAdvisor",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org (bloqué dans cette session)",
+   "montre": "Impossible d'accéder à web.archive.org pendant cette vérification : l'outil WebFetch a systématiquement renvoyé une erreur d'accès pour tout URL sous ce domaine (page CDX, snapshots datés, recherches de captures). Aucune preuve Internet Archive n'a donc pu être obtenue directement ; voir openQuestions."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA : voici les 17 startups qui composent la 8ème promotion",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.sec.gov/Archives/edgar/data/1169652/000116965220000078/ecom8-k2020724exhibit9.htm",
+   "titre": "ChannelAdvisor Corp, Form 8-K, Exhibit 99.1 (24 juillet 2020) — annonce des résultats préliminaires T2 2020 mentionnant l'acquisition de BlueBoard",
+   "annee": "2020",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.sec.gov/Archives/edgar/data/1169652/000116965220000082/ecom-20200630.htm",
+   "titre": "ChannelAdvisor Corp, Form 10-Q pour la période close le 30/06/2020 — note sur le regroupement d'entreprises BlueBoard",
+   "annee": "2020",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://rithum.com/about/",
+   "titre": "Rithum — À propos (historique CommerceHub / ChannelAdvisor / Rithum)",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "openQuestions": [
+  "web.archive.org a été totalement inaccessible via l'outil WebFetch pendant cette session (erreur systématique 'Claude Code is unable to fetch from web.archive.org', quel que soit le chemin — cdx API, snapshot daté, recherche par domaine). Impossible donc de confirmer par capture d'écran archivée le site blueboard.it (contenu, équipe, logo) ni les pages de cohorte lecamping.org/numa.co de 2015-2016. À refaire dès que l'accès sera rétabli.",
+  "Le domaine historique blueboard.it renvoie une erreur 503 (indisponible) ; sans capture Internet Archive, impossible de distinguer définitivement 'domaine expiré/parqué' de 'blocage anti-robot'.",
+  "Les moteurs de recherche généralistes (Bing, Google, DuckDuckGo, Qwant) utilisés via WebFetch n'ont fourni aucun résultat exploitable spécifique à ce BlueBoard français : leurs réponses étaient noyées par l'entreprise américaine homonyme Blueboard Inc. (récompenses salariés, cessation d'activité en mars 2024, sans lien) et par des résultats génériques sur le matériau de construction 'blueboard' ; plusieurs requêtes très différentes ont renvoyé un jeu de résultats quasi identique, signe que ces recherches n'étaient pas fiables dans cet environnement. La liste des fondateurs (Kevin Cohen, Francis Bouvier) n'a donc pas pu être confirmée ni infirmée de façon indépendante ; elle est reprise telle quelle du précédent audit (batch-03), qui citait un dossier de presse entreprises.gouv.fr aujourd'hui en 404 (lien mort à vérifier ou remplacer).",
+  "Aucun communiqué de presse dédié (PR Newswire / Business Wire / GlobeNewswire) à l'acquisition n'a pu être localisé pour confirmer d'éventuelles citations nominatives des fondateurs ou dirigeants de BlueBoard au moment du rachat ; seules les pièces SEC (8-K, 10-Q) ont été consultées avec succès."
+ ],
+ "summary": "L'appartenance à la saison 8 de NUMA (article Maddyness du 18/02/2016 listant les 17 startups, dont BlueBoard) et l'identité du service (« suivi en temps réel de ses produits chez les revendeurs en ligne », confirmé indépendamment par les filings SEC de ChannelAdvisor comme « e-commerce analytics » basé à Paris, clients L'Oréal/Clarins/Logitech) sont solidement vérifiées. Le statut « exit » et l'acquéreur ChannelAdvisor sont confirmés par des sources primaires de premier ordre : Form 8-K du 24/07/2020 et Form 10-Q (période close 30/06/2020) de ChannelAdvisor Corp, qui datent la clôture de la transaction au 23 juillet 2020 (9 M$ + jusqu'à 3 M$ de complément), corrigeant légèrement la date unique donnée dans statusDetails. Le domaine blueboard.it est aujourd'hui hors service (503) et ChannelAdvisor a depuis fusionné avec CommerceHub pour devenir Rithum (2023), dont le catalogue produits actuel ne mentionne plus BlueBoard ni « Brand Analytics » sous ce nom. La liste des fondateurs (Kevin Cohen, Francis Bouvier) n'a pas pu être confirmée de façon indépendante faute d'accès à Internet Archive (bloqué dans cette session) et faute de résultats de recherche exploitables (bruit causé par l'entreprise américaine homonyme Blueboard Inc.) ; elle est donc reprise sans changement du précédent audit, avec verdict 'unverifiable' plutôt que 'verified'."
+}

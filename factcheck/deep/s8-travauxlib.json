@@ -1,0 +1,74 @@
+{
+ "id": "s8-travauxlib",
+ "name": "TravauxLib",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — l'article Maddyness du 18 février 2016 liste TravauxLib parmi les 17 startups de la 8e promotion NUMA, cohérent avec des saisons 2015-2016.",
+  "name": "verified — le nom d'origine de la société, utilisé pendant l'accélération NUMA, est bien TravauxLib.",
+  "formerNamesOrPivots": "verified — TravauxLib est devenue hemea en 2019 (FrenchWeb, 2019 ; page « Qui sommes-nous » de hemea.com ; le domaine travauxlib.com redirige aujourd'hui en 301 vers hemea.com/fr).",
+  "founders": "verified — l'article FrenchWeb (2019) nomme explicitement Matthieu Burin et Arnaud Kleinpeter comme fondateurs de TravauxLib/hemea. Voir toutefois la question ouverte sur la page « Qui sommes-nous » actuelle de hemea, qui présente une autre composition de l'« équipe fondatrice ».",
+  "status": "verified — hemea (Novare Construction SAS) est une entreprise active en 2026 : site en ligne, page LinkedIn active (143 salariés, +5000 chantiers réalisés), presse récente.",
+  "statusDetails": "verified — l'activité de rénovation se poursuit bien sous la marque hemea, avec accréditation ACPR et développement du réseau de courtage depuis 2023.",
+  "website": "verified — https://www.hemea.com est en ligne et actif ; l'ancien domaine https://www.travauxlib.com redirige (301) vers https://www.hemea.com/fr."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Matthieu Burin" },
+  { "name": "Arnaud Kleinpeter" }
+ ],
+ "status": "active",
+ "activityDescription": "TravauxLib est une plateforme qui permet aux particuliers d'obtenir gratuitement une estimation en ligne de leurs travaux de rénovation, puis d'être mis en relation avec des entreprises du bâtiment auditées et notées en continu par leurs clients.",
+ "statusDetails": "Activité de rénovation poursuivie sous la marque hemea (Novare Construction SAS), courtier en architecture et rénovation toujours en activité en 2026, avec un réseau de plusieurs milliers d'artisans partenaires.",
+ "website": "https://www.hemea.com",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=travauxlib.com&timestamp=2015",
+   "montre": "Une capture Wayback Machine du 30 décembre 2015 (20151230172241) confirme que travauxlib.com était déjà en ligne pendant la saison 8 de NUMA."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=travauxlib.com&timestamp=2016",
+   "montre": "Capture du 2 février 2017 (20170202000113) : le site fonctionnait toujours sous le nom TravauxLib après l'accélération."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=travauxlib.com&timestamp=2022",
+   "montre": "Capture du 21 juillet 2020 (20200721160003) : le domaine travauxlib.com était encore capturé par la Wayback Machine à cette date."
+  },
+  {
+   "url": "http://archive.org/wayback/available?url=hemea.com&timestamp=2019",
+   "montre": "Capture du 3 novembre 2018 (20181103075518) : le domaine hemea.com existait déjà avant l'annonce officielle du changement de nom (FrenchWeb, septembre 2019)."
+  },
+  {
+   "url": "https://www.travauxlib.com",
+   "montre": "Requête directe en 2026 : redirection HTTP 301 permanente de https://www.travauxlib.com vers https://www.hemea.com/fr, confirmant la continuité entre TravauxLib et hemea."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile sa 8e saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/la-startup-travauxlib-leve-5-millions-deuros-et-devient-hemea/376769",
+   "titre": "La startup TravauxLib lève 5 millions d'euros et devient hemea",
+   "annee": "2019",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://www.hemea.com/qui-sommes-nous",
+   "titre": "Qui sommes-nous — hemea",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/hemea/",
+ "openQuestions": [
+  "La page « Qui sommes-nous » actuelle de hemea.com présente Matthieu Burin et Yann Depoys comme « équipe fondatrice », tout en précisant que Yann Depoys n'a rejoint la société qu'en septembre 2018, soit trois ans après la création de TravauxLib en 2015. L'article FrenchWeb de 2019 (postérieur à l'arrivée de Depoys) nomme pourtant encore Arnaud Kleinpeter comme cofondateur, et non Depoys. Le devenir d'Arnaud Kleinpeter (départ, date) n'est documenté par aucune source publique trouvée ; la mention actuelle de hemea semble relever d'une narration marketing plutôt que d'un historique précis des fondateurs à la création.",
+  "Impossible de confirmer un profil LinkedIn individuel pour Matthieu Burin ou Arnaud Kleinpeter dans cet environnement : les requêtes directes vers linkedin.com/in/... ont échoué (erreurs HTTP 999 renvoyées par le proxy). Seule la page entreprise LinkedIn de hemea a pu être consultée.",
+  "L'accès direct aux pages archivées de web.archive.org (contenu des snapshots) est bloqué par le proxy de cet environnement ; seule l'API archive.org/wayback/available (métadonnées de capture) a pu être interrogée, ce qui limite la vérification du contenu exact des anciennes pages TravauxLib."
+ ],
+ "summary": "Fiche exacte dans l'ensemble : TravauxLib faisait bien partie de la 8e saison NUMA (confirmé par Maddyness, 2016), a pivoté vers hemea en 2019 (confirmé par FrenchWeb et par la redirection actuelle de travauxlib.com vers hemea.com), et l'activité de rénovation se poursuit activement en 2026 sous cette marque (Novare Construction SAS). Les fondateurs Matthieu Burin et Arnaud Kleinpeter sont corroborés par la presse de l'époque, même si le site actuel de hemea présente une version légèrement différente de l'« équipe fondatrice » incluant Yann Depoys (arrivé en 2018), ce qui reste une zone d'ombre à surveiller plutôt qu'une erreur avérée de la fiche."
+}

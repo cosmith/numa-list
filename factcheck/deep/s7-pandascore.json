@@ -1,0 +1,94 @@
+{
+ "id": "s7-pandascore",
+ "name": "PandaScore",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Flavien Guillocheau" }
+   ],
+   "apres": [
+    { "name": "Flavien Guillocheau" },
+    { "name": "Jonathan Retterer" }
+   ],
+   "preuves": [
+    "https://www.frenchweb.fr/pandascore-leve-25-millions-deuros-pour-mettre-de-la-data-dans-le-sport/298375",
+    "https://www.frenchweb.fr/esport-pandascore-leve-5-millions-deuros-aupres-de-la-fdj-serena-et-alven/405859"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Fournisseur de données e-sport actif.",
+   "apres": "PandaScore est toujours en activité à Paris : fournisseur B2B de statistiques et de cotes e-sport en temps réel par IA pour bookmakers, médias et équipes (levées de fonds en 2017, 2020 et distinction EGR Awards 2024 mentionnées sur son site officiel).",
+   "preuves": [
+    "https://www.pandascore.co",
+    "https://www.frenchweb.fr/esport-pandascore-leve-5-millions-deuros-aupres-de-la-fdj-serena-et-alven/405859"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Flavien Guillocheau" },
+  { "name": "Jonathan Retterer" }
+ ],
+ "status": "active",
+ "activityDescription": "PandaScore est un fournisseur B2B de statistiques et de cotes e-sport en temps réel, généré par intelligence artificielle à partir de l'analyse des compétitions, à destination des bookmakers, médias, diffuseurs et équipes professionnelles.",
+ "statusDetails": "PandaScore est toujours en activité à Paris : fournisseur B2B de statistiques et de cotes e-sport en temps réel par IA pour bookmakers, médias et équipes (levées de fonds en 2017, 2020 et distinction EGR Awards 2024 mentionnées sur son site officiel).",
+ "website": "https://www.pandascore.co",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/06/02/numa-sprint-ex-le-camping-annonce-larrivee-de-22-startups-francaises/",
+   "titre": "NUMA Sprint (ex-Le Camping) annonce l'arrivée de 22 startups françaises",
+   "annee": "2015",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/pandascore-leve-25-millions-deuros-pour-mettre-de-la-data-dans-le-sport/298375",
+   "titre": "PandaScore lève 2,5 millions d'euros pour mettre de la data dans l'e-sport",
+   "annee": "2017",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/emission-3-interview-croisee-entre-la-start-up-pandascore-50-partners-et-microsoft-bizspark-plus/291994",
+   "titre": "Émission 3 : Interview croisée entre la start-up PandaScore, 50 Partners et Microsoft BizSpark Plus",
+   "annee": "2017",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/esport-pandascore-leve-5-millions-deuros-aupres-de-la-fdj-serena-et-alven/405859",
+   "titre": "eSport : PandaScore lève 5 millions d'euros auprès de Serena et Alven",
+   "annee": "2020",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.pandascore.co",
+   "titre": "Site officiel PandaScore (activité 2023-2024, EGR Awards)",
+   "annee": "2024",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/pandascore",
+ "openQuestions": [
+  "L'accès à web.archive.org (Internet Archive) était bloqué dans cet environnement par la politique réseau de la session (échec de connexion CONNECT côté proxy, confirmé via le point de statut du proxy) : impossible de consulter les captures d'écran historiques du site pandascore.co ni les pages de cohorte archivées de lecamping.org/numa.co pour la saison 7, comme demandé par la méthodologie. Cette vérification reste à faire avec un accès Internet Archive fonctionnel.",
+  "Impossible de localiser les URL LinkedIn personnelles (linkedin.com/in/...) de Flavien Guillocheau et Jonathan Retterer : les moteurs de recherche accessibles depuis cet environnement (Bing, DuckDuckGo, Google) ont systématiquement renvoyé des résultats non pertinents ou des pages de vérification anti-robot au lieu de résultats de recherche exploitables, et LinkedIn lui-même redirige vers une page de connexion pour les visiteurs non authentifiés.",
+  "Le nom exact de l'application grand public d'origine (2015, 'application dédiée aux fans d'e-sport') par rapport au produit B2B actuel (API de données/cotes) n'est pas documenté comme un changement de nom de société, mais constitue un pivot de produit notable qui pourrait mériter d'être mentionné dans une description plus longue.",
+  "Impossible de confirmer via un registre officiel (societe.com, pappers.fr) le statut juridique exact (SIREN, dirigeants actuels) : ces pages ont renvoyé des erreurs 403/404 lors des tentatives d'accès direct."
+ ],
+ "summary": "Le rattachement à la saison 7 (cohorte NUMA Sprint, ex-Le Camping, mai 2015, ~22-25 startups) est confirmé par Journal du Net et Maddyness. L'identité (PandaScore, sans changement de nom), le site web (pandascore.co, toujours en ligne et actif) et le statut actif sont vérifiés directement sur le site officiel, qui mentionne des distinctions et une activité en 2023-2024. En revanche, la liste des fondateurs était incomplète : deux articles FrenchWeb indépendants (2017 et 2020) confirment que PandaScore a été cofondée par Flavien Guillocheau (CEO) ET Jonathan Retterer, alors que le dossier ne mentionnait que Flavien Guillocheau. Aucune preuve d'acquisition ou d'arrêt d'activité n'a été trouvée ; l'entreprise a levé des fonds en 2017 et 2020 et reste opérationnelle comme fournisseur B2B de données/cotes e-sport. La vérification via Internet Archive n'a pas pu être réalisée car web.archive.org était bloqué par la politique réseau de cette session, et aucune URL LinkedIn personnelle des fondateurs n'a pu être retrouvée malgré plusieurs tentatives via différents moteurs de recherche."
+}

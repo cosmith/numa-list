@@ -1,0 +1,50 @@
+{
+ "id": "s8-zack",
+ "name": "Zack",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Timothée Mével" },
+  { "name": "Pierre-Emmanuel Saint-Esprit" }
+ ],
+ "status": "exit",
+ "activityDescription": "Zack collecte sous 48h, revalorise (revente, don, recyclage) et fournit un bilan RSE personnalisé sur le matériel électronique professionnel en fin de vie pour le compte d'entreprises et d'organisations publiques, une activité rebaptisée Zack après ses débuts en 2016 sous le nom HelloZack, alors centrée sur le rachat et la revente d'objets entre particuliers.",
+ "statusDetails": "Activité intégrée au groupe Manutan, qui en a racheté 80% des parts en février 2022 ; la marque Zack est toujours exploitée en 2026, désormais recentrée sur le B2B (reconditionnement/recyclage d'électronique), avec la société ZACK SAS enregistrée comme active (3 à 5 salariés) au siège de Manutan à Gonesse (95).",
+ "acquirer": "Manutan",
+ "website": "https://www.zack.eco",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les startups de sa 8ème saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.manutan.com/fr/accueil/presse/actualites/2022/participation-zack",
+   "titre": "Communiqué Manutan sur la prise de participation dans ZACK",
+   "annee": "2022",
+   "soutient": ["status", "founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Impossible d'accéder à web.archive.org depuis cet environnement (outil bloqué) : la vérification obligatoire via Internet Archive (historique des captures de hellozack.fr, snapshot 2015-2016, pages d'équipe/cohorte archivées de lecamping.org ou numa.co) n'a pas pu être effectuée. À refaire dès que l'accès sera possible.",
+  "Le quota de recherche web (WebSearch) de la session était épuisé avant le début de cette vérification ; aucune recherche WebSearch n'a donc pu être lancée. Toutes les preuves ci-dessus proviennent de WebFetch direct sur des URLs connues (site Zack actuel, communiqué Manutan, article Maddyness déjà cité dans le dossier).",
+  "Aucun profil LinkedIn personnel n'a pu être localisé pour Timothée Mével ou Pierre-Emmanuel Saint-Esprit : les moteurs de recherche accessibles via WebFetch (Bing, DuckDuckGo, Ecosia) ont renvoyé des CAPTCHA, des erreurs 403, ou des résultats sans rapport, et LinkedIn bloque les requêtes directes (HTTP 999). Aucune page LinkedIn d'entreprise (linkedin.com/company/zack-...) n'a pu être confirmée non plus.",
+  "Le pourcentage exact du rachat par Manutan (80% des parts, selon le communiqué officiel) n'est pas repris dans data.json ; à considérer comme précision optionnelle si le schéma le permet.",
+  "La mention 'seenInPhoto' du dossier précédent (batch-03) reste non vérifiable et n'a pas pu être recontrôlée ici (aucune source photo trouvée)."
+ ],
+ "summary": "Tous les champs du dossier s8-zack (Zack, saison 8, ex-HelloZack, fondé par Timothée Mével et Pierre-Emmanuel Saint-Esprit, racheté à 80% par Manutan en février 2022, marque encore active en 2026) sont corroborés par le communiqué officiel de Manutan (2022) et l'article Maddyness de la saison 8 (2016), ainsi que par le site actuel zack.eco (toujours en ligne, redirige vers entreprises.zack.eco) et une fiche de registre confirmant ZACK SAS active. Aucune correction nécessaire. Limites : accès à web.archive.org bloqué dans cet environnement, quota WebSearch épuisé, et profils LinkedIn des fondateurs non localisés malgré plusieurs tentatives via d'autres moteurs."
+}

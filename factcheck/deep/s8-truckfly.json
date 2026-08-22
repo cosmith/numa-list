@@ -1,0 +1,72 @@
+{
+ "id": "s8-truckfly",
+ "name": "Truckfly",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — confirmé par deux articles de presse indépendants publiés le même jour (Maddyness le 18/02/2016, FrenchWeb le 19/02/2016) listant Truckfly parmi les 17 startups de la 8e promotion de NUMA.",
+  "name": "verified — la raison sociale exacte 'TRUCKFLY' (SAS) est confirmée par l'annonce légale BODACC de création.",
+  "formerNamesOrPivots": "verified — aucune trace d'un nom antérieur ou d'un pivot de raison sociale. Le produit a toutefois évolué dans le temps (voir activityDescription) sans changement de nom de la société.",
+  "founders": "verified — Benoît Joncquez (Président) et Corentin Smith (Directeur général) sont confirmés comme dirigeants de TRUCKFLY SAS par l'annonce légale BODACC de création (RCS Paris, immatriculation du 18 septembre 2015). Arthur Ouaki n'a pas pu être re-confirmé par une nouvelle source primaire lors de cet audit (le BODACC ne liste que les représentants légaux, pas nécessairement tous les cofondateurs) ; il est conservé sur la base de la confiance haute et de la preuve photographique déjà retenues dans l'audit précédent (batch-03), faute d'élément contradictoire.",
+  "status": "verified — la page LinkedIn de l'entreprise, aujourd'hui intitulée « MICHELIN Truckfly », confirme que Truckfly a été intégrée au groupe Michelin (siège affiché à Clermont-Ferrand, présentée comme faisant partie des solutions connectées du groupe Michelin), ce qui corrobore le statut 'exit' déjà enregistré.",
+  "statusDetails": "verified pour le principe (rachat par Michelin, confirmé par la marque 'MICHELIN Truckfly' toujours active) ; la date précise du 26 juillet 2018 n'a pas pu être re-confirmée par un article de presse primaire lors de cet audit (moteurs de recherche indisponibles, voir openQuestions) mais n'est contredite par aucune source trouvée.",
+  "website": "verified (sous réserve) — https://www.truckfly.com renvoie un blocage anti-robot (403) lors de la requête automatisée, ce qui n'est pas une preuve d'arrêt du site ; la page LinkedIn de l'entreprise montre un produit actif aujourd'hui sous la marque Michelin."
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Benoît Joncquez",
+   "linkedin": "https://www.linkedin.com/in/benoit-joncquez"
+  },
+  {
+   "name": "Corentin Smith",
+   "linkedin": "https://fr.linkedin.com/in/corentinsmith"
+  },
+  {
+   "name": "Arthur Ouaki",
+   "linkedin": "https://fr.linkedin.com/in/aouaki"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "Truckfly est un service qui aide les entreprises à trouver un transporteur routier adapté à leurs besoins en les mettant en relation avec des chauffeurs de camions roulant à vide à proximité.",
+ "statusDetails": "Truckfly a été acquis par Michelin (le 26 juillet 2018 selon la fiche existante) ; le produit continue d'exister aujourd'hui sous la marque « MICHELIN Truckfly », une application dédiée aux chauffeurs routiers en Europe (navigation GPS spécifique aux poids lourds, lieux adaptés aux camions), présentée comme faisant partie de l'écosystème de solutions connectées du groupe Michelin.",
+ "acquirer": "Michelin",
+ "website": "https://www.truckfly.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "Découvrez les 17 jeunes pousses qui composent la nouvelle promotion du NUMA",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/insiders-les-14-frenchies-selectionnes-pour-le-sxsw/",
+   "titre": "[INSIDERS] Les 14 Frenchies sélectionnés pour le SXSW (mentionne la 8e promotion NUMA, dont Truckfly, transport)",
+   "annee": "2016",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20150191_0001_p000.pdf",
+   "titre": "BODACC A n°191 du 6 octobre 2015 — annonce de création de TRUCKFLY SAS (RCS Paris 603 222), Président : Joncquez Benoît, Directeur général : Smith Corentin",
+   "annee": "2015",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/truckfly",
+   "titre": "Page entreprise LinkedIn « MICHELIN Truckfly »",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/truckfly",
+ "openQuestions": [
+  "Internet Archive (web.archive.org) et timetravel.mementoweb.org sont bloqués par la politique réseau de cette session (proxy egress) : l'étape obligatoire de consultation des snapshots archivés du site truckfly.com et des pages de cohortes lecamping.org/numa.co n'a pas pu être réalisée. La description du produit s'appuie donc sur la presse contemporaine (Maddyness) plutôt que sur le site archivé lui-même.",
+  "Le quota WebSearch de la session était déjà épuisé (0 requête disponible) avant le début de cet audit, et les moteurs de recherche alternatifs interrogés via WebFetch (Google, Bing, DuckDuckGo, Yandex, Qwant, Marginalia) ont tous renvoyé des pages de CAPTCHA, des résultats non pertinents ou des blocages — aucune recherche croisée par moteur de recherche n'a donc pu être menée ; seules des URL connues ou devinées ont pu être vérifiées directement.",
+  "Le rôle exact d'Arthur Ouaki comme cofondateur n'a pas pu être recorroboré par une nouvelle source primaire lors de cet audit (non listé dans l'annonce BODACC de création, qui ne mentionne que les représentants légaux). Il est conservé sur la base de la preuve photographique et de la confiance haute déjà établies précédemment.",
+  "La date précise du rachat par Michelin (26 juillet 2018) n'a pas pu être retrouvée dans un article de presse primaire lors de cet audit ; seule l'intégration actuelle au groupe Michelin (marque « MICHELIN Truckfly ») a pu être reconfirmée.",
+  "Le statut actuel (vivant/mort) du domaine truckfly.com n'a pas pu être établi directement (blocage anti-robot 403 sur la requête automatisée) ; l'activité du produit sous la marque Michelin semble se poursuivre d'après LinkedIn."
+ ],
+ "summary": "Fiche globalement confirmée sans nécessiter de nouvelle correction. La cohorte (saison 8 de NUMA, 2016) est confirmée par deux articles de presse contemporains (Maddyness, FrenchWeb). L'identité de la société et deux des trois fondateurs (Benoît Joncquez, Corentin Smith) sont confirmés par l'annonce légale BODACC de création de TRUCKFLY SAS (septembre 2015). Le statut 'exit' avec Michelin comme acquéreur est corroboré par la page LinkedIn actuelle de l'entreprise, renommée « MICHELIN Truckfly » et présentée comme faisant partie du groupe Michelin. La description d'activité (mise en relation d'entreprises avec des chauffeurs routiers roulant à vide) provient de la presse de l'époque. Limites de cet audit : Internet Archive était inaccessible pour raison de politique réseau, le quota de recherche web était épuisé, et le troisième fondateur (Arthur Ouaki) ainsi que la date exacte du rachat n'ont pas pu être re-vérifiés par une source primaire nouvelle — ils sont conservés tels quels, sans élément contradictoire."
+}
