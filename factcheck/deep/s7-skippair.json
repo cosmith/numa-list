@@ -1,0 +1,47 @@
+{
+ "id": "s7-skippair",
+ "name": "Skippair",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Maïna Marquette" },
+  { "name": "Claire Blangez" }
+ ],
+ "status": "active",
+ "activityDescription": "Skippair est une plateforme qui met en relation des voyageurs avec des skippers professionnels notés pour réserver des croisières en voilier ou catamaran (bateau privatif ou cabine partagée), des locations de bateaux avec skipper et des stages de voile.",
+ "statusDetails": "Le site skippair.com est aujourd'hui (2026) pleinement en ligne et opérationnel : réservation de croisières, locations de bateaux avec skipper, plongée et stages de voile sur de nombreuses destinations (Bretagne, Corse, Méditerranée, Caraïbes, etc.), avec plus de 600 skippers professionnels référencés et un système d'avis clients actif — l'entreprise poursuit donc son activité plus de dix ans après son passage par NUMA.",
+ "website": "https://www.skippair.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/12/06/nautisme-skippair-leve-800-000-euros/",
+   "titre": "Nautisme : Skippair lève 800 000 euros",
+   "annee": "2016",
+   "soutient": ["founders", "status", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel de Maïna Marquette ou Claire Blangez n'a pu être localisé avec les outils disponibles dans cette session (budget de recherche web épuisé, moteurs de recherche bloqués par CAPTCHA, LinkedIn et web.archive.org non accessibles en fetch direct) : à recontrôler avec un accès web plus complet.",
+  "Aucune page LinkedIn d'entreprise pour Skippair n'a pu être localisée ou confirmée dans cette session.",
+  "web.archive.org était inaccessible via l'outil WebFetch pendant cette vérification ; les captures CDX et les snapshots de 2015 n'ont donc pas pu être consultés directement. La confirmation de statut/produit repose ici sur le site en ligne actuel (2026) et sur la presse contemporaine (2015-2016), pas sur une capture d'archive du site à l'époque du programme NUMA.",
+  "Aucun article de presse additionnel (TechCrunch, Rude Baguette, FrenchWeb, Les Échos, 01net, Presse-citron) n'a pu être trouvé confirmant davantage la levée de fonds ou une éventuelle évolution ultérieure de l'entreprise ; les recherches sur Rude Baguette et FrenchWeb via leur moteur de recherche interne n'ont rien retourné pour 'skippair'."
+ ],
+ "summary": "Le dossier s7-skippair est confirmé sans correction : Skippair a bien fait partie de la cohorte NUMA de 2015 (programme NUMA Sprint, 25 lauréats sur 650 candidatures, selon Journal du Net), a été fondée par Maïna Marquette et Claire Blangez (Maddyness, 2016), et le site skippair.com est aujourd'hui, en 2026, pleinement en ligne et opérationnel — plateforme de réservation de croisières avec skipper, locations de bateaux et stages de voile. Aucun changement de nom ni pivot identifié. Le statut 'active' de la fiche est donc vérifié directement sur le site en production, ce qui renforce la preuve au-delà du seul article de 2016. Limites de cette vérification : accès Internet Archive et LinkedIn indisponibles dans cette session, donc pas de confirmation par capture d'archive de l'époque ni de profils LinkedIn individuels."
+}

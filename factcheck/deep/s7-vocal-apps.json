@@ -1,0 +1,64 @@
+{
+ "id": "s7-vocal-apps",
+ "name": "Vocal Apps",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "unverifiable",
+  "status": "unverifiable",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Plateforme d'assistants vocaux non retrouvée comme activité actuelle.",
+   "apres": "Le site vocal-apps.com a fonctionné (captures Wayback à statut 200) au moins de 2015 à mars 2023, mais le domaine ne résout plus du tout en 2026 (échec DNS), et aucune actualité, levée de fonds, acquisition ou page LinkedIn active n'a pu être retrouvée pour la société ou ses fondateurs.",
+   "preuves": [
+    "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+    "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20230101"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Hicham Tahiri" },
+  { "name": "Henri Chabrand" },
+  { "name": "Karim Lourci" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Vocal Apps est une plateforme permettant de créer en quelques clics un assistant vocal pour objets connectés.",
+ "statusDetails": "Le site vocal-apps.com a répondu en HTTP 200 sur des captures Wayback allant d'août 2015 à mars 2023, mais le domaine ne résout plus du tout en 2026 (échec DNS confirmé), et aucune actualité, levée de fonds, acquisition, page LinkedIn d'entreprise ni profil LinkedIn de fondateur n'a pu être retrouvé : la piste s'arrête après 2023.",
+ "website": "",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20150801",
+   "montre": "Capture Wayback disponible du 12 août 2015 (http://www.vocal-apps.com:80/, statut 200) — le site tournait déjà pendant la saison 7 du programme NUMA Sprint."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20180101",
+   "montre": "Capture Wayback du 28 janvier 2018 (statut 200) — le site restait en ligne plusieurs années après l'accélération."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20260101",
+   "montre": "La capture la plus récente retournée par l'API Wayback 'available' est datée du 16 mars 2023 (statut 200) ; aucune capture postérieure n'a été trouvée."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "Aucune trace indépendante des trois fondateurs (Hicham Tahiri, Henri Chabrand, Karim Lourci) n'a pu être trouvée en dehors de la fiche annuaire-startups.pro d'origine, aujourd'hui en erreur 404 ; aucun profil LinkedIn personnel ni page LinkedIn d'entreprise n'a été localisé via les moteurs de recherche accessibles.",
+  "Le contenu réel des pages archivées (web.archive.org) n'a pas pu être consulté directement : l'outil de récupération web utilisé dans cette session bloque explicitement le domaine web.archive.org (seule l'API 'wayback/available' sur archive.org a pu être interrogée, ce qui donne des dates de capture et des codes de statut mais pas le contenu des pages). Une vérification humaine des snapshots eux-mêmes serait utile.",
+  "Le fait que le domaine ait répondu HTTP 200 jusqu'en mars 2023 pourrait aussi correspondre à une page parkée/revendue plutôt qu'au site d'origine ; cela n'a pas pu être tranché sans accès au contenu archivé.",
+  "Aucune mention de rachat, cessation d'activité officielle ou nouvelle société reprenant l'activité n'a été trouvée ; le statut 'stopped' repose donc surtout sur l'absence totale de signal d'activité récente, ce qui est une preuve faible selon la méthodologie du projet."
+ ],
+ "summary": "La cohorte (NUMA Sprint / saison 7, 2015) et l'identité de Vocal Apps (plateforme de création d'assistants vocaux pour objets connectés, site http://www.vocal-apps.com/) sont confirmées par un article de presse contemporain (Journal du Net, 27 mai 2015). L'historique Wayback montre que le site a réellement fonctionné de 2015 à au moins mars 2023, puis le domaine a cessé de résoudre (constaté en 2026). En revanche, aucune source indépendante n'a pu confirmer la liste des fondateurs (uniquement soutenue par un annuaire communautaire aujourd'hui hors ligne) ni établir avec certitude un arrêt formel d'activité (aucune actualité, rachat ou liquidation trouvée) : ces deux points restent non vérifiables avec les outils disponibles dans cette session, notamment parce que web.archive.org n'a pas pu être consulté directement pour son contenu."
+}

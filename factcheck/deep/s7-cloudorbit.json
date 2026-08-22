@@ -1,0 +1,87 @@
+{
+ "id": "s7-cloudorbit",
+ "name": "CloudOrbit",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {
+  "activityDescription": {
+   "avant": null,
+   "apres": "CloudOrbit est un courtier de services cloud (« cloud broker ») qui aide les directions informatiques à bâtir des catalogues de services cloud sur mesure et à déployer, superviser et orchestrer leurs traitements sur plusieurs fournisseurs (public, privé ou hybride) en fonction du prix, de la performance et des SLA.",
+   "preuves": [
+    "https://www.lemagit.fr/actualites/2240232344/CloudOrbit-et-CloudScreener-un-broker-de-cloud-intelligent-qui-sadapte-aux-SLA-et-performances",
+    "https://www.linkedin.com/company/cloudorbit",
+    "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Jean-Pierre Laisné" },
+  { "name": "Jean-Philippe Kalfon" }
+ ],
+ "status": "stopped",
+ "activityDescription": "CloudOrbit est un courtier de services cloud (« cloud broker ») qui aide les directions informatiques à bâtir des catalogues de services cloud sur mesure et à déployer, superviser et orchestrer leurs traitements sur plusieurs fournisseurs (public, privé ou hybride) en fonction du prix, de la performance et des SLA.",
+ "statusDetails": "CloudOrbit (SAS, SIREN 800265431, créée le 21/01/2014, siège 38 avenue de Wagram, Paris 8e) a cessé son activité le 7 octobre 2015 (date de fermeture officielle INSEE). La dissolution de la société et la radiation du RCS de Paris ont été publiées au BODACC le 12 novembre 2015, avec Jean-Pierre Laisné désigné comme liquidateur — ce qui confirme la formulation retenue dans data.json ('a cessé son activité et a clôturé sa liquidation en octobre 2015').",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.lemagit.fr/actualites/2240232344/CloudOrbit-et-CloudScreener-un-broker-de-cloud-intelligent-qui-sadapte-aux-SLA-et-performances",
+   "titre": "CloudOrbit et CloudScreener, un broker de cloud intelligent qui s'adapte aux SLA et performances",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/06/02/numa-sprint/",
+   "titre": "NUMA Sprint (ex-Le Camping) annonce l'arrivée de 22 startups françaises",
+   "annee": "2015",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/cloudorbit",
+   "titre": "Page entreprise LinkedIn CloudOrbit",
+   "annee": "2026 (consultée)",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=cloudorbit",
+   "titre": "Fiche officielle CLOUDORBIT — API Recherche d'entreprises (INSEE/data.gouv.fr), SIREN 800265431",
+   "annee": "2026 (consultée)",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20150218993",
+   "titre": "BODACC — Modification (dissolution de la société), liquidateur Laisné, Jean-Pierre",
+   "annee": "2015",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201502181171",
+   "titre": "BODACC — Radiation au RCS de Paris de CLOUDORBIT",
+   "annee": "2015",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/cloudorbit",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être confirmé pour Jean-Pierre Laisné ni pour Jean-Philippe Kalfon : LinkedIn bloque les recherches et les accès directs à des profils individuels non authentifiés (erreurs 999) dans cet environnement ; seule la page entreprise linkedin.com/company/cloudorbit a pu être consultée.",
+  "web.archive.org (Wayback Machine) était totalement inaccessible depuis cet environnement (blocage réseau/outil systématique, y compris l'API CDX), donc aucune capture d'archive n'a pu être vérifiée directement pour cloudorbit.com ou pour les pages de cohorte lecamping.org/numa.co de 2015 ; l'identité et l'activité de CloudOrbit ont néanmoins été confirmées par la presse spécialisée (LeMagIT), par la page LinkedIn de l'entreprise et par les registres officiels français (INSEE, BODACC).",
+  "Le nom de domaine historique cloudorbit.com (indiqué sur la page LinkedIn de l'entreprise) redirige aujourd'hui vers une place de marché de revente de noms de domaine (atom.com), confirmant que le site n'est plus en ligne, sans qu'une capture d'archive n'ait pu être consultée pour en dater la disparition précisément.",
+  "Le budget de l'outil WebSearch de la session était déjà épuisé avant la fin de cette vérification ; les moteurs de recherche alternatifs (Bing, DuckDuckGo, Mojeek, Marginalia, Ecosia) ont tous renvoyé des CAPTCHA, des blocages 403 ou des résultats non pertinents, limitant la recherche complémentaire de presse ou de profils individuels."
+ ],
+ "summary": "CloudOrbit (saison 7, NUMA Sprint 2015) est confirmé comme courtier de cloud multi-fournisseurs fondé par Jean-Pierre Laisné et Jean-Philippe Kalfon (LeMagIT, oct. 2014), et apparaît bien dans la liste officielle des 25 lauréats NUMA/Journal du Net et dans l'article Maddyness sur NUMA Sprint. Le statut « stopped » et le détail « cessation d'activité et clôture de liquidation en octobre 2015 » sont confirmés par des sources officielles de premier ordre : la fiche INSEE (SIREN 800265431, fermeture au 07/10/2015) et deux annonces BODACC du 12/11/2015 (dissolution avec Jean-Pierre Laisné comme liquidateur, puis radiation du RCS de Paris). Aucun rachat n'a été trouvé : l'entreprise a été liquidée, pas acquise. Le champ activityDescription était absent de data.json et a été rédigé à partir des sources ; aucun autre champ ne nécessite de correction. Les profils LinkedIn individuels des fondateurs et les captures Wayback Machine n'ont pas pu être consultés en raison de blocages techniques dans cet environnement (LinkedIn anti-bot, web.archive.org inaccessible)."
+}

@@ -1,0 +1,77 @@
+{
+ "id": "s6-artchy",
+ "name": "Artchy",
+ "season": 6,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "unverifiable",
+  "founders": "verified",
+  "status": "unverifiable",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "website": {
+   "avant": "https://archivevalley.com",
+   "apres": null,
+   "preuves": [
+    "https://archivevalley.com/ (redirection HTTP 301 constatée le 22/08/2026 vers https://www.diariozm.com/, qui redirige lui-même vers https://oceanmistcosmetics.com/ — un site de cosmétiques sans rapport)",
+    "https://artchy.io (redirection HTTP 301 constatée le 22/08/2026, domaine également revendu)"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Projet devenu Archive Valley; plateforme patrimoniale encore identifiable.",
+   "apres": "Artchy a pivoté vers Archive Valley (marketplace d'images d'archives pour producteurs de contenu). Le nom de domaine archivevalley.com est aujourd'hui revendu et redirige vers un site sans rapport (cosmétiques) ; artchy.io est également revendu. La page LinkedIn de l'entreprise (linkedin.com/company/archivevalley) reste visible mais ne montre aucune activité récente identifiable.",
+   "preuves": [
+    "https://www.linkedin.com/company/archivevalley",
+    "https://archivevalley.com/",
+    "https://artchy.io"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Mélanie Rozencwaig" },
+  { "name": "Jhava Chikli" },
+  { "name": "Tran Nguyen Ngoc" }
+ ],
+ "status": "active",
+ "activityDescription": "Artchy est une plateforme participative qui permet aux entreprises et maisons de luxe au patrimoine important de gérer, organiser et valoriser leurs archives d'entreprise.",
+ "statusDetails": "Artchy a pivoté vers Archive Valley (marketplace d'images d'archives pour producteurs de contenu). Le nom de domaine archivevalley.com est aujourd'hui revendu et redirige vers un site sans rapport (cosmétiques) ; artchy.io est également revendu. La page LinkedIn de l'entreprise (linkedin.com/company/archivevalley) reste visible mais ne montre aucune activité récente identifiable — statut réel non confirmé.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=artchy.io",
+   "montre": "Confirme une capture Wayback de artchy.io datée du 27/12/2014 (HTTP 200), cohérente avec la saison 6 (2014-2015)."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=archivevalley.com&timestamp=2015",
+   "montre": "Confirme une capture Wayback de archivevalley.com dès 2015-2016, ce qui situe le pivot Artchy -> Archive Valley peu après le programme NUMA."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1142743-le-camping-devoile-les-12-start-up-de-sa-sixieme-saison/",
+   "titre": "Le Camping dévoile les 12 start-up de sa sixième saison",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+   "titre": "Le Camping saison 6",
+   "annee": "2014",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/archivevalley",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être confirmé pour les trois fondateurs (moteurs de recherche bloqués/captcha durant cette vérification, et les sous-pages LinkedIn People/About exigent une connexion).",
+  "Le lien direct entre Artchy et Archive Valley (même équipe, rebranding officiel) n'est corroboré par aucun article de presse retrouvé ; il repose sur la cohérence thématique (archives -> archives d'images) et la chronologie des noms de domaine.",
+  "Impossible de consulter les captures Wayback Machine elles-mêmes (web.archive.org bloqué par l'outil WebFetch et par le proxy réseau dans cet environnement) ; seule l'API de disponibilité (archive.org/wayback/available) a pu être interrogée.",
+  "Aucune fiche societe.com/pappers.fr consultable (403) pour vérifier une éventuelle radiation au RCS.",
+  "Aucun article de presse dédié à Archive Valley retrouvé sur Maddyness, JDN, FrenchWeb, Rude Baguette ou TechCrunch malgré recherche sur site.",
+  "Statut réel en 2026 non tranché : le domaine d'origine est revendu (signal de fin d'activité sous ce nom), mais cela ne suffit pas seul, selon la méthodologie, à conclure à un arrêt confirmé."
+ ],
+ "summary": "Saison 6, nom et fondateurs (Mélanie Rozencwaig, Jhava Chikli, Tran Nguyen Ngoc) confirmés par la presse d'époque (JDN, Maddyness). Artchy proposait une plateforme participative de gestion et valorisation des archives d'entreprises et maisons de luxe. Le pivot vers Archive Valley est plausible (page LinkedIn Archive Valley existante, chronologie des domaines) mais non confirmé par la presse. Le site web du dossier (archivevalley.com) ne pointe plus vers l'entreprise : il est revendu et redirige vers un site de cosmétiques sans rapport ; le champ website est donc retiré et le statut réel reste non vérifiable faute de source solide (recherche web et Wayback Machine partiellement inaccessibles dans cet environnement)."
+}

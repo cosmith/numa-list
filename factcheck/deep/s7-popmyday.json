@@ -1,0 +1,60 @@
+{
+ "id": "s7-popmyday",
+ "name": "Popmyday",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — Popmyday figure parmi les 25 lauréats du programme « Sprint » de NUMA (successeur du Camping), annoncé le 27 mai 2015 par le Journal du Net ; cette cohorte correspond à la « saison 7 » du référentiel interne (le Camping ayant compté 6 saisons avant la refonte en NUMA/Sprint).",
+  "name": "verified — nom confirmé identique sur le site officiel, Maddyness (2014 et 2016), societe.com et LinkedIn.",
+  "formerNamesOrPivots": "verified — aucune trace d'un ancien nom ou d'un pivot ; le site utilise seulement l'accroche « Beauty On Demand » à côté du nom Popmyday, ce qui n'est pas un renommage.",
+  "founders": "verified — Morgane L'Hostis et Charles Berenguer confirmés comme cofondateurs par Maddyness (article du 10/11/2016 sur la levée auprès du fonds W3) et comme dirigeants (Présidente / Directeur général, en fonction depuis le 28/10/2014) par le registre societe.com. Aucun autre fondateur identifié dans les sources consultées.",
+  "status": "verified — le site officiel est pleinement fonctionnel en 2026 (copyright « Popmyday © 2026 », réservation en ligne active, app mobile, sous-domaines backstage.popmyday.com et feelgood.popmyday.com actifs) ; societe.com indique le statut « Active (Vérifiée) ». Une levée de fonds de 1 M€ en 2016 (fonds W3) confirme la continuité de l'activité après la saison NUMA.",
+  "statusDetails": "verified — conforme : service de beauté et bien-être à domicile toujours exploité, désormais élargi à trois offres (Home, Backstage pour les événements, Feel Good pour les entreprises).",
+  "website": "verified — https://www.popmyday.com est en ligne, actif et correspond bien à l'entreprise (mêmes fondateurs, même activité)."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Morgane L'Hostis" },
+  { "name": "Charles Berenguer" }
+ ],
+ "status": "active",
+ "activityDescription": "Popmyday est une plateforme qui met en relation particuliers et entreprises avec des professionnels indépendants (les « Popartists ») pour des prestations de beauté et de bien-être — soins esthétiques, coiffure, massages, yoga, coaching sportif — réalisées à domicile, au bureau ou lors d'événements, réservables 24h/24 via une application mobile.",
+ "statusDetails": "Service de beauté et bien-être à domicile toujours en activité en 2026, avec trois offres (Home, Backstage pour les événements, Feel Good pour les entreprises) ; a levé 1 million d'euros en 2016 auprès du fonds W3 pour se développer dans d'autres villes françaises.",
+ "website": "https://www.popmyday.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/09/26/startups-artistics-wantedmania-fubua-popmyday/",
+   "titre": "4 startups à découvrir ce week-end : Artistics, WantedMania, Fubua et Popmyday",
+   "annee": "2014",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/11/10/popmyday-investissement-fonds-yannick-pons-groupe-w3/",
+   "titre": "Popmyday, premier investissement du nouveau fonds du groupe W3",
+   "annee": "2016",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/popmyday-805322823.html",
+   "titre": "POPMYDAY - fiche registre (societe.com)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/popmyday",
+ "openQuestions": [
+  "web.archive.org est inaccessible depuis cet environnement (le WebFetch échoue systématiquement sur ce domaine), donc la vérification obligatoire via la Wayback Machine (historique des captures, snapshot d'époque, page de cohorte archivée lecamping.org/numa.co) n'a pas pu être réalisée directement ; elle a été compensée par le registre du commerce (societe.com), le site en ligne actuel et la presse continue de 2014 à 2016.",
+  "Le quota WebSearch de la session était épuisé (200/200) avant même le début de cette vérification, empêchant toute recherche complémentaire ; les recherches ont donc reposé uniquement sur WebFetch (moteurs alternatifs bloqués par CAPTCHA : DuckDuckGo, Bing sans résultats pertinents).",
+  "Impossible de récupérer une URL LinkedIn personnelle pour Morgane L'Hostis ou Charles Berenguer : LinkedIn bloque le fetch direct des pages /in/ (erreur 999) et l'absence de WebSearch a empêché la recherche de snippets. La page LinkedIn de l'entreprise (linkedin.com/company/popmyday) a en revanche été consultée avec succès et confirme fondation 2014, Paris, 2-10 employés.",
+  "pappers.fr a renvoyé une erreur 403 (accès bloqué) ; societe.com a servi de source de registre alternative et concorde avec les autres sources."
+ ],
+ "summary": "Toutes les données de la fiche Popmyday (saison 7 / cohorte NUMA Sprint 2015, fondateurs Morgane L'Hostis et Charles Berenguer, statut actif, site www.popmyday.com) sont confirmées par des sources indépendantes et concordantes : presse (Journal du Net 2015, Maddyness 2014 et 2016), registre du commerce (societe.com) et le site officiel toujours en ligne et fonctionnel en 2026. Aucune correction nécessaire. Seules limites : la Wayback Machine était inaccessible depuis cet environnement et le quota de recherche web était épuisé, empêchant la confirmation des URLs LinkedIn personnelles des fondateurs (la page LinkedIn de l'entreprise a en revanche été vérifiée)."
+}

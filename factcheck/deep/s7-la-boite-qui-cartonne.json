@@ -1,0 +1,71 @@
+{
+  "id": "s7-la-boite-qui-cartonne",
+  "name": "La Boîte Qui Cartonne",
+  "season": 7,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "unverifiable",
+    "statusDetails": "corrected",
+    "website": "unverifiable"
+  },
+  "corrections": {
+    "activityDescription": {
+      "avant": null,
+      "apres": "La Boîte qui Cartonne est un service de stockage à domicile : la start-up livre des cartons vides chez le client, qui les remplit, puis elle vient les récupérer pour les stocker dans un entrepôt sécurisé (à partir de 6 €/mois), les objets restant accessibles et récupérables à la demande.",
+      "preuves": [
+        "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "https://www.linkedin.com/company/la-boite-qui-cartonne"
+      ]
+    },
+    "statusDetails": {
+      "avant": "Service de stockage non retrouvé comme activité actuelle.",
+      "apres": "Le nom de domaine historique de la société (laboitequicartonne.fr, indiqué comme site officiel sur sa page LinkedIn) a été repris par un site sans rapport avec le stockage ; aucune couverture de presse, activité ou communication n'a été retrouvée depuis la promotion 2015. Aucune trace de liquidation ou de rachat n'a pu être confirmée faute d'accès aux registres légaux dans cette session.",
+      "preuves": [
+        "https://laboitequicartonne.fr",
+        "https://www.linkedin.com/company/la-boite-qui-cartonne"
+      ]
+    }
+  },
+  "founders": [
+    {
+      "name": "Meryl Benitah"
+    }
+  ],
+  "status": "stopped",
+  "activityDescription": "La Boîte qui Cartonne est un service de stockage à domicile : la start-up livre des cartons vides chez le client, qui les remplit, puis elle vient les récupérer pour les stocker dans un entrepôt sécurisé (à partir de 6 €/mois), les objets restant accessibles et récupérables à la demande.",
+  "statusDetails": "Le nom de domaine historique de la société (laboitequicartonne.fr, indiqué comme site officiel sur sa page LinkedIn) a été repris par un site sans rapport avec le stockage ; aucune couverture de presse, activité ou communication n'a été retrouvée depuis la promotion 2015. Aucune trace de liquidation ou de rachat n'a pu être confirmée faute d'accès aux registres légaux dans cette session.",
+  "archiveEvidence": [
+    {
+      "url": "https://web.archive.org/",
+      "montre": "NON CONSULTABLE — web.archive.org a été inaccessible pendant toute cette session (connexions réinitiassées au niveau réseau via curl, et le WebFetch intégré a systématiquement refusé ce domaine). Impossible de vérifier les captures CDX ni les snapshots historiques du site laboitequicartonne.fr ni des pages de promotion lecamping.org/numa.co pour la saison 7, malgré plusieurs tentatives (CDX API, /web/2015/, /web/20150801000000/)."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+      "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa (Numa Sprint)",
+      "annee": "2015",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/av/business-34804575",
+      "titre": "Meryl Benitah, 26, France (BBC News)",
+      "annee": "2015",
+      "soutient": ["founders", "identity"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/la-boite-qui-cartonne",
+  "openQuestions": [
+    "Profil LinkedIn personnel de Meryl Benitah non localisé : le budget de recherche web (WebSearch) était déjà épuisé en début de session et les moteurs alternatifs (Google, Bing, DuckDuckGo, Startpage, Marginalia) ont tous renvoyé des pages de CAPTCHA, des résultats hors sujet ou ont été bloqués — impossible de confirmer l'URL exacte du profil.",
+    "La source BBC (feeds.bbci.co.uk/news/av/business-34804575), qui avait servi à identifier Meryl Benitah comme fondatrice lors du précédent audit, renvoie désormais une erreur 404, et les domaines bbc.com et bbc.co.uk étaient entièrement inaccessibles dans cette session (blocage réseau, pas seulement de cette page) — impossible de revérifier son contenu exact.",
+    "Aucun accès possible aux registres légaux français (societe.com, pappers.fr, infogreffe.fr) dans cette session (403 / pages sans résultats dynamiques rendus) : impossible de confirmer une radiation, liquidation ou un changement de statut juridique de la société.",
+    "Aucune preuve directe d'une seconde fondatrice ou d'un cofondateur au-delà de Meryl Benitah n'a été trouvée ; la page LinkedIn de l'entreprise ne liste pas nommément les fondateurs (page 'people' bloquée par un mur de connexion).",
+    "Impossible de confirmer si la société a été rachetée (exit) plutôt que simplement arrêtée : aucune mention de rachat ou d'acquisition n'a été trouvée dans les sources accessibles."
+  ],
+  "summary": "Le cœur de la fiche est confirmé : La Boîte qui Cartonne (service de stockage à domicile de cartons, fondée en 2014 à Paris, ~2-10 salariés selon LinkedIn) faisait bien partie de la promotion Numa Sprint de 25 startups (mai 2015, correspondant à la saison 7), et Meryl Benitah reste la seule fondatrice identifiée publiquement. La page LinkedIn de l'entreprise (linkedin.com/company/la-boite-qui-cartonne) confirme l'identité et l'activité et cite laboitequicartonne.fr comme site officiel ; ce nom de domaine affiche aujourd'hui un contenu générique sans rapport, signe assez fort — mais non suffisant à lui seul selon la méthodologie — que l'activité s'est arrêtée. Le statut 'stopped' déjà présent dans data.json n'est donc pas contredit mais reste 'unverifiable' au sens strict, faute d'accès aux registres légaux et à Internet Archive (entièrement bloqué dans cette session malgré plusieurs tentatives), et faute de confirmation d'une éventuelle acquisition. Le champ activityDescription, absent de la fiche actuelle, a été rédigé et ajouté comme correction obligatoire."
+}

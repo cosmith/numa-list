@@ -1,0 +1,109 @@
+{
+ "id": "s7-popup-immo",
+ "name": "PopUp Immo",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "conflicting",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "conflicting",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": ["Storefront"],
+   "apres": ["Oui Open"],
+   "preuves": [
+    "https://techcrunch.com/2016/09/07/oui-open-merges-with-storefront-to-become-a-global-pop-up-store-marketplace/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "PopUp Immo a fusionné avec Storefront en 2016; la société française opérant Storefront a ensuite été placée en liquidation judiciaire le 20 décembre 2024 avec un plan de cession.",
+   "apres": "PopUp Immo a été renommée Oui Open avant de fusionner, en septembre 2016, avec l'américain Storefront pour former une plateforme mondiale de location de pop-up stores opérant sous la seule marque Storefront (environ 10 000 espaces listés à Paris, New York, Londres, Hong Kong, Amsterdam, etc.). Le site thestorefront.com reste en ligne et actif en 2026. La mention d'une liquidation judiciaire de la société française le 20 décembre 2024 (issue d'un audit précédent) n'a pas pu être re-confirmée par une source de presse ou un registre public dans cette session (accès bloqué à web.archive.org, aux moteurs de recherche et aux registres pappers.fr/societe.com/bodacc.fr) ; elle n'est pas non plus contredite, une liquidation avec plan de cession étant compatible avec la poursuite en ligne du site sous un repreneur.",
+   "preuves": [
+    "https://techcrunch.com/2016/09/07/oui-open-merges-with-storefront-to-become-a-global-pop-up-store-marketplace/",
+    "https://www.frenchweb.fr/himedia-popup-immo-numa-paris-insiders/255110",
+    "https://www.thestorefront.com"
+   ]
+  },
+  "founders": {
+   "avant": [
+    { "name": "Mohamed Haouache" },
+    { "name": "Adrien Kerbrat", "linkedin": "https://fr.linkedin.com/in/adrienkerbrat" }
+   ],
+   "apres": [
+    { "name": "Mohamed Haouache" },
+    { "name": "Adrien Kerbrat", "linkedin": "https://fr.linkedin.com/in/adrienkerbrat" },
+    { "name": "Hachim Fadili" },
+    { "name": "Guillaume Calvet" }
+   ],
+   "preuves": [
+    "https://www.frenchweb.fr/la-start-up-du-jour-popup-immo-louer-des-boutiques-ephemeres-a-plusieurs/174975",
+    "https://www.maddyness.com/2014/10/29/popup-immo-startup-retail/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Mohamed Haouache" },
+  { "name": "Adrien Kerbrat", "linkedin": "https://fr.linkedin.com/in/adrienkerbrat" },
+  { "name": "Hachim Fadili" },
+  { "name": "Guillaume Calvet" }
+ ],
+ "status": "exit",
+ "activityDescription": "PopUp Immo est une plateforme de location éphémère qui met en relation des propriétaires de locaux commerciaux (boutiques, lofts, galeries, péniches) avec des marques, créateurs et enseignes cherchant à ouvrir rapidement un pop-up store à Paris puis dans d'autres villes, moyennant une commission de 15 % prélevée sur chaque transaction.",
+ "statusDetails": "PopUp Immo a été renommée Oui Open avant de fusionner, en septembre 2016, avec l'américain Storefront pour former une plateforme mondiale de location de pop-up stores opérant sous la seule marque Storefront (environ 10 000 espaces listés à Paris, New York, Londres, Hong Kong, Amsterdam, etc.). Le site thestorefront.com reste en ligne et actif en 2026. Une liquidation judiciaire de la société française le 20 décembre 2024, mentionnée par un audit précédent, n'a pas pu être re-confirmée dans cette session (registres et archives inaccessibles) mais n'est pas non plus contredite.",
+ "acquirer": "Storefront",
+ "website": "https://www.thestorefront.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/03/07/startups-popupimmo-carnomise-skippair-et-sorpreza/",
+   "titre": "[Veille] 4 startups à découvrir ce weekend : Popup Immo, Carnomise, Skippair et Sorpreza",
+   "annee": "2014",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/10/29/popup-immo-startup-retail/",
+   "titre": "PopUp Immo, la startup qui propose une alternative innovante au bail 3/6/9",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/la-start-up-du-jour-popup-immo-louer-des-boutiques-ephemeres-a-plusieurs/174975",
+   "titre": "La start-up du jour : PopUp Immo, le site de location éphémère pour les professionnels",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://techcrunch.com/2016/09/07/oui-open-merges-with-storefront-to-become-a-global-pop-up-store-marketplace/",
+   "titre": "Oui Open merges with Storefront to become a global pop-up store marketplace",
+   "annee": "2016",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/himedia-popup-immo-numa-paris-insiders/255110",
+   "titre": "HiMedia + PopUp Immo + Numa Paris = INSIDERS",
+   "annee": "2016",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Conflit non résolu sur le troisième cofondateur : FrenchWeb (26/11/2014) cite « Adrien Kerbrat, Hachim Fadili et Mohamed Haouache » tandis que Maddyness (29/10/2014, un mois plus tôt) cite « Mohamed Haouache, Adrien Kerbrat et Guillaume Calvet ». Les deux sont des médias tech établis, publiés à un mois d'intervalle, décrivant la même startup fraîchement créée. Aucun tiebreaker n'a pu être trouvé (LinkedIn bloqué en fetch direct - HTTP 999 - registres pappers.fr/societe.com/infogreffe bloqués en HTTP 403, moteurs de recherche Google/Bing/DuckDuckGo/Mojeek/Startpage tous bloqués ou en CAPTCHA, budget WebSearch de la session épuisé avant le début de cette vérification). Il est possible que l'équipe ait compté 4 fondateurs (Haouache, Kerbrat, Fadili, Calvet) ou qu'un des deux journalistes ait fait une erreur/omission.",
+  "web.archive.org a été totalement inaccessible via WebFetch dans cette session (erreur outil, pas erreur HTTP) : impossible de consulter l'historique de captures de popupimmo.com / ouiopen.com / thestorefront.com, ni les pages archivées de lecamping.org ou numa.co listant la promotion 7, ni une éventuelle page équipe archivée.",
+  "Le détail précis de la liquidation judiciaire du 20 décembre 2024 (entité française, plan de cession) figurant dans la fiche d'origine n'a pas pu être re-vérifié auprès d'une source primaire (BODACC, Pappers, Infogreffe) dans cette session, ces sites renvoyant des erreurs 403/404 à l'outil WebFetch.",
+  "Aucune URL LinkedIn personnelle n'a pu être confirmée pour Mohamed Haouache, Hachim Fadili ou Guillaume Calvet (LinkedIn bloque les requêtes automatisées avec un statut HTTP 999) ; celle d'Adrien Kerbrat provient de la fiche d'origine et n'a pas pu être re-confirmée pour la même raison.",
+  "Aucune page LinkedIn d'entreprise (Storefront / Oui Open / PopUp Immo) n'a pu être consultée (mur de connexion LinkedIn)."
+ ],
+ "summary": "La saison (7, cohorte NUMA 2015 de 25 lauréats sur 650 candidatures, JDN), le nom PopUp Immo et le statut « exit » sont confirmés par la presse (TechCrunch et FrenchWeb, septembre 2016 : fusion avec l'américain Storefront). Correction : le pivot/ancien nom n'est pas « Storefront » mais « Oui Open », nom sous lequel PopUp Immo a été rebaptisée juste avant la fusion (TechCrunch : « Oui Open... also known as PopupImmo »). Le site thestorefront.com est toujours en ligne et actif en 2026. Conflit non résolu sur la liste des fondateurs : deux sources de presse fiables et contemporaines (FrenchWeb et Maddyness, fin 2014) s'accordent sur Mohamed Haouache et Adrien Kerbrat mais divergent sur le troisième fondateur (Hachim Fadili selon FrenchWeb, Guillaume Calvet selon Maddyness) ; faute de tiebreaker accessible (LinkedIn, registres et moteurs de recherche tous bloqués dans cette session), les quatre noms sont conservés avec la mention du conflit. La mention d'une liquidation judiciaire de la société française le 20 décembre 2024 n'a pas pu être re-confirmée mais reste plausible et non contredite."
+}

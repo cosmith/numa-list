@@ -1,0 +1,40 @@
+{
+ "id": "s7-kwalito",
+ "name": "Kwalito",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified - Kwalito figure parmi les 25 lauréats du nouveau programme d'accélération de NUMA (\"NUMA Sprint\") annoncé le 27 mai 2015 par le Journal du Net, qui précise que ce programme succède aux six saisons de Le Camping ; la numérotation \"saison 7\" du jeu de données correspond bien à cette cohorte de 2015.",
+  "name": "verified - le nom \"Kwalito\" est confirmé par l'article du Journal du Net (2015) et par le registre du commerce (SIREN 813 015 237, raison sociale KWALITO).",
+  "formerNamesOrPivots": "verified - aucune source (presse d'époque, registre) ne mentionne de nom antérieur ou de pivot ; la société a conservé le nom Kwalito de sa création jusqu'à sa liquidation.",
+  "founders": "verified - le registre des sociétés confirme Pierre Killy (président de la SAS KWALITO du 19 août 2015 au 2 octobre 2020, puis liquidateur) et Aleksandra Mandic (directrice générale sur la même période) ; ce sont les deux personnes listées dans la fiche (\"Aleksandra Mandic Killy\" étant vraisemblablement son nom d'usage/marital, cohérent avec l'URL LinkedIn \"aleksandramandickilly\"). Aucune autre personne n'apparaît comme dirigeant ou fondateur dans les sources disponibles. Je n'ai pas pu revérifier le contenu des deux profils LinkedIn cités (linkedin.com renvoie une erreur de blocage bot systématique, code HTTP 999, à toute tentative de récupération automatisée), donc je les conserve tels quels sans les revalider positivement.",
+  "status": "verified - le registre des sociétés (societe.com) confirme : dissolution décidée le 1er décembre 2019, clôture de liquidation le 31 décembre 2019, radiation du RCS le 2 octobre 2020. Le domaine kwalito.com, qui affichait encore le site du produit en 2016-2019 (captures Wayback Machine disponibles à ces dates), affiche aujourd'hui (2026) une page de parking GoDaddy \"Launching Soon\" sans rapport avec l'ancienne activité, ce qui est cohérent avec l'arrêt définitif de la société et non avec une simple panne de site.",
+  "statusDetails": "verified - le détail donné (\"Société dissoute puis radiée; liquidation décidée le 1er décembre 2019\") correspond exactement aux dates du registre du commerce.",
+  "website": "verified (absence justifiée) - la fiche ne comporte pas de champ website, ce qui est correct : le domaine historique kwalito.com n'est plus exploité par l'entreprise (page de parking / \"coming soon\" GoDaddy sans rapport avec Kwalito), donc aucun site actuel ne peut être renseigné selon la méthodologie."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Pierre Killy", "linkedin": "https://se.linkedin.com/in/pierrekilly" },
+  { "name": "Aleksandra Mandic Killy", "linkedin": "https://se.linkedin.com/in/aleksandramandickilly" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Kwalito est une application mobile qui permet à ses utilisateurs de vérifier la composition des aliments qu'ils achètent en scannant leur code-barres, afin de savoir si le produit correspond à leurs propres critères nutritionnels.",
+ "statusDetails": "Société dissoute (décision du 1er décembre 2019), liquidation clôturée le 31 décembre 2019, radiée du RCS le 2 octobre 2020 ; le domaine kwalito.com est aujourd'hui une page de parking sans rapport avec l'activité d'origine.",
+ "archiveEvidence": [
+  { "url": "https://archive.org/wayback/available?url=kwalito.com&timestamp=20160101", "montre": "capture Wayback Machine du 10 janvier 2016 (HTTP 200), soit pendant/juste après le programme NUMA de 2015 - confirme que le site du produit était en ligne à l'époque de la cohorte." },
+  { "url": "https://archive.org/wayback/available?url=kwalito.com&timestamp=20170601", "montre": "capture Wayback Machine du 23 mai 2017 (HTTP 200), le site kwalito.com était toujours actif deux ans après le programme." },
+  { "url": "https://archive.org/wayback/available?url=kwalito.com&timestamp=20200101", "montre": "capture Wayback Machine du 17 août 2019 (HTTP 200), dernière trace connue du site avant la dissolution de la société fin 2019." },
+  { "url": "https://kwalito.com", "montre": "en 2026, le domaine kwalito.com affiche une page 'Launching Soon' générée par le constructeur de sites GoDaddy, sans rapport avec l'ancienne application Kwalito - le domaine a manifestement été abandonné puis repris/reparké." }
+ ],
+ "pressEvidence": [
+  { "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/", "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA", "annee": "2015", "soutient": ["cohort", "identity"] }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "L'outil WebFetch de cet environnement bloque systématiquement l'accès direct à web.archive.org (seule l'API 'wayback/available', qui ne renvoie que des métadonnées de capture sans le contenu de la page, a pu être interrogée) ; il n'a donc pas été possible d'examiner le contenu détaillé des pages archivées de kwalito.com (équipe, description produit complète) ni une éventuelle page de cohorte NUMA archivée listant Kwalito nommément.",
+  "linkedin.com bloque toute récupération automatisée (HTTP 999) ; les deux URLs LinkedIn des fondateurs n'ont pas pu être re-confirmées dans cette session (elles proviennent de la fiche existante, marquée 'verified' lors d'un audit précédent) et aucune page LinkedIn d'entreprise 'Kwalito' n'a été trouvée (linkedin.com/company/kwalito renvoie 404).",
+  "Le budget de recherche web (WebSearch) de la session était épuisé avant que cette startup ne soit traitée ; l'audit s'appuie donc uniquement sur WebFetch (Journal du Net, societe.com, kwalito.com, API Wayback) et non sur de nouvelles requêtes de recherche, ce qui limite la détection d'éventuels articles de presse additionnels (levée de fonds, pivot, etc.)."
+ ],
+ "summary": "Kwalito (application mobile de scan de codes-barres alimentaires) est confirmée comme faisant partie de la cohorte NUMA de mai 2015 (saison 7) par un article du Journal du Net, et sa fermeture est confirmée par le registre du commerce : SAS créée mi-2015 par Pierre Killy et Aleksandra Mandic (Killy), dissoute le 1er décembre 2019 et radiée le 2 octobre 2020. Le domaine kwalito.com, actif jusqu'en 2019 selon la Wayback Machine, est aujourd'hui une page de parking sans rapport avec l'entreprise. Tous les champs de la fiche existante (saison, nom, fondateurs, statut, statusDetails, absence de site web) sont corroborés par les sources trouvées ; aucune correction n'est nécessaire lors de cet audit, en dehors de deux limitations d'outillage (accès direct à web.archive.org et à LinkedIn impossibles dans cette session) consignées en questions ouvertes."
+}

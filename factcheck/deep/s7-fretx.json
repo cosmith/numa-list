@@ -1,0 +1,81 @@
+{
+ "id": "s7-fretx",
+ "name": "FRETX",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "corrected"
+ },
+ "corrections": {
+  "website": {
+   "avant": null,
+   "apres": null,
+   "preuves": [
+    "https://www.linkedin.com/company/fretx",
+    "http://fretx.rocks/"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Federico Rodríguez Llull",
+   "linkedin": "https://www.linkedin.com/in/federicorodriguezllull"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "FRETX est un dispositif électronique lumineux qui se fixe sur le manche d'une guitare et se connecte à une application mobile pour indiquer en temps réel où poser les doigts, afin d'apprendre à jouer de la guitare sans lire de partition.",
+ "statusDetails": "Liquidation judiciaire en novembre 2019 (après un redressement judiciaire ouvert en septembre 2019); clôture pour insuffisance d'actif prononcée le 16 juin 2023 et radiation du registre le 20 juin 2023.",
+ "website": "",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=fretx.rocks",
+   "montre": "L'API Wayback (accessible, contrairement au domaine web.archive.org lui-même qui a été bloqué par l'outil de récupération malgré plusieurs méthodes essayées) confirme l'existence d'une capture du site fretx.rocks datée du 21 octobre 2019, peu après l'ouverture du redressement judiciaire (sept. 2019) — cohérent avec un site encore en ligne juste avant la liquidation."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://medium.com/@fretx/fretx-the-smart-device-that-teaches-you-guitar-media-kit-4a7efdeebd29",
+   "titre": "FRETX — The smart device that teaches you guitar (Media Kit)",
+   "annee": "2016",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/interview-des-fondateurs-de-fretx/",
+   "titre": "Interview des fondateurs de Fretx",
+   "annee": "2016",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://entreprises.lefigaro.fr/fretx-59/entreprise-813297009",
+   "titre": "Fiche entreprise FRETX (SIREN 813297009)",
+   "annee": "2023",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/fretx",
+   "titre": "FRETX — page entreprise LinkedIn",
+   "annee": "2015-2016",
+   "soutient": ["identity", "website"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/fretx",
+ "openQuestions": [
+  "Le domaine web.archive.org a été systématiquement bloqué par l'outil WebFetch dans cet environnement (erreur 'unable to fetch from web.archive.org' en accès direct, 403 même via un proxy lecteur tiers), y compris pour l'API CDX et les snapshots datés — seule l'API 'wayback/available' (hébergée sur archive.org sans le sous-domaine 'web.') a répondu. Il n'a donc pas été possible d'afficher le contenu texte réel d'une capture archivée du site fretx.rocks ni des pages de cohorte lecamping.org/numa.paris de 2015 pour cette vérification; les informations d'identité et de produit reposent donc sur la presse et le kit média de l'entreprise plutôt que sur une capture Wayback consultée directement.",
+  "Le fondateur unique documenté est Federico Rodríguez Llull; une salariée (Cecilie Lund, mentionnée sur LinkedIn comme ayant une expérience chez FRETX, basée à Oslo) apparaît mais rien n'indique qu'elle ait été cofondatrice — aucune source ne mentionne de cofondateur additionnel.",
+  "Le domaine historique exact utilisé au moment du programme NUMA (2015) n'a pas pu être confirmé avec certitude via une capture archivée directe; fretx.rocks est le domaine confirmé par le kit média (2016) et la page LinkedIn, mais un domaine antérieur (ex. fretx.co) n'a pas pu être vérifié faute d'accès à web.archive.org."
+ ],
+ "summary": "FRETX (Tourcoing, fondée en août 2015 par Federico Rodríguez Llull, SIREN 813297009) est confirmée dans la cohorte NUMA 2015 (article Journal du Net listant les 25 lauréats) et fabriquait un dispositif lumineux fixé au manche de la guitare, couplé à une application mobile, pour apprendre à jouer sans lire de partition. Le statut 'stopped' et les dates de la liquidation (procédure ouverte en 2019, clôture pour insuffisance d'actif et radiation en juin 2023) sont confirmés mot pour mot par la fiche registre (lefigaro entreprises / SIRENE). Le fondateur est identifié avec son profil LinkedIn personnel (aujourd'hui basé à Shenzhen, ce qui corrobore l'arrêt de l'activité FRETX). Le site fretx.rocks, actif en 2015-2016 selon le kit média et LinkedIn, est aujourd'hui un domaine Squarespace non réclamé (mort) — champ website laissé vide car non actif en 2026. Seule zone d'ombre: l'accès direct à web.archive.org a été techniquement impossible dans cet environnement malgré plusieurs méthodes tentées, ce qui limite la vérification à des captures indirectes (API wayback/available) plutôt qu'à un contenu de page archivée consulté en clair."
+}

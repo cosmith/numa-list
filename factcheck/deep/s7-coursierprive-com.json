@@ -1,0 +1,61 @@
+{
+ "id": "s7-coursierprive-com",
+ "name": "CoursierPrivé.com",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Arnaud Marlois" },
+  { "name": "Nicolas Papin" },
+  { "name": "Vincent Wuhrlin" }
+ ],
+ "status": "stopped",
+ "activityDescription": "CoursierPrivé.com propose un service de livraison à la demande, rapide et facturée au kilomètre, dont la technologie est aussi commercialisée en marque blanche auprès d'enseignes et d'e-commerçants.",
+ "statusDetails": "CoursierPrivé.com est devenu Swoopin (livraison du dernier kilomètre à vélo-cargo pour le e-commerce) ; le tribunal de commerce de Paris a prononcé la liquidation judiciaire de Swoopin début novembre 2022, tout en autorisant la poursuite d'activité le temps de trouver un repreneur.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/comment-coursier-prive-veut-fluidifier-le-marche-de-la-livraison-2/241894",
+   "titre": "Comment Coursier Privé veut fluidifier le marché de la livraison",
+   "annee": "2016",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://supplychainmagazine.fr/nl/2022/swoopin-se-cherche-un-repreneur/",
+   "titre": "Swoopin se cherche un repreneur",
+   "annee": "2022",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/swoopin-804046795",
+   "titre": "SWOOPIN (COURSIERPRIVE.COM) — fiche registre",
+   "annee": "2022",
+   "soutient": ["identity", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/coursier-prive",
+ "openQuestions": [
+  "Aucune source directement consultable cette session ne nomme Nicolas Papin ni Vincent Wuhrlin comme cofondateurs de CoursierPrivé.com : les deux sources de presse trouvées (JournalDuNet 2015, FrenchWeb 2016) ne citent qu'Arnaud Marlois (président et cofondateur). Leur présence dans la liste des fondateurs n'est donc pas contredite mais reste, à ce stade, non re-corroborée de façon indépendante.",
+  "web.archive.org (Wayback Machine) a été totalement inaccessible depuis cet environnement (connexion réinitialisée / hôte bloqué par le proxy), empêchant toute vérification des snapshots de coursierprive.com ou des pages d'équipe archivées de Le Camping/NUMA pour la saison 7.",
+  "Les moteurs de recherche (Google, Bing, DuckDuckGo, Qwant, Yandex, Brave, Mojeek, Startpage, Marginalia) et les agrégateurs de registre (Pappers, Société.com, Infogreffe, Verif.com, Crunchbase) ont renvoyé des pages de CAPTCHA/403 lors des tentatives WebFetch de cette session ; seules les pages directement citées ont pu être lues.",
+  "Le sort de Swoopin après l'autorisation de poursuite d'activité (fin 2022) en vue de trouver un repreneur n'a pas pu être documenté au-delà de novembre 2022 : on ignore si un repreneur a finalement été trouvé ou si la liquidation a été clôturée.",
+  "Le domaine coursierprive.com renvoie aujourd'hui une erreur Cloudflare 522 (origine injoignable), cohérent avec un service arrêté, mais ceci n'est qu'une corroboration indirecte."
+ ],
+ "summary": "L'essentiel du fiche est confirmé par des sources indépendantes fraîches : Coursierprive.com fait bien partie de la promotion NUMA de 2015 (25 lauréats du nouveau programme d'accélération, ex-Le Camping), fondée/présidée par Arnaud Marlois, proposant une livraison à la demande facturée au kilomètre puis en marque blanche. Le devenir en Swoopin (livraison du dernier kilomètre à vélo-cargo) et sa liquidation judiciaire (tribunal de commerce de Paris, début novembre 2022, avec poursuite d'activité autorisée le temps de trouver un repreneur) sont corroborés par Supply Chain Magazine, un média spécialisé indépendant. Aucune correction n'est nécessaire. Point faible : Nicolas Papin et Vincent Wuhrlin n'ont pas pu être re-confirmés comme cofondateurs faute d'accès à des moteurs de recherche, à LinkedIn ou à Internet Archive dans cette session (tous bloqués par le proxy réseau ou en quota épuisé) ; aucune source contradictoire n'a toutefois été trouvée."
+}

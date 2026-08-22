@@ -1,0 +1,70 @@
+{
+  "id": "s7-sentimy",
+  "name": "Sentimy",
+  "season": 7,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {
+    "activityDescription": {
+      "avant": null,
+      "apres": "Sentimy est une plateforme qui permet de créer en quelques secondes des sondages en ligne au design soigné, afin d'augmenter le taux de réponse et de visualiser les résultats directement sur la plateforme.",
+      "preuves": [
+        "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+        "https://www.linkedin.com/company/sentimy"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Kevin Bourgeois" },
+    { "name": "Robin Nicollet" }
+  ],
+  "status": "exit",
+  "activityDescription": "Sentimy est une plateforme qui permet de créer en quelques secondes des sondages en ligne au design soigné, afin d'augmenter le taux de réponse et de visualiser les résultats directement sur la plateforme.",
+  "statusDetails": "Sentimy a donné naissance à Supermood (plateforme de mesure de l'engagement et du bonheur au travail, fondée en 2015 par Kevin Bourgeois) ; Supermood et ZestMeUp ont annoncé leur rapprochement le 18 mars 2025 pour créer un « champion européen de l'engagement et de la performance des collaborateurs », et le registre du commerce montre ZESTMEUP (SAS) devenue présidente de la société Sentimy le 11 février 2026, en remplacement de Kévin Bourgeois et Robin Nicollet. Le site supermood.com redirige aujourd'hui vers zestmeup.com.",
+  "acquirer": "ZestMeUp (Zest)",
+  "website": "https://zestmeup.com",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+      "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+      "annee": "2015",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.maddyness.com/2016/01/25/enbref-fosburit-wiseed-supermood/",
+      "titre": "Tout ce qu'Emmanuel Macron devrait savoir aujourd'hui sur Fosburit, Supermood et Wiseed",
+      "annee": "2016",
+      "soutient": ["identity"]
+    },
+    {
+      "url": "https://zestmeup.com/press-release/zest-et-supermood-sassocient-pour-creer-le-champion-europeen-de-lengagement-et-de-la-performance-collaborateurs/",
+      "titre": "Zest et Supermood s'associent pour créer le champion européen de l'engagement et de la performance collaborateurs",
+      "annee": "2025",
+      "soutient": ["status", "founders"]
+    },
+    {
+      "url": "https://www.societe.com/societe/sentimy-814058509.html",
+      "titre": "SENTIMY - fiche société (SIREN 814 058 509)",
+      "annee": "2026",
+      "soutient": ["status", "founders"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/sentimy",
+  "openQuestions": [
+    "Impossible d'accéder à web.archive.org via les outils disponibles dans cette session (échec systématique de récupération), donc aucune capture d'archive de sentimy.com ou d'une page de promotion NUMA n'a pu être consultée directement ; les preuves reposent sur la presse contemporaine, LinkedIn (pages entreprise) et les registres légaux.",
+    "Les profils LinkedIn personnels de Kevin Bourgeois et Robin Nicollet n'ont pas pu être récupérés (blocage anti-bot systématique, code HTTP 999) ; leur rôle de fondateurs est néanmoins confirmé par le registre du commerce (SENTIMY, SIREN 814058509) et par le communiqué de presse ZestMeUp/Supermood de mars 2025 qui cite explicitement « Kevin Bourgeois, fondateur de Supermood ».",
+    "Robin Nicollet n'apparaît au registre du commerce qu'à partir du 27 août 2016 (Directeur Général), soit après le programme NUMA de 2015 et après la création légale de Sentimy (13 octobre 2015) : il est possible qu'il ait rejoint l'aventure Sentimy/Supermood après la cohorte NUMA plutôt qu'au moment de la sélection, sans qu'une source ne permette de trancher précisément son statut de co-fondateur dès 2015.",
+    "La page LinkedIn de la société Sentimy indique une fondation en 2013, ce qui est antérieur à la création légale de la SAS (13 octobre 2015) et à sa participation au programme NUMA de 2015 ; cet écart n'a pas pu être élucidé (préexistence d'un projet ou d'une structure antérieure non retrouvée)."
+  ],
+  "summary": "Le programme NUMA de mai 2015 (25 lauréats, article Journal du Net) confirme la cohorte de Sentimy, plateforme de sondages en ligne. Le pivot vers Supermood (mesure de l'engagement au travail, fondée 2015 par Kevin Bourgeois selon LinkedIn) est confirmé par la presse. Le rapprochement Supermood/ZestMeUp du 18 mars 2025 est confirmé par le communiqué de presse officiel de ZestMeUp, et le registre du commerce montre que ZESTMEUP (SAS) a formellement pris la présidence de la société Sentimy le 11 février 2026, remplaçant Kévin Bourgeois et Robin Nicollet. Le site supermood.com redirige désormais vers zestmeup.com, actif. Tous les champs du dossier actuel (saison, nom, pivot, fondateurs, statut, détails, site) sont donc vérifiés par des sources primaires ou de presse fiables ; seule une phrase de description d'activité manquait et a été ajoutée. Aucune archive Internet Archive n'a pu être consultée (outil bloqué dans cette session) et les profils LinkedIn personnels des fondateurs restent inaccessibles (blocage anti-bot), ce qui limite la vérification de détails secondaires sans remettre en cause les faits centraux."
+}

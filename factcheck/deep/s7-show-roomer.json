@@ -1,0 +1,79 @@
+{
+ "id": "s7-show-roomer",
+ "name": "Show-Roomer",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "unverifiable",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "website": {
+   "avant": null,
+   "apres": null,
+   "preuves": [
+    "https://www.maddyness.com/2016/08/30/show-roomer/",
+    "https://archive.org/wayback/available?url=show-roomer.io"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service communautaire produit non retrouvé comme activité actuelle.",
+   "apres": "Aucune annonce de fermeture, de rachat ou de liquidation identifiée. Le nom de domaine historique show-roomer.io a répondu (HTTP 200) lors de captures Wayback Machine en 2016, 2020 et encore en mars 2025, mais ne résout plus en août 2026 ; aucune couverture de presse retrouvée après l'article Maddyness d'août 2016.",
+   "preuves": [
+    "https://www.maddyness.com/2016/08/30/show-roomer/",
+    "https://archive.org/wayback/available?url=show-roomer.io&timestamp=20250101",
+    "https://archive.org/wayback/available?url=show-roomer.io&timestamp=20260601"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Guillaume Gardair" },
+  { "name": "Armel Tricaud" },
+  { "name": "Frédéric Pailley" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Show-Roomer est un service qui permet à des acheteurs potentiels de tester des produits physiques chez des particuliers déjà propriétaires (un réseau de show-room communautaire « sans murs ») avant de se décider à l'achat, en s'appuyant sur des marques partenaires.",
+ "statusDetails": "Aucune annonce de fermeture, de rachat ou de liquidation identifiée. Le nom de domaine historique show-roomer.io a répondu (HTTP 200) lors de captures Wayback Machine en 2016, 2020 et encore en mars 2025, mais ne résout plus en août 2026 ; aucune couverture de presse retrouvée après l'article Maddyness d'août 2016.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20160222004133/http://www.show-roomer.io:80/",
+   "montre": "Existence confirmée (via l'API archive.org/wayback/available, statut HTTP 200) d'une capture du site show-roomer.io début 2016, peu après la fin du programme NUMA Sprint (saison 7, 2015)."
+  },
+  {
+   "url": "http://web.archive.org/web/20200105065413/https://www.show-roomer.io/",
+   "montre": "Existence confirmée (statut HTTP 200) d'une capture de janvier 2020 : le domaine répondait encore quatre ans après la dernière couverture presse connue."
+  },
+  {
+   "url": "http://web.archive.org/web/20250329072230/https://show-roomer.io/",
+   "montre": "Capture la plus récente connue (mars 2025, statut HTTP 200) ; c'est la dernière trace d'activité du domaine avant qu'il cesse de résoudre (constaté en août 2026). Le contenu détaillé de cette capture n'a pas pu être consulté directement (web.archive.org non accessible à l'outil de récupération utilisé pour cette vérification), seule son existence et son code HTTP ont été confirmés via l'API 'available' d'archive.org."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/08/30/show-roomer/",
+   "titre": "Show-Roomer",
+   "annee": "2016",
+   "soutient": ["cohort", "identity", "founders", "status"]
+  }
+ ],
+ "openQuestions": [
+  "Profils LinkedIn personnels des trois fondateurs (Guillaume Gardair, Armel Tricaud, Frédéric Pailley) non localisés : le budget de recherche web (WebSearch) était épuisé pour cette session et les moteurs alternatifs interrogés via récupération de page (Bing, DuckDuckGo, Mojeek) ont renvoyé des pages de vérification anti-robot ou des résultats non pertinents plutôt que de vrais résultats de recherche.",
+  "Page LinkedIn de l'entreprise Show-Roomer non localisée pour la même raison.",
+  "Contenu exact de la capture Wayback Machine de mars 2025 non consultable (web.archive.org bloqué par l'outil de récupération de pages disponible durant cette vérification) : impossible de confirmer si le site montrait toujours l'activité Show-Roomer d'origine ou une page reprise/parking en fin de vie du nom de domaine.",
+  "Aucune vérification au registre du commerce français n'a pu être effectuée : societe.com et pappers.fr ont renvoyé des erreurs 404/403 lors des tentatives d'accès direct.",
+  "Aucune preuve directe (communiqué, article, page LinkedIn) de cessation d'activité, de rachat ou de radiation n'a été trouvée ; le statut 'stopped' du dossier repose donc principalement sur l'absence de couverture presse après 2016 et sur la disparition récente (entre 2025 et 2026) du nom de domaine, ce qui, selon la méthodologie de cet audit, ne constitue pas une preuve suffisante à lui seul."
+ ],
+ "summary": "Le nom, la saison (7, confirmée explicitement par l'article Maddyness d'août 2016), l'identité du produit et les trois fondateurs (Guillaume Gardair, Armel Tricaud, Frédéric Pailley) sont confirmés par deux articles de presse d'époque (Journal du Net, mai 2015 ; Maddyness, août 2016). Le site web historique show-roomer.io, absent du dossier initial, a pu être identifié et sa persistance tracée via l'API Wayback Machine jusqu'en mars 2025 avant de cesser de résoudre en 2026 ; son contenu détaillé n'a toutefois pas pu être consulté directement (web.archive.org inaccessible à l'outil de récupération) et aucune preuve directe de fermeture, de rachat ou de radiation n'a été trouvée. Le statut 'stopped' reste donc plausible mais non prouvé, et les profils LinkedIn des fondateurs n'ont pas pu être localisés faute de budget de recherche web disponible durant cette vérification."
+}
