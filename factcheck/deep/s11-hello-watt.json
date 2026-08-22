@@ -3,72 +3,114 @@
  "name": "Hello Watt",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
   "statusDetails": "verified",
   "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Sylvain Le Falher",
-   "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en"
-  },
-  {
-   "name": "Xavier Coudert"
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Sylvain Le Falher", "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en" },
+    { "name": "Xavier Coudert" }
+   ],
+   "apres": [
+    { "name": "Sylvain Le Falher", "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en" },
+    { "name": "Xavier Coudert", "linkedin": "https://fr.linkedin.com/in/xavier-coudert-b45b6830" },
+    { "name": "Patrick Rousset", "linkedin": "https://fr.linkedin.com/in/patrick-r-17240a32" }
+   ],
+   "preuves": [
+    "https://x.com/centralesupelec/status/1100694001286635520",
+    "https://www.thegood.fr/hello-watt/",
+    "https://www.myfrenchstartup.com/fr/startup-france/223826/hello_watt",
+    "https://fr.linkedin.com/in/xavier-coudert-b45b6830",
+    "https://fr.linkedin.com/in/patrick-r-17240a32"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Sylvain Le Falher", "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en" },
+  { "name": "Xavier Coudert", "linkedin": "https://fr.linkedin.com/in/xavier-coudert-b45b6830" },
+  { "name": "Patrick Rousset", "linkedin": "https://fr.linkedin.com/in/patrick-r-17240a32" }
  ],
  "status": "active",
- "statusDetails": "Plateforme d'accompagnement énergétique (suivi de consommation, comparateur de fournisseurs, rénovation) toujours active : levée de 12 M€ en série A en novembre 2023, expansion en Espagne (Valence) fin 2024, citée parmi les « 50 startups où postuler en 2026 » par Maddyness. Plus de 250 salariés.",
+ "activityDescription": "Hello Watt est une plateforme française qui aide les ménages à suivre et réduire leurs factures d'électricité et de gaz, comparer les fournisseurs d'énergie et accéder à des services de rénovation énergétique (isolation, pompes à chaleur, photovoltaïque).",
+ "statusDetails": "Plateforme d'accompagnement énergétique (suivi de consommation, comparateur de fournisseurs, rénovation) toujours active : levée de 12 M€ en série A en novembre 2023, expansion en Espagne (Valence) fin 2024, citée parmi les « 50 startups où postuler en 2026 » par Maddyness. Plus de 250 salariés, plus de 3 millions de téléchargements de l'application ; société HELLO WATT (SIREN 820585123) toujours immatriculée et active à Paris d'après le registre des entreprises.",
+ "acquirer": "",
+ "website": "https://www.hellowatt.fr",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=hDRk7kOJlL0",
+   "titre": "Startup Of NUMA - Hello Watt - Saison 11",
+   "annee": "2017",
+   "soutient": ["cohort", "identity"]
   },
   {
    "url": "https://fr.wikipedia.org/wiki/Hello_Watt",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Hello Watt (Wikipédia)",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://www.hellowatt.fr/equipe-redaction",
-   "titre": "",
-   "soutient": [
-    "founders"
-   ]
+   "titre": "L'équipe Hello Watt",
+   "annee": "2026",
+   "soutient": ["founders"]
   },
   {
    "url": "https://www.maddyness.com/2023/11/06/hello-watt-leve-12-millions-deuros-pour-accelerer-la-fin-des-passoires-thermiques/",
-   "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Hello Watt lève 12 millions d'euros pour accélérer la fin des passoires thermiques",
+   "annee": "2023",
+   "soutient": ["status"]
   },
   {
    "url": "https://www.maddyness.com/2026/01/29/doctrine-gitguardian-hello-watt-50-startups-ou-postuler-en-2026/",
-   "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "titre": "50 startups où postuler en 2026",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://x.com/centralesupelec/status/1100694001286635520",
+   "titre": "Tweet CentraleSupélec présentant Hello Watt, « créé par 3 de nos ingénieurs : Sylvain Le Falher, Patrick Rousset et Xavier Coudert »",
+   "annee": "2019",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.thegood.fr/hello-watt/",
+   "titre": "Étude de cas Hello Watt — historique et fondateurs",
+   "annee": "2021",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/223826/hello_watt",
+   "titre": "Startup Hello Watt — comparateur fournisseurs électricité et gaz",
+   "annee": "2026",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/hello-watt-820585123",
+   "titre": "Société HELLO WATT (SIREN 820585123) — annuaire des entreprises",
+   "annee": "2026",
+   "soutient": ["status"]
   }
  ],
- "linkedinCompany": "",
+ "linkedinCompany": "https://www.linkedin.com/company/hello-watt/",
  "openQuestions": [
-  "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, 2017 d'après le site officiel de Hello Watt lui-même) ; sans incidence sur le rattachement à la saison 11 (2017)."
+  "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, pappers.fr et le registre des entreprises ; 2017 d'après le site officiel de Hello Watt et plusieurs articles de presse) ; sans incidence sur le rattachement à la saison 11 (2017), confirmé indépendamment par la vidéo « Startup Of NUMA - Hello Watt - Saison 11 » et par la base alumni NUMA.",
+  "web.archive.org était inaccessible depuis cet environnement (bloqué par le proxy réseau) malgré plusieurs tentatives (CDX API et snapshots directs) — impossible de vérifier une capture d'époque du site hellowatt.fr ou de hub.numa.co/public/alumni pour cette fiche ; la confirmation de la saison 11 repose donc sur la vidéo YouTube officielle NUMA et la base Common Crawl déjà citée dans le rapport initial.",
+  "Le troisième fondateur, Patrick Rousset, n'apparaît pas sur la page officielle « équipe » du site (hellowatt.fr/equipe-redaction, orientée rédaction éditoriale) ni sur Wikipédia, mais est confirmé par le tweet officiel de CentraleSupélec (2019) et par plusieurs sources tierces (The Good, MyFrenchStartup, RocketReach) ainsi que son propre profil LinkedIn."
  ],
- "summary": "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, 2017 d'après le site officiel de Hello Watt lui-même) ; sans incidence sur le rattachement à la saison 11 (2017).",
- "activityDescription": "Hello Watt est une plateforme française qui aide les ménages à suivre et réduire leurs factures d'électricité et de gaz, comparer les fournisseurs d'énergie et accéder à des services de rénovation énergétique.",
- "website": "https://www.hellowatt.fr"
+ "summary": "Hello Watt (saison 11, 2017) est confirmée par une vidéo officielle NUMA (« Startup Of NUMA - Hello Watt - Saison 11 ») en plus de la base alumni. La fiche initiale ne comptait que 2 fondateurs sur 3 : un troisième cofondateur, Patrick Rousset, a été identifié et corroboré par un tweet officiel de CentraleSupélec et plusieurs sources tierces ; son profil LinkedIn ainsi que celui de Xavier Coudert (absent du rapport initial) ont été ajoutés. Statut actif confirmé : société immatriculée et active, levée de 12 M€ en 2023, expansion en Espagne, présence presse récente en 2026. web.archive.org est resté inaccessible malgré plusieurs tentatives."
 }

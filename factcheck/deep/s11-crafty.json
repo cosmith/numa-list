@@ -3,77 +3,124 @@
  "name": "Crafty",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
-  "statusDetails": "verified"
+  "statusDetails": "verified",
+  "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Pierre-Antoine Roy",
-   "linkedin": "https://www.linkedin.com/in/pierreantoineroy/"
-  },
-  {
-   "name": "Guillaume Giudicelli"
-  },
-  {
-   "name": "Emmanuel Chaffraix",
-   "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix"
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Pierre-Antoine Roy", "linkedin": "https://www.linkedin.com/in/pierreantoineroy/" },
+    { "name": "Guillaume Giudicelli" },
+    { "name": "Emmanuel Chaffraix", "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix" }
+   ],
+   "apres": [
+    { "name": "Pierre-Antoine Roy", "linkedin": "https://www.linkedin.com/in/pierreantoineroy/" },
+    { "name": "Guillaume Giudicelli", "linkedin": "https://www.linkedin.com/in/guillaumegiudicelli/" },
+    { "name": "Emmanuel Chaffraix", "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix" }
+   ],
+   "preuves": [
+    "https://fr.linkedin.com/posts/guillaumegiudicelli_j-1-demain-a-lieu-notre-%C3%A9v%C3%A8nement-activity-6980890809483067392-X_vp",
+    "https://www.linkedin.com/in/guillaumegiudicelli/",
+    "https://www.maddyness.com/2017/03/29/rh-crafty-travail-temporaire/"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Pierre-Antoine Roy", "linkedin": "https://www.linkedin.com/in/pierreantoineroy/" },
+  { "name": "Guillaume Giudicelli", "linkedin": "https://www.linkedin.com/in/guillaumegiudicelli/" },
+  { "name": "Emmanuel Chaffraix", "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix" }
  ],
  "status": "exit",
- "statusDetails": "HR tech française passée du prêt de compétences entre entreprises à une « cartographie dynamique des compétences ». Rachetée par Talentsoft le 16 juin 2020 (prix non divulgué), équipe intégrée à la R&D de Talentsoft. La société Crafty SAS a été dissoute le 15 décembre 2020 ; crafty.im ne résout plus. Talentsoft a lui-même été absorbé par Cegid (talentsoft.com redirige vers cegid.com).",
+ "activityDescription": "Crafty était une startup RH française qui a évolué du prêt de compétences entre entreprises vers une « cartographie dynamique des compétences » (matching par IA) pour la mobilité interne, la gestion des talents et la formation.",
+ "statusDetails": "HR tech française passée du prêt de compétences entre entreprises (marketplace inter-entreprises) à une « cartographie dynamique des compétences » en SaaS, pivot opéré pendant l'accélération NUMA en 2017 à la demande de clients qui voulaient réutiliser la technologie de détection de compétences en interne. Crafty a ensuite rejoint la première promotion du Founders Program de STATION F (2017-2019) avant de prendre ses propres bureaux. Rachetée par Talentsoft le 16 juin 2020 (prix non divulgué, clientèle incluant EDF et Spie Batignolles), équipe et fondateurs intégrés à la R&D de Talentsoft. Guillaume Giudicelli, cofondateur en 2016, avait quitté la société en octobre 2017 (il est aujourd'hui Sales Director chez Botify) ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique et est resté jusqu'au rachat. La société Crafty SAS a été dissoute le 15 décembre 2020 ; le domaine crafty.im ne résout plus (DNS mort). Talentsoft a lui-même été absorbé par Cegid (talentsoft.com redirige vers cegid.com).",
+ "acquirer": "Talentsoft",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.linkedin.com/posts/crafty.im_nous-sortons-de-la-saison-11-du-numa-paris-activity-6304349225115222016-clFj",
    "titre": "Crafty : « Nous sortons de la saison 11 du NUMA Paris »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2017",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://www.societe.com/societe/crafty-819863192.html",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "status"
-   ]
+   "titre": "Fiche société Crafty (societe.com)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
   },
   {
    "url": "https://tropheesdesfutureslicornes.fr/2020/06/16/talentsoft-announces-the-acquisition-of-crafty-a-hr-tech-start-up/",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "Talentsoft announces the acquisition of Crafty, a HR tech start-up",
+   "annee": "2020",
+   "soutient": ["status", "identity"]
   },
   {
    "url": "https://www.maddyness.com/2017/03/29/rh-crafty-travail-temporaire/",
-   "titre": "",
-   "soutient": [
-    "founders",
-    "identity"
-   ]
+   "titre": "Crafty : le prêt de compétences entre entreprises",
+   "annee": "2017",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://stationf.co/news/pierre-antoine-roy-former-ceo-of-crafty-at-station-f-we-benefited-from-an-ecosystem-and-not-just-a-place",
+   "titre": "Pierre-Antoine Roy, former CEO of Crafty: at STATION F we benefited from an ecosystem and not just a place",
+   "annee": "2021",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://www.imt-starter.fr/actualite/crafty-talentsoft",
+   "titre": "Crafty : start-up incubée IMT Starter rachetée par Talentsoft",
+   "annee": "2020",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.lejournaldesrh.fr/gestion-des-talents-internes-talentsoft-soffre-la-technologie-de-matching-de-la-startup-crafty/",
+   "titre": "Gestion des talents internes : Talentsoft s'offre la technologie de matching de la startup Crafty",
+   "annee": "2020",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.lejournaldesrh.fr/crafty-veut-denicher-les-meilleurs-profils-tech/",
+   "titre": "Crafty veut dénicher les meilleurs profils Tech",
+   "annee": "2017",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/02/17/fastpitch-crafty-ca-compte-pour-moi-savemypaquet-yoyo-et-delicorner/",
+   "titre": "Les 5 startups de la semaine : Crafty, Ça compte pour moi, SaveMyPaquet, Yoyo et Delicorner",
+   "annee": "2017",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.hr-voice.com/communiques-presse/talentsoft-annonce-lacquisition-de-crafty-start-up-francaise-de-la-tech-rh-au-service-du-developpement-des-talents/2020/07/06/",
+   "titre": "Talentsoft annonce l'acquisition de Crafty, start-up française de la Tech RH",
+   "annee": "2020",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.rhmatin.com/sirh/gestion-talents/cartographie-des-competences-talentsoft-fait-le-matching-avec-crafty.html",
+   "titre": "Cartographie des compétences : Talentsoft fait le matching avec Crafty",
+   "annee": "2020",
+   "soutient": ["status", "identity"]
   }
  ],
  "linkedinCompany": "",
  "openQuestions": [
-  "Guillaume Giudicelli a quitté la société en octobre 2017, avant le rachat par Talentsoft ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique."
+  "web.archive.org (Internet Archive) était injoignable depuis cet environnement (WebFetch renvoie 'unable to fetch from web.archive.org') pour la fois CDX et les snapshots — impossible de confirmer directement l'ancien site crafty.im ou une éventuelle page d'équipe archivée pendant cette passe ; la preuve de cohorte repose donc sur la capture Common Crawl de hub.numa.co et le post LinkedIn d'époque de Crafty, déjà solides.",
+  "Aucune page LinkedIn dédiée à l'entreprise Crafty (le studio RH français) n'a pu être identifiée : les recherches ne remontent que des sociétés homonymes sans lien (Crafty Delivers à Chicago, Crafty Apes, etc.) — la page a probablement été retirée après l'intégration à Talentsoft/Cegid en 2020.",
+  "Le domaine crafty.im ne résout plus (échec DNS constaté directement), cohérent avec la dissolution de la société en décembre 2020."
  ],
- "summary": "Guillaume Giudicelli a quitté la société en octobre 2017, avant le rachat par Talentsoft ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique.",
- "activityDescription": "Crafty était une startup RH française qui a évolué du prêt de compétences entre entreprises vers une « cartographie dynamique des compétences » pour la mobilité interne et la formation.",
- "acquirer": "Talentsoft"
+ "summary": "Saison 11 confirmée (post LinkedIn d'époque de Crafty + base alumni NUMA via Common Crawl). Crafty, fondée en 2016 par Pierre-Antoine Roy et Guillaume Giudicelli, a pivoté pendant l'accélération NUMA (2017) du prêt de compétences entre entreprises vers une cartographie dynamique des compétences en SaaS ; Guillaume Giudicelli a quitté en octobre 2017, Emmanuel Chaffraix (CTO depuis avril 2017) est resté jusqu'au rachat. Après un passage par STATION F (2017-2019), la société a été rachetée par Talentsoft le 16 juin 2020, puis dissoute le 15 décembre 2020 ; Talentsoft a depuis été absorbé par Cegid. Les trois fondateurs ont désormais chacun un profil LinkedIn identifié et recoupé (nouveauté de cette passe : profil de Guillaume Giudicelli, aujourd'hui Sales Director chez Botify). Seule zone d'ombre : Internet Archive était inaccessible depuis cet environnement et aucune page LinkedIn d'entreprise n'a pu être retrouvée."
 }
