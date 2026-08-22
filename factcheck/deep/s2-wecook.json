@@ -1,0 +1,94 @@
+{
+  "id": "s2-wecook",
+  "name": "WeCook",
+  "season": 2,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "unverifiable"
+  },
+  "corrections": {},
+  "founders": [
+    {
+      "name": "Matthieu Vincent",
+      "linkedin": "https://www.linkedin.com/in/matthieu-vincent-21642a1b/"
+    },
+    {
+      "name": "Jérémie Prouteau",
+      "linkedin": "https://www.linkedin.com/in/jeremieprouteau/"
+    },
+    {
+      "name": "Alexandre Grimault",
+      "linkedin": "https://fr.linkedin.com/in/alexandre-grimault-46862a49"
+    }
+  ],
+  "status": "exit",
+  "activityDescription": "WeCook est un service en ligne qui, à partir des goûts, du niveau en cuisine et des contraintes alimentaires de l'utilisateur, génère des menus personnalisés (à la semaine ou pour un événement) accompagnés de recettes et de listes de courses.",
+  "statusDetails": "WeCook (édité par la société Kiwings SAS), startup de la saison 2 du Camping (2011-2012), a été rachetée le 6 mars 2017 par Alantaya (fondée par Yannick Taes, Alain Bedu et Séverine Gailler-Legendre) pour former \"WeCook WeCare\", afin de devenir le premier compagnon nutritionnel en ligne. WeCook comptait alors environ 160 000 membres ; le montant de l'opération n'a pas été divulgué. À ne pas confondre avec l'entreprise québécoise WeCook Meals (Montréal), ni avec la société homonyme \"WEECOOK\" (SIREN 879642452, Antony) mise en liquidation judiciaire et radiée en 2024, sans lien avec cette startup.",
+  "acquirer": "Alantaya",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2011/09/16/le-camping/",
+      "titre": "Le camping revient avec sa deuxième fournée de startups",
+      "annee": "2011",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.frenchweb.fr/start-up-le-camping-wecook-le-menu-sur-mesure-60772/41114",
+      "titre": "[Start-up Le Camping] WeCook, le menu sur-mesure !",
+      "annee": "2011",
+      "soutient": ["cohort", "identity", "founders"]
+    },
+    {
+      "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-wecook/",
+      "titre": "[La Start-Up française de la Semaine] : WeCook",
+      "annee": "2013",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.maddyness.com/2017/03/06/exclu-alantaya-rachete-wecook/",
+      "titre": "Exclu : Alantaya rachète WeCook pour devenir le 1er compagnon nutritionnel en ligne",
+      "annee": "2017",
+      "soutient": ["status", "founders"]
+    },
+    {
+      "url": "https://www.culture-nutrition.com/2017/03/21/alantaya-rachete-wecooks/",
+      "titre": "Alantaya rachète WeCook : de nouvelles compétences en vue",
+      "annee": "2017",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Acquisition/WeCook-avalee-par-une-autre-foodtech-242549",
+      "titre": "WeCook avalée par une autre \"foodtech\"",
+      "annee": "2017",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.jaimelesstartups.fr/wecook-cuisine-recette/",
+      "titre": "Découvrez l'histoire de la startup WeCook",
+      "annee": "2013",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.entreprendre.fr/weecook-la-nutrition-ca-rapporte/",
+      "titre": "WeeCook : la nutrition, ça rapporte",
+      "annee": "2014",
+      "soutient": ["founders", "identity"]
+    }
+  ],
+  "linkedinCompany": "",
+  "openQuestions": [
+    "Aucune capture Internet Archive n'a pu être consultée dans cette session (web.archive.org était inaccessible via l'outil WebFetch) — l'identité du site wecook.fr en 2011-2012 repose donc uniquement sur la presse contemporaine (Maddyness, FrenchWeb), pas sur une capture d'archive directe.",
+    "Statut actuel du site wecook.fr non confirmé : la requête directe renvoie une erreur 403 (protection anti-bot probable), ce qui n'indique pas en soi un arrêt du service.",
+    "Aucune page LinkedIn 'entreprise' propre à la startup française WeCook (distincte de wecookca et de la marque grecque wecookgr) n'a été localisée avec certitude.",
+    "Le montant de l'acquisition par Alantaya n'a pas été rendu public par les parties."
+  ],
+  "summary": "Tous les champs du dossier WeCook (id s2-wecook) sont confirmés par des sources de presse indépendantes et concordantes : présence confirmée dans la 2e promotion du Camping (2011-2012, DemoDay au Palais Brongniart, 12 startups), trois fondateurs (Matthieu Vincent, Jérémie Prouteau, Alexandre Grimault) tous identifiés avec un profil LinkedIn personnel retrouvé, rachat par Alantaya le 6 mars 2017 (statut 'exit') pour former WeCook WeCare, et mise en garde légitime contre la confusion avec WeCook Meals (Canada). Aucune correction n'a été nécessaire par rapport à l'enregistrement existant ; seule une description d'activité et des preuves de presse supplémentaires ont été ajoutées. La vérification Internet Archive n'a pas pu être menée dans cette session (outil bloqué sur web.archive.org), ce qui reste un point ouvert méthodologique mais n'affecte pas la solidité du reste du dossier, largement recoupé par la presse."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "s3-augment",
+  "name": "Augment",
+  "season": 3,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {},
+  "founders": [
+    { "name": "Jean-François Chianetta", "linkedin": "https://fr.linkedin.com/in/jfchianetta" },
+    { "name": "Cyril Champier", "linkedin": "https://www.linkedin.com/in/cyril-champier-399599b/" },
+    { "name": "Mickaël Jordan", "linkedin": "https://www.linkedin.com/in/mickaël-jordan-6485231a/" }
+  ],
+  "status": "exit",
+  "activityDescription": "Augment est une plateforme SaaS de réalité augmentée qui permet de visualiser des modèles 3D de produits à taille réelle dans leur environnement réel, en temps réel, via smartphone ou tablette, à destination du commerce, de l'e-commerce et de la vente terrain.",
+  "statusDetails": "Augment (Augment SAS) a été racheté par l'éditeur américain StayinFront (solutions SFA/CRM pour la distribution), annoncé le 14 mai 2024 ; la solution AR d'Augment a été intégrée à la plateforme StayinFront Retail Optimization Platform (module Pitchbook). Le site www.augment.com reste en ligne en 2026 sous la marque « Augment, a division of StayinFront ».",
+  "acquirer": "StayinFront",
+  "website": "https://www.augment.com",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://techcrunch.com/2013/04/17/augment/",
+      "titre": "Le Camping Alumni Augment Raises €220K To Take Its Augmented Reality Sales Tool To The U.S.",
+      "annee": "2013",
+      "soutient": ["cohort", "identity", "founders"]
+    },
+    {
+      "url": "https://www.clubic.com/pro/entrepreneur-et-creation-entreprise/actualite-527391-camping-bilan.html",
+      "titre": "Les start-up du Camping saison 3 ont terminé leur incubation",
+      "annee": "2012",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2024/05/14/2881516/0/en/StayinFront-Acquires-Augmented-Reality-Software-Leader-SAS-Augment.html",
+      "titre": "StayinFront Acquires Augmented Reality Software Leader, SAS Augment",
+      "annee": "2024",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.stayinfront.com/stayinfront-acquires-augmented-reality-software-leader-sas-augment/",
+      "titre": "StayinFront Acquires AR Leader Augment",
+      "annee": "2024",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Augment_(app)",
+      "titre": "Augment (app)",
+      "annee": "2024",
+      "soutient": ["identity", "founders", "status"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/augmentedev/",
+  "openQuestions": [
+    "web.archive.org est totalement inaccessible depuis cet environnement (proxy bloque le domaine) : impossible de récupérer une capture d'archive datée de 2012-2013 pour confirmer visuellement le site d'origine et une éventuelle page fondateurs. La preuve d'identité et de cohorte repose donc sur la presse contemporaine (TechCrunch avril 2013, Clubic novembre 2012) plutôt que sur l'Internet Archive.",
+    "Le site www.augment.com étant toujours en ligne et exploité par StayinFront lui-même, il fait office de source vivante équivalente à une capture d'archive pour l'identité du produit."
+  ],
+  "summary": "Augment (saison 3, Le Camping, ~2012) est une startup de réalité augmentée/visualisation 3D fondée par Jean-François Chianetta, Cyril Champier et Mickaël Jordan (les trois profils LinkedIn retrouvés confirment leur rôle). Tous les champs du fiche sont confirmés par des sources contemporaines et actuelles : appartenance à la saison 3 (Clubic, nov. 2012 ; TechCrunch, avril 2013), nom inchangé, statut d'exit par rachat par StayinFront (annonce du 14 mai 2024, communiqués StayinFront et GlobeNewswire), et site web www.augment.com toujours actif aujourd'hui sous la marque « Augment, a division of StayinFront ». Aucune correction nécessaire ; l'Internet Archive n'a pas pu être consulté (domaine bloqué par le proxy de cet environnement) mais la presse et les sources officielles suffisent à valider chaque champ."
+}

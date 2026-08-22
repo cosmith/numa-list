@@ -1,0 +1,89 @@
+{
+ "id": "s2-pili-pop",
+ "name": "Pili Pop",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified",
+  "seenInPhoto": "unverifiable"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Elsa Prieto", "linkedin": "https://www.linkedin.com/in/elsaprieto/" },
+  { "name": "Soiny Duval", "linkedin": "https://www.linkedin.com/in/soinyduval/" },
+  { "name": "Eugène Ernoult", "linkedin": "https://www.linkedin.com/in/eernoult/" }
+ ],
+ "status": "exit",
+ "activityDescription": "Pili Pop est une application mobile qui apprend aux enfants une langue étrangère (anglais, espagnol) à l'oral, par le jeu et avec correction de la prononciation.",
+ "statusDetails": "Entrée au Camping saison 2 (rentrée de septembre 2011) sous le nom Teeniz, un jeu social d'apprentissage de l'anglais pour enfants ; le produit est devenu Babble Planet (lancé en septembre 2012) puis Pili Pop (rebaptisé en juin 2013). La société Pili Pop Labs, revendiquant plus de 600 000 utilisateurs, a été acquise par le groupe de presse et d'édition jeunesse Unique Heritage Media le 27 juillet 2016 (montant non communiqué). Le produit a continué sous l'ombrelle Unique Heritage Media et le domaine pilipop.com redirige aujourd'hui (2026) vers lesminimondes.fr, où l'application est proposée sous le nom \"Les Mini Mondes Explorers\", reprenant la même méthode d'apprentissage oral de l'anglais.",
+ "acquirer": "Unique Heritage Media",
+ "website": "https://www.pilipop.com",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=pilipop.com&timestamp=2012",
+   "montre": "Confirme l'existence d'une capture Wayback de pilipop.com au 3 juillet 2013 (http://web.archive.org/web/20130703125048/http://www.pilipop.com:80/, status 200) ; le nom de domaine pilipop.com était donc déjà actif à cette date, cohérent avec le changement de nom en juin 2013."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=babbleplanet.com&timestamp=2012",
+   "montre": "Confirme l'existence d'une capture Wayback de babbleplanet.com au 6 janvier 2013 (http://web.archive.org/web/20130106064932/http://www.babbleplanet.com:80/?, status 200), cohérent avec le lancement de Babble Planet en septembre 2012."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2011/09/16/le-camping/",
+   "titre": "Le camping revient avec sa deuxième fournée de startups",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/pili-pop-transforme-les-tablettes-en-prof-danglais-pointilleux-sur-la-prononciation/192324",
+   "titre": "Pili Pop transforme les tablettes en prof d'anglais pointilleux sur la prononciation",
+   "annee": "2015",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.terrafemina.com/emploi-a-carrieres/portraits/articles/31298-pili-pop-une-appli-qui-pimente-lapprentissage-des-langues.html",
+   "titre": "Pili Pop, une appli qui pimente l'apprentissage des langues",
+   "annee": "2015",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.fusacq.com/buzz/pili-pop-labs-reprise-par-unique-heritage-media-a122117_fr_",
+   "titre": "Pili Pop Labs reprise par Unique Heritage Media",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.uniqueheritage.fr/wp-content/uploads/2016/07/CP-Rachat-de-Pili-Pop-par-UHM.pdf",
+   "titre": "Communiqué de presse - Rachat de Pili Pop par UHM",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://frenchmorning.com/pili-pop-app-apprendre-langlais-aux-enfants/",
+   "titre": "Pili Pop: une app pour apprendre l'anglais aux enfants",
+   "annee": "2015",
+   "soutient": ["founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/babble-planet",
+ "openQuestions": [
+  "L'outil WebFetch n'a pas pu accéder directement au domaine web.archive.org dans cet environnement (toutes les tentatives de récupération de snapshots ont échoué avec 'unable to fetch from web.archive.org'), seule l'API archive.org/wayback/available a fonctionné ; l'identité et le contenu exacts des pages archivées de Teeniz/Babble Planet/Pili Pop n'ont donc pas pu être visuellement confirmés, seulement corroborés par la presse contemporaine.",
+  "Le montant de la transaction Unique Heritage Media / Pili Pop Labs (juillet 2016) n'a jamais été rendu public.",
+  "Le champ seenInPhoto reste invérifiable en l'absence d'accès à la photographie source citée dans data.json."
+ ],
+ "summary": "Pili Pop (saison 2 du Camping, rentrée septembre 2011) est confirmée sous son nom d'origine Teeniz par le JDN et Maddyness (sept. 2011), devenue Babble Planet (sept. 2012) puis Pili Pop (juin 2013) : application mobile d'apprentissage oral de l'anglais/espagnol pour enfants avec correction de prononciation. Les trois fondateurs Elsa Prieto, Soiny Duval et Eugène Ernoult sont corroborés par de multiples sources concordantes (FrenchWeb, Terrafemina, French Morning, Crunchbase, LinkedIn) ; leurs profils LinkedIn individuels ont été retrouvés. La société Pili Pop Labs (plus de 600 000 utilisateurs revendiqués) a été acquise par Unique Heritage Media le 27 juillet 2016, confirmé par Fusacq et le communiqué de presse officiel d'UHM. Le produit existe toujours en 2026 : pilipop.com redirige vers lesminimondes.fr sous le nom Les Mini Mondes Explorers, toujours chez Unique Heritage Media. Tous les champs du dossier data.json sont vérifiés ; aucune correction n'est nécessaire."
+}

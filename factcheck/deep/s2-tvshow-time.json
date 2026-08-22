@@ -1,0 +1,89 @@
+{
+ "id": "s2-tvshow-time",
+ "name": "TVShow Time",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Antonio Mendes Pinto",
+   "linkedin": "https://fr.linkedin.com/in/antoniopinto1985"
+  },
+  {
+   "name": "Talal Mazroui",
+   "linkedin": "https://www.linkedin.com/in/talalmazroui/"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "TVShow Time est une application mobile et web qui permet aux fans de séries télé de suivre les épisodes vus, de gérer leur agenda de visionnage et de découvrir de nouvelles séries recommandées par une communauté d'utilisateurs.",
+ "statusDetails": "TVShow Time (société Toze Labs), née à la promotion 2 (rentrée septembre 2011) du Camping à Paris, a été rachetée en décembre 2016 par Whip Networks (devenu Whip Media), qui a rebaptisé le service TV Time en 2017. TV Time a atteint plus de 26 millions d'installations cumulées avant d'être définitivement fermé le 15 juillet 2026, Whip Media ayant réorienté son activité vers l'IA. Le cofondateur Antonio Pinto a ensuite lancé une application successeur, Bingers, en août 2026. La société Toze Labs (SAS) a été dissoute le 27 septembre 2022 et radiée le 5 mars 2026.",
+ "acquirer": "Whip Media",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2013/07/24/tvshow-time-levee-de-fonds/",
+   "titre": "TVShow Time lève 500 000 euros et lance la version web de son service",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.itespresso.fr/tvshow-time-fans-series-tele-trouve-application-66677.html",
+   "titre": "TVShow Time : les fans de séries télé ont trouvé leur application",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+   "titre": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+   "titre": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://bingers.app/history",
+   "titre": "Our story · Bingers",
+   "annee": "2026",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/toze-labs-751368671.html",
+   "titre": "TOZE LABS (PARIS) - fiche société.com",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Whip_Media",
+   "titre": "Whip Media",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/tvtime",
+ "openQuestions": [
+  "Impossible d'accéder à web.archive.org dans cet environnement (WebFetch et curl proxy bloqués) : les captures d'archive du site tvshowtime.com/tv-time n'ont pas pu être consultées directement pour STEP 2a ; les preuves reposent donc uniquement sur la presse contemporaine et des sources rétrospectives (TechCrunch, Bingers, société.com).",
+  "Le montant et les conditions financières précises du rachat par Whip Networks/Whip Media en décembre 2016 ne sont pas publics.",
+  "Frederic Ye et Michel Thiers sont cités comme membres de l'équipe initiale élargie (développeurs) mais aucune source ne les qualifie de cofondateurs ; ils ne sont donc pas ajoutés à la liste des fondateurs."
+ ],
+ "summary": "Tous les champs du dossier TVShow Time sont confirmés par des sources concordantes : promotion 2 du Camping (rentrée sept. 2011, sous le nom Toze Labs), fondée par Antonio Mendes Pinto et Talal Mazroui, rebaptisée TV Time après son rachat par Whip Networks/Whip Media en décembre 2016. Le service a fermé définitivement le 15 juillet 2026 (statut exit confirmé), et Antonio Pinto a depuis lancé Bingers. Aucune correction nécessaire ; accès à web.archive.org indisponible dans cet environnement mais compensé par une presse abondante et cohérente."
+}

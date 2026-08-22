@@ -1,0 +1,114 @@
+{
+ "id": "s2-skimm",
+ "name": "Skimm!",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Antoine Sakho" },
+    { "name": "Valentin Lautier" }
+   ],
+   "apres": [
+    { "name": "Antoine Sakho", "linkedin": "https://uk.linkedin.com/in/antoinesakho" },
+    { "name": "Valentin Lautier", "linkedin": "https://fr.linkedin.com/in/valentinlautier" },
+    { "name": "Julien Dauphant", "linkedin": "https://www.linkedin.com/in/juliendauphant/" }
+   ],
+   "preuves": [
+    "http://www.lapeniche.net/skimm-quand-les-anciens-sciences-pistes-facilitent-la-vie-des-nouveaux/",
+    "https://techbaguette.com/2013/03/06/hot-2-2013/",
+    "https://www.jaimelesstartups.fr/skimm-google-wallet-le-camping-paiement-android/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service de paiement mobile non retrouvé comme activité actuelle.",
+   "apres": "Application française de paiement mobile par QR code (transferts entre particuliers, paiement chez les commerçants et en ligne, cartes de fidélité) ; a levé 300 000 euros en 2012 puis reçu des aides publiques (Oseo, Ville de Paris), mais n'a pas survécu : la presse spécialisée la désigne dès 2016 comme « feu Skimm », et aucune trace d'activité, de rachat ou de succession n'a été retrouvée depuis. Le domaine skimm.fr est aujourd'hui exploité par une entité sans rapport (« Skimm Analytics »).",
+   "preuves": [
+    "http://www.magestionbilletterie.com/2016/10/28/enquete-paiement-mobile-vs-cashless-la-bataille-commence-0123/",
+    "https://www.frenchweb.fr/paiement-mobile-zoom-sur-10-startups-innovantes/104789"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Antoine Sakho", "linkedin": "https://uk.linkedin.com/in/antoinesakho" },
+  { "name": "Valentin Lautier", "linkedin": "https://fr.linkedin.com/in/valentinlautier" },
+  { "name": "Julien Dauphant", "linkedin": "https://www.linkedin.com/in/juliendauphant/" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Skimm! était une application mobile française qui dématérialisait le portefeuille (moyens de paiement, cartes de fidélité, bons de réduction) et permettait de payer par QR code chez les commerçants, en ligne, ou de faire des transferts d'argent entre particuliers.",
+ "statusDetails": "Application française de paiement mobile par QR code (transferts entre particuliers, paiement chez les commerçants et en ligne, cartes de fidélité) ; a levé 300 000 euros en 2012 puis reçu des aides publiques (Oseo, Ville de Paris), mais n'a pas survécu : la presse spécialisée la désigne dès 2016 comme « feu Skimm », et aucune trace d'activité, de rachat ou de succession n'a été retrouvée depuis. Le domaine skimm.fr est aujourd'hui exploité par une entité sans rapport (« Skimm Analytics »).",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.jaimelesstartups.fr/skimm-google-wallet-le-camping-paiement-android/",
+   "titre": "Découvrez l'histoire de la startup Skimm",
+   "annee": "2012",
+   "soutient": ["cohort", "founders", "identity", "status"]
+  },
+  {
+   "url": "http://www.lapeniche.net/skimm-quand-les-anciens-sciences-pistes-facilitent-la-vie-des-nouveaux/",
+   "titre": "Skimm! Quand les anciens sciences pistes facilitent la vie des nouveaux",
+   "annee": "2012",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/ebusiness/commerce/1006313-notre-solution-de-paiement-multicanale-sera-bientot-utilisable-sur-les-caisses-enregistreuses/",
+   "titre": "Valentin Lautier (Skimm) : « Notre solution de paiement multicanale sera bientôt utilisable sur les caisses enregistreuses »",
+   "annee": "2012",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2012/04/16/skimm-le-portefeuille-2-0-leve-300-000-euros/",
+   "titre": "Skimm, le portefeuille 2.0, lève 300 000 euros",
+   "annee": "2012",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/paiement-mobile-skimm-finalise-une-levee-de-300-000-euros/57547",
+   "titre": "[Paiement mobile] Skimm finalise une levée de 300 000 euros",
+   "annee": "2012",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.usinenouvelle.com/article/skimm-pour-payer-avec-son-smartphone.N186899",
+   "titre": "Skimm, pour payer avec son smartphone",
+   "annee": "2012",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "http://www.magestionbilletterie.com/2016/10/28/enquete-paiement-mobile-vs-cashless-la-bataille-commence-0123/",
+   "titre": "[Enquête] Paiement mobile vs cashless : la bataille commence",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://techbaguette.com/2013/03/06/hot-2-2013/",
+   "titre": "The 2013 List: 20 Hot French Entrepreneurs Under 30",
+   "annee": "2013",
+   "soutient": ["founders"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Internet Archive (web.archive.org) était injoignable depuis cet environnement d'exécution (échecs réseau systématiques sur WebFetch et curl) : impossible de consulter directement les snapshots archivés de skimm.fr ou des pages de cohorte lecamping.org/numa.co pour cette vérification. Les conclusions reposent donc uniquement sur la presse contemporaine, convergente et multiple.",
+  "Aucune page LinkedIn d'entreprise n'a été retrouvée pour le Skimm français (à ne pas confondre avec « theSkimm », média américain sans rapport) ; la société semble avoir disparu avant l'essor de ce type de présence en ligne ou n'en a jamais eu.",
+  "Date précise de cessation d'activité non déterminée (entre 2013 et 2016, la presse la désignant comme disparue au plus tard en 2016)."
+ ],
+ "summary": "Skimm! est confirmée comme startup de paiement mobile par QR code de la saison 2 du Camping (2011-2012), fondée par Antoine Sakho et Valentin Lautier, mais aussi par un troisième cofondateur, Julien Dauphant, absent de la fiche initiale (les trois profils LinkedIn ont été retrouvés). La startup a levé 300 000 euros en 2012 et obtenu des aides publiques, mais la presse spécialisée la qualifie de disparue dès 2016 (« feu Skimm ») ; aucune trace de rachat n'a été trouvée, le statut « stopped » est donc confirmé. Le domaine skimm.fr est aujourd'hui occupé par une entité sans rapport. Vérification limitée par l'indisponibilité d'Internet Archive dans cet environnement."
+}

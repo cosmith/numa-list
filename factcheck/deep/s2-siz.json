@@ -1,0 +1,123 @@
+{
+ "id": "s2-siz",
+ "name": "Siz",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Axel Hauguel" },
+    { "name": "Guillaume Rivals" }
+   ],
+   "apres": [
+    { "name": "Axel Hauguel" },
+    { "name": "Guillaume Rivals" },
+    { "name": "Mathieu Zarouk" }
+   ],
+   "preuves": [
+    "https://www.societe.com/societe/viewrz-538082751.html",
+    "https://fr.linkedin.com/in/mathieu-zarouk-96751916",
+    "https://startupbeat.com/featured-startup-pitch-id3635/10132/"
+   ]
+  },
+  "status": {
+   "avant": "stopped",
+   "apres": "stopped",
+   "preuves": [
+    "https://www.societe.com/societe/viewrz-538082751.html"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service mode non retrouvé comme activité actuelle.",
+   "apres": "La société VIEWRZ (SIREN 538082751, éditrice de Siz/Siz.io) est en liquidation judiciaire depuis le 11 décembre 2019 et a été radiée du RCS le 13 juin 2024 pour insuffisance d'actif. Le nom de domaine siz.io a expiré et redirige aujourd'hui vers une page de vente de domaine GoDaddy.",
+   "preuves": [
+    "https://www.societe.com/societe/viewrz-538082751.html",
+    "http://siz.io"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": null,
+   "preuves": [
+    "http://siz.io"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Axel Hauguel",
+   "linkedin": "https://fr.linkedin.com/in/axel-hauguel-102b9a32"
+  },
+  {
+   "name": "Guillaume Rivals",
+   "linkedin": "https://www.linkedin.com/in/guillaumervls"
+  },
+  {
+   "name": "Mathieu Zarouk",
+   "linkedin": "https://fr.linkedin.com/in/mathieu-zarouk-96751916"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Siz (anciennement Viewrz) est une plateforme de curation vidéo qui permet aux internautes de créer des sélections thématiques (« shortlists ») de vidéos issues de YouTube, Vine, Instagram, Vimeo, Dailymotion ou Twitch, votées et partagées par la communauté.",
+ "statusDetails": "La société VIEWRZ (SIREN 538082751, éditrice de Siz/Siz.io) est en liquidation judiciaire depuis le 11 décembre 2019 et a été radiée du RCS le 13 juin 2024 pour insuffisance d'actif. Le nom de domaine siz.io a expiré et redirige aujourd'hui vers une page de vente de domaine GoDaddy, ce qui confirme l'arrêt de l'activité.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20131128003225/http://siz.io:80/?",
+   "montre": "Capture de siz.io en novembre 2013 confirmée disponible (HTTP 200) via l'API Wayback Availability ; la récupération directe du contenu de la page a été bloquée par l'outil WebFetch pour le domaine web.archive.org dans cet environnement."
+  },
+  {
+   "url": "http://web.archive.org/web/20150603083641/http://siz.io:80/",
+   "montre": "Capture de siz.io en juin 2015, confirmant que le service était encore en ligne à cette date (dernière capture connue avec contenu de produit)."
+  },
+  {
+   "url": "http://web.archive.org/web/20120608083436/http://viewrz.com:80/",
+   "montre": "Capture de viewrz.com en juin 2012, correspondant au nom utilisé au moment de la saison 2 du Camping (2011-2012)."
+  },
+  {
+   "url": "http://siz.io",
+   "montre": "En 2026, siz.io redirige (307) vers forsale.godaddy.com/forsale/siz.io : le nom de domaine a expiré et est proposé à la vente, preuve directe que le site n'est plus exploité."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://startupbeat.com/featured-startup-pitch-id3635/10132/",
+   "titre": "Featured Startup Pitch: Online video overload? Siz wants to help with its user-curated platform",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/nouveau-lancement-de-siz-io-une-plateforme-web-de-curation-video/133998",
+   "titre": "[Nouveau] Lancement de Siz.io, une plateforme web de curation vidéo",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/societe/viewrz-538082751.html",
+   "titre": "Société VIEWRZ - fiche registre (SIREN 538082751)",
+   "annee": "2024",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "openQuestions": [
+  "Le passage à une entité 'SIZ GmbH' (Allemagne, 2013-2016) mentionné dans un profil professionnel de Guillaume Rivals n'a pas pu être corroboré par une source officielle allemande (registre du commerce, presse) ; à documenter si une source solide est trouvée.",
+  "Aucune page LinkedIn d'entreprise (linkedin.com/company/...) n'a été retrouvée pour Siz ou Viewrz.",
+  "La date exacte d'arrêt de l'activité du produit Siz.io (dernière capture de contenu identifiée : juin 2015) n'a pas été confirmée par une annonce publique des fondateurs."
+ ],
+ "summary": "Siz (ex-Viewrz), plateforme de curation vidéo fondée par Axel Hauguel, Guillaume Rivals et Mathieu Zarouk, appartenait bien à la saison 2 du Camping (2011-2012). Le nom et les pivots sont corrects, mais la liste des fondateurs était incomplète (Mathieu Zarouk manquait) et le statut 'stopped' est désormais confirmé par une source officielle : la société VIEWRZ a été mise en liquidation judiciaire en 2019 et radiée du RCS en 2024 pour insuffisance d'actif, et le domaine siz.io est aujourd'hui à vendre chez GoDaddy."
+}

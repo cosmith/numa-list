@@ -1,0 +1,81 @@
+{
+ "id": "s3-jellynote",
+ "name": "Jellynote",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Plateforme musicale arrêtée/non disponible.",
+   "apres": "Le site jellynote.com ne répond plus (nom de domaine injoignable) et l'application a été retirée du Google Play Store le 20 février 2024 ; le service, qui avait levé environ 150 000 $ en 2016 puis 800 000 $ en mars 2017 sous la direction du CEO Martijn Tjho, n'est plus actif.",
+   "preuves": [
+    "https://tech.eu/2017/03/14/jellynote-800000/",
+    "https://www.jaimelesstartups.fr/jellynote/",
+    "https://tracxn.com/d/companies/jellynote/__L2XR0JRBk-rF2M7unnN3QlRmIwnHCWxPgOYUwb5XgwQ",
+    "https://m.apkpure.com/jellynote/com.jellynote"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Arthur Lenoir", "linkedin": "https://www.linkedin.com/in/arthur-lenoir/" },
+  { "name": "Adrien Cognée", "linkedin": "https://www.linkedin.com/in/adriencog/" },
+  { "name": "Baptiste Poirier", "linkedin": "https://www.linkedin.com/in/baptistepoirier/" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Jellynote est une plateforme en ligne d'apprentissage de la musique qui propose plus de 150 000 partitions et tablatures interactives, synchronisées avec des vidéos YouTube, avec un mode d'apprentissage façon « Guitar Hero » utilisant le micro pour évaluer en temps réel le jeu de l'utilisateur.",
+ "statusDetails": "Le site jellynote.com ne répond plus (nom de domaine injoignable) et l'application a été retirée du Google Play Store le 20 février 2024 ; le service, qui avait levé environ 150 000 $ en 2016 puis 800 000 $ en mars 2017 sous la direction du CEO Martijn Tjho (rejoint après le passage à NUMA), n'est plus actif.",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/web/20130821024239/http://www.jellynote.com:80/",
+   "montre": "Capture Wayback Machine du 21 août 2013 (statut HTTP 200) confirmant que jellynote.com était en ligne pendant la période suivant la saison 3 du Camping. Il s'agit de la seule capture connue du domaine dans l'Internet Archive (confirmé via l'API 'wayback/available' interrogée avec des timestamps cibles 2013, 2020 et 2026, qui renvoie systématiquement cette même capture de 2013 comme la plus proche) ; le contenu de la page n'a pas pu être récupéré directement dans cette session car l'outil de fetch bloque l'hôte web.archive.org, seule l'API de disponibilité (hébergée sur archive.org) a répondu."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-jellynote/",
+   "titre": "Jellynote : [La Start-Up française de la Semaine]",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.jaimelesstartups.fr/jellynote/",
+   "titre": "Découvrez l'histoire de la startup Jellynote",
+   "annee": "n.d.",
+   "soutient": ["cohort", "founders", "identity", "status"]
+  },
+  {
+   "url": "https://tech.eu/2017/03/14/jellynote-800000/",
+   "titre": "Music edtech startup Jellynote raises $800,000 to push user acquisition",
+   "annee": "2017",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/jellynote/__L2XR0JRBk-rF2M7unnN3QlRmIwnHCWxPgOYUwb5XgwQ",
+   "titre": "Jellynote - Company Profile (Tracxn)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://m.apkpure.com/jellynote/com.jellynote",
+   "titre": "Jellynote APK for Android Download",
+   "annee": "2024",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/jellynote",
+ "openQuestions": [
+  "Aucune capture Wayback Machine trouvée entre 2013 et l'arrêt du service : impossible de dater précisément la fermeture du site web (distincte du retrait de l'app mobile en février 2024) avec les outils disponibles dans cette session (web.archive.org non accessible en fetch direct).",
+  "Rôle exact et date d'arrivée de Martijn Tjho comme CEO/investisseur (probablement 2016) non confirmés par une source primaire datée ; il n'est pas listé comme cofondateur d'origine et n'a donc pas été ajouté à la liste des fondateurs.",
+  "Aucune trace d'acquisition ou de rachat trouvée ; le statut retenu est un arrêt (stopped), non un exit."
+ ],
+ "summary": "Jellynote (saison 3 du Camping, juin 2012) est confirmé comme plateforme d'apprentissage musical en ligne fondée par Arthur Lenoir, Adrien Cognée et Baptiste Poirier — cohorte, nom et liste de fondateurs vérifiés par plusieurs sources concordantes (presse-citron, jaimelesstartups.fr, LinkedIn de chacun des trois fondateurs). Le statut « stopped » est désormais solidement étayé (domaine jellynote.com injoignable, application retirée du Google Play Store le 20 février 2024, profil Tracxn indiquant que la startup n'est plus active) ; le champ statusDetails a été enrichi avec ces preuves concrètes. Aucune acquisition n'a été trouvée. Le service a levé des fonds en 2016-2017 sous la direction d'un CEO plus tardif, Martijn Tjho, non compté parmi les fondateurs d'origine."
+}

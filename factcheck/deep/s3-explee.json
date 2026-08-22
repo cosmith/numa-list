@@ -1,0 +1,96 @@
+{
+ "id": "s3-explee",
+ "name": "Explee",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Thomas Olivier",
+   "linkedin": "https://fr.linkedin.com/in/thomas--olivier"
+  },
+  {
+   "name": "Morgan Giraud",
+   "linkedin": "https://fr.linkedin.com/in/morgangiraud"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Explee était une application web permettant de créer facilement des vidéos animées pédagogiques et de facilitation graphique (\"video scribing\"), à partir d'une bibliothèque d'animations et d'une technologie d'animation automatique d'images (BringLife).",
+ "statusDetails": "La société EXPLEE (SAS, SIREN 788632867), fondée en 2012 par Thomas Olivier et Morgan Giraud, a été dissoute puis liquidée en 2023 (Morgan Giraud est passé du statut de président à celui de liquidateur dans les registres officiels). Le nom et le domaine explee.com ont ensuite été repris par Thomas Olivier lui-même pour un nouveau projet sans lien avec la vidéo : AutoGTM by Explee, un outil de prospection commerciale automatisée par IA, lancé sous une structure présentée comme fondée en 2024. Il ne s'agit donc pas d'un tiers non lié qui aurait racheté le domaine, mais d'une réutilisation de la marque par son fondateur pour une activité totalement différente ; le produit vidéo de la saison 3 de NUMA/Le Camping, lui, a bien cessé d'exister.",
+ "website": "",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.frenchweb.fr/la-start-up-du-jour-explee-veut-dynamiser-les-supports-de-communication-par-la-video/176955",
+   "titre": "La start-up du jour: Explee veut dynamiser les supports de communication par la vidéo",
+   "annee": "2014",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "http://franceclusters.fr/2013/03/22/le-camping-saison-3-pour-des-startups-accelerees/",
+   "titre": "Le Camping saison 3 : pour des startups « accélérées » !",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+   "titre": "Supporting entrepreneurship in France at Le Camping",
+   "annee": "2012",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/thomas-olivier",
+   "titre": "Thomas Olivier - Co-founder & CEO @ Explee",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/morgan-giraud",
+   "titre": "Morgan Giraud - CTO & Cofounder @ Explee",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/explee-788632867",
+   "titre": "Société EXPLEE (788632867)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.hervekabla.com/wordpress/thomas-olivier-et-leonard-dupray-presentent-explee/",
+   "titre": "Thomas Olivier et Léonard Dupray présentent Explee",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://lespepitestech.com/startup-de-la-french-tech/explee",
+   "titre": "Explee - Startup France French Tech Grand Paris",
+   "annee": "2026",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://getlatka.com/companies/go.explee.com",
+   "titre": "Explee Revenue 2025: $990K Est. ARR",
+   "annee": "2025",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Impossible de confirmer par un texte officiel unique la date exacte de dissolution/liquidation d'EXPLEE SAS (source : mention indirecte via changement de statut de Morgan Giraud, président -> liquidateur, dans les registres agrégés par les moteurs de recherche ; la fiche pappers.fr elle-même n'a pas pu être ouverte directement, HTTP 403).",
+  "Le nouveau véhicule juridique portant la marque Explee/AutoGTM (fondé ~2024 selon Latka) n'a pas pu être identifié par son propre SIREN ; il n'est pas certain qu'il s'agisse d'une nouvelle société de Thomas Olivier ou d'une simple reprise de nom de domaine par lui à titre personnel.",
+  "Aucune capture Internet Archive n'a pu être consultée : l'outil WebFetch a échoué systématiquement sur web.archive.org dans cet environnement (blocage proxy), donc les snapshots d'époque du site explee.com n'ont pas pu être vérifiés directement — la description du produit repose sur la presse d'époque (FrenchWeb, Presse-citron, hervekabla.com) plutôt que sur le site archivé lui-même.",
+  "Léonard Dupray est identifié dans une source de 2013 comme directeur commercial/associé d'Explee, mais aucune source ne le désigne comme cofondateur ; il n'a donc pas été ajouté à la liste des fondateurs."
+ ],
+ "summary": "Explee (saison 3, ~2012-2013 de Le Camping) est confirmée par plusieurs sources de presse d'époque (FrenchWeb, franceclusters.fr, blog Google) et par Crunchbase pour ses deux fondateurs, Thomas Olivier (CEO) et Morgan Giraud (CTO) ; aucun fondateur supplémentaire crédible. Le service proposait la création de vidéos animées pédagogiques/de facilitation graphique. La société EXPLEE (SIREN 788632867) a bien été dissoute et liquidée (Morgan Giraud passant de président à liquidateur), confirmant le statut 'stopped' déjà présent dans data.json. Nuance apportée : le domaine explee.com n'a pas été récupéré par un tiers anonyme mais réutilisé par Thomas Olivier lui-même pour un nouveau produit sans rapport (AutoGTM, outil de prospection commerciale par IA, ~2024-2026), ce qui est cohérent avec statusDetails existant mais mérite d'être précisé. Aucune preuve d'acquisition/exit. LinkedIn personnels retrouvés pour les deux fondateurs (via recoupement de plusieurs résultats de recherche, LinkedIn bloquant l'accès direct) ; pas de page LinkedIn d'entreprise Explee retrouvée avec certitude. Toutes les tentatives d'accès à web.archive.org ont échoué dans cet environnement (blocage), donc aucune capture d'archive n'a pu être citée directement — le verdict s'appuie sur la presse et les bases d'entreprises."
+}

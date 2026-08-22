@@ -1,0 +1,129 @@
+{
+ "id": "s3-fleex",
+ "name": "Fleex",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Alexandre Point" },
+    { "name": "Guillaume Dupuy" }
+   ],
+   "apres": [
+    { "name": "Guillaume Dupuy", "linkedin": "https://www.linkedin.com/in/guillaumedupuy/" },
+    { "name": "Alexandre Point", "linkedin": "https://fr.linkedin.com/in/alexandrepoint" },
+    { "name": "Alain Caffi", "linkedin": "https://fr.linkedin.com/in/alain-caffi-1ab51112" }
+   ],
+   "preuves": [
+    "https://www.rudebaguette.com/en/2013/07/fleex-english-learning-game-of-thrones/?lang=en",
+    "https://www.rudebaguette.com/en/2013/03/currently-raising-a-round-of-funding-fleexs-video-language-learning-startup-rolls-out-a-premium-service/",
+    "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-fleex/",
+    "https://www.crunchbase.com/organization/fleex"
+   ]
+  },
+  "status": {
+   "avant": "stopped",
+   "apres": "exit",
+   "preuves": [
+    "https://www.fusacq.com/buzz/2a-capital-a-accompagne-reverso-dans-l-acquisition-de-la-start-up-fleex-a121879_fr_",
+    "https://www.2acapital.com/en/operations/acquisition-of-fleex-by-reverso/",
+    "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Acquisition/Reverso-apprend-une-nouvelle-langue-226442"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service d'apprentissage des langues par la vidéo non retrouvé comme activité actuelle.",
+   "apres": "Fleex a été racheté par Reverso (Softissimo) en juillet 2016, après une prise de participation minoritaire de 20 % par Reverso en juillet 2015 ; le service revendiquait alors plus de 200 000 utilisateurs inscrits. La marque et le site fleex.tv restent exploités par Reverso.",
+   "preuves": [
+    "https://www.fusacq.com/buzz/2a-capital-a-accompagne-reverso-dans-l-acquisition-de-la-start-up-fleex-a121879_fr_",
+    "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Acquisition/Reverso-apprend-une-nouvelle-langue-226442",
+    "https://fleex.tv/fr/Home/Index4"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "https://fleex.tv/",
+   "preuves": [
+    "https://fleex.tv/fr/Home/Index4"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Guillaume Dupuy", "linkedin": "https://www.linkedin.com/in/guillaumedupuy/" },
+  { "name": "Alexandre Point", "linkedin": "https://fr.linkedin.com/in/alexandrepoint" },
+  { "name": "Alain Caffi", "linkedin": "https://fr.linkedin.com/in/alain-caffi-1ab51112" }
+ ],
+ "status": "exit",
+ "activityDescription": "Fleex est un lecteur vidéo et une plateforme en ligne qui permettent d'apprendre l'anglais (et d'autres langues) en regardant des films et séries TV grâce à des sous-titres intelligents et évolutifs adaptés au niveau de l'apprenant.",
+ "statusDetails": "Fleex a été racheté par Reverso (Softissimo) en juillet 2016, après une prise de participation minoritaire de 20 % de Reverso en juillet 2015 ; à l'époque, le service revendiquait plus de 200 000 utilisateurs inscrits. Le site fleex.tv est toujours en ligne aujourd'hui, exploité par Reverso, qui a intégré la technologie de sous-titrage intelligent à son offre d'apprentissage des langues.",
+ "acquirer": "Reverso (Softissimo)",
+ "website": "https://fleex.tv/",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "http://franceclusters.fr/2013/03/22/le-camping-saison-3-pour-des-startups-accelerees/",
+   "titre": "Le Camping saison 3 : pour des startups « accélérées » !",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.clubic.com/pro/entrepreneur-et-creation-entreprise/actualite-527391-camping-bilan.html",
+   "titre": "Les start-up du Camping saison 3 ont terminé leur incubation",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/en/2013/07/fleex-english-learning-game-of-thrones/?lang=en",
+   "titre": "Want to learn English watching Game of Thrones? Fleex's new video player is the solution.",
+   "annee": "2013",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/en/2013/03/currently-raising-a-round-of-funding-fleexs-video-language-learning-startup-rolls-out-a-premium-service/",
+   "titre": "Currently raising a round of funding, Fleex's video Language-learning startup rolls out a premium service",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.fusacq.com/buzz/2a-capital-a-accompagne-reverso-dans-l-acquisition-de-la-start-up-fleex-a121879_fr_",
+   "titre": "2A CAPITAL a accompagné REVERSO dans l'acquisition de la start-up FLEEX",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.2acapital.com/en/operations/acquisition-of-fleex-by-reverso/",
+   "titre": "Acquisition of Fleex by Reverso",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Acquisition/Reverso-apprend-une-nouvelle-langue-226442",
+   "titre": "Reverso apprend une nouvelle langue",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://blog.google/outreach-initiatives/entrepreneurs/supporting-entrepreneurship-in-france",
+   "titre": "Supporting entrepreneurship in France at Le Camping",
+   "annee": "2012",
+   "soutient": ["cohort"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "L'Internet Archive (web.archive.org) était inaccessible depuis cet environnement pendant la vérification (échecs systématiques de WebFetch) : impossible de confirmer via captures d'écran archivées l'historique exact du site fleex.tv entre 2012 et 2016, ni de vérifier une éventuelle page d'équipe archivée listant les trois fondateurs ensemble.",
+  "La page LinkedIn entreprise 'fleexhq' (fr.linkedin.com/company/fleexhq) correspond en réalité à une société homonyme sans rapport, fondée en 2021 et spécialisée dans l'équipement du télétravail (Paris) — ce n'est PAS la page de l'ex-startup NUMA. Aucune page LinkedIn entreprise fiable n'a été trouvée pour le Fleex de 2012 (probablement fusionnée/retirée après le rachat par Reverso).",
+  "Le montant de la transaction Reverso/Fleex n'a pas été rendu public.",
+  "Le rôle exact d'Alain Caffi (co-fondateur initial en 2012, devenu ensuite fondateur/associé chez Ventech) au moment du passage par Le Camping n'est confirmé que par des sources secondaires (agrégateurs) ; aucune source primaire (site Le Camping d'époque) ne le liste, faute d'accès à l'archive."
+ ],
+ "summary": "Fleex (saison 3 du Camping/NUMA, 2012-2013) était un lecteur vidéo/plateforme de sous-titres intelligents pour apprendre l'anglais avec des films et séries. Le nom et la saison sont confirmés par plusieurs sources de presse d'époque (Rude Baguette, franceclusters, Clubic) citant Fleex parmi les 12 startups de la saison 3. La liste des fondateurs doit être corrigée : outre Guillaume Dupuy et Alexandre Point, un troisième cofondateur, Alain Caffi (aujourd'hui fondateur/associé chez Ventech), est mentionné par plusieurs sources concordantes. Le statut doit être corrigé de 'stopped' à 'exit' : Fleex a été racheté par Reverso (Softissimo) en juillet 2016 après une prise de participation minoritaire de 20 % en juillet 2015 (confirmé par le conseil de la transaction 2A Capital et par CFNews) ; le site fleex.tv est toujours en ligne aujourd'hui sous l'exploitation de Reverso. L'accès à web.archive.org a échoué systématiquement dans cet environnement, ce qui limite la vérification par capture d'archive, mais la convergence de plusieurs sources de presse indépendantes (2016) et la continuité du site actuel suffisent à établir le statut 'exit' avec un niveau de confiance élevé."
+}

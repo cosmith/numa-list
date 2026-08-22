@@ -1,0 +1,103 @@
+{
+ "id": "s3-poutsch",
+ "name": "Poutsch",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": ["Voice", "Voice Polls"],
+   "preuves": [
+    "https://www.frenchweb.fr/bon-app-lapplication-de-sondage-poutsch-est-morte-voici-voice/152104",
+    "https://thenextweb.com/news/polling-app-poutsch-relaunches-voice-name-can-actually-pronounce-spell",
+    "https://techcrunch.com/2014/12/08/voice-polls-becomes-an-efficient-platform-for-market-research-polls/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Plateforme de sondage non retrouvée comme activité actuelle.",
+   "apres": "Poutsch (rebaptisé Voice en avril 2014 puis Voice Polls fin 2014) a arrêté son activité après son pivot new-yorkais ; les domaines poutsch.com et voicepolls.com sont hors ligne et les trois cofondateurs sont depuis passés à d'autres projets (Votebox, Reflaunt, White Star Capital pour Félix Winckler). Aucune preuve d'acquisition n'a été trouvée.",
+   "preuves": [
+    "https://www.frenchweb.fr/bon-app-lapplication-de-sondage-poutsch-est-morte-voici-voice/152104",
+    "https://whitestarcapital.com/team/felix-winckler/",
+    "https://www.crunchbase.com/person/felix-winckler"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Félix Winckler", "linkedin": "https://www.linkedin.com/in/felix-winckler-b216402" },
+  { "name": "Étienne Adriaenssen", "linkedin": "https://www.linkedin.com/in/etienneadriaenssen/" },
+  { "name": "Melchior Schöller" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Poutsch est un outil web et mobile de social polling qui permet à ses utilisateurs de poster une question sur n'importe quel sujet et d'obtenir des réponses de la communauté, avant de pivoter sous les noms Voice puis Voice Polls vers un outil d'études de marché par sondages rémunérés.",
+ "statusDetails": "Poutsch (rebaptisé Voice en avril 2014 puis Voice Polls fin 2014) a arrêté son activité après son pivot new-yorkais ; les domaines poutsch.com et voicepolls.com sont hors ligne et les trois cofondateurs sont depuis passés à d'autres projets (Votebox, Reflaunt, White Star Capital pour Félix Winckler). Aucune preuve d'acquisition n'a été trouvée.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1000692-les-12-start-up-nominees-pour-la-troisieme-session-du-camping-sont/",
+   "titre": "Les 12 start-up nominées pour la troisième session du Camping sont...",
+   "annee": "2012",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2013/04/30/poutsch/",
+   "titre": "Poutsch Is An Opinion-Gathering Platform For Tracking What The World Thinks",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://technical.ly/uncategorized/poutsch-paris-brooklyn/",
+   "titre": "Poutsch: 4 reasons this social polling startup left Paris for Brooklyn",
+   "annee": "2013",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/bon-app-lapplication-de-sondage-poutsch-est-morte-voici-voice/152104",
+   "titre": "[Bon app'] L'application de sondage Poutsch est morte, voici Voice !",
+   "annee": "2014",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://thenextweb.com/news/polling-app-poutsch-relaunches-voice-name-can-actually-pronounce-spell",
+   "titre": "Polling App Poutsch Relaunches as Voice",
+   "annee": "2014",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://techcrunch.com/2014/12/08/voice-polls-becomes-an-efficient-platform-for-market-research-polls/",
+   "titre": "Voice Polls Becomes An Efficient Platform For Market Research Polls",
+   "annee": "2014",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.societe.com/societe/poutsch-corp-813003241.html",
+   "titre": "POUTSCH CORP (PH1A NEW YORK)",
+   "annee": "2015",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://whitestarcapital.com/team/felix-winckler/",
+   "titre": "Felix Winckler - Team - White Star Capital",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/poutsch",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a été retrouvé pour Melchior Schöller malgré plusieurs recherches (Twitter/GitHub/Quora/about.me/Crunchbase oui, LinkedIn non).",
+  "La date exacte et la cause précise de l'arrêt définitif de Voice Polls (après fin 2014) n'ont pas été documentées par une source datée ; seule l'absence de traces après 2014-2015 et la reconversion des trois fondateurs vers d'autres projets le suggèrent.",
+  "Une rumeur de synthèse IA (WebSearch) a suggéré un rachat par Google, mais aucune source primaire ne le confirme ; ceci semble être une confusion avec Polar (rachetée par Google en 2014), un concurrent direct de Voice Polls. Cette piste a été explicitement écartée.",
+  "Impossible de vérifier une capture Internet Archive de poutsch.com : web.archive.org n'était pas accessible via WebFetch dans cet environnement (erreur 'unable to fetch'); voicepolls.com ne résout plus (DNS) et poutsch.com renvoie une 503."
+ ],
+ "summary": "Poutsch (saison 3 du Camping, 2012) est confirmé comme un service de social polling fondé par Félix Winckler, Étienne Adriaenssen et Melchior Schöller. La fiche existante était globalement correcte mais omettait le pivot documenté : Poutsch a été rebaptisé Voice (avril 2014) puis Voice Polls (fin 2014) avant de cesser toute activité visible ; les fondateurs ont depuis rejoint d'autres projets (Votebox, Reflaunt, White Star Capital). Aucune acquisition confirmée. Statut 'stopped' maintenu, formerNamesOrPivots et statusDetails corrigés, LinkedIn ajouté pour deux des trois fondateurs."
+}
