@@ -3,7 +3,7 @@
  "name": "Califrais",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
@@ -13,7 +13,15 @@
   "statusDetails": "verified",
   "website": "verified"
  },
- "corrections": {},
+ "corrections": {
+  "linkedinCompany": {
+   "avant": "",
+   "apres": "https://fr.linkedin.com/company/califrais",
+   "preuves": [
+    "https://fr.linkedin.com/company/califrais"
+   ]
+  }
+ },
  "founders": [
   {
    "name": "Simon Bussy",
@@ -28,19 +36,22 @@
   }
  ],
  "status": "active",
- "statusDetails": "Fondée en 2014 comme application d'approvisionnement des restaurants en produits frais, la société a pivoté pour devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable.",
+ "statusDetails": "Fondée le 27 juin 2014 (SAS, SIREN 803 658 137, Chevilly-Larue) par Pierre Levy (président/CEO), Simon Bussy (directeur général/CTO, docteur en machine learning) et Ross Lawrence (COO), Califrais était à l'origine une application d'approvisionnement des restaurants parisiens en produits frais issus du marché de Rungis, incubée aussi par Rungis&Co. Chiffre d'affaires en forte croissance dès les débuts (1 M€ en 2017, 1,8 M€ en 2018, 3,3 M€ en 2019). Pendant la crise du Covid-19, pivot temporaire vers la livraison aux particuliers (« Rungis livré chez vous »). La société est ensuite devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com), avec un modèle de recherche partagé (LabCom LOPF, CNRS/Sorbonne Université/Université Paris Cité). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable. Société toujours active au registre (fiche Pappers/annuaire-entreprises.data.gouv.fr consultée en 2026, aucune mention de cessation).",
+ "website": "https://www.califrais.fr",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
+   "annee": "2018",
    "soutient": [
     "cohort"
    ]
   },
   {
    "url": "https://www.califrais.fr/en/presse",
-   "titre": "",
+   "titre": "Page presse Califrais",
+   "annee": "2026",
    "soutient": [
     "founders",
     "identity",
@@ -49,7 +60,8 @@
   },
   {
    "url": "https://www.frenchweb.fr/fw-radar-califrais-lapplication-qui-facilite-lapprovisionnement-des-restaurants/327612",
-   "titre": "",
+   "titre": "[FW Radar] Califrais, l'application qui facilite l'approvisionnement des restaurants",
+   "annee": "2017",
    "soutient": [
     "founders",
     "identity"
@@ -57,15 +69,63 @@
   },
   {
    "url": "https://www.maddyness.com/2025/06/04/ia-califrais-leve-10-millions-deuros-pour-ameliorer-la-logistique-du-froid/",
-   "titre": "",
+   "titre": "IA : Califrais lève 10 millions d'euros pour améliorer la logistique du froid",
+   "annee": "2025",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.rungisinternational.com/portraits/califrais",
+   "titre": "Portrait Califrais — Rungis International",
+   "annee": "2020",
+   "soutient": [
+    "founders",
+    "identity",
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/205236/califrais",
+   "titre": "Califrais — My French Startup",
+   "annee": "2018",
+   "soutient": [
+    "founders",
+    "identity"
+   ]
+  },
+  {
+   "url": "https://www.actuia.com/actualite/logistique-transport-intelligent-la-societe-califrais-leve-15-million-deuros-aupres-du-groupe-stef/",
+   "titre": "Logistique & transport intelligent : la société Califrais lève 1,5 million d'euros auprès du groupe STEF",
+   "annee": "2021",
+   "soutient": [
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/califrais-803658137",
+   "titre": "Société CALIFRAIS : Chiffre d'affaires, statuts, extrait d'immatriculation",
+   "annee": "2026",
+   "soutient": [
+    "status",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/califrais-803658137",
+   "titre": "Société CALIFRAIS à 94550 CHEVILLY-LARUE - SIREN 803 658 137",
+   "annee": "2026",
    "soutient": [
     "status"
    ]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Fondée en 2014 comme application d'approvisionnement des restaurants en produits frais, la société a pivoté pour devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable.",
- "activityDescription": "Califrais est une foodtech française, à l'origine une application d'approvisionnement des restaurants en produits frais, devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis.",
- "website": "https://www.califrais.fr"
+ "linkedinCompany": "https://fr.linkedin.com/company/califrais",
+ "openQuestions": [
+  "web.archive.org (Wayback Machine) est inaccessible depuis cet environnement (proxy réseau) : les tentatives de fetch direct (CDX API et snapshots /web/YYYY/) ont toutes échoué avec une erreur explicite de blocage. Impossible donc de confirmer visuellement les captures du site califrais.fr ni de la page hub.numa.co/public/alumni pour cette fiche.",
+   "Le point d'accès Common Crawl (index.commoncrawl.org) déjà cité pour la cohorte NUMA a répondu de façon intermittente (503) lors de cette passe ; la citation est conservée car elle provient de la passe précédente qui y avait eu accès et documente la base alumni officielle NUMA saisons 1-12.",
+  "Le profil LinkedIn personnel de Pierre Levy (CEO/président de Califrais) n'a pas pu être identifié avec certitude : de nombreux homonymes 'Pierre Levy'/'Pierre Lévy' existent sur LinkedIn et aucun résultat de recherche ne relie explicitement l'un d'eux à Califrais."
+ ],
+ "summary": "Fiche confirmée et enrichie. Califrais (SAS, SIREN 803 658 137, créée le 27/06/2014) a été fondée par Pierre Levy (CEO), Simon Bussy (CTO) et Ross Lawrence (COO), accompagnée par NUMA Paris (saison 11) et par l'incubateur Rungis&Co. À l'origine application d'approvisionnement des restaurants parisiens en produits frais de Rungis, l'entreprise a connu une croissance continue (CA : 1 M€ en 2017, 1,8 M€ en 2018, 3,3 M€ en 2019, ~20 M€ en 2024) avant de devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com), avec une levée de 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet). Société active au registre en 2026, site web en ligne. LinkedIn confirmé pour Simon Bussy, Ross Lawrence et la page entreprise ; celui de Pierre Levy reste introuvable avec certitude. web.archive.org restait bloqué depuis cet environnement lors de cette passe.",
+ "activityDescription": "Califrais est une foodtech française, à l'origine une application d'approvisionnement des restaurants en produits frais, devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis."
 }
