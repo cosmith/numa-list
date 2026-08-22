@@ -1,0 +1,108 @@
+{
+ "id": "s9-airkit",
+ "name": "Airkit",
+ "season": 9,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "status": {
+   "avant": "active",
+   "apres": "stopped",
+   "preuves": [
+    "https://r.jina.ai/https://www.myfrenchstartup.com/fr/startup-france/181410/airkit",
+    "https://www.societe.com/societe/airkit-823501291.html",
+    "https://r.jina.ai/https://duckduckgo.com/html/?q=%22Marguerite+Deschamps%22+Airkit+linkedin"
+   ]
+  },
+  "statusDetails": {
+   "avant": "La société AIRKIT reste immatriculée; son objet a été étendu en 2024 à la commercialisation et livraison de produits alimentaires, sans preuve de continuité du service touristique initial.",
+   "apres": "Le service de voyage Airkit a cessé son activité peu après le programme NUMA : la co-fondatrice Marguerite Deschamps indique elle-même sur LinkedIn une période « Co-founder Airkit mars 2016 - juin 2017 », et l'annuaire MyFrenchStartup signale la société comme radiée à partir de juillet 2021. Le registre du commerce confirme une procédure de dissolution de la SAS AIRKIT du 5 juillet 2021 au 4 juillet 2024. Depuis octobre 2024, la structure juridique (même SIREN) a changé de dirigeant (Jérôme Boillot remplace Nicolas Deburaux) et d'objet social, pour la commercialisation et la livraison de produits alimentaires — une activité sans lien apparent avec le projet touristique d'origine ; il s'agit vraisemblablement d'une reprise de la coquille juridique par un tiers, pas d'une continuation du service Airkit. Le site historique airkit.fr est aujourd'hui hors ligne (erreur 404). Les deux fondateurs identifiés (Nicolas Deburaux et Marguerite Deschamps/Vercken) ont depuis lancé une autre entreprise, Eat5 (snacking en entreprise), sans lien connu avec la nouvelle activité alimentaire de la structure AIRKIT.",
+   "preuves": [
+    "https://r.jina.ai/https://www.myfrenchstartup.com/fr/startup-france/181410/airkit",
+    "https://www.societe.com/societe/airkit-823501291.html",
+    "https://r.jina.ai/https://duckduckgo.com/html/?q=%22Eat5%22+Deburaux+startup+alimentaire"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": null,
+   "preuves": [
+    "https://r.jina.ai/https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+    "https://r.jina.ai/http://airkit.fr/"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Nicolas Deburaux",
+   "linkedin": "https://fr.linkedin.com/in/nicolas-deburaux-84a14752"
+  },
+  {
+   "name": "Marguerite Deschamps",
+   "linkedin": "https://fr.linkedin.com/in/marguerite-vercken-25035865/en"
+  },
+  {
+   "name": "Charles de Pelleport"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Airkit est une plateforme de voyage qui permet de réserver des activités touristiques sélectionnées par des experts locaux et de se connecter à des guides sur place, pour « voyager comme un local ».",
+ "statusDetails": "Le service de voyage Airkit a cessé son activité peu après le programme NUMA : la co-fondatrice Marguerite Deschamps indique elle-même sur LinkedIn une période « Co-founder Airkit mars 2016 - juin 2017 », et l'annuaire MyFrenchStartup signale la société comme radiée à partir de juillet 2021. Le registre du commerce confirme une procédure de dissolution de la SAS AIRKIT du 5 juillet 2021 au 4 juillet 2024. Depuis octobre 2024, la structure juridique (même SIREN 823501291) a changé de dirigeant (Jérôme Boillot remplace Nicolas Deburaux) et d'objet social, pour la commercialisation et la livraison de produits alimentaires — une activité sans lien apparent avec le projet touristique d'origine ; il s'agit vraisemblablement de la reprise d'une coquille juridique par un tiers, pas d'une continuation du service Airkit. Le site historique airkit.fr est aujourd'hui hors ligne (erreur 404). Les fondateurs identifiés (Nicolas Deburaux et Marguerite Deschamps, devenue Marguerite Vercken) ont depuis créé une autre société, Eat5 (snacking en entreprise), sans lien connu avec la nouvelle activité alimentaire portée par la structure AIRKIT.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+   "titre": "NUMA DemoDay Season 9: meet our new startups",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/181410/airkit",
+   "titre": "Startup AIRKIT — Ensemble, réservons les meilleures activités de votre séjour",
+   "annee": "n.d. (donnée mise à jour a posteriori, mentionne une radiation en 2021)",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/airkit-823501291.html",
+   "titre": "AIRKIT — fiche société (SIREN 823501291)",
+   "annee": "2026 (fiche consultée)",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.crunchbase.com/person/nicolas-deburaux",
+   "titre": "Nicolas Deburaux — Crunchbase Person Profile (cofounder Airkit & Eat5)",
+   "annee": "n.d.",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.f6s.com/company/airkit",
+   "titre": "Airkit | F6S",
+   "annee": "n.d.",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.f6s.com/member/charlesdepelleport2",
+   "titre": "Charles DE PELLEPORT | Airkit | F6S Member Profile",
+   "annee": "n.d.",
+   "soutient": ["founders"]
+  }
+ ],
+ "linkedinCompany": null,
+ "openQuestions": [
+  "web.archive.org et archive.ph étaient inaccessibles depuis cet environnement (blocage réseau/politique constaté sur les deux domaines, y compris via proxy tiers) : impossible de confirmer par une capture d'écran d'époque le contenu exact du site airkit.fr ni de dater précisément sa disparition ; à réessayer depuis un environnement avec accès à la Wayback Machine.",
+  "Le profil LinkedIn de Charles de Pelleport n'a pas pu être confirmé avec certitude : un profil « Charles de Pelleport, Head of Sales chez Patchwork » (fr.linkedin.com/in/charles-de-pelleport-98910550) correspond au nom mais ne mentionne pas Airkit dans les extraits accessibles (profil partiellement masqué).",
+  "Aucune page LinkedIn d'entreprise (linkedin.com/company/...) n'a été retrouvée pour Airkit.",
+  "Le lien exact entre la nouvelle activité alimentaire de la structure AIRKIT (depuis 2024, sous Jérôme Boillot) et les fondateurs d'origine n'est pas documenté : il pourrait s'agir d'une simple revente de coquille juridique sans rapport avec Nicolas Deburaux, Marguerite Deschamps ou Charles de Pelleport.",
+  "Recherche web (WebSearch) indisponible durant cette vérification (quota de session épuisé) ; l'essentiel de la recherche a été effectué via WebFetch sur des pages de résultats DuckDuckGo relayées par r.jina.ai, méthode moins exhaustive qu'une recherche web classique."
+ ],
+ "summary": "Airkit (saison 9, 2016) était une plateforme de voyage/activités touristiques cofondée par Nicolas Deburaux, Marguerite Deschamps et Charles de Pelleport (cohorte et fondateurs confirmés par le Medium NUMA, MyFrenchStartup, Crunchbase et F6S). Contrairement à la fiche actuelle qui indique un statut « active », les preuves rassemblées montrent que le service a cessé rapidement (Marguerite Deschamps ne mentionne Airkit que de mars 2016 à juin 2017 sur LinkedIn) et que la société a connu une procédure de dissolution de 2021 à 2024 ; la structure juridique n'a redémarré en 2024 que sous une direction et un objet social totalement différents (produits alimentaires), sans lien démontré avec le projet d'origine. Le statut est donc corrigé en « stopped ». Aucune acquisition n'a été trouvée. Le site historique (airkit.fr) est hors ligne. LinkedIn confirmé pour 2 fondateurs sur 3 ; accès à web.archive.org bloqué dans cet environnement."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "s8-workiz",
+  "name": "Workiz",
+  "season": 8,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "corrected",
+    "status": "unverifiable",
+    "statusDetails": "corrected",
+    "website": "verified"
+  },
+  "corrections": {
+    "founders": {
+      "avant": [
+        { "name": "François Marie" },
+        { "name": "Julien Thiebault" }
+      ],
+      "apres": [
+        { "name": "François Marie", "linkedin": "https://fr.linkedin.com/in/francois-marie-89997041" },
+        { "name": "Julien Thiebault" }
+      ],
+      "preuves": [
+        "https://www.linkedin.com/pulse/portrait-entrepreneur-fran%C3%A7ois-marie-startup-workiz-romain-yvrard-"
+      ]
+    },
+    "statusDetails": {
+      "avant": "Projet de la cohorte non retrouvé avec certitude; homonyme international actif.",
+      "apres": "Startup française identifiée avec certitude (interview de François Marie, septembre 2016) mais aucune trace d'activité, de site web ni de presse après 2016; probablement arrêtée. Ne pas confondre avec le SaaS américain homonyme Workiz (field service management, San Diego).",
+      "preuves": [
+        "https://www.linkedin.com/pulse/portrait-entrepreneur-fran%C3%A7ois-marie-startup-workiz-romain-yvrard-",
+        "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+      ]
+    },
+    "activityDescription": {
+      "avant": null,
+      "apres": "Workiz est une plateforme qui met en relation les entreprises et des étudiants pour des missions ponctuelles, stages, CDD ou CDI, en leur soumettant via une interface conversationnelle des candidats correspondant à leurs besoins.",
+      "preuves": [
+        "https://www.linkedin.com/pulse/portrait-entrepreneur-fran%C3%A7ois-marie-startup-workiz-romain-yvrard-",
+        "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "François Marie", "linkedin": "https://fr.linkedin.com/in/francois-marie-89997041" },
+    { "name": "Julien Thiebault" }
+  ],
+  "status": "stopped",
+  "activityDescription": "Workiz est une plateforme qui met en relation les entreprises et des étudiants pour des missions ponctuelles, stages, CDD ou CDI, en leur soumettant via une interface conversationnelle des candidats correspondant à leurs besoins.",
+  "statusDetails": "Startup française identifiée avec certitude (interview de François Marie, septembre 2016) mais aucune trace d'activité, de site web ni de presse après 2016; probablement arrêtée. Ne pas confondre avec le SaaS américain homonyme Workiz (field service management, San Diego).",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+      "titre": "NUMA dévoile les startups de sa 8ème saison",
+      "annee": "2016",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/portrait-entrepreneur-fran%C3%A7ois-marie-startup-workiz-romain-yvrard-",
+      "titre": "Portrait entrepreneur : François Marie, Workiz",
+      "annee": "2016",
+      "soutient": ["identity", "founders"]
+    }
+  ],
+  "openQuestions": [
+    "Le profil LinkedIn de Julien Thiebault (second cofondateur, cité par Wellfound dans le fact-check précédent) n'a pas pu être retrouvé ni confirmé lors de cette session : le moteur de recherche web était indisponible (quota épuisé) et wellfound.com/company/workiz/people a répondu 403 Forbidden à chaque tentative.",
+    "Impossible de consulter Internet Archive / web.archive.org depuis cet environnement (blocage explicite de l'outil WebFetch sur ce domaine) : aucune capture d'archive du site de Workiz (nom de domaine non identifié) n'a pu être examinée directement, seule l'API archive.org/wayback/available (métadonnées seules) était accessible.",
+    "Le nom de domaine exact utilisé par le Workiz français (2015-2016) n'a pas été identifié ; le nom 'workiz.fr' ne résout plus (DNS introuvable) et 'workiz.com/.io/.co' appartiennent au SaaS américain homonyme.",
+    "Aucune preuve directe d'arrêt (liquidation, communiqué, article de fermeture) : le statut 'stopped' repose sur l'absence totale de trace après 2016, pas sur une source confirmant explicitement la cessation d'activité."
+  ],
+  "summary": "Le Workiz de la saison 8 de NUMA (2015-2016) est confirmé comme une startup française distincte du SaaS américain homonyme : plateforme de mise en relation entre entreprises et étudiants pour missions, stages et CDD/CDI, cofondée par François Marie (LinkedIn retrouvé) et Julien Thiebault (non reconfirmé cette session). Aucune trace d'activité après l'article de septembre 2016 ni de site web actif n'a été trouvée ; le statut 'stopped' à faible/moyenne confiance est maintenu mais reste fondé sur l'absence de preuve plutôt que sur une preuve positive d'arrêt. Recherches limitées par l'indisponibilité du moteur de recherche web (quota épuisé) et le blocage de web.archive.org dans cet environnement."
+}
