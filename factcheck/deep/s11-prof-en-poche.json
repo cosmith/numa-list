@@ -3,73 +3,102 @@
  "name": "Prof en Poche",
  "season": 11,
  "checkedAt": "2026-08-22",
- "verdict": "verified",
+ "verdict": "corrected",
  "fields": {
   "season": "verified",
   "name": "verified",
   "formerNamesOrPivots": "verified",
-  "founders": "verified",
+  "founders": "corrected",
   "status": "verified",
   "statusDetails": "verified",
   "website": "verified"
  },
- "corrections": {},
- "founders": [
-  {
-   "name": "Vincent Escudé"
-  },
-  {
-   "name": "Paul Escudé"
-  },
-  {
-   "name": "Samuel Imbert"
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Vincent Escudé" },
+    { "name": "Paul Escudé" },
+    { "name": "Samuel Imbert" }
+   ],
+   "apres": [
+    { "name": "Vincent Escudé", "linkedin": "https://www.linkedin.com/in/vincent-escud%C3%A9-382869108/" },
+    { "name": "Paul Escudé", "linkedin": "https://fr.linkedin.com/in/paul-escude" },
+    { "name": "Samuel Imbert", "linkedin": "https://www.linkedin.com/in/samuel-imbert-81462985/" }
+   ],
+   "preuves": [
+    "https://www.linkedin.com/in/vincent-escud%C3%A9-382869108/",
+    "https://fr.linkedin.com/in/paul-escude",
+    "https://www.linkedin.com/in/samuel-imbert-81462985/",
+    "https://presselib.com/il-a-cree-une-application-mobile-qui-permet-aux-eleves-de-tchater-avec-des-professeurs-et-de-les-guider-dans-la-comprehension-dune-lecon-ou-dun-exercice/"
+   ]
   }
+ },
+ "founders": [
+  { "name": "Vincent Escudé", "linkedin": "https://www.linkedin.com/in/vincent-escud%C3%A9-382869108/" },
+  { "name": "Paul Escudé", "linkedin": "https://fr.linkedin.com/in/paul-escude" },
+  { "name": "Samuel Imbert", "linkedin": "https://www.linkedin.com/in/samuel-imbert-81462985/" }
  ],
  "status": "active",
- "statusDetails": "Application d'aide aux devoirs par chatbot IA, toujours active : suite de produits élargie (Mathia, Pieber, Kidaia, Verdinum, Cogibou), revendique 600 000+ apprenants depuis 2015. L'entité légale VMPS CORPORATION (SIREN 809744907) est active.",
+ "activityDescription": "Prof en Poche est une application d'aide aux devoirs pour collégiens et lycéens, fondée sur un chatbot mêlant intelligence humaine et intelligence artificielle qui guide les élèves dans la compréhension d'une leçon ou d'un exercice.",
+ "statusDetails": "Toujours active en 2026 sous le nom Prof en Poche (siège à Pau/Bayonne, bureau à Paris) : la société revendique plus de 600 000 apprenants depuis 2015 et a élargi sa gamme à d'autres produits d'EdTech/IA (Mathia, co-construit avec le ministère de l'Éducation nationale pour le cycle 2, Kidaia, Pieber, Verdinum, Cogibou). Le site officiel profenpoche.com est en ligne et actif, la page LinkedIn de l'entreprise (11-50 salariés) confirme l'activité continue, et l'entité légale VMPS CORPORATION (SIREN 809744907) est active au registre.",
+ "acquirer": "",
+ "website": "https://profenpoche.com",
  "archiveEvidence": [],
  "pressEvidence": [
   {
    "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
    "titre": "Base alumni officielle de NUMA (hub.numa.co/public/alumni), capture Common Crawl du 16 octobre 2018 — couvre les saisons 1 à 12 et la cohorte finale non numérotée « season2018 »",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2018",
+   "soutient": ["cohort"]
   },
   {
    "url": "https://presselib.com/il-a-cree-une-application-mobile-qui-permet-aux-eleves-de-tchater-avec-des-professeurs-et-de-les-guider-dans-la-comprehension-dune-lecon-ou-dun-exercice/",
-   "titre": "",
-   "soutient": [
-    "cohort",
-    "founders"
-   ]
+   "titre": "Coup de cœur - Vincent Escudé et Prof en Poche",
+   "annee": "2017",
+   "soutient": ["founders", "identity"]
   },
   {
    "url": "https://www.myfrenchstartup.com/fr/startup-france/186195/prof_en_poche",
    "titre": "Prof en Poche, saison 11 de NUMA Paris (avril-septembre 2017)",
-   "soutient": [
-    "cohort"
-   ]
+   "annee": "2017",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/05/10/appliness-prof-en-poche-graines-de-parents-deserve-her-mindful-attitude/",
+   "titre": "4 apps à découvrir cette semaine : Prof en Poche, Graines de Parents, Deserve Her et Mindful Attitude",
+   "annee": "2017",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://presselib.com/article/depuis-pau-prof-en-poche-joue-les-bons-eleves",
+   "titre": "Depuis Pau, Prof en Poche joue les bons élèves !",
+   "annee": "2018",
+   "soutient": ["identity", "status"]
   },
   {
    "url": "https://profenpoche.com",
-   "titre": "",
-   "soutient": [
-    "status",
-    "identity"
-   ]
+   "titre": "Site officiel Prof en Poche (2026)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://fr.linkedin.com/company/prof-en-poche",
+   "titre": "Page entreprise LinkedIn de Prof en Poche",
+   "annee": "2026",
+   "soutient": ["status"]
   },
   {
    "url": "https://www.societe.com/societe/vmps-corporation-809744907.html",
-   "titre": "",
-   "soutient": [
-    "status"
-   ]
+   "titre": "Fiche société.com VMPS CORPORATION (SIREN 809744907)",
+   "annee": "2026",
+   "soutient": ["status"]
   }
  ],
- "linkedinCompany": "",
- "openQuestions": [],
- "summary": "Application d'aide aux devoirs par chatbot IA, toujours active : suite de produits élargie (Mathia, Pieber, Kidaia, Verdinum, Cogibou), revendique 600 000+ apprenants depuis 2015. L'entité légale VMPS CORPORATION (SIREN 809744907) est active.",
- "activityDescription": "Prof en Poche est une application d'aide aux devoirs pour collégiens et lycéens, fondée sur un chatbot IA qui guide les élèves dans la compréhension d'une leçon ou d'un exercice.",
- "website": "https://profenpoche.com"
+ "linkedinCompany": "https://fr.linkedin.com/company/prof-en-poche",
+ "openQuestions": [
+  "web.archive.org (Wayback Machine, à la fois les snapshots directs et l'API CDX) était inaccessible depuis cet environnement (bloqué par le proxy réseau) pendant cette passe de vérification : impossible de confirmer directement via une capture d'époque le site profenpoche.com de 2017 ni la page hub.numa.co/public/alumni pour la saison 11 — la confirmation de cohorte s'appuie donc sur la capture Common Crawl déjà citée et sur la source de presse myfrenchstartup.com (« saison 11 de NUMA Paris, avril-septembre 2017 »).",
+  "Aucun article de presse d'époque trouvé ne mentionne explicitement NUMA en lien avec Prof en Poche (les articles Maddyness/PresseLib de 2017 ne citent pas l'accélérateur) ; la cohorte saison 11 repose sur myfrenchstartup.com et la base alumni NUMA (Common Crawl), non sur la presse contemporaine généraliste.",
+  "Aucune trace d'acquisition ou d'exit : le statut « active » n'est pas remis en cause, la société ayant simplement élargi son offre produit sous des marques dérivées (Mathia, Kidaia, Pieber, Verdinum, Cogibou) qui restent au sein de la même entité (VMPS CORPORATION)."
+ ],
+ "summary": "Prof en Poche (Vincent Escudé, Paul Escudé, Samuel Imbert), saison 11 de NUMA Paris (avril-septembre 2017), reste une entreprise active en 2026 : société EdTech/IA basée à Pau/Bayonne avec bureau à Paris, plus de 600 000 apprenants revendiqués depuis 2015, gamme élargie (Mathia, Kidaia, Pieber, Verdinum, Cogibou). Les trois profils LinkedIn des fondateurs et la page entreprise LinkedIn ont été retrouvés et ajoutés (absents du rapport initial). Le site officiel et la fiche société.com (VMPS CORPORATION, SIREN 809744907) confirment le statut actif. Aucune preuve d'acquisition. Point non tranché : web.archive.org était inaccessible depuis cet environnement pour cette passe, donc aucune capture directe d'époque n'a pu être consultée pour recouper la cohorte ou le site 2017."
 }
