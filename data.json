@@ -9121,10 +9121,12 @@
       "activityDescription": "Tationem est une startup indienne (Bangalore) de recherche et développement en analyse de texte, qui a conçu TexSIE, un outil d'analyse de sentiment basé sur son algorithme propriétaire SentiRank, pour aider les entreprises à exploiter leurs données textuelles non structurées."
     },
     {
-      "id": "s7-vocal-apps",
+      "id": "s7-smartly-ai",
       "season": 7,
-      "name": "Vocal Apps",
-      "formerNamesOrPivots": [],
+      "name": "Smartly.ai",
+      "formerNamesOrPivots": [
+        "Vocal Apps"
+      ],
       "founders": [
         {
           "name": "Hicham Tahiri"
@@ -9137,9 +9139,9 @@
         }
       ],
       "foundersPubliclyIdentified": true,
-      "status": "stopped",
+      "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Le site vocal-apps.com a répondu en HTTP 200 sur des captures Wayback allant d'août 2015 à mars 2023, mais le domaine ne résout plus du tout en 2026 (échec DNS confirmé), et aucune actualité, levée de fonds, acquisition, page LinkedIn d'entreprise ni profil LinkedIn de fondateur n'a pu être retrouvé : la piste s'arrête après 2023.",
+      "statusDetails": "Vocal Apps a été rebaptisée Smartly.ai et est toujours active en 2026 : site officiel smartly.ai en ligne (mentions « © 2026 »), gamme de produits élargie à l'IA conversationnelle d'entreprise (agents, workflows, documents AI, centre de contact IA), clients cités (BNP Paribas, Bank of Africa, BMCI, Saham Bank), recrutements actifs en 2026 et participation au GITEX Africa 2026. Société désormais basée à Casablanca et Paris (~19 salariés).",
       "sources": [
         {
           "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
@@ -9148,57 +9150,60 @@
           ]
         },
         {
-          "url": "https://www.annuaire-startups.pro/startup/vocal-apps/",
+          "url": "https://www.annuaire-startups.pro/smartly-ai/",
+          "title": "Smartly.ai (ex-Vocal Apps) : fiche société",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://smartly.ai",
+          "title": "Smartly.ai (site officiel)",
           "supports": [
             "status",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.linkedin.com/company/smartly-ai",
+          "title": "Smartly.ai — page entreprise LinkedIn",
+          "supports": [
+            "status",
+            "identity",
             "founders"
-          ]
+          ],
+          "accessedAt": "2026-08-22"
         },
         {
-          "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20150801",
+          "url": "https://fr.linkedin.com/in/hichamtahiri",
+          "title": "Hicham Tahiri — LinkedIn",
           "supports": [
-            "identity"
+            "founders"
           ],
-          "sourceType": "archive",
-          "accessedAt": "2026-08-22",
-          "title": "Capture Wayback disponible du 12 août 2015 (http://www.vocal-apps.com:80/, statut 200) — le site tournait déjà pendant la saison 7 du programme NUMA Sprint."
-        },
-        {
-          "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20180101",
-          "supports": [
-            "identity"
-          ],
-          "sourceType": "archive",
-          "accessedAt": "2026-08-22",
-          "title": "Capture Wayback du 28 janvier 2018 (statut 200) — le site restait en ligne plusieurs années après l'accélération."
-        },
-        {
-          "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20260101",
-          "supports": [
-            "identity"
-          ],
-          "sourceType": "archive",
-          "accessedAt": "2026-08-22",
-          "title": "La capture la plus récente retournée par l'API Wayback 'available' est datée du 16 mars 2023 (statut 200) ; aucune capture postérieure n'a été trouvée."
+          "accessedAt": "2026-08-22"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
-          "name": "verified",
-          "formerNamesOrPivots": "verified",
-          "founders": "unverifiable",
-          "status": "unverifiable",
+          "name": "corrected",
+          "formerNamesOrPivots": "corrected",
+          "founders": "verified",
+          "status": "corrected",
           "statusDetails": "corrected",
-          "website": "verified"
+          "website": "corrected"
         },
-        "evidenceCount": 4,
-        "auditFile": "factcheck/deep/s7-vocal-apps.json"
+        "evidenceCount": 5,
+        "auditFile": "factcheck/deep/s7-smartly-ai.json"
       },
-      "activityDescription": "Vocal Apps est une plateforme permettant de créer en quelques clics un assistant vocal pour objets connectés."
+      "activityDescription": "Smartly.ai (ex-Vocal Apps) est une entreprise franco-marocaine d'IA conversationnelle : chatbots, voicebots/callbots multilingues, extraction documentaire par IA et orchestration d'agents pour de grandes entreprises (banques, administrations).",
+      "website": "https://smartly.ai"
     },
     {
       "id": "s7-welcome-to-the-jungle",

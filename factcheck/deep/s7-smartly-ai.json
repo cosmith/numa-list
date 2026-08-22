@@ -1,0 +1,92 @@
+{
+ "id": "s7-smartly-ai",
+ "name": "Smartly.ai",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "corrected",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "name": {
+   "avant": "Vocal Apps",
+   "apres": "Smartly.ai",
+   "preuves": [
+    "https://www.annuaire-startups.pro/smartly-ai/",
+    "https://smartly.ai"
+   ]
+  },
+  "status": {
+   "avant": "stopped (domaine vocal-apps.com ne résolvait plus, aucune trace après mars 2023)",
+   "apres": "active : la société a été rebaptisée Smartly.ai et exploite aujourd'hui un site, des produits et une page LinkedIn d'entreprise actifs en 2026.",
+   "preuves": [
+    "https://smartly.ai",
+    "https://www.linkedin.com/company/smartly-ai"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Hicham Tahiri", "linkedin": "https://fr.linkedin.com/in/hichamtahiri" },
+  { "name": "Henri Chabrand" },
+  { "name": "Karim Lourci" }
+ ],
+ "status": "active",
+ "activityDescription": "Smartly.ai (ex-Vocal Apps) est une entreprise franco-marocaine d'IA conversationnelle : chatbots, voicebots/callbots multilingues, extraction documentaire par IA et orchestration d'agents pour de grandes entreprises (banques, administrations).",
+ "statusDetails": "Vocal Apps a été rebaptisée Smartly.ai et est toujours active en 2026 : site officiel smartly.ai en ligne (mentions « © 2026 »), gamme de produits élargie à l'IA conversationnelle d'entreprise (agents, workflows, documents AI, centre de contact IA), clients cités (BNP Paribas, Bank of Africa, BMCI, Saham Bank), recrutements actifs en 2026 et participation au GITEX Africa 2026. Société désormais basée à Casablanca et Paris (~19 salariés).",
+ "website": "https://smartly.ai",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20150801",
+   "montre": "Capture Wayback disponible du 12 août 2015 (http://www.vocal-apps.com:80/, statut 200) — le site tournait déjà pendant la saison 7 du programme NUMA Sprint."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=vocal-apps.com&timestamp=20180101",
+   "montre": "Capture Wayback du 28 janvier 2018 (statut 200) — le site restait en ligne plusieurs années après l'accélération, avant le rebranding en Smartly.ai."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/business/accelerateurs/2015/06/02/numa-sprint/",
+   "titre": "NUMA Sprint (ex-Le Camping) annonce l'arrivée de 22 startups françaises",
+   "annee": "2015",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.annuaire-startups.pro/smartly-ai/",
+   "titre": "Smartly.ai (ex-Vocal Apps) : fiche société",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://smartly.ai",
+   "titre": "Smartly.ai (site officiel)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/smartly-ai",
+   "titre": "Smartly.ai — page entreprise LinkedIn",
+   "annee": "2026",
+   "soutient": ["status", "identity", "founders"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/smartly-ai",
+ "openQuestions": [
+  "Karim Lourci : aucune URL LinkedIn personnelle fiable trouvée (seulement des agrégateurs tiers comme Crunchbase/RocketReach le citant comme cofondateur).",
+  "Henri Chabrand, troisième fondateur retenu dans la fiche d'origine (Vocal Apps), n'apparaît plus dans les sources actuelles sur Smartly.ai (annuaire-startups.pro, LinkedIn) ; il n'a toutefois pas non plus été contredit. Conservé par prudence comme cofondateur historique de Vocal Apps.",
+  "La numérotation des saisons NUMA Sprint (post-\"Le Camping\") reste un peu fluide selon les médias, mais deux sources indépendantes labellisent explicitement ce cohort \"Saison 7\" et le suivant \"Saison 8\", ce qui donne une confiance raisonnable dans le numéro de saison."
+ ],
+ "summary": "Corrige la fiche précédente (id s7-vocal-apps, statut 'stopped') : Vocal Apps, accélérée par NUMA Paris en saison 7 (mai-juin 2015), n'a pas disparu mais a été rebaptisée Smartly.ai. La société est aujourd'hui une entreprise franco-marocaine d'IA conversationnelle active en 2026 (site officiel à jour, produits élargis, clients grands comptes, recrutements actifs, présence au GITEX Africa 2026). Fondateurs confirmés : Hicham Tahiri (CEO) et Karim Lourci, avec Henri Chabrand conservé comme troisième cofondateur historique de la fiche d'origine, non contredit mais non recorroboré."
+}
