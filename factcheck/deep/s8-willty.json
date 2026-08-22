@@ -1,0 +1,97 @@
+{
+ "id": "s8-willty",
+ "name": "Willty",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Service non retrouvé comme activité actuelle.",
+   "apres": "La société exploitant Willty (Quantic Leads, SIRET 808 702 666) a été clôturée pour insuffisance d'actif en mai 2019 ; le nom de domaine willty.com est aujourd'hui à vendre (page GoDaddy) et les comptes Facebook/Twitter (@willtysport) sont inactifs depuis la période 2016-2017.",
+   "preuves": [
+    "https://www.myfrenchstartup.com/fr/startup-france/106654/willty",
+    "https://willty.com",
+    "http://archive.org/wayback/available?url=willty.com"
+   ]
+  },
+  "founders": {
+   "avant": [
+    { "name": "Felipe Faraggi" },
+    { "name": "Nathan Paucton" },
+    { "name": "Rémy Pillot" }
+   ],
+   "apres": [
+    { "name": "Felipe Faraggi", "linkedin": "https://fr.linkedin.com/pub/felipe-faraggi/25/a01/65a/fr" },
+    { "name": "Nathan Paucton", "linkedin": "https://fr.linkedin.com/in/nathanpaucton" },
+    { "name": "Rémy Pillot", "linkedin": "https://fr.linkedin.com/in/remypillot" }
+   ],
+   "preuves": [
+    "https://www.myfrenchstartup.com/fr/startup-france/106654/willty",
+    "https://www.bonjouridee.com/willty/",
+    "https://lespepitestech.com/startup-de-la-french-tech/willty"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Felipe Faraggi", "linkedin": "https://fr.linkedin.com/pub/felipe-faraggi/25/a01/65a/fr" },
+  { "name": "Nathan Paucton", "linkedin": "https://fr.linkedin.com/in/nathanpaucton" },
+  { "name": "Rémy Pillot", "linkedin": "https://fr.linkedin.com/in/remypillot" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Willty est une plateforme de fidélisation gamifiée pour les salles de sport et les coureurs, qui permet aux adhérents de cumuler des points à chaque visite ou activité et de les échanger contre des bons d'achat chez des enseignes partenaires.",
+ "statusDetails": "La société exploitant Willty (Quantic Leads, SIRET 808 702 666) a été clôturée pour insuffisance d'actif en mai 2019 ; le nom de domaine willty.com est aujourd'hui à vendre (page GoDaddy) et les comptes Facebook/Twitter (@willtysport) sont inactifs depuis la période 2016-2017.",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=willty.com",
+   "montre": "L'API Wayback Availability confirme l'existence d'un instantané du 3 mai 2016 (statut HTTP 200) pour willty.com, période contemporaine de la saison 8 NUMA, ainsi qu'un instantané encore plus récent (5 décembre 2025) montrant que le domaine est retombé sur une page de parking GoDaddy. NB : l'accès direct aux pages web.archive.org (rendu des instantanés) a été techniquement bloqué pour l'outil WebFetch dans cette session ; seule l'API JSON 'available' a pu être interrogée avec succès. Il n'a donc pas été possible de visualiser directement le contenu de la page archivée de 2016 ni les pages de cohorte lecamping.org/numa.co archivées."
+  },
+  {
+   "url": "https://willty.com",
+   "montre": "Le domaine willty.com redirige aujourd'hui (2026) vers une page 'à vendre' GoDaddy (forsale.godaddy.com/forsale/willty.com), confirmant que le site n'est plus exploité par l'entreprise."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les start-up de sa 8e promotion",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.bonjouridee.com/willty/",
+   "titre": "Willty",
+   "annee": "2016 (contenu original), republié 2022",
+   "soutient": ["founders", "identity", "cohort"]
+  },
+  {
+   "url": "https://lespepitestech.com/startup-de-la-french-tech/willty",
+   "titre": "WILLTY - Startup France French Tech Toulouse",
+   "annee": "2016",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/106654/willty",
+   "titre": "Startup WILLTY, le sponsor de votre activité sportive",
+   "annee": "annuaire, dernière mise à jour non datée, mentionne clôture mai 2019",
+   "soutient": ["founders", "status", "identity"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Un annuaire concurrent (annuaire-startups.pro/startup/willty, snippet vu via moteur de recherche uniquement, page principale inaccessible en fetch direct - 404) cite un 'Arnaud Bailly' à la place de Nathan Paucton parmi les fondateurs. Non corroboré par les 3 autres sources indépendantes (bonjouridee, lespepitestech, myfrenchstartup) qui s'accordent toutes sur Felipe Faraggi / Nathan Paucton / Rémy Pillot ; probable erreur de cet annuaire, mais mérite vérification si la page redevient accessible.",
+  "Le lien LinkedIn de Felipe Faraggi trouvé (format ancien 'pub/felipe-faraggi/25/a01/65a/fr') est un format d'URL LinkedIn obsolète datant d'avant ~2016-2017 ; il pourrait ne plus résoudre vers le profil actuel de la personne.",
+  "Impossible de rendre directement les instantanés web.archive.org dans cette session (host bloqué par l'outil de fetch) : l'identité exacte du site en 2015-2016 (logo, page équipe) n'a pas pu être visuellement confirmée, seulement corroborée par la presse contemporaine (Maddyness, bonjouridee, lespepitestech).",
+  "Aucune preuve directe de registre officiel (pappers.fr, societe.com, infogreffe) n'a pu être obtenue : ces sites ont renvoyé des erreurs 403/404 à l'outil de fetch automatisé. La clôture pour insuffisance d'actif (mai 2019) et le SIRET 808702666 reposent sur l'annuaire myfrenchstartup.com, qui indique généralement sourcer ces données de registres officiels, mais cette source reste un agrégateur tiers et non le registre primaire lui-même.",
+  "Aucune trace d'acquisition/rachat n'a été trouvée dans la presse ; la fin d'activité semble être une liquidation/fermeture (clôture pour insuffisance d'actif) plutôt qu'une sortie (exit), ce qui confirme le statut 'stopped' déjà présent dans data.json plutôt qu'un statut 'exit'."
+ ],
+ "summary": "Le dossier Willty (saison 8, NUMA, février 2016) est globalement confirmé : les trois fondateurs (Felipe Faraggi, Nathan Paucton, Rémy Pillot) sont corroborés par trois sources indépendantes (bonjouridee.com, lespepitestech.com, myfrenchstartup.com), avec des profils LinkedIn identifiés pour chacun. Le produit était une plateforme de fidélisation gamifiée pour salles de sport et coureurs. Le statut 'stopped' de data.json est confirmé et renforcé par une preuve concrète : la société exploitante (Quantic Leads, SIRET 808702666) a été clôturée pour insuffisance d'actif en mai 2019 selon myfrenchstartup.com, le domaine willty.com est aujourd'hui une page de parking GoDaddy, et les comptes sociaux sont inactifs depuis 2016-2017. Verdict 'corrected' car statusDetails a été enrichi avec cette preuve de clôture légale et des liens LinkedIn ont été ajoutés aux trois fondateurs (absents du record initial). Aucune preuve d'acquisition trouvée. Limite notable : l'accès direct aux pages web.archive.org a été bloqué techniquement dans cette session, seule l'API JSON Wayback a pu confirmer les dates de capture."
+}
