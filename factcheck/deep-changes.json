@@ -1,0 +1,3078 @@
+[
+ {
+  "id": "s1-bankin",
+  "name": "Bankin'",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Joan Burkovic"
+     },
+     {
+      "name": "Robin Dauzon"
+     }
+    ],
+    [
+     {
+      "name": "Joan Burkovic",
+      "linkedin": "https://www.linkedin.com/in/joanburkovic/"
+     },
+     {
+      "name": "Robin Dauzon"
+     },
+     {
+      "name": "David Sabbatini",
+      "linkedin": "https://www.linkedin.com/in/davidsabbatini/"
+     },
+     {
+      "name": "Emmanuel Costa",
+      "linkedin": "https://fr.linkedin.com/in/emmanuelcosta/"
+     }
+    ]
+   ],
+   "status": [
+    "active",
+    "exit"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "Groupe Casino"
+   ],
+   "sourcesAdded": 10,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s1-beansight",
+  "name": "Beansight",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Guillaume Wolf"
+     },
+     {
+      "name": "Steren Giannini",
+      "linkedin": "https://www.linkedin.com/in/steren"
+     },
+     {
+      "name": "Cyril Dorsaz"
+     },
+     {
+      "name": "Jean-Baptiste Claramonte"
+     }
+    ],
+    [
+     {
+      "name": "Guillaume Wolf",
+      "linkedin": "https://www.linkedin.com/in/guillaumewolf/"
+     },
+     {
+      "name": "Steren Giannini",
+      "linkedin": "https://www.linkedin.com/in/steren/"
+     },
+     {
+      "name": "Cyril Dorsaz",
+      "linkedin": "https://www.linkedin.com/in/cyrildorsaz/"
+     },
+     {
+      "name": "Jean-Baptiste Claramonte",
+      "linkedin": "https://fr.linkedin.com/in/jclaramonte/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    null,
+    "https://www.beansight.com/"
+   ],
+   "sourcesAdded": 2,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s1-dabla",
+  "name": "Dabla",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Pierre-Antoine Duchateau"
+     }
+    ],
+    [
+     {
+      "name": "Pierre-Antoine Duchateau",
+      "linkedin": "https://www.linkedin.com/in/paduc/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s1-doctrackr",
+  "name": "docTrackr",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Clément Cazalot"
+     },
+     {
+      "name": "Alex Negrea"
+     },
+     {
+      "name": "Uli Mittermaier"
+     },
+     {
+      "name": "Alexander Gentea"
+     }
+    ],
+    [
+     {
+      "name": "Clément Cazalot",
+      "linkedin": "https://www.linkedin.com/in/cazalot/"
+     },
+     {
+      "name": "Alex Negrea",
+      "linkedin": "https://www.linkedin.com/in/alexnegrea"
+     },
+     {
+      "name": "Uli Mittermaier",
+      "linkedin": "https://www.linkedin.com/in/umittermaier/"
+     },
+     {
+      "name": "Alexander Gentea",
+      "linkedin": "https://www.linkedin.com/in/alexgentea/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7
+  },
+  "verdict": "verified",
+  "openQuestions": 2
+ },
+ {
+  "id": "s1-itipic",
+  "name": "Itipic",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Fabienne Rousseau"
+     },
+     {
+      "name": "Alain Beauvois"
+     }
+    ],
+    [
+     {
+      "name": "Fabienne Rousseau"
+     },
+     {
+      "name": "Alain Beauvois",
+      "linkedin": "https://www.linkedin.com/in/alainbeauvois/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s1-kawet",
+  "name": "Kawet",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Cashew (nom du produit / plateforme de création d'applications iPhone grand public, 2010-2013, avant le pivot vers une offre B2B commercialisée sous la marque Kawet)"
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Benjamin Hardy"
+     }
+    ],
+    [
+     {
+      "name": "Benjamin Hardy",
+      "linkedin": "https://fr.linkedin.com/in/hardybenjamin"
+     },
+     {
+      "name": "Charles Niaulin",
+      "linkedin": "https://fr.linkedin.com/in/charlesniaulin"
+     },
+     {
+      "name": "Dante Planterose",
+      "linkedin": "https://fr.linkedin.com/in/dplanterose"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    "Phenix Groupe",
+    "Phenix Groupe (via le rapprochement avec Insert, qui a créé la holding Phenix Groupe)"
+   ],
+   "website": [
+    "https://madebykawet.com",
+    null
+   ],
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s1-mesagraph",
+  "name": "Mesagraph",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Sébastien Lefebvre"
+     }
+    ],
+    [
+     {
+      "name": "Sébastien Lefebvre",
+      "linkedin": "https://www.linkedin.com/in/sebastienl"
+     },
+     {
+      "name": "Cédric Delfosse",
+      "linkedin": "https://fr.linkedin.com/in/c%C3%A9dric-delfosse"
+     },
+     {
+      "name": "Guy Hugot-Derville",
+      "linkedin": "https://fr.linkedin.com/in/guyhugotderville"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 11,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s1-p1-security",
+  "name": "P1 Security",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Philippe Langlois"
+     }
+    ],
+    [
+     {
+      "name": "Philippe Langlois",
+      "linkedin": "https://fr.linkedin.com/in/langlois"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 2
+ },
+ {
+  "id": "s1-prepmyfuture",
+  "name": "PrepMyFuture",
+  "diff": {
+   "formerNamesOrPivots": [
+    [
+     "Everlearn"
+    ],
+    []
+   ],
+   "founders": [
+    [
+     {
+      "name": "Hadrien-Achille Pinson"
+     },
+     {
+      "name": "Richard Fielding"
+     }
+    ],
+    [
+     {
+      "name": "Hadrien-Achille Pinson",
+      "linkedin": "https://www.linkedin.com/in/achillepinson/"
+     },
+     {
+      "name": "Richard Fielding"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "Learnation Group"
+   ],
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s1-skerou",
+  "name": "Skerou",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Grégory Thurin"
+     }
+    ],
+    [
+     {
+      "name": "Grégory Thurin",
+      "linkedin": "https://fr.linkedin.com/in/gregorythurin0"
+     },
+     {
+      "name": "Ludovic Galabru",
+      "linkedin": "https://www.linkedin.com/in/lgalabru/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s1-studyka",
+  "name": "Studyka",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Charles Thou"
+     },
+     {
+      "name": "Yohann Melamed"
+     },
+     {
+      "name": "Yohan Attal"
+     }
+    ],
+    [
+     {
+      "name": "Charles Thou",
+      "linkedin": "https://fr.linkedin.com/in/charles-thou"
+     },
+     {
+      "name": "Yohann Melamed",
+      "linkedin": "https://www.linkedin.com/in/yohannmelamed/"
+     },
+     {
+      "name": "Yohan Attal",
+      "linkedin": "https://fr.linkedin.com/in/yohan-attal-44a28818"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    "Bloomflow (participation majoritaire)",
+    "Bloomflow"
+   ],
+   "sourcesAdded": 5,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s1-zifiz",
+  "name": "Zifiz",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Bora Kizil"
+     },
+     {
+      "name": "Pierre-Antoine Antonini"
+     }
+    ],
+    [
+     {
+      "name": "Bora Kizil",
+      "linkedin": "https://fr.linkedin.com/in/borakizil"
+     },
+     {
+      "name": "Pierre-Antoine Antonini"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s2-herewedate",
+  "name": "HereWeDate",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Julien Hugon"
+     }
+    ],
+    [
+     {
+      "name": "Julien Hugon",
+      "linkedin": "https://www.linkedin.com/in/julienhugon/"
+     },
+     {
+      "name": "Daniel Podaru",
+      "linkedin": "https://fr.linkedin.com/in/daniel-podaru-b1a5071a3"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s2-infinit",
+  "name": "Infinit",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Julien Quintard"
+     },
+     {
+      "name": "Baptiste Fradin"
+     }
+    ],
+    [
+     {
+      "name": "Julien Quintard",
+      "linkedin": "https://www.linkedin.com/in/julienquintard/"
+     },
+     {
+      "name": "Baptiste Fradin",
+      "linkedin": "https://fr.linkedin.com/in/bfradin"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 9
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-loungeup",
+  "name": "LoungeUp",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s2-oleapark",
+  "name": "Oleapark",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s2-onefeat",
+  "name": "Onefeat",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s2-pictarine",
+  "name": "Pictarine",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-pili-pop",
+  "name": "Pili Pop",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Elsa Prieto"
+     },
+     {
+      "name": "Soiny Duval"
+     },
+     {
+      "name": "Eugène Ernoult"
+     }
+    ],
+    [
+     {
+      "name": "Elsa Prieto",
+      "linkedin": "https://www.linkedin.com/in/elsaprieto/"
+     },
+     {
+      "name": "Soiny Duval",
+      "linkedin": "https://www.linkedin.com/in/soinyduval/"
+     },
+     {
+      "name": "Eugène Ernoult",
+      "linkedin": "https://www.linkedin.com/in/eernoult/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-qunb",
+  "name": "qunb",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-siz",
+  "name": "Siz",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Axel Hauguel"
+     },
+     {
+      "name": "Guillaume Rivals"
+     }
+    ],
+    [
+     {
+      "name": "Axel Hauguel",
+      "linkedin": "https://fr.linkedin.com/in/axel-hauguel-102b9a32"
+     },
+     {
+      "name": "Guillaume Rivals",
+      "linkedin": "https://www.linkedin.com/in/guillaumervls"
+     },
+     {
+      "name": "Mathieu Zarouk",
+      "linkedin": "https://fr.linkedin.com/in/mathieu-zarouk-96751916"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-skimm",
+  "name": "Skimm!",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Antoine Sakho"
+     },
+     {
+      "name": "Valentin Lautier"
+     }
+    ],
+    [
+     {
+      "name": "Antoine Sakho",
+      "linkedin": "https://uk.linkedin.com/in/antoinesakho"
+     },
+     {
+      "name": "Valentin Lautier",
+      "linkedin": "https://fr.linkedin.com/in/valentinlautier"
+     },
+     {
+      "name": "Julien Dauphant",
+      "linkedin": "https://www.linkedin.com/in/juliendauphant/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-tvshow-time",
+  "name": "TVShow Time",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Antonio Pinto"
+     },
+     {
+      "name": "Talal Mazroui"
+     }
+    ],
+    [
+     {
+      "name": "Antonio Mendes Pinto",
+      "linkedin": "https://fr.linkedin.com/in/antoniopinto1985"
+     },
+     {
+      "name": "Talal Mazroui",
+      "linkedin": "https://www.linkedin.com/in/talalmazroui/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s2-wecook",
+  "name": "WeCook",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Matthieu Vincent"
+     },
+     {
+      "name": "Jérémie Prouteau"
+     },
+     {
+      "name": "Alexandre Grimault"
+     }
+    ],
+    [
+     {
+      "name": "Matthieu Vincent",
+      "linkedin": "https://www.linkedin.com/in/matthieu-vincent-21642a1b/"
+     },
+     {
+      "name": "Jérémie Prouteau",
+      "linkedin": "https://www.linkedin.com/in/jeremieprouteau/"
+     },
+     {
+      "name": "Alexandre Grimault",
+      "linkedin": "https://fr.linkedin.com/in/alexandre-grimault-46862a49"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s3-augment",
+  "name": "Augment",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Jean-François Chianetta"
+     },
+     {
+      "name": "Cyril Champier"
+     },
+     {
+      "name": "Mickaël Jordan"
+     }
+    ],
+    [
+     {
+      "name": "Jean-François Chianetta",
+      "linkedin": "https://fr.linkedin.com/in/jfchianetta"
+     },
+     {
+      "name": "Cyril Champier",
+      "linkedin": "https://www.linkedin.com/in/cyril-champier-399599b/"
+     },
+     {
+      "name": "Mickaël Jordan",
+      "linkedin": "https://www.linkedin.com/in/mickaël-jordan-6485231a/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 2
+ },
+ {
+  "id": "s3-explee",
+  "name": "Explee",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Morgan Giraud"
+     },
+     {
+      "name": "Thomas Olivier"
+     }
+    ],
+    [
+     {
+      "name": "Thomas Olivier",
+      "linkedin": "https://fr.linkedin.com/in/thomas--olivier"
+     },
+     {
+      "name": "Morgan Giraud",
+      "linkedin": "https://fr.linkedin.com/in/morgangiraud"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s3-fleex",
+  "name": "Fleex",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Alexandre Point"
+     },
+     {
+      "name": "Guillaume Dupuy"
+     }
+    ],
+    [
+     {
+      "name": "Guillaume Dupuy",
+      "linkedin": "https://www.linkedin.com/in/guillaumedupuy/"
+     },
+     {
+      "name": "Alexandre Point",
+      "linkedin": "https://fr.linkedin.com/in/alexandrepoint"
+     },
+     {
+      "name": "Alain Caffi",
+      "linkedin": "https://fr.linkedin.com/in/alain-caffi-1ab51112"
+     }
+    ]
+   ],
+   "status": [
+    "stopped",
+    "exit"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "Reverso (Softissimo)"
+   ],
+   "website": [
+    null,
+    "https://fleex.tv/"
+   ],
+   "sourcesAdded": 8
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s3-home-n-go",
+  "name": "Home'n'go",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Margaux Pelen"
+     },
+     {
+      "name": "Adrien Pavillet"
+     },
+     {
+      "name": "Sébastien Zerah"
+     }
+    ],
+    [
+     {
+      "name": "Margaux Pelen",
+      "linkedin": "https://www.linkedin.com/in/margauxpelen"
+     },
+     {
+      "name": "Adrien Pavillet",
+      "linkedin": "https://fr.linkedin.com/in/pavillet"
+     },
+     {
+      "name": "Sébastien Zerah"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 9
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s3-jellynote",
+  "name": "Jellynote",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Arthur Lenoir"
+     },
+     {
+      "name": "Adrien Cognée"
+     },
+     {
+      "name": "Baptiste Poirier"
+     }
+    ],
+    [
+     {
+      "name": "Arthur Lenoir",
+      "linkedin": "https://www.linkedin.com/in/arthur-lenoir/"
+     },
+     {
+      "name": "Adrien Cognée",
+      "linkedin": "https://www.linkedin.com/in/adriencog/"
+     },
+     {
+      "name": "Baptiste Poirier",
+      "linkedin": "https://www.linkedin.com/in/baptistepoirier/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s3-lima",
+  "name": "Lima",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Séverin Marcombes"
+     },
+     {
+      "name": "Gawen Arab"
+     }
+    ],
+    [
+     {
+      "name": "Séverin Marcombes",
+      "linkedin": "https://www.linkedin.com/in/marcombes/"
+     },
+     {
+      "name": "Gawen Arab",
+      "linkedin": "https://fr.linkedin.com/in/gawenarab"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s3-poutsch",
+  "name": "Poutsch",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Voice",
+     "Voice Polls"
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Félix Winckler"
+     },
+     {
+      "name": "Étienne Adriaenssen"
+     },
+     {
+      "name": "Melchior Schöller"
+     }
+    ],
+    [
+     {
+      "name": "Félix Winckler",
+      "linkedin": "https://www.linkedin.com/in/felix-winckler-b216402"
+     },
+     {
+      "name": "Étienne Adriaenssen",
+      "linkedin": "https://www.linkedin.com/in/etienneadriaenssen/"
+     },
+     {
+      "name": "Melchior Schöller"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s3-sketchfab",
+  "name": "Sketchfab",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "ShowWebGL"
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s3-stormz",
+  "name": "Stormz",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s3-veezio",
+  "name": "Veezio",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Steeve Morin"
+     },
+     {
+      "name": "Thomas Meson"
+     }
+    ],
+    [
+     {
+      "name": "Steeve Morin",
+      "linkedin": "https://www.linkedin.com/in/steevemorin/"
+     },
+     {
+      "name": "Thomas Meson",
+      "linkedin": "https://www.linkedin.com/in/thomasmeson/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 10,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s3-webshell",
+  "name": "Webshell",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Thibaud Arnault"
+     },
+     {
+      "name": "Mehdi Medjaoui"
+     },
+     {
+      "name": "Arnaud Richard"
+     }
+    ],
+    [
+     {
+      "name": "Thibaud Arnault",
+      "linkedin": "https://www.linkedin.com/in/thibaud-arnault-48962b30/"
+     },
+     {
+      "name": "Mehdi Medjaoui"
+     },
+     {
+      "name": "Arnaud Richard"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s3-whale-street",
+  "name": "Whale Street",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Michaël Journo",
+      "linkedin": "https://fr.linkedin.com/in/micha%C3%ABl-journo-2368a929"
+     },
+     {
+      "name": "Arthur Prat-Carrabin"
+     }
+    ],
+    [
+     {
+      "name": "Michaël Journo",
+      "linkedin": "https://fr.linkedin.com/in/micha%C3%ABl-journo-2368a929"
+     },
+     {
+      "name": "Arthur Prat-Carrabin",
+      "linkedin": "https://www.linkedin.com/in/arthurpratcarrabin/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s4-auticiel",
+  "name": "Auticiel",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Sarah Cherruault"
+     },
+     {
+      "name": "François Dupayrat"
+     }
+    ],
+    [
+     {
+      "name": "Sarah Cherruault",
+      "linkedin": "https://fr.linkedin.com/in/sarahcherruault"
+     },
+     {
+      "name": "François Dupayrat",
+      "linkedin": "https://www.linkedin.com/in/fran%C3%A7ois-dupayrat-b0686a61/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s4-cours-avenue",
+  "name": "CoursAvenue",
+  "diff": {
+   "name": [
+    "Cours Avenue",
+    "CoursAvenue"
+   ],
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Leboncours"
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s4-darjeelin",
+  "name": "Darjeelin",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Charles Guilhamon"
+     }
+    ],
+    [
+     {
+      "name": "Charles Guilhamon"
+     },
+     {
+      "name": "Hugo Bailey"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s4-decovery",
+  "name": "Decovery",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Arthur Fouvez"
+     },
+     {
+      "name": "François Meteyer"
+     }
+    ],
+    [
+     {
+      "name": "Arthur Fouvez",
+      "linkedin": "https://fr.linkedin.com/in/arthurfouvez"
+     },
+     {
+      "name": "François Meteyer",
+      "linkedin": "https://fr.linkedin.com/in/francoismeteyer"
+     }
+    ]
+   ],
+   "status": [
+    "stopped",
+    "exit"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "Express-Roularta France (Côté Maison)"
+   ],
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s4-lingocracy",
+  "name": "Lingocracy",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Maxime Vandegeerde"
+     },
+     {
+      "name": "Yaoyan Yang"
+     }
+    ],
+    [
+     {
+      "name": "Maxime Vandegeerde"
+     },
+     {
+      "name": "Yaoan Yang"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s4-melusyn",
+  "name": "Melusyn",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "SetKeeper"
+    ]
+   ],
+   "status": [
+    "stopped",
+    "active"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    null,
+    "https://www.setkeeper.com"
+   ],
+   "sourcesAdded": 5,
+   "confidence": [
+    "low",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s4-pricing-assistant",
+  "name": "Pricing Assistant",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Martin de Charette"
+     },
+     {
+      "name": "Sylvain Zimmer"
+     }
+    ],
+    [
+     {
+      "name": "Martin de Charette",
+      "linkedin": "https://www.linkedin.com/in/martin-de-charette-29341562/"
+     },
+     {
+      "name": "Sylvain Zimmer",
+      "linkedin": "https://www.linkedin.com/in/sylvainzimmer"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s4-smiirl",
+  "name": "Smiirl",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Gauthier Nadaud"
+     },
+     {
+      "name": "Romain Cochet"
+     },
+     {
+      "name": "Raphaël Pluvinage"
+     }
+    ],
+    [
+     {
+      "name": "Gauthier Nadaud"
+     },
+     {
+      "name": "Romain Cochet"
+     },
+     {
+      "name": "Raphaël Pluvinage"
+     },
+     {
+      "name": "Gaël Bergeron"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s4-soap",
+  "name": "SOAP",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s4-sportdub",
+  "name": "Sportdub",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s4-wepopp",
+  "name": "Wepopp",
+  "diff": {
+   "formerNamesOrPivots": [
+    [
+     "Popp!"
+    ],
+    [
+     "Popp!",
+     "WeTime",
+     "Julie Desk"
+    ]
+   ],
+   "status": [
+    "stopped",
+    "active"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    null,
+    "https://www.juliedesk.com"
+   ],
+   "sourcesAdded": 9
+  },
+  "verdict": "corrected",
+  "openQuestions": 6
+ },
+ {
+  "id": "s4-zero-gachis",
+  "name": "Zéro-Gâchis",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s5-agriconomie",
+  "name": "Agriconomie",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Paolin Pascot"
+     },
+     {
+      "name": "Dinh Nguyen"
+     },
+     {
+      "name": "Clément Le Fournis"
+     }
+    ],
+    [
+     {
+      "name": "Paolin Pascot",
+      "linkedin": "https://www.linkedin.com/in/paolinpascot"
+     },
+     {
+      "name": "Dinh Nguyen",
+      "linkedin": "https://fr.linkedin.com/in/dinh-nguyen-59b9b715"
+     },
+     {
+      "name": "Clément Le Fournis",
+      "linkedin": "https://www.linkedin.com/in/clement-le-fournis-76362241"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s5-artips",
+  "name": "Artips",
+  "diff": {
+   "status": [
+    "exit",
+    "active"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    "Beaux Arts & Cie",
+    null
+   ],
+   "website": [
+    "https://artips.fr",
+    "https://www.artips.fr"
+   ],
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-bandsquare",
+  "name": "BandSquare",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Pivot produit : lancée en 2013 comme plateforme de financement participatif dédiée aux concerts de musiciens indépendants, BandSquare est devenue vers 2015-2016 une plateforme SaaS aidant labels, marques, clubs sportifs, organisateurs d'événements et YouTubeurs à convertir leurs abonnés/followers en clients et à constituer des bases d'e-mails qualifiées."
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Antoine Labbé"
+     },
+     {
+      "name": "Chloé Julien"
+     }
+    ],
+    [
+     {
+      "name": "Antoine Labbé"
+     },
+     {
+      "name": "Chloé Julien",
+      "linkedin": "https://fr.linkedin.com/in/chloejulien"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6,
+   "confidence": [
+    "low",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-hublo",
+  "name": "Hublo",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Léo-Paul Goffic"
+     },
+     {
+      "name": "Cyril Gantzer",
+      "linkedin": "https://www.linkedin.com/in/cyrilgantzer"
+     },
+     {
+      "name": "Etienne Le Scaon"
+     }
+    ],
+    [
+     {
+      "name": "Léo-Paul Goffic"
+     },
+     {
+      "name": "Cyril Gantzer",
+      "linkedin": "https://www.linkedin.com/in/cyrilgantzer"
+     },
+     {
+      "name": "Etienne Le Scaon",
+      "linkedin": "https://www.linkedin.com/in/lescaon"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s5-krack",
+  "name": "Krack",
+  "diff": {
+   "formerNamesOrPivots": [
+    [
+     "Indy Trackers",
+     "Wodd",
+     "Krak"
+    ],
+    [
+     "Trcksy",
+     "Indy Trackers",
+     "Wodd",
+     "Krak"
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 9
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-localeyes",
+  "name": "LocalEyes",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-qleek",
+  "name": "Qleek",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-realytics",
+  "name": "Realytics",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-streamroot",
+  "name": "Streamroot",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "verified",
+  "openQuestions": 2
+ },
+ {
+  "id": "s5-takes",
+  "name": "Takes",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s5-tastehit",
+  "name": "TasteHit",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "unverifiable",
+  "openQuestions": 4
+ },
+ {
+  "id": "s5-tripndrive",
+  "name": "Tripndrive",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    null,
+    "https://www.tripndrive.com"
+   ],
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s6-soundsgood",
+  "name": "Soundsgood",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Pivot d'une application grand public de découverte/partage de playlists (2014-2015) vers un service B2B de gestion de playlists pour labels et « playlisters » professionnels (offre « Soundsgood PREMIERES », vers 2018-2020)"
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Louis Viallet"
+     },
+     {
+      "name": "Josquin Farge"
+     },
+     {
+      "name": "David Billamboz"
+     }
+    ],
+    [
+     {
+      "name": "Josquin Farge",
+      "linkedin": "https://fr.linkedin.com/in/josquinfarge"
+     },
+     {
+      "name": "David Billamboz",
+      "linkedin": "https://fr.linkedin.com/in/davidbillamboz"
+     },
+     {
+      "name": "Louis Viallet",
+      "linkedin": "https://fr.linkedin.com/in/louisviallet"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 9,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s6-uniquesound",
+  "name": "UniqueSound",
+  "diff": {
+   "status": [
+    "exit",
+    "stopped"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s6-sharette",
+  "name": "Sharette",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1,
+   "confidence": [
+    "high",
+    "low"
+   ]
+  },
+  "verdict": "unverifiable",
+  "openQuestions": 4
+ },
+ {
+  "id": "s6-drust",
+  "name": "Drust",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s6-sharepay",
+  "name": "SharePay",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s6-pulpix",
+  "name": "Pulpix",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Pivot produit sous le même nom : outil d'enrichissement vidéo interactif à la saison 6 de Le Camping (2014, ajout d'éléments cliquables dans les vidéos pour l'engagement et la monétisation) devenu une technologie de personnalisation vidéo par intelligence artificielle (« binge-watching technology ») lors du passage par Y Combinator (promotion Winter 2016, société relocalisée à New York)."
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s6-smyle",
+  "name": "Smyle",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s6-tiller-systems",
+  "name": "Tiller Systems",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Josef Bovet"
+     },
+     {
+      "name": "Scott Gordon"
+     },
+     {
+      "name": "Dimitri Farber"
+     },
+     {
+      "name": "Vincent Oliveira"
+     }
+    ],
+    [
+     {
+      "name": "Josef Bovet"
+     },
+     {
+      "name": "Dimitri Farber"
+     },
+     {
+      "name": "Antoine Germain"
+     },
+     {
+      "name": "Scott Gordon"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    null,
+    "https://www.tillersystems.com"
+   ],
+   "sourcesAdded": 6,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s6-kokot",
+  "name": "Kokot'",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s6-nunki",
+  "name": "Nunki",
+  "diff": {
+   "status": [
+    "active",
+    "stopped"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    "https://www.nunki.co",
+    null
+   ],
+   "sourcesAdded": 2
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s6-artchy",
+  "name": "Artchy",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    "https://archivevalley.com",
+    null
+   ],
+   "sourcesAdded": 2
+  },
+  "verdict": "corrected",
+  "openQuestions": 6
+ },
+ {
+  "id": "s6-jam",
+  "name": "Jam",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "2014 (saison 6 de Le Camping) : plateforme web mettant en relation les étudiants entre eux, avec les associations de campus et les services administratifs, testée à Sciences Po",
+     "2015 : pivot vers un service de conciergerie/recommandation par SMS dopé à l'IA (une seule ligne à qui envoyer sa demande : job, logement, bon plan, etc.), levée de 330 000 € en avril 2015",
+     "2016-2019 : pivot vers un chatbot Messenger 'média' destiné aux 15-25 ans (actualité, séries, sondages), puis vers une offre B2B (contenus de marque, sondages, solutions de chatbot en marque blanche) pour des clients comme Société Générale, la FDJ, la SNCF, Nexity, McDonald's ; nouvelle levée d'1 M€ en 2016 puis en 2019"
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 10,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-read",
+  "name": "Read",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Simon Guigue"
+     },
+     {
+      "name": "Thomas Guigue"
+     }
+    ],
+    [
+     {
+      "name": "Simon Guigue",
+      "linkedin": "https://fr.linkedin.com/pub/simon-guigue/82/6b5/a97/fr"
+     },
+     {
+      "name": "Thomas Guigue",
+      "linkedin": "https://fr.linkedin.com/pub/thomas-guigue/a7/a28/395"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-budeal",
+  "name": "Budeal",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "confidence": [
+    "medium",
+    "low"
+   ]
+  },
+  "verdict": "unverifiable",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-citytaps",
+  "name": "CityTaps",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    "https://www.citytaps.org",
+    null
+   ],
+   "sourcesAdded": 10,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-cloudorbit",
+  "name": "CloudOrbit",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-coursierprive-com",
+  "name": "CoursierPrivé.com",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-corilla",
+  "name": "Corilla",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-filoute",
+  "name": "Filoute",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-lendosphere",
+  "name": "Lendosphere",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-foodmeup",
+  "name": "FoodMeUp",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Melba"
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    "https://www.foodmeup.io",
+    "https://melba.io/"
+   ],
+   "sourcesAdded": 1
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-fretx",
+  "name": "FRETX",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Federico Rodríguez Llull"
+     }
+    ],
+    [
+     {
+      "name": "Federico Rodríguez Llull",
+      "linkedin": "https://www.linkedin.com/in/federicorodriguezllull"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-gorgias",
+  "name": "Gorgias",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Romain Lapeyre"
+     },
+     {
+      "name": "Alex Plugaru"
+     }
+    ],
+    [
+     {
+      "name": "Romain Lapeyre",
+      "linkedin": "https://www.linkedin.com/in/romainlapeyre"
+     },
+     {
+      "name": "Alex Plugaru"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-kapptivate",
+  "name": "Kapptivate",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Alexandre Grais"
+     },
+     {
+      "name": "Julien Sabatier"
+     }
+    ],
+    [
+     {
+      "name": "Julien Sabatier"
+     },
+     {
+      "name": "Alexandre Grais"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-kwalito",
+  "name": "Kwalito",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-la-boite-qui-cartonne",
+  "name": "La Boîte Qui Cartonne",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-le-zeste",
+  "name": "Le Zeste",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Pol Maire"
+     }
+    ],
+    [
+     {
+      "name": "Pol Maire",
+      "linkedin": "https://www.linkedin.com/in/polmaire"
+     },
+     {
+      "name": "Julian Guerin"
+     },
+     {
+      "name": "Noé Malzieu",
+      "linkedin": "https://www.linkedin.com/in/noemalzieu"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-les-petites-tables",
+  "name": "Les Petites Tables",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Romain Passelande"
+     },
+     {
+      "name": "Thomas Le Gourrierec"
+     }
+    ],
+    [
+     {
+      "name": "Romain Passelande"
+     },
+     {
+      "name": "Thomas Le Gourrierec"
+     },
+     {
+      "name": "Patryk (nom de famille non confirmé)"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s7-pandascore",
+  "name": "PandaScore",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Flavien Guillocheau"
+     }
+    ],
+    [
+     {
+      "name": "Flavien Guillocheau"
+     },
+     {
+      "name": "Jonathan Retterer"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-popmyday",
+  "name": "Popmyday",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-popup-immo",
+  "name": "PopUp Immo",
+  "diff": {
+   "formerNamesOrPivots": [
+    [
+     "Storefront"
+    ],
+    [
+     "Oui Open"
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Mohamed Haouache"
+     },
+     {
+      "name": "Adrien Kerbrat",
+      "linkedin": "https://fr.linkedin.com/in/adrienkerbrat"
+     }
+    ],
+    [
+     {
+      "name": "Mohamed Haouache"
+     },
+     {
+      "name": "Adrien Kerbrat",
+      "linkedin": "https://fr.linkedin.com/in/adrienkerbrat"
+     },
+     {
+      "name": "Hachim Fadili"
+     },
+     {
+      "name": "Guillaume Calvet"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "Storefront"
+   ],
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-sentimy",
+  "name": "Sentimy",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "ZestMeUp (Zest)"
+   ],
+   "sourcesAdded": 2
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-show-roomer",
+  "name": "Show-Roomer",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s7-skippair",
+  "name": "Skippair",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-tationem",
+  "name": "Tationem",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Vijaykant Nadadue"
+     },
+     {
+      "name": "Aravind Kamath"
+     },
+     {
+      "name": "Senthil Kumar"
+     }
+    ],
+    [
+     {
+      "name": "Vijaykant Nadadur"
+     },
+     {
+      "name": "Aravind Kamath"
+     },
+     {
+      "name": "Senthil Kumar"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-vocal-apps",
+  "name": "Vocal Apps",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s7-welcome-to-the-jungle",
+  "name": "Welcome to the Jungle",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ },
+ {
+  "id": "s8-bienvenue-wifi",
+  "name": "Bienvenue WiFi",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Jean-Baptiste Queromes"
+     }
+    ],
+    [
+     {
+      "name": "Jean-Baptiste Queromes"
+     },
+     {
+      "name": "Fabrice"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s8-blueboard",
+  "name": "BlueBoard",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-bretzel",
+  "name": "Bretzel",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "confidence": [
+    "low",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-buffactory",
+  "name": "Buffactory",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-deploystation",
+  "name": "DeployStation",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Oksana Voronova"
+     },
+     {
+      "name": "Christian Dyl"
+     }
+    ],
+    [
+     {
+      "name": "Oksana Voronova",
+      "linkedin": "https://ua.linkedin.com/in/voronovaoksana"
+     },
+     {
+      "name": "Christian Dyl"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s8-energysquare",
+  "name": "Energysquare",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "website": [
+    "https://energysquare.co",
+    null
+   ],
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-hopfab",
+  "name": "Hopfab",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s8-kantree",
+  "name": "Kantree",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Maxime Bouroumeau-Fuseau"
+     },
+     {
+      "name": "Jérémy Moresmau"
+     }
+    ],
+    [
+     {
+      "name": "Maxime Bouroumeau-Fuseau",
+      "linkedin": "https://www.linkedin.com/in/maximebouroumeaufuseau"
+     },
+     {
+      "name": "Jérémy Moresmau",
+      "linkedin": "https://www.linkedin.com/in/jmoresmau"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 2
+ },
+ {
+  "id": "s8-koober",
+  "name": "Koober",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Concept initial (2015) : marketplace où les utilisateurs rédigeaient eux-mêmes des résumés de livres, abandonné pour un manque de qualité constante",
+     "Pivot vers des résumés scientifiquement construits appelés \"Koobs\" (inspiré du concurrent allemand Blinkist), puis vers un format podcast audio de 20 minutes"
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Alexandre Bruneau"
+     }
+    ],
+    [
+     {
+      "name": "Alexandre Bruneau"
+     },
+     {
+      "name": "Alexandre Mulliez"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-meloflow",
+  "name": "Meloflow",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Michael Brouard"
+     },
+     {
+      "name": "Bertrand de Bodinat"
+     }
+    ],
+    [
+     {
+      "name": "Michael Brouard",
+      "linkedin": "https://fr.linkedin.com/in/michaelbrouard"
+     },
+     {
+      "name": "Bertrand de Bodinat",
+      "linkedin": "https://fr.linkedin.com/in/bbodinat"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 8
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-montransport-com",
+  "name": "MonTransport.com",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s8-travauxlib",
+  "name": "TravauxLib",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s8-truckfly",
+  "name": "Truckfly",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ },
+ {
+  "id": "s8-willty",
+  "name": "Willty",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Felipe Faraggi"
+     },
+     {
+      "name": "Nathan Paucton"
+     },
+     {
+      "name": "Rémy Pillot"
+     }
+    ],
+    [
+     {
+      "name": "Felipe Faraggi",
+      "linkedin": "https://fr.linkedin.com/pub/felipe-faraggi/25/a01/65a/fr"
+     },
+     {
+      "name": "Nathan Paucton",
+      "linkedin": "https://fr.linkedin.com/in/nathanpaucton"
+     },
+     {
+      "name": "Rémy Pillot",
+      "linkedin": "https://fr.linkedin.com/in/remypillot"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s8-workiz",
+  "name": "Workiz",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "François Marie"
+     },
+     {
+      "name": "Julien Thiebault"
+     }
+    ],
+    [
+     {
+      "name": "François Marie",
+      "linkedin": "https://fr.linkedin.com/in/francois-marie-89997041"
+     },
+     {
+      "name": "Julien Thiebault"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 1,
+   "confidence": [
+    "low",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s8-yellow",
+  "name": "Yubo",
+  "diff": {
+   "name": [
+    "Yellow",
+    "Yubo"
+   ],
+   "formerNamesOrPivots": [
+    [
+     "Yubo"
+    ],
+    [
+     "Yellow"
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s8-zack",
+  "name": "Zack",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ },
+ {
+  "id": "s9-advitam",
+  "name": "AdVitam",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Philippe Meyralbe"
+     },
+     {
+      "name": "Henri di Costanzo"
+     }
+    ],
+    [
+     {
+      "name": "Philippe Meyralbe",
+      "linkedin": "https://fr.linkedin.com/in/philippemeyralbe"
+     },
+     {
+      "name": "Henri di Costanzo"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s9-airkit",
+  "name": "Airkit",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Nicolas Deburaux"
+     },
+     {
+      "name": "Marguerite Deschamps"
+     },
+     {
+      "name": "Charles de Pelleport"
+     }
+    ],
+    [
+     {
+      "name": "Nicolas Deburaux",
+      "linkedin": "https://fr.linkedin.com/in/nicolas-deburaux-84a14752"
+     },
+     {
+      "name": "Marguerite Deschamps",
+      "linkedin": "https://fr.linkedin.com/in/marguerite-vercken-25035865/en"
+     },
+     {
+      "name": "Charles de Pelleport"
+     }
+    ]
+   ],
+   "status": [
+    "active",
+    "stopped"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s9-bob-depannage",
+  "name": "Bob! Dépannage",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Hamza Hassoun"
+     },
+     {
+      "name": "Blaise Chavanne"
+     }
+    ],
+    [
+     {
+      "name": "Hamza Hassoun",
+      "linkedin": "https://fr.linkedin.com/in/hamza-hassoun-make-gmao-great-again"
+     },
+     {
+      "name": "Blaise Chavanne",
+      "linkedin": "https://fr.linkedin.com/in/blaisechavanne"
+     }
+    ]
+   ],
+   "status": [
+    "active",
+    "exit"
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    null,
+    "Smart-Services (repreneurs Mamoun Idrissi et Stephen Morello)"
+   ],
+   "sourcesAdded": 5,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s9-destygo",
+  "name": "Destygo",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Guillaume Laporte"
+     },
+     {
+      "name": "Ilias Hicham"
+     },
+     {
+      "name": "Pierre Pakey"
+     }
+    ],
+    [
+     {
+      "name": "Guillaume Laporte"
+     },
+     {
+      "name": "Ilias Hicham"
+     },
+     {
+      "name": "Julien Nassar"
+     },
+     {
+      "name": "Pierre Pakey"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s9-phantombuster",
+  "name": "PhantomBuster",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s9-shipup",
+  "name": "Shipup",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "acquirer": [
+    "Global Blue (participation majoritaire)",
+    "Global Blue (participation majoritaire, rejoint ensuite le pôle ZigZag Global)"
+   ],
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s9-syos",
+  "name": "Syos",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true
+  },
+  "verdict": "verified",
+  "openQuestions": 5
+ }
+]
