@@ -1,0 +1,110 @@
+{
+ "id": "s3-home-n-go",
+ "name": "Home'n'go",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Moteur immobilier non retrouvé comme activité actuelle.",
+   "apres": "La société HOMENGO (SAS, SIREN 750713943, créée le 4 avril 2012 à Paris 11e) a déclaré la cessation de son activité le 22 juin 2018 et a été radiée du registre le 25 septembre 2018. Le nom de domaine homengo.com, laissé à l'abandon, a depuis été repris par un site de contenu (blog immobilier générique) sans rapport avec l'équipe fondatrice d'origine.",
+   "preuves": [
+    "https://www.pappers.fr/entreprise/homengo-750713943",
+    "https://www.societe.com/societe/homengo-750713943.html",
+    "https://infonet.fr/dirigeants/66aa40835da7ac2c4bf31e16/",
+    "https://annuaire-entreprises.data.gouv.fr/entreprise/homengo-750713943"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Margaux Pelen",
+   "linkedin": "https://www.linkedin.com/in/margauxpelen"
+  },
+  {
+   "name": "Adrien Pavillet",
+   "linkedin": "https://fr.linkedin.com/in/pavillet"
+  },
+  {
+   "name": "Sébastien Zerah"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Home'n'go est un moteur de recherche immobilière qui centralise les annonces de vente et de location publiées sur les grands portails (SeLoger, LeBonCoin, Explorimmo, Logic-Immo...) et les enrichit de données publiques (open data INSEE, fiscalité locale, transports, écoles) pour aider les particuliers à choisir un quartier et un logement, y compris en recherche collaborative entre colocataires ou couples.",
+ "statusDetails": "Société HOMENGO (SIREN 750713943) radiée le 25 septembre 2018 après cessation d'activité déclarée le 22 juin 2018 ; aucune trace de rachat ou de reprise par un tiers n'a été trouvée. Le domaine homengo.com est aujourd'hui exploité par un site de contenu sans lien avec la startup d'origine.",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20120103084302/http://homengo.com/",
+   "montre": "Snapshot confirmé disponible (HTTP 200) au 3 janvier 2012 via l'API Wayback 'available' (https://archive.org/wayback/available?url=homengo.com&timestamp=20120101) ; l'outil WebFetch de cette session n'a pas pu récupérer le contenu du domaine web.archive.org (accès bloqué), seule l'existence et la date de la capture ont pu être vérifiées via l'API JSON d'archive.org."
+  },
+  {
+   "url": "http://web.archive.org/web/20140103082134/http://homengo.com/",
+   "montre": "Capture confirmée disponible (HTTP 200) au 3 janvier 2014, cohérente avec la période d'activité active de la startup (articles de presse 2012-2015)."
+  },
+  {
+   "url": "http://web.archive.org/web/20160121053641/https://homengo.com/",
+   "montre": "Capture confirmée disponible (HTTP 200) au 21 janvier 2016, montrant que le site d'origine était encore en ligne après le pivot 'open data' de 2015 (article Maddyness)."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.clubic.com/actualite-568832-home.html",
+   "titre": "Home'n'Go",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.jaimelesstartups.fr/homengo/",
+   "titre": "Découvrez l'histoire de la startup Home'n'Go",
+   "annee": "2013",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-homengo/",
+   "titre": "Home'n'go : La Start-Up française de la semaine",
+   "annee": "2012",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/03/03/maddypitch-homengo/",
+   "titre": "Home'N'go veut vous réconcilier avec la recherche d'appartement",
+   "annee": "2015",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://blog.google/outreach-initiatives/entrepreneurs/supporting-entrepreneurship-in-france",
+   "titre": "Supporting entrepreneurship in France at Le Camping",
+   "annee": "2012",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/homengo-750713943",
+   "titre": "Société HOMENGO (750713943)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/homengo-750713943.html",
+   "titre": "Société HOMENGO à Paris (75011)",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "linkedinCompany": null,
+ "openQuestions": [
+  "Le profil LinkedIn exact de Sébastien Zerah n'a pas pu être confirmé avec certitude : plusieurs homonymes existent (dont un profil 'Sébastien Zerah - IBM', linkedin.com/in/zerahs, avec un parcours HEC compatible mais sans mention explicite de Home'n'go dans les extraits de recherche disponibles). Aucune page LinkedIn 'company' pour Home'n'go/Homengo n'a été trouvée.",
+  "La date exacte de fin d'exploitation effective du produit (par opposition à la date légale de radiation en 2018) n'est pas documentée par la presse ; la dernière couverture presse trouvée date de mars 2015 (Maddyness), qui décrit encore une activité en développement.",
+  "Non vérifié : présence de Home'n'go sur une photographie de la promotion (seenInPhoto=true dans data.json) — aucune source image n'a été examinée pour ce champ.",
+  "L'article presse-citron.net mentionne un possible quatrième cofondateur prénommé 'Benjamin', mais cela semble se rapporter à l'association étudiante Mash'up (précédant Home'n'go) plutôt qu'à Home'n'go lui-même ; aucune autre source ne corrobore un quatrième cofondateur de la startup."
+ ],
+ "summary": "Le dossier Home'n'go est globalement confirmé : appartenance à la saison 3 du Camping, nom, absence de pivot de nom, et liste des trois fondateurs (Margaux Pelen, Adrien Pavillet, Sébastien Zerah) sont tous corroborés par de multiples sources de presse (Clubic, J'aime les Startups, Presse-citron, Maddyness). Le statut 'stopped' déjà présent dans data.json est confirmé, mais avec une preuve beaucoup plus solide qu'auparavant : la société HOMENGO (SIREN 750713943) a cessé son activité le 22 juin 2018 et a été radiée le 25 septembre 2018, sans aucune trace de rachat. Le statusDetails a été réécrit pour refléter cette preuve officielle plutôt qu'une simple absence de résultat de recherche. Le domaine homengo.com est aujourd'hui réexploité par un site de contenu sans rapport avec la startup d'origine, donc aucun champ 'website' actif n'est proposé."
+}

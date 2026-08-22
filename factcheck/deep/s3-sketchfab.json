@@ -1,0 +1,74 @@
+{
+ "id": "s3-sketchfab",
+ "name": "Sketchfab",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": ["ShowWebGL"],
+   "preuves": [
+    "https://en.wikipedia.org/wiki/Sketchfab"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Alban Denoyel" },
+  { "name": "Cédric Pinson" },
+  { "name": "Pierre-Antoine Passet" }
+ ],
+ "status": "exit",
+ "activityDescription": "Sketchfab est une plateforme en ligne qui permet de publier, partager, visualiser et découvrir des modèles 3D interactifs directement dans un navigateur, ainsi qu'en réalité virtuelle et augmentée.",
+ "statusDetails": "Sketchfab a été acquis par Epic Games en 2021, puis revendu à KitBash le 10-12 août 2026 (aux côtés d'ArtStation) ; la marque, le site et les abonnements restent actifs sans changement annoncé pour les utilisateurs.",
+ "acquirer": "KitBash",
+ "website": "https://sketchfab.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Sketchfab",
+   "titre": "Sketchfab (Wikipedia)",
+   "annee": "2026 (page consultée)",
+   "soutient": ["identity", "founders", "cohort", "status"]
+  },
+  {
+   "url": "https://80.lv/articles/artstation-and-sketchfab-have-been-acquired-by-kitbash",
+   "titre": "ArtStation and Sketchfab Have Been Acquired by KitBash",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.epicgames.com/site/news/kitbash-acquires-artstation-and-sketchfab?lang=en-ca",
+   "titre": "KitBash Acquires ArtStation and Sketchfab (communiqué Epic Games)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://sketchfab.com",
+   "titre": "Site officiel Sketchfab (copyright 2026, KitBash SF Operations LLC)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.usinenouvelle.com/article/le-camping-selectionne-12-nouvelles-start-ups.N175957",
+   "titre": "Le Camping sélectionne 12 nouvelles start-ups (mention de la présentation de la promotion incluant Sketchfab, juin 2012)",
+   "annee": "2012",
+   "soutient": ["cohort"]
+  }
+ ],
+ "openQuestions": [
+  "Le numéro exact de la saison (« saison 3 ») n'a pas été retrouvé littéralement dans une source Le Camping listant nominativement les promotions par numéro ; les sources disponibles situent la présentation de Sketchfab par Le Camping en juin 2012 (fondation en mars 2012 sous ce nom), ce qui est cohérent avec la fenêtre saison 3 (2012-2013) mais n'est pas une confirmation directe du numéro.",
+  "web.archive.org (Wayback Machine) a été systématiquement inaccessible via l'outil WebFetch dans cette session (blocage au niveau de l'outil, message « Claude Code is unable to fetch from web.archive.org »), malgré plusieurs tentatives (CDX API et captures 2012). L'historique de capture du site sketchfab.com n'a donc pas pu être vérifié directement comme demandé par la méthodologie ; les preuves d'identité/produit reposent à la place sur Wikipedia et la presse.",
+  "Les profils LinkedIn individuels des trois fondateurs et la page LinkedIn de l'entreprise n'ont pas pu être localisés : le quota WebSearch de la session était épuisé, et les moteurs de recherche alternatifs interrogés via WebFetch (Bing, Google, DuckDuckGo, Startpage, Marginalia) ont renvoyé des CAPTCHA, des pages d'erreur ou des résultats non pertinents ; l'accès direct à linkedin.com est par ailleurs bloqué pour WebFetch. Ceci ne remet pas en cause l'identité des fondateurs, confirmée par Wikipedia et par la presse (Techstars, Craft.co), mais aucune URL linkedin.com/in/ n'a pu être vérifiée dans cette session."
+ ],
+ "summary": "Dossier globalement solide : cohorte, nom, trois fondateurs (Alban Denoyel, Cédric Pinson, Pierre-Antoine Passet), statut « exit » et détail du statut confirmés par Wikipedia et par la presse récente sur le rachat par KitBash (août 2026) après le rachat par Epic Games (2021) ; le site sketchfab.com est toujours en ligne, sous copyright KitBash SF Operations LLC. Une correction est apportée : Sketchfab a été créé en 2011 par Cédric Pinson sous le nom « ShowWebGL » avant d'être relancé sous le nom Sketchfab en mars 2012 (à ajouter à formerNamesOrPivots). Deux limites d'outillage empêchent une vérification complète : web.archive.org était inaccessible via WebFetch dans cette session, et aucun profil LinkedIn n'a pu être récupéré (moteurs de recherche bloqués/CAPTCHA, quota WebSearch épuisé)."
+}

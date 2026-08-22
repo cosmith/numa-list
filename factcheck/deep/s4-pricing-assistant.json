@@ -1,0 +1,68 @@
+{
+ "id": "s4-pricing-assistant",
+ "name": "Pricing Assistant",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Martin de Charette",
+   "linkedin": "https://www.linkedin.com/in/martin-de-charette-29341562/"
+  },
+  {
+   "name": "Sylvain Zimmer",
+   "linkedin": "https://www.linkedin.com/in/sylvainzimmer"
+  }
+ ],
+ "status": "exit",
+ "activityDescription": "Pricing Assistant est un outil de pricing intelligent qui aide les sites e-commerce à surveiller et optimiser automatiquement les prix de leurs produits face à la concurrence.",
+ "statusDetails": "Pricing Assistant a été racheté par Contentsquare en juin 2019 ; l'équipe et la technologie ont été intégrées à la plateforme d'expérience client de Contentsquare, où Sylvain Zimmer a ensuite dirigé le CTO office pendant plusieurs années.",
+ "acquirer": "Contentsquare",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=pricingassistant.com&timestamp=2013",
+   "montre": "L'API Wayback Availability confirme l'existence d'une capture archivée de pricingassistant.com datée du 29 décembre 2013 (20131229054700), cohérente avec une startup active pendant la saison 4 (2013). La consultation directe du contenu de la capture via web.archive.org n'a pas été possible dans cet environnement (accès à web.archive.org bloqué par l'outil de fetch), seule l'API archive.org a répondu."
+  },
+  {
+   "url": "https://pricingassistant.com/",
+   "montre": "En 2026, le domaine historique pricingassistant.com redirige (301) vers https://contentsquare.com/pricing-assistant/, ce qui confirme que le site indépendant n'existe plus et que la marque a été absorbée par l'acquéreur Contentsquare."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://sylvainzimmer.com/blog/2019/06/pricing-assistant-joins-contentsquare/",
+   "titre": "Pricing Assistant joins Contentsquare",
+   "annee": "2019",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://sylvainzimmer.com/biography/",
+   "titre": "Biography - Sylvain Zimmer",
+   "annee": "2026 (page consultée, contenu rétrospectif)",
+   "soutient": ["founders", "status", "identity"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Le montant de la levée de fonds (\"plus d'un million d'euros\" selon la bio de Sylvain Zimmer) n'a pas été vérifié via une source de presse financière dédiée (Les Échos, JDN, etc.).",
+  "Les termes financiers précis de l'acquisition par Contentsquare (montant) n'ont pas été communiqués publiquement et restent non confirmés.",
+  "La page LinkedIn de l'entreprise (linkedin.com/company/pricing-assistant) est introuvable/404 en 2026 ; aucune preuve directe de son existence historique n'a pu être obtenue dans cet environnement."
+ ],
+ "summary": "Tous les champs du dossier existant sont confirmés par des sources primaires : l'article Maddyness de février 2013 confirme l'appartenance à la saison 4 de Le Camping et le nom \"Pricing Assistant\" (outil de pricing intelligent pour e-commerce) ; le blog personnel du cofondateur Sylvain Zimmer (billet de 2019 et page biographie) confirme les deux fondateurs (Martin de Charette et Sylvain Zimmer), le statut d'exit et l'acquisition par Contentsquare en juin 2019, avec intégration de l'équipe et de la technologie. Le domaine historique pricingassistant.com redirige aujourd'hui vers contentsquare.com, confirmant l'absence de site indépendant actif. Les profils LinkedIn des deux fondateurs ont été retrouvés via le lien direct sur le site personnel de Sylvain Zimmer. Aucune correction nécessaire ; verdict verified."
+}

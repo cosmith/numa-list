@@ -1,0 +1,85 @@
+{
+ "id": "s4-darjeelin",
+ "name": "Darjeelin",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Charles Guilhamon" }
+   ],
+   "apres": [
+    { "name": "Charles Guilhamon" },
+    { "name": "Hugo Bailey" }
+   ],
+   "preuves": [
+    "https://www.maddyness.com/2014/09/17/darjeelin-officiel-des-vacances-groupe-voyage-prive/",
+    "https://www.frenchweb.fr/atelier-numerique-bfm-business-la-chronique-start-up-de-frenchweb-50-darjeelin/93125"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Charles Guilhamon" },
+  { "name": "Hugo Bailey" }
+ ],
+ "status": "exit",
+ "activityDescription": "Darjeelin est un comparateur de billets d'avion qui repose sur le crowdsourcing : une communauté d'experts en voyage (les « flight hackers ») se font concurrence pour trouver le meilleur prix pour chaque demande de trajet.",
+ "statusDetails": "Darjeelin a été racheté le 17 septembre 2014 par L'Officiel des Vacances, filiale du groupe Voyage Privé, qui a intégré les technologies de crowdsourcing de la startup à sa propre plateforme ; le montant de la transaction n'a pas été divulgué et le site darjeelin.com n'est plus en ligne aujourd'hui.",
+ "acquirer": "L'Officiel des Vacances (groupe Voyage Privé)",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.maddyness.com/2013/05/29/darjeelin-billet-avion-moins-cher/",
+   "titre": "[Interview] Darjeelin, la solution de crowdsourcing pour trouver des billets d'avion moins cher",
+   "annee": "2013",
+   "soutient": ["identity", "cohort", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/atelier-numerique-bfm-business-la-chronique-start-up-de-frenchweb-50-darjeelin/93125",
+   "titre": "[Atelier numérique – BFM Business] La chronique start-up de Frenchweb #50 : Darjeelin",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/e-tourisme-5-startups-pour-2013/105370",
+   "titre": "E-tourisme : 5 startups à suivre en 2013",
+   "annee": "2013",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2014/09/17/darjeelin-acquired/",
+   "titre": "Darjeelin acquired (TechCrunch)",
+   "annee": "2014",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/09/17/darjeelin-officiel-des-vacances-groupe-voyage-prive/",
+   "titre": "Darjeelin se fait racheter par l'Officiel des vacances, filiale du Groupe Voyage Privé",
+   "annee": "2014",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être localisé pour Charles Guilhamon ni pour Hugo Bailey : les moteurs de recherche accessibles depuis cette session (Google, Bing, DuckDuckGo, Yandex, Mojeek, Startpage, Marginalia) ont tous renvoyé des CAPTCHA, des erreurs 403 ou des résultats hors sujet, et l'outil WebSearch avait épuisé son quota de session.",
+  "web.archive.org est totalement inaccessible depuis l'outil WebFetch de cette session (erreur systématique 'Claude Code is unable to fetch from web.archive.org') : impossible de consulter la Wayback Machine pour confirmer l'historique de captures de darjeelin.com ou les pages de cohortes archivées de lecamping.org / numa.co. Cette vérification devra être refaite dans un environnement où archive.org est joignable.",
+  "TechCrunch mentionne le départ du CTO au moment du rachat sans le nommer, tandis que l'article Maddyness cite une déclaration conjointe des deux cofondateurs (Guilhamon et Bailey) lors de l'annonce du rachat — il n'est pas certain que Hugo Bailey soit resté dans l'équipe après l'acquisition ou qu'il ait été ce CTO parti ; aucune source ne tranche formellement ce point.",
+  "Aucune fiche de registre du commerce (societe.com, pappers.fr) n'a pu être consultée avec succès pour confirmer la radiation formelle de la société Darjeelin SAS."
+ ],
+ "summary": "Le rattachement à la saison 4 du Camping, l'identité de la startup, son statut d'exit et son acquéreur (L'Officiel des Vacances / groupe Voyage Privé, le 17 septembre 2014) sont solidement confirmés par plusieurs articles de presse indépendants (Maddyness x3, Frenchweb x2, TechCrunch). La correction principale porte sur les fondateurs : la fiche ne mentionnait que Charles Guilhamon, alors que la presse (Frenchweb dès janvier 2013, Maddyness lors du rachat en 2014) identifie deux cofondateurs, diplômés d'ESSEC, Charles Guilhamon et Hugo Bailey. Aucun profil LinkedIn n'a pu être retrouvé pour l'un ou l'autre en raison de restrictions d'accès aux moteurs de recherche pendant cette session ; le site darjeelin.com ne répond plus (erreur 503), ce qui est cohérent avec un rachat suivi d'une intégration à la plateforme de l'acquéreur."
+}

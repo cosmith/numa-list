@@ -1,0 +1,71 @@
+{
+  "id": "s4-auticiel",
+  "name": "Auticiel",
+  "season": 4,
+  "checkedAt": "2026-08-22",
+  "verdict": "verified",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {},
+  "founders": [
+    {
+      "name": "Sarah Cherruault",
+      "linkedin": "https://fr.linkedin.com/in/sarahcherruault"
+    },
+    {
+      "name": "François Dupayrat",
+      "linkedin": "https://www.linkedin.com/in/fran%C3%A7ois-dupayrat-b0686a61/"
+    }
+  ],
+  "status": "active",
+  "activityDescription": "Auticiel conçoit des applications numériques ludiques sur tablette et smartphone (suite Amikeo) destinées à développer l'autonomie et l'inclusion sociale des enfants et adultes présentant un handicap cognitif ou mental (autisme, déficience intellectuelle, troubles neurodéveloppementaux).",
+  "statusDetails": "Entreprise Solidaire d'Utilité Sociale (ESUS depuis avril 2018) toujours en activité en 2026 : site web opérationnel, boutique en ligne active, partenariats avec plus de 100 établissements médico-sociaux et scolaires en France ; dernière communication publique de blog identifiée datant de 2022, mais aucune trace de cessation, radiation ou rachat.",
+  "website": "https://auticiel.com",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+      "titre": "Le Camping dévoile ses nouveaux campeurs",
+      "annee": "2013",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.presse-citron.net/la-start-up-francaise-de-la-semaine-auticiel/",
+      "titre": "[La Start-Up française de la Semaine] : Auticiel",
+      "annee": "2013",
+      "soutient": ["founders", "identity", "cohort"]
+    },
+    {
+      "url": "https://auticiel.com/about/",
+      "titre": "Qui sommes-nous ? - Auticiel",
+      "annee": "2026",
+      "soutient": ["identity", "status", "founders"]
+    },
+    {
+      "url": "https://auticiel.com",
+      "titre": "Site officiel Auticiel (consulté en 2026)",
+      "annee": "2026",
+      "soutient": ["status", "identity"]
+    },
+    {
+      "url": "https://auticiel.com/blog/interview-de-francois-dupayrat-directeur-technique-dauticiel",
+      "titre": "Interview de François Dupayrat, directeur technique d'Auticiel",
+      "annee": "n.d.",
+      "soutient": ["founders"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/auticiel",
+  "openQuestions": [
+    "L'accès à web.archive.org a été bloqué par le proxy de l'environnement pendant cette vérification (impossible de récupérer les captures CDX ou les snapshots historiques d'auticiel.com ou de lecamping.org/numa.co) ; l'identité et le produit de la saison 4 ont donc été confirmés via la presse contemporaine (Maddyness, Presse-Citron) et le site actuel plutôt que via l'archive.",
+    "Laurent Pipitone est décrit par plusieurs sources (WeLoveDevs, bestinfopoint) comme 'COO, Co-founder' d'Auticiel, mais d'autres sources indiquent qu'il a rejoint l'entreprise fin 2014, soit après le passage par Le Camping (saison 4, 2013) porté par Sarah Cherruault et François Dupayrat. Il n'a donc pas été ajouté à la liste des fondateurs d'origine, mais son rôle de co-fondateur ultérieur mériterait d'être documenté séparément si la fiche devait un jour distinguer 'fondateurs à l'entrée en accélérateur' et 'équipe fondatrice élargie actuelle'.",
+    "Aucune levée de fonds ni actualité presse récente (2023-2026) n'a été trouvée ; le dernier article de blog identifié sur auticiel.com date de 2022. Le statut actif repose sur le site web opérationnel et la liste de partenariats, pas sur une actualité récente."
+  ],
+  "summary": "Tous les champs de la fiche Auticiel (saison 4, absence de pivot, fondateurs Sarah Cherruault et François Dupayrat, statut actif, site auticiel.com) sont confirmés par la presse de 2013 (Maddyness, Presse-Citron) et par le site officiel actuel, toujours en ligne en 2026. Aucune acquisition ni cessation d'activité n'a été trouvée. L'accès à web.archive.org a été bloqué techniquement pendant cette recherche, ce qui limite la vérification purement archivistique mais n'affaiblit pas la conclusion étant donné la convergence des sources contemporaines et actuelles."
+}

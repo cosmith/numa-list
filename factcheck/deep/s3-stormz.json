@@ -1,0 +1,71 @@
+{
+ "id": "s3-stormz",
+ "name": "Stormz",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Alexandre Eisenchteter" },
+  { "name": "François de Metz" }
+ ],
+ "status": "active",
+ "activityDescription": "Stormz est une plateforme française d'ateliers collaboratifs en ligne qui permet aux facilitateurs d'animer à distance ou en présentiel des sessions de brainstorming, de rétrospective et de prise de décision.",
+ "statusDetails": "Plateforme d'ateliers collaboratifs toujours en activité en 2026, opérée en France sous la société Stormz SASU, sans financement externe (entreprise autofinancée).",
+ "website": "https://stormz.me",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.clubic.com/pro/entrepreneur-et-creation-entreprise/actualite-527391-camping-bilan.html",
+   "titre": "Les start-up du Camping saison 3 ont terminé leur incubation",
+   "annee": "2012",
+   "soutient": ["cohort", "identity", "founders"]
+  },
+  {
+   "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+   "titre": "Supporting entrepreneurship in France at Le Camping",
+   "annee": "2012",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://about.stormz.me/fr/a-propos/",
+   "titre": "Les origines de Stormz",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://about.stormz.me/fr/",
+   "titre": "Stormz - site officiel",
+   "annee": "2026",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://wellfound.com/company/stormz/people",
+   "titre": "Stormz - people (Wellfound)",
+   "annee": "2026",
+   "soutient": ["founders"]
+  },
+  {
+   "url": "https://www.pappers.fr/entreprise/stormz-750296741",
+   "titre": "STORMZ - fiche registre (Pappers / RNE-BODACC)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/stormz",
+ "openQuestions": [
+  "Impossible d'accéder à web.archive.org dans cet environnement (connexion bloquée par le proxy réseau) : les captures d'archive du domaine stormz.me pour 2012-2013 n'ont pas pu être consultées directement lors de cet audit. L'identité, la cohorte et les fondateurs sont néanmoins bien corroborés par la presse contemporaine (Clubic, 2012) et par des sources officielles/registre.",
+  "Les moteurs de recherche web (Google, Bing, DuckDuckGo, Qwant) ont bloqué les requêtes automatisées (CAPTCHA ou pages vides) et le quota WebSearch de la session était épuisé : aucune URL LinkedIn personnelle (linkedin.com/in/...) n'a pu être trouvée pour Alexandre Eisenchteter ni pour François de Metz lors de cet audit ; seule la page LinkedIn de l'entreprise a pu être consultée.",
+  "La page LinkedIn de l'entreprise et le site officiel mentionnent une équipe actuelle (Roxane, Paul, Jérémy Julien-Laferriere, Ayobami Fajemilehin) mais rien n'indique qu'il s'agisse de cofondateurs de 2012 ; ce sont vraisemblablement des collaborateurs actuels, pas des fondateurs additionnels."
+ ],
+ "summary": "Stormz (saison 3, ~2012) est confirmée par la presse de l'époque (Clubic) comme startup B2B de travail collaboratif en temps réel du Camping, fondée par Alexandre Eisenchteter, avec François de Metz comme cofondateur (corroboré par Wellfound et le registre Pappers/RNE-BODACC, déjà noté dans l'audit batch-01). L'entreprise est toujours active en 2026 sous forme de Stormz SASU, autofinancée, opérant la plateforme d'ateliers collaboratifs stormz.me/about.stormz.me. Aucune correction supplémentaire n'est nécessaire par rapport à data.json actuel ; les profils LinkedIn individuels des fondateurs n'ont toutefois pas pu être localisés faute d'accès aux moteurs de recherche et à web.archive.org dans cet environnement."
+}

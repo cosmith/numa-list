@@ -1,0 +1,108 @@
+{
+ "id": "s3-lima",
+ "name": "Lima",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified",
+  "activityDescription": "corrected"
+ },
+ "corrections": {
+  "activityDescription": {
+   "avant": null,
+   "apres": "Lima est un boîtier qui transforme un disque dur externe branché à la box internet en cloud personnel, permettant d'accéder à tous ses fichiers depuis n'importe quel ordinateur, tablette ou smartphone sans payer d'abonnement de stockage.",
+   "preuves": [
+    "https://www.journaldunet.com/start-up/1131250-le-boitier-lima-unifie-la-memoire-de-tous-vos-appareils/",
+    "https://www.maddyness.com/2013/09/30/lima-severin-marcombes/"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Séverin Marcombes",
+   "linkedin": "https://www.linkedin.com/in/marcombes/"
+  },
+  {
+   "name": "Gawen Arab",
+   "linkedin": "https://fr.linkedin.com/in/gawenarab"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Lima est un boîtier qui transforme un disque dur externe branché à la box internet en cloud personnel, permettant d'accéder à tous ses fichiers depuis n'importe quel ordinateur, tablette ou smartphone sans payer d'abonnement de stockage.",
+ "statusDetails": "Après une campagne Kickstarter record (1,2 M$ en 2013) et une levée de 2,5 M$ auprès de Partech, la société Lima (env. 60 salariés, 80 000 clients) a fermé début 2019 par liquidation faute de financement, sans repreneur ni acquéreur ; ce n'était pas une acquisition.",
+ "archiveEvidence": [
+  {
+   "url": "N/A — web.archive.org inaccessible depuis cet environnement",
+   "montre": "Le proxy réseau de cet environnement bloque systématiquement web.archive.org (connexion réinitialisée sur toutes les tentatives via WebFetch et curl, y compris sur la racine du domaine, alors que archive.org répond). Le point (a) de la méthodologie (CDX + snapshots) n'a donc pas pu être exécuté malgré plusieurs tentatives ciblant meetlima.com et forgetbox.com. À la place, l'état actuel du domaine historique meetlima.com a été vérifié en direct : le site répond encore mais son contenu produit d'origine (« Meet Lima – The Cloud That Respects Your Privacy ») est aujourd'hui noyé sous des centaines de liens de spam/casino, signe d'un domaine abandonné puis détourné — cohérent avec l'arrêt de la société en 2019."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/09/30/lima-severin-marcombes/",
+   "titre": "\"Lima n'est pas seulement un projet Kickstarter\" — Séverin Marcombes, CEO de Lima",
+   "annee": "2013",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.journaldunet.com/start-up/1131250-le-boitier-lima-unifie-la-memoire-de-tous-vos-appareils/",
+   "titre": "Le boîtier Lima unifie la mémoire de tous vos appareils",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.itespresso.fr/lima-start-up-french-tech-premier-noel-113075.html/amp",
+   "titre": "Lima : comment cette start-up de la French Tech prépare son premier Noël",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "http://www.surfandbiz.com/article/forgetbox-partage-fichiers-simplicite.htm",
+   "titre": "De ForgetBox à Lima, le partage de fichiers en toute simplicité",
+   "annee": "2013",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.journaldugeek.com/2019/02/16/service-de-stockage-personnel-lima-ferme-portes/",
+   "titre": "Le service de stockage personnel Lima ferme ses portes",
+   "annee": "2019",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/2019/02/lima-cloud-personnel-fermeture/",
+   "titre": "Lima, la start-up française au routeur cloud personnel, met la clé sous la porte",
+   "annee": "2019",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.clubic.com/pro/actualite-e-business/investissement/actualite-850875-clap-fin-lima-projet-cloud-personnel-malgre-souleve-kickstarter.html",
+   "titre": "Lima : c'est terminé pour le projet de cloud personnel malgré son kickstarter réussi",
+   "annee": "2019",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2022/09/14/severin-marcombes-lima-creative-robots/",
+   "titre": "Dix ans après : que devient Séverin Marcombes, le fondateur de Lima ?",
+   "annee": "2022",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/10/20/maddystory-lima-success-story-francaise-vie-dure-cloud/",
+   "titre": "Où en est Lima, la success-story française du cloud ?",
+   "annee": "2016",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "openQuestions": [
+  "web.archive.org est bloqué par le proxy réseau de cet environnement (échec sur toutes les requêtes, y compris la racine du domaine) : le point méthodologique (a) — CDX + snapshots archivés du site et des pages de cohorte Le Camping — n'a pas pu être vérifié directement et devrait être refait dès qu'un accès à l'Internet Archive sera disponible.",
+  "Aucune page LinkedIn officielle d'entreprise (linkedin.com/company/...) n'a été retrouvée pour Lima/ForgetBox ; seules des pages Crunchbase (organization/meetlima) et le domaine meetlima.com (aujourd'hui détourné par du spam) ont été identifiés.",
+  "Le nom complet de Gawen Arab apparaît aussi sous la forme « Gawen Arab-Laffon » dans certaines sources ; les deux formes désignent la même personne (son profil LinkedIn utilise le handle gawenarab)."
+ ],
+ "summary": "Lima (ex-ForgetBox), saison 3 du Camping, est intégralement confirmée par la presse contemporaine (2012-2013) et rétrospective (2016, 2019, 2022) : cohorte, nom, pivot ForgetBox→Lima, les deux fondateurs Séverin Marcombes et Gawen Arab (déjà corrigés dans data.json lors de l'audit batch-01), et le statut « stopped » (liquidation début 2019 faute de financement, sans acquéreur, ~60 salariés et 80 000 clients au moment de la fermeture). Aucune correction de fond n'est nécessaire par rapport à data.json ; seule une phrase de description d'activité (absente du champ optionnel activityDescription) est ajoutée. L'accès à web.archive.org était bloqué dans cet environnement malgré plusieurs tentatives ; la vérification en direct du domaine meetlima.com (aujourd'hui squatté par du spam) corrobore néanmoins l'arrêt du service."
+}

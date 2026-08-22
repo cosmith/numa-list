@@ -1,0 +1,100 @@
+{
+ "id": "s3-whale-street",
+ "name": "Whale Street",
+ "season": 3,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "unverifiable",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Société dissoute puis radiée du RCS de Paris en août 2016.",
+   "apres": "Société dissoute (cessation d'activité) le 11 juillet 2016 ; Michaël Journo nommé liquidateur le 24 août 2016 ; radiation du RCS de Paris publiée au BODACC le 1er septembre 2016.",
+   "preuves": [
+    "https://www.societe.com/societe/whale-street-532675113.html"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Michaël Journo",
+   "linkedin": "https://fr.linkedin.com/in/micha%C3%ABl-journo-2368a929"
+  },
+  {
+   "name": "Arthur Prat-Carrabin",
+   "linkedin": "https://www.linkedin.com/in/arthurpratcarrabin/"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "Whale Street est une start-up qui analyse les réseaux sociaux et le web afin d'en extraire des signaux exploités par les professionnels des marchés financiers.",
+ "statusDetails": "Société dissoute (cessation d'activité) le 11 juillet 2016 ; Michaël Journo nommé liquidateur le 24 août 2016 ; radiation du RCS de Paris publiée au BODACC le 1er septembre 2016.",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/web/20130719201544/http://whalestreet.com/",
+   "montre": "Wayback Machine confirme une capture du site whalestreet.com le 19 juillet 2013 (statut HTTP 200 lors de l'archivage), période compatible avec l'incubation en saison 3 de Le Camping. Le contenu détaillé de la capture n'a pas pu être récupéré dans cette session car l'outil de récupération web est bloqué sur le domaine web.archive.org ; seule l'API de disponibilité (archive.org/wayback/available) a pu être interrogée."
+  },
+  {
+   "url": "https://whalestreet.com/",
+   "montre": "Le domaine historique renvoie aujourd'hui une erreur HTTP 503 (site non en ligne), cohérent avec l'arrêt de l'activité constaté au registre du commerce."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/supporting-entrepreneurship-in-france/",
+   "titre": "Supporting entrepreneurship in France at Le Camping",
+   "annee": "2018 (rétrospective)",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://www.f6s.com/company/whalestreet",
+   "titre": "Whale Street - Finance company in France",
+   "annee": "n.d.",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.cbinsights.com/company/whale-street-1",
+   "titre": "Whale Street - Products, Competitors, Financials, Employees, Headquarters Locations",
+   "annee": "n.d.",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/whale-street-532675113.html",
+   "titre": "Société WHALE STREET à PARIS (75005)",
+   "annee": "2026 (consultation)",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://arthurprat.com/pdfs/CV%20-%20Arthur%20Prat-Carrabin.pdf",
+   "titre": "CV d'Arthur Prat-Carrabin",
+   "annee": "2026 (CV à jour)",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/whale-street",
+   "titre": "Whale Street - page entreprise LinkedIn",
+   "annee": "n.d.",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://www.bodacc.fr/telechargements/COMMERCIALES/PDF/A/BODACC-A_20110122_0001_p000.pdf",
+   "titre": "Avis de constitution de Whale Street",
+   "annee": "2011",
+   "soutient": ["founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/whale-street",
+ "openQuestions": [
+  "La date de création officielle (RCS) de la société est le 1er mai 2011, soit environ un an avant le déroulement présumé de la saison 3 de Le Camping (été-automne 2012, la promotion ayant terminé son incubation fin novembre 2012 selon Clubic) ; il est possible que Whale Street existait déjà juridiquement avant d'intégrer l'accélérateur, ce qui n'est pas incohérent mais mérite d'être noté.",
+  "Le profil LinkedIn de Michaël Journo (fr.linkedin.com/in/michaël-journo-2368a929) n'a pas pu être re-vérifié directement dans cette session (LinkedIn bloque la récupération automatisée, HTTP 999) ; il provient de l'audit précédent (batch-01.json) et n'a pas été contredit par les recherches menées ici.",
+  "Aucune trace d'une acquisition, d'une levée de fonds significative après l'accélération, ou d'un pivot/changement de nom n'a été trouvée : le statut 'stopped' (dissolution/liquidation simple) semble être la conclusion correcte plutôt qu'une sortie ('exit').",
+  "Le contenu détaillé du site archivé (whalestreet.com, capture de juillet 2013) n'a pas pu être consulté dans cette session car web.archive.org est inaccessible à l'outil de récupération web utilisé ; seule l'existence de la capture a pu être confirmée via l'API de disponibilité."
+ ],
+ "summary": "Fiche globalement fiable. La promotion (saison 3 de Le Camping, 2012), le nom, les deux fondateurs (Michaël Journo, Arthur Prat-Carrabin) et l'arrêt de l'activité sont confirmés par de multiples sources indépendantes (F6S, CBInsights, CV primaire d'Arthur Prat-Carrabin, registre du commerce via societe.com, page entreprise LinkedIn, avis BODACC de constitution). La seule correction apportée concerne la précision des dates de fin de vie de la société : la dissolution/cessation d'activité date du 11 juillet 2016 et la radiation effective du RCS (publiée au BODACC) du 1er septembre 2016, et non 'août 2016' comme indiqué initialement. Aucun ancien nom, pivot ou acquéreur n'a été identifié ; le site whalestreet.com est aujourd'hui hors ligne (HTTP 503)."
+}
