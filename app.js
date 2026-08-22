@@ -50,14 +50,17 @@ const makeFoundersHtml = (startup) => {
 const makeDetails = (startup) => {
   const refs = [];
   // Références numérotées façon Wikipédia, dédupliquées par URL, 3 max.
-  const refLink = (url) => {
+  // Une source est une URL ou un objet enrichi { url, title, … }.
+  const refLink = (source) => {
+    const url = typeof source === "string" ? source : source?.url;
     if (!url) return "";
     let index = refs.indexOf(url);
     if (index === -1) {
       if (refs.length >= 3) return "";
       index = refs.push(url) - 1;
     }
-    return `<sup class="detail-ref"><a href="${escapeHtml(url)}" target="_blank" rel="noreferrer" aria-label="Source ${index + 1}">[${index + 1}]</a></sup>`;
+    const displayUrl = url.replace(/^https?:\/\//, "");
+    return `<sup class="detail-ref"><a href="${escapeHtml(url)}" data-url="${escapeHtml(displayUrl)}" target="_blank" rel="noreferrer" aria-label="Source ${index + 1}">[${index + 1}]</a></sup>`;
   };
 
   const description = startup.statusDetails || "Information non documentée.";

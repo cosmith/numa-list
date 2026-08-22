@@ -6,8 +6,8 @@
   --rule: #aaa398;
   --magenta: #cf0065;
   --blue: #0759c7;
-  --display: Rockwell, "Rockwell Nova", "Roboto Slab", Georgia, serif;
-  --body: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --display: "Archivo Black", Archivo, "Arial Black", sans-serif;
+  --body: Archivo, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -75,9 +75,9 @@ h2,
 h1 {
   flex: 1 1 auto;
   margin: 0;
-  font-size: clamp(4rem, 7.8vw, 8rem);
-  font-weight: 900;
-  letter-spacing: -0.055em;
+  font-size: clamp(3.4rem, 7vw, 7rem);
+  font-weight: 400;
+  letter-spacing: -0.02em;
   line-height: 0.84;
   text-transform: uppercase;
   animation: register-in 560ms cubic-bezier(.2,.8,.2,1) both;
@@ -98,7 +98,7 @@ h1 span {
   color: var(--magenta);
   font-family: var(--display);
   font-size: clamp(1rem, 1.5vw, 1.35rem);
-  font-weight: 800;
+  font-weight: 400;
   line-height: 1.1;
   transform: rotate(-3deg);
   animation: stamp-in 480ms 260ms cubic-bezier(.2,.8,.2,1) both;
@@ -106,8 +106,8 @@ h1 span {
 
 .lede {
   margin: clamp(2rem, 4vw, 3.5rem) 0 0;
-  font-family: Georgia, serif;
-  font-size: clamp(1.2rem, 2vw, 1.75rem);
+  font-family: var(--body);
+  font-size: clamp(1.15rem, 1.9vw, 1.6rem);
 }
 
 .lede span {
@@ -132,9 +132,10 @@ h1 span {
 .disclaimer strong {
   color: var(--magenta);
   font-family: var(--display);
+  font-weight: 400;
 }
 
-.disclaimer a { font-weight: 800; }
+.disclaimer a { font-weight: 700; }
 
 .search-wrap {
   position: relative;
@@ -198,7 +199,7 @@ h1 span {
 }
 
 .filter:first-child { padding-left: 0; }
-.filter span { margin-left: 0.35rem; font-family: var(--display); }
+.filter span { margin-left: 0.35rem; font-family: var(--display); font-weight: 400; }
 
 .filter::after {
   content: "";
@@ -247,7 +248,8 @@ h1 span {
   margin: 0 0 0.65rem;
   color: var(--muted);
   font-family: var(--display);
-  font-size: 0.88rem;
+  font-size: 0.82rem;
+  font-weight: 400;
 }
 
 .list-head,
@@ -262,7 +264,7 @@ h1 span {
   min-height: 50px;
   border-top: 3px solid var(--ink);
   border-bottom: 2px solid var(--ink);
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .startup-entry { border-bottom: 1px solid var(--rule); }
@@ -297,11 +299,11 @@ h1 span {
   padding-left: 0.75rem;
   font-family: var(--display);
   font-size: 0.9rem;
-  font-weight: 800;
+  font-weight: 400;
   font-variant-numeric: tabular-nums;
 }
 
-.startup-name { font-size: clamp(1.1rem, 1.5vw, 1.45rem); }
+.startup-name { font-size: clamp(1.1rem, 1.5vw, 1.45rem); font-weight: 400; }
 .startup-mobile-meta { display: none; }
 .startup-season,
 .startup-status { font-size: 0.95rem; }
@@ -339,8 +341,8 @@ h1 span {
 .detail-lead {
   margin: 0;
   max-width: 56ch;
-  font-family: Georgia, serif;
-  font-size: clamp(1.2rem, 1.6vw, 1.44rem);
+  font-family: var(--body);
+  font-size: clamp(1.15rem, 1.5vw, 1.35rem);
   line-height: 1.35;
 }
 
@@ -368,7 +370,7 @@ h1 span {
   color: var(--muted);
   font-family: var(--display);
   font-size: 0.7rem;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -383,7 +385,28 @@ h1 span {
 
 .detail-value a:hover { text-decoration-color: var(--magenta); }
 
-.detail-ref { line-height: 0; }
+.detail-ref { position: relative; line-height: 0; }
+
+.detail-ref a::after {
+  content: attr(data-url);
+  position: absolute;
+  bottom: calc(100% + 5px);
+  left: 0;
+  z-index: 10;
+  display: none;
+  max-width: 340px;
+  padding: 0.3rem 0.55rem;
+  overflow: hidden;
+  background: var(--ink);
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.detail-ref a:hover::after,
+.detail-ref a:focus-visible::after { display: block; }
 
 .detail-ref a {
   color: var(--blue);
@@ -407,7 +430,7 @@ h1 span {
   text-align: center;
 }
 
-.empty-state p { font-family: var(--display); font-size: 1.4rem; }
+.empty-state p { font-family: var(--display); font-size: 1.4rem; font-weight: 400; }
 .empty-state button,
 .contribute-link {
   display: inline-flex;
@@ -419,7 +442,7 @@ h1 span {
   background: var(--ink);
   color: white;
   cursor: pointer;
-  font-weight: 800;
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -435,7 +458,7 @@ h1 span {
 }
 
 .about div { max-width: 760px; }
-.about p { font-family: Georgia, serif; font-size: 1.2rem; }
+.about p { font-size: 1.15rem; }
 .contribute-link { margin-top: 1rem; font-family: var(--body); }
 
 footer {
@@ -462,8 +485,8 @@ footer p { margin: 0; }
 }
 
 @keyframes register-in {
-  from { opacity: 0; transform: translateY(22px); letter-spacing: -0.02em; }
-  to { opacity: 1; transform: none; letter-spacing: -0.055em; }
+  from { opacity: 0; transform: translateY(22px); letter-spacing: 0; }
+  to { opacity: 1; transform: none; letter-spacing: -0.02em; }
 }
 
 @keyframes stamp-in {
