@@ -1,8 +1,8 @@
-# Camping
+Liste des startups passées par Le Camping / NUMA Paris entre 2011 et 2016.
 
-Une archive ouverte des startups passées par Le Camping / NUMA Paris entre 2011 et 2016.
+Les données ont été récoltées par mes agents avec plusieurs rounds de fact checking mais c'est encore assez approximatif !
 
-Le site est volontairement simple : HTML, CSS, JavaScript natif et un fichier JSON.
+Je n'ai pas d'association avec NUMA, c'est un site collaboratif.
 
 ## Lancer le site localement
 
@@ -15,7 +15,3 @@ Puis ouvrir `http://localhost:4173`.
 ## Corriger les données
 
 Les données sont dans [`data.json`](data.json). Les corrections et compléments sont les bienvenus via une pull request.
-
-## Hébergement
-
-Le site est publié sur `numa.cosmith.fr`.
