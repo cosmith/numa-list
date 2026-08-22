@@ -7,8 +7,8 @@
     <meta name="theme-color" content="#f5f0e6">
     <title>Ce qu'ils sont devenus — Le Camping / NUMA Paris</title>
     <link rel="icon" href="data:,">
-    <link rel="stylesheet" href="styles.css?v=20260822-3">
-    <script src="app.js?v=20260822-3" defer></script>
+    <link rel="stylesheet" href="styles.css?v=20260822-4">
+    <script src="app.js?v=20260822-4" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#directory">Aller à la liste</a>
@@ -98,18 +98,19 @@
 
     <template id="startup-template">
       <article class="startup-entry">
-        <button class="startup-row" type="button" aria-expanded="false">
+        <div class="startup-row">
           <span class="startup-index"></span>
           <span class="startup-identity">
-            <strong class="startup-name"></strong>
+            <button class="startup-toggle" type="button" aria-expanded="false">
+              <strong class="startup-name"></strong>
+            </button>
             <small class="startup-mobile-meta"></small>
           </span>
           <span class="startup-season"></span>
           <span class="startup-founders"></span>
           <span class="startup-status"></span>
-          <span class="details-label">Voir</span>
-        </button>
-        <div class="startup-founder-profiles" hidden></div>
+          <span class="details-label" aria-hidden="true">Voir</span>
+        </div>
         <div class="startup-details" hidden></div>
       </article>
     </template>

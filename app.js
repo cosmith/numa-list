@@ -23,63 +23,59 @@ const escapeHtml = (value = "") => String(value)
   .replaceAll('"', "&quot;")
   .replaceAll("'", "&#039;");
 
-const detailItem = (label, value, className = "") => {
-  if (!value) return "";
-  return `<div class="detail-item ${className}"><span class="detail-label">${escapeHtml(label)}</span><p class="detail-value">${value}</p></div>`;
-};
-
 const sourceLink = (url, label) => {
   if (!url) return "";
   return `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
 };
 
-const makeActivity = (startup) => {
-  const description = startup.activityDescription
-    || (startup.status === "active" ? startup.statusDetails : "");
-
-  return description
-    ? detailItem("Activité", escapeHtml(description), "detail-wide activity-item")
-    : "";
+const formatDate = (iso) => {
+  if (!iso) return "";
+  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", year: "numeric" })
+    .format(new Date(`${iso}T00:00:00`));
 };
 
-const makeStatusEvent = (startup) => {
-  const labels = { exit: "Acquisition", stopped: "Stoppé" };
-  if (!labels[startup.status]) return "";
-
-  const source = sourceLink(startup.sources?.foundersOrStatus, "Source");
-  const sourceSuffix = source ? `<span class="detail-source">${source}</span>` : "";
-  const description = escapeHtml(startup.statusDetails || "Information non documentée.");
-
-  return detailItem(
-    labels[startup.status],
-    `<span>${description}</span>${sourceSuffix}`,
-    "detail-wide status-event",
-  );
+const metaGroup = (label, value, className = "") => {
+  if (!value) return "";
+  return `<div class="detail-group ${className}"><span class="detail-label">${escapeHtml(label)}</span><p class="detail-value">${value}</p></div>`;
 };
 
-const makeFounderProfileLinks = (startup) => startup.founderProfiles
-  ?.map(({ name, linkedin }) => sourceLink(linkedin, name))
-  .filter(Boolean)
-  .join(" · ") || "";
+const makeFoundersHtml = (startup) => {
+  if (!startup.founders?.length) return escapeHtml("Non identifiés");
+  const profiles = new Map((startup.founderProfiles || []).map(({ name, linkedin }) => [name, linkedin]));
+  return startup.founders
+    .map((name) => (profiles.get(name) ? sourceLink(profiles.get(name), name) : escapeHtml(name)))
+    .join(", ");
+};
 
 const makeDetails = (startup) => {
+  const description = startup.statusDetails || "Information non documentée.";
+  const statusSource = sourceLink(startup.sources?.foundersOrStatus, "Source");
+  const lead = `<p class="detail-lead"><strong>${escapeHtml(startup.statusLabel)}.</strong> ${escapeHtml(description)}${statusSource ? ` ${statusSource}` : ""}</p>`;
+
+  const activity = startup.activityDescription && startup.activityDescription !== startup.statusDetails
+    ? `<p class="detail-activity">${escapeHtml(startup.activityDescription)}</p>`
+    : "";
+
   const pivots = startup.formerNamesOrPivots?.length
     ? startup.formerNamesOrPivots.map(escapeHtml).join(", ")
-    : "—";
+    : "";
   const website = startup.website
     ? sourceLink(startup.website, startup.website.replace(/^https?:\/\//, "").replace(/\/$/, ""))
-    : "—";
-  const selectionSource = sourceLink(startup.sources?.cohort, "Source de la sélection");
-  const founderProfiles = makeFounderProfileLinks(startup);
+    : "";
+  const cohortSource = sourceLink(startup.sources?.cohort, "Source");
+  const selection = `Saison ${String(startup.season).padStart(2, "0")}${cohortSource ? ` · ${cohortSource}` : ""}`;
+  const verification = [
+    startup.confidenceLabel ? `Confiance ${escapeHtml(startup.confidenceLabel.toLocaleLowerCase("fr"))}` : "",
+    startup.statusAsOf ? `vérifié le ${escapeHtml(formatDate(startup.statusAsOf))}` : "",
+  ].filter(Boolean).join(" · ");
 
-  return `<div class="detail-grid">
-    ${selectionSource ? `<div class="selection-source">${selectionSource}</div>` : ""}
-    ${makeActivity(startup)}
-    ${makeStatusEvent(startup)}
-    ${detailItem("Ancien nom / pivot", pivots)}
-    ${detailItem("Site web", website)}
-    ${detailItem("LinkedIn des fondateurs", founderProfiles)}
-    ${detailItem("Niveau de confiance", escapeHtml(startup.confidenceLabel || "Non renseigné"))}
+  return `${lead}
+  ${activity}
+  <div class="detail-meta">
+    ${metaGroup("Ancien nom / pivot", pivots)}
+    ${metaGroup("Site web", website)}
+    ${metaGroup("Sélection", selection)}
+    ${metaGroup("Vérification", verification, "detail-verification")}
   </div>`;
 };
 
@@ -106,30 +102,27 @@ const render = () => {
     const fragment = template.content.cloneNode(true);
     const article = fragment.querySelector(".startup-entry");
     const row = fragment.querySelector(".startup-row");
-    const founderProfileRow = fragment.querySelector(".startup-founder-profiles");
+    const toggle = fragment.querySelector(".startup-toggle");
     const details = fragment.querySelector(".startup-details");
     const index = state.startups.indexOf(startup) + 1;
-    const founders = startup.founders?.length ? startup.founders.join(", ") : "Non identifiés";
+    const foundersHtml = makeFoundersHtml(startup);
 
     article.dataset.id = startup.id;
-    row.setAttribute("aria-controls", `details-${startup.id}`);
+    toggle.setAttribute("aria-controls", `details-${startup.id}`);
     details.id = `details-${startup.id}`;
     fragment.querySelector(".startup-index").textContent = String(index).padStart(3, "0");
     fragment.querySelector(".startup-name").textContent = startup.name;
     fragment.querySelector(".startup-season").textContent = `Saison ${String(startup.season).padStart(2, "0")}`;
-    fragment.querySelector(".startup-founders").textContent = founders;
+    fragment.querySelector(".startup-founders").innerHTML = foundersHtml;
     fragment.querySelector(".startup-status").textContent = startup.statusLabel;
-    fragment.querySelector(".startup-mobile-meta").textContent = `Saison ${String(startup.season).padStart(2, "0")} · ${founders}`;
-    const founderProfileLinks = makeFounderProfileLinks(startup);
-    if (founderProfileLinks) {
-      founderProfileRow.innerHTML = `<span class="founder-profile-label">LinkedIn</span><span class="founder-profile-links">${founderProfileLinks}</span>`;
-      founderProfileRow.hidden = false;
-    }
+    fragment.querySelector(".startup-mobile-meta").innerHTML = `Saison ${String(startup.season).padStart(2, "0")} · ${foundersHtml}`;
     details.innerHTML = makeDetails(startup);
 
-    row.addEventListener("click", () => {
-      const isOpen = row.getAttribute("aria-expanded") === "true";
-      row.setAttribute("aria-expanded", String(!isOpen));
+    row.addEventListener("click", (event) => {
+      if (event.target.closest("a")) return;
+      const isOpen = toggle.getAttribute("aria-expanded") === "true";
+      toggle.setAttribute("aria-expanded", String(!isOpen));
+      article.classList.toggle("is-open", !isOpen);
       row.querySelector(".details-label").textContent = isOpen ? "Voir" : "Fermer";
       details.hidden = isOpen;
     });
