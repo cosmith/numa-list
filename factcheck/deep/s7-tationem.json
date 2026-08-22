@@ -1,0 +1,109 @@
+{
+ "id": "s7-tationem",
+ "name": "Tationem",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Vijaykant Nadadue" },
+    { "name": "Aravind Kamath" },
+    { "name": "Senthil Kumar" }
+   ],
+   "apres": [
+    { "name": "Vijaykant Nadadur" },
+    { "name": "Aravind Kamath" },
+    { "name": "Senthil Kumar" }
+   ],
+   "preuves": [
+    "https://lifebeyondnumbers.com/from-90-thousand-to-half-a-million-rupees-in-4-months-the-story-of-tationem/",
+    "https://tracxn.com/d/companies/tationem/",
+    "https://yourstory.com/2013/08/i-will-move-back-to-india-soon-after-my-stint-at-the-university-tationem"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Plateforme d'analyse de texte non retrouvée comme activité actuelle.",
+   "apres": "Le nom de domaine historique tationem.com n'appartient plus à la startup : il héberge en 2026 un site marketing chinois sans rapport (« 蘑菇加速器 », un service de VPN). Plusieurs bases de données de startups (CB Insights, Tracxn) qualifient Tationem d'entreprise arrêtée (« shutdown » / « deadpooled »). Aucune presse ni activité publique n'a été retrouvée après 2015-2016.",
+   "preuves": [
+    "https://tationem.com",
+    "https://www.cbinsights.com/company/tationem",
+    "https://tracxn.com/d/companies/tationem/",
+    "https://archive.org/wayback/available?url=tationem.com"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Vijaykant Nadadur" },
+  { "name": "Aravind Kamath" },
+  { "name": "Senthil Kumar" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Tationem est une startup indienne (Bangalore) de recherche et développement en analyse de texte, qui a conçu TexSIE, un outil d'analyse de sentiment basé sur son algorithme propriétaire SentiRank, pour aider les entreprises à exploiter leurs données textuelles non structurées.",
+ "statusDetails": "Le nom de domaine historique tationem.com n'appartient plus à la startup : il héberge en 2026 un site marketing chinois sans rapport (« 蘑菇加速器 », un service de VPN). Plusieurs bases de données de startups (CB Insights, Tracxn) qualifient Tationem d'entreprise arrêtée (« shutdown » / « deadpooled »). Aucune presse ni activité publique n'a été retrouvée après 2015-2016.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=tationem.com&timestamp=20150801",
+   "montre": "L'API de disponibilité de la Wayback Machine confirme une capture du site tationem.com le 19 août 2015 (http://web.archive.org/web/20150819044249/http://tationem.com:80/), pendant la saison 7 / NUMA Sprint."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=tationem.com",
+   "montre": "La capture la plus récente connue (mai 2026) correspond au site https://tationem.com/ actuel, qui est un site marketing chinois sans rapport ; l'historique de captures va de 2013 à 2025 en continu, sans preuve visible d'un contenu Tationem après 2016 (contenu des pages non consultable directement dans cette session, seule l'API de disponibilité a pu être interrogée : web.archive.org était bloqué par le proxy réseau)."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://yourstory.com/2013/08/i-will-move-back-to-india-soon-after-my-stint-at-the-university-tationem",
+   "titre": "I will move back to India soon after my stint at the university: Tationem",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://yourstory.com/2014/07/sentiment-tool-texsie/",
+   "titre": "Tationem's text sentiment analysis tool TexSIE",
+   "annee": "2014",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://lifebeyondnumbers.com/from-90-thousand-to-half-a-million-rupees-in-4-months-the-story-of-tationem/",
+   "titre": "From 90 Thousand To Half A Million Rupees In 4 Months: The Story Of Tationem",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.cbinsights.com/company/tationem",
+   "titre": "Tationem - Products, Competitors, Financials, Employees, Headquarters",
+   "annee": "2026 (fiche consultée)",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/tationem/",
+   "titre": "Tationem - Company Profile, Team & Competitors",
+   "annee": "2025-2026 (fiche consultée)",
+   "soutient": ["status", "founders"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/tationem",
+ "openQuestions": [
+  "web.archive.org (les pages de capture elles-mêmes, par opposition à l'API de disponibilité archive.org) était inaccessible dans cette session (bloqué par le proxy réseau) : impossible de lire le contenu exact des snapshots 2015 ou de confirmer visuellement une page listant les fondateurs sur le site d'époque.",
+  "Impossible de confirmer un profil LinkedIn personnel pour chacun des trois fondateurs (LinkedIn bloque les accès non authentifiés) ; seule la page entreprise LinkedIn a pu être repérée via un moteur de recherche tiers, avec une confiance modérée.",
+  "La fiche CB Insights mentionne un financement d'amorçage via Start-Up Chile, un accélérateur distinct de NUMA/Le Camping : à confirmer si Tationem a suivi plusieurs programmes (NUMA Sprint 2015 et Start-Up Chile), ce qui n'est pas contradictoire mais reste à documenter précisément.",
+  "Date exacte de l'arrêt d'activité de Tationem et date à laquelle le nom de domaine a changé de propriétaire non déterminées avec précision."
+ ],
+ "summary": "La promotion (saison 7, programme « NUMA Sprint » 2015) et l'identité de Tationem sont confirmées par la presse (Journal du Net) et par la description d'activité (plateforme d'analyse de texte / sentiment analysis, outil TexSIE). Les trois fondateurs indiens de la startup (basée à Bangalore, fondée en 2013) sont confirmés par deux articles de presse indépendants (YourStory, Life Beyond Numbers) : Vijaykant Nadadur (orthographe corrigée par rapport à « Nadadue »), Aravind Kamath et Senthil Kumar. Le statut « stopped » du dossier existant est confirmé et étayé : le nom de domaine historique tationem.com a été revendu et héberge désormais un site chinois sans rapport, et des bases de données de startups (CB Insights, Tracxn) qualifient l'entreprise d'arrêtée. Aucune preuve d'acquisition n'a été trouvée. Verdict global : corrected (correction de l'orthographe d'un fondateur et enrichissement du statut/de la description d'activité)."
+}

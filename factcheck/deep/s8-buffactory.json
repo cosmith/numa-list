@@ -1,0 +1,41 @@
+{
+ "id": "s8-buffactory",
+ "name": "Buffactory",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — Buffactory figure dans l'article Maddyness du 18/02/2016 « Découvrez les 17 jeunes pousses qui composent la nouvelle promotion du NUMA », qui couvre la 8e promotion.",
+  "name": "verified — le nom « Buffactory » est confirmé par Maddyness et correspond au nom déposé (SIREN 821325784).",
+  "formerNamesOrPivots": "verified_absent — aucune source (presse, archive) ne mentionne un nom antérieur ou un pivot ; le champ vide du dossier est correct.",
+  "founders": "unverifiable (statu quo) — je n'ai pas pu retrouver de nouvelle source primaire (LinkedIn, presse) confirmant Mikhail Zaitsev / Pierre Rodier / Rémi Gasnier ; la page de registre citée dans le dossier (entreprises.lefigaro.fr) est inaccessible aujourd'hui (403) et les moteurs de recherche ont tous été bloqués ou ont renvoyé des pages non pertinentes pendant cette vérification. Aucune source contradictoire trouvée non plus.",
+  "status": "verified (avec renforcement) — aucune actualité, levée de fonds ou activité postérieure à février 2016 n'a été retrouvée ; le nom de domaine buffactory.com, qui aurait hébergé le service original, appartient aujourd'hui à une société britannique sans rapport (« Buffactory Media LTD », ad-tech in-game, Londres), ce qui confirme que la startup française n'exploite plus ce domaine et corrobore l'arrêt de l'activité musicale.",
+  "website": "verified_absent — correct de ne pas indiquer de site : le domaine buffactory.com actuellement en ligne appartient à une entreprise homonyme sans lien (Buffactory Media LTD, Londres, publicité in-game), pas à la startup NUMA. buffactory.fr et buffactory.io n'existent pas.",
+  "activityDescription": "corrected/ajouté — le dossier ne comportait pas de description d'activité ; ajoutée à partir de la source Maddyness."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Mikhail Zaitsev" },
+  { "name": "Pierre Rodier" },
+  { "name": "Rémi Gasnier" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Buffactory est une plateforme en ligne destinée aux utilisateurs du logiciel Ableton Live, qui permet à des musiciens de collaborer en temps réel sur un même projet musical.",
+ "statusDetails": "Aucune activité, presse ou levée de fonds retrouvée après l'annonce de la promotion NUMA de février 2016 ; le nom de domaine historique buffactory.com est aujourd'hui exploité par une société britannique homonyme et sans rapport (publicité in-game), ce qui confirme l'abandon du projet musical.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "Découvrez les 17 jeunes pousses qui composent la nouvelle promotion du NUMA",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "Le champ obligatoire « Internet Archive » n'a pas pu être rempli : web.archive.org et archive.ph ont renvoyé une erreur d'accès systématique via l'outil WebFetch dans cet environnement (« Claude Code is unable to fetch from web.archive.org »), quel que soit le format d'URL essayé (CDX API, snapshot direct, wildcard). Aucune capture d'écran d'époque n'a donc pu être vérifiée directement ; à refaire dès que l'accès à web.archive.org sera possible.",
+  "Le budget WebSearch de la session était épuisé (200/200) avant le début de cette vérification profonde ; les moteurs de recherche alternatifs testés via WebFetch (Bing, DuckDuckGo, Yandex, Qwant, Brave, Mojeek, Marginalia, Startpage, Ecosia) ont tous renvoyé des CAPTCHA, des 403, des réponses non pertinentes ou des pages vides. Aucun profil LinkedIn (fondateurs ou page entreprise) n'a donc pu être localisé.",
+  "Les registres d'entreprises (entreprises.lefigaro.fr, pappers.fr, infogreffe.fr, societe.com, data.inpi.fr, recherche-entreprises.api.gouv.fr) ont tous renvoyé une erreur (403 ou 503) lors de cette vérification, empêchant de recontrôler indépendamment le statut légal et les dirigeants au registre du commerce ; la source déjà citée dans le dossier (entreprises.lefigaro.fr) n'a donc pas pu être rouverte aujourd'hui.",
+  "Aucune preuve d'acquisition n'a été trouvée nulle part ; en l'absence de source affirmant un rachat, le statut « stopped » (plutôt que « exit ») reste la lecture la plus prudente."
+ ],
+ "summary": "Buffactory (saison 8, NUMA, promotion annoncée le 18/02/2016) était une plateforme en ligne pour utilisateurs d'Ableton Live permettant à des musiciens de collaborer en temps réel — confirmé par l'article Maddyness qui est la seule source de presse retrouvée sur cette startup. Aucune correction n'a pu être établie sur les fondateurs (Mikhail Zaitsev, Pierre Rodier, Rémi Gasnier) faute de nouvelle source accessible, mais aucune contradiction non plus. Le statut « stopped » du dossier est renforcé : le domaine historique buffactory.com est aujourd'hui exploité par une société britannique homonyme et sans rapport (Buffactory Media LTD, publicité in-game, Londres), confirmant que le service musical n'existe plus et que le champ website doit rester vide. La vérification obligatoire via Internet Archive n'a pas pu être réalisée : web.archive.org et archive.today étaient tous deux inaccessibles depuis cet environnement, quel que soit le format d'URL essayé ; de plus, le budget de recherche web de la session était déjà épuisé, limitant fortement la recherche de profils LinkedIn et de sources de registre supplémentaires."
+}

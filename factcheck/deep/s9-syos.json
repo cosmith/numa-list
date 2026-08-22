@@ -1,0 +1,49 @@
+{
+ "id": "s9-syos",
+ "name": "Syos",
+ "season": 9,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Pauline Eveno" },
+  { "name": "Maxime Carron" }
+ ],
+ "status": "active",
+ "activityDescription": "Syos est un fabricant français de becs de saxophone et de clarinette sur mesure, conçus par optimisation acoustique et fabriqués en impression 3D à Paris.",
+ "statusDetails": "Fabricant d'instruments et becs personnalisés actif : le site marchand officiel syos.co est en ligne, propose trois gammes de becs (Originals, Signature, Custom), fait état d'un atelier/usine à Paris soutenu par la région Île-de-France et affiche plus de 330 avis clients (4,9/5), signe d'une activité commerciale continue.",
+ "website": "https://syos.co",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://medium.com/@numaparis/numa-demoday-season-9-meet-our-new-startups-a7a45375598c",
+   "titre": "NUMA Demoday Season 9: meet our new startups",
+   "annee": "2016",
+   "soutient": ["cohort"]
+  },
+  {
+   "url": "https://syos.co/en-us/pages/about-us",
+   "titre": "About us - Syos",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Impossible de confirmer les noms de famille des fondateurs (Eveno, Carron) directement sur le site actuel de Syos, qui n'utilise que les prénoms Pauline et Maxime dans sa page 'About us' — ces patronymes proviennent de la source déjà citée dans le dossier (batch-03) et n'ont pas pu être recoupés via une seconde source indépendante dans cette session.",
+  "Recherche infructueuse des profils LinkedIn individuels de Pauline Eveno et Maxime Carron : dans cet environnement, web.archive.org est inaccessible (blocage outil), et Google/Bing/DuckDuckGo n'ont renvoyé que des résultats non pertinents ou des pages de vérification anti-robot lors des tentatives répétées — limitation technique de la session, pas une absence de profils.",
+  "Aucune page LinkedIn d'entreprise correspondant à Syos (fabricant de becs) n'a été localisée ; la page linkedin.com/company/syos existante correspond à une société homonyme sans rapport (conseil RH, Nord).",
+  "L'article Medium de démoday NUMA saison 9 n'a pas pu être rechargé dans cette session (erreur 403) pour revérifier le détail exact du texte consacré à Syos ; son contenu n'a donc pas pu être recontrôlé au-delà de la citation déjà présente dans le dossier.",
+  "Aucune trace d'un ancien nom ou pivot n'a été trouvée ; le site actuel indique une création en 2016, cohérente avec la saison 9, sans mention de changement de nom."
+ ],
+ "summary": "Le site marchand officiel syos.co, toujours en ligne en 2026, confirme l'identité de l'entreprise (fabricant parisien de becs de saxophone/clarinette sur mesure, imprimés en 3D), sa création en 2016 par Pauline et Maxime, docteurs en acoustique de l'IRCAM, et une activité commerciale active (boutique en ligne, avis clients, usine soutenue par la région Île-de-France). Ces éléments corroborent entièrement le dossier existant (saison 9, fondateurs Pauline Eveno et Maxime Carron, statut actif, site web). La cohorte NUMA saison 9 repose sur la source Medium déjà citée, non rechargeable dans cette session (403) mais non contredite. Les profils LinkedIn individuels des fondateurs et une page LinkedIn d'entreprise n'ont pas pu être localisés en raison de restrictions d'accès aux moteurs de recherche et à Internet Archive dans cet environnement ; aucune information contradictoire n'a toutefois été trouvée."
+}

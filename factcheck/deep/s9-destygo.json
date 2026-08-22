@@ -1,0 +1,85 @@
+{
+  "id": "s9-destygo",
+  "name": "Destygo",
+  "season": 9,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "corrected",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {
+    "founders": {
+      "avant": [
+        { "name": "Guillaume Laporte" },
+        { "name": "Ilias Hicham" },
+        { "name": "Pierre Pakey" }
+      ],
+      "apres": [
+        { "name": "Guillaume Laporte" },
+        { "name": "Ilias Hicham" },
+        { "name": "Julien Nassar" },
+        { "name": "Pierre Pakey" }
+      ],
+      "preuves": [
+        "https://www.frenchweb.fr/beyondthepitch-guillaume-laporte-ceo-de-destygo/297111"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Guillaume Laporte" },
+    { "name": "Ilias Hicham" },
+    { "name": "Julien Nassar" },
+    { "name": "Pierre Pakey" }
+  ],
+  "status": "exit",
+  "activityDescription": "Destygo (devenu Mindsay) est une plateforme d'intelligence artificielle conversationnelle qui permet aux entreprises de créer des chatbots et voicebots pour automatiser leur service client sur le web, le mobile et des messageries comme Facebook, WhatsApp ou WeChat, à l'origine centrée sur le secteur du voyage et du tourisme.",
+  "statusDetails": "Fondée en septembre 2016 sous le nom Destygo (chatbot d'assistance aux voyageurs pour des clients comme SNCF, RATP, Vueling, Disneyland Paris, Aéroports de Paris et Accor), l'entreprise se renomme Mindsay en mai 2019 en levant 10 millions de dollars pour s'étendre au retail et aux Etats-Unis, avant d'être rachetée le 13 avril 2022 par le groupe chinois d'automatisation intelligente Laiye. Les trois cofondateurs encore présents (Guillaume Laporte, Ilias Hicham, Pierre Pakey) ont pris des postes chez Laiye après le rachat. Le nom de domaine historique mindsay.com ne résout plus aujourd'hui et Laiye ne liste plus de produit chatbot/conversationnel dans son catalogue actuel : le produit Mindsay/Destygo n'existe plus de façon autonome. Le nom \"Mindsay\" est aujourd'hui repris par une société sans rapport (ViaSay, éditeur d'une plateforme de gestion de connaissances) sur le domaine mindsay.ai.",
+  "acquirer": "Laiye",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.frenchweb.fr/beyondthepitch-guillaume-laporte-ceo-de-destygo/297111",
+      "titre": "BeyondThePitch: Guillaume Laporte, CEO de Destygo",
+      "annee": "2017",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.maddyness.com/2016/09/14/maddyrex-pensez-au-pea/",
+      "titre": "Fondateurs, à moins de 25% d'equity : pensez au PEA ! (article signé Ilias Hicham, Destygo)",
+      "annee": "2016",
+      "soutient": ["founders", "identity"]
+    },
+    {
+      "url": "https://www.frenchweb.fr/destygo-devient-mindsay-et-leve-10-millions-de-dollars-pour-propulser-ses-chatbots-dans-le-retail/359695",
+      "titre": "Destygo devient Mindsay et lève 10 millions de dollars pour propulser ses chatbots dans le retail",
+      "annee": "2019",
+      "soutient": ["identity", "founders"]
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/laiye-acquires-mindsay-to-lead-the-market-shift-to-intelligent-automation-301525418.html",
+      "titre": "Laiye Acquires Mindsay To Lead The Market Shift To Intelligent Automation",
+      "annee": "2022",
+      "soutient": ["status", "founders"]
+    },
+    {
+      "url": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
+      "titre": "China's work automation startup Laiye raises $160M, acquires France's Mindsay",
+      "annee": "2022",
+      "soutient": ["status"]
+    }
+  ],
+  "openQuestions": [
+    "Les profils LinkedIn personnels des quatre fondateurs n'ont pas pu être localisés avec certitude : le quota WebSearch de la session était épuisé, et les moteurs de recherche (Google, Bing, DuckDuckGo) accessibles via l'outil de fetch renvoient des pages anti-bot ou des résultats génériques sans rapport pour des requêtes sur des noms de personnes peu courants ; LinkedIn lui-même exige une connexion pour afficher un profil.",
+    "L'accès à web.archive.org (Wayback Machine) est bloqué par l'environnement d'outils de cette session (erreur explicite « Claude Code is unable to fetch from web.archive.org »), empêchant la vérification directe de captures archivées de destygo.com, mindsay.com ou des pages de cohorte saison 9 de NUMA/Le Camping, comme demandé par la méthodologie.",
+    "La source originale du dossier (medium.com/@numaparis, article demoday saison 9) a renvoyé une erreur 403 lors de la nouvelle tentative de récupération ; son contenu n'a donc pas pu être revérifié indépendamment, même si aucune source ne contredit l'appartenance à la saison 9.",
+    "Julien Nassar, cité comme cofondateur en 2017, n'apparaît pas dans le communiqué de rachat par Laiye (2022), qui ne nomme que Laporte, Hicham et Pakey avec leurs nouveaux postes : son statut au moment du rachat (parti plus tôt, ou simplement non mentionné) reste à confirmer.",
+    "La page portfolio de Partech consacrée à Mindsay (citée comme source dans la fiche d'origine) est une application JavaScript dont le contenu texte n'a pas pu être récupéré par l'outil de fetch ; son contenu exact n'a donc pas pu être revérifié directement, bien que les faits qu'elle est censée soutenir soient corroborés par d'autres sources indépendantes."
+  ],
+  "summary": "Destygo (fondée en septembre 2016, saison 9 de NUMA/Le Camping) est confirmée comme un chatbot d'assistance aux voyageurs, renommé Mindsay en 2019 (IA conversationnelle pour le service client), puis racheté par le groupe chinois Laiye le 13 avril 2022 — statut « exit » et acquéreur confirmés par le communiqué officiel de Laiye et par TechCrunch. La liste des fondateurs devait être corrigée : un article de 2017 (frenchweb.fr) cite quatre cofondateurs à la création (Guillaume Laporte, Ilias Hicham, Julien Nassar, Pierre Pakey) alors que la fiche n'en listait que trois ; les trois derniers (hors Nassar) sont nommément confirmés avoir rejoint Laiye après le rachat. Aucun site web actif n'a été trouvé : mindsay.com ne résout plus, destygo.com renvoie une erreur serveur, et le nom « Mindsay » est aujourd'hui réutilisé par une société sans lien (ViaSay). Les profils LinkedIn individuels n'ont pas pu être vérifiés faute d'accès aux moteurs de recherche dans cet environnement, et l'accès à web.archive.org était bloqué par l'outil."
+}
