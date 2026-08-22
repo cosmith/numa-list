@@ -1,0 +1,81 @@
+{
+  "id": "s8-koober",
+  "name": "Koober",
+  "season": 8,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "corrected",
+    "founders": "corrected",
+    "status": "verified",
+    "statusDetails": "corrected",
+    "website": "verified"
+  },
+  "corrections": {
+    "founders": {
+      "avant": [
+        { "name": "Alexandre Bruneau" }
+      ],
+      "apres": [
+        { "name": "Alexandre Bruneau" },
+        { "name": "Alexandre Mulliez" }
+      ],
+      "preuves": [
+        "https://www.lacombinaison.fr/episode/alexandre-bruneau-koober-podcast/"
+      ]
+    },
+    "formerNamesOrPivots": {
+      "avant": [],
+      "apres": [
+        "Concept initial (2015) : marketplace où les utilisateurs rédigeaient eux-mêmes des résumés de livres, abandonné pour un manque de qualité constante",
+        "Pivot vers des résumés scientifiquement construits appelés \"Koobs\" (inspiré du concurrent allemand Blinkist), puis vers un format podcast audio de 20 minutes"
+      ],
+      "preuves": [
+        "https://www.lacombinaison.fr/episode/alexandre-bruneau-koober-podcast/",
+        "https://discover.koober.com/us"
+      ]
+    },
+    "statusDetails": {
+      "avant": "Application de résumés de livres active.",
+      "apres": "Application active : Koober propose désormais des résumés de livres de développement personnel sous forme de podcasts audio de 20 minutes (\"Koobs\"), sur abonnement (6,99€/mois), avec plus de 2 millions de téléchargements ; la société revendiquait par ailleurs 750 000+ abonnés et une levée de 1,2M€ (dont Kima Ventures) au moment du podcast La Combinaison.",
+      "preuves": [
+        "https://discover.koober.com/us",
+        "https://www.lacombinaison.fr/episode/alexandre-bruneau-koober-podcast/",
+        "https://www.linkedin.com/company/koober"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Alexandre Bruneau" },
+    { "name": "Alexandre Mulliez" }
+  ],
+  "status": "active",
+  "activityDescription": "Koober est une application qui transforme des livres de non-fiction (développement personnel, finance, bien-être...) en résumés audio condensés de 20 minutes, appelés \"Koobs\", à écouter en podcast pendant les trajets ou le sport.",
+  "statusDetails": "Application active : Koober propose désormais des résumés de livres de développement personnel sous forme de podcasts audio de 20 minutes (\"Koobs\"), sur abonnement (6,99€/mois), avec plus de 2 millions de téléchargements cumulés sur iOS/Android ; la page LinkedIn de l'entreprise (fondée en 2014, 11-50 salariés, Paris) est toujours active en 2026.",
+  "website": "https://koober.com",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+      "titre": "NUMA dévoile les startups de sa 8ème saison",
+      "annee": "2016",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.lacombinaison.fr/episode/alexandre-bruneau-koober-podcast/",
+      "titre": "Alexandre Bruneau (Koober) - podcast La Combinaison",
+      "annee": "inconnue (postérieure à 2016)",
+      "soutient": ["founders", "identity", "status"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/koober",
+  "openQuestions": [
+    "web.archive.org était inaccessible via les outils disponibles dans cet environnement (erreur systématique de récupération) : la vérification par capture d'écran d'époque (2015-2016) du site koober.com n'a pas pu être réalisée comme l'exige la méthodologie ; l'identité et le statut ont donc été corroborés uniquement via la presse contemporaine (Maddyness, 2016) et les sources actuelles (site live, LinkedIn).",
+    "L'outil WebSearch a atteint son quota pour cette session avant que des recherches ciblées puissent être lancées pour Koober ; les moteurs de recherche alternatifs interrogés via WebFetch (DuckDuckGo, Bing, Google, Qwant, Ecosia) ont tous renvoyé des pages de CAPTCHA/erreur sans résultats exploitables, empêchant de localiser les profils LinkedIn personnels d'Alexandre Bruneau et d'Alexandre Mulliez ou d'autres articles de presse (levée de fonds, etc.).",
+    "La date exacte et les détails de la levée de fonds de 1,2M€ (dont Kima Ventures, cité par Alexandre Bruneau lui-même) n'ont pas pu être confirmés par un communiqué de presse indépendant.",
+    "Aucune preuve d'acquisition ou d'arrêt : la société semble avoir continué de façon autonome (statut actif), mais aucun registre officiel (societe.com/pappers.fr) n'a pu être consulté pour confirmer l'absence de liquidation."
+  ],
+  "summary": "La fiche Koober (saison 8, 2016) est globalement correcte : l'appartenance à la 8ème promotion NUMA est confirmée par un article Maddyness de février 2016, et le statut \"actif\" est confirmé par le site actuel (discover.koober.com) et la page LinkedIn de l'entreprise (fondée en 2014, toujours active). Deux corrections : la fiche ne mentionnait qu'un fondateur (Alexandre Bruneau) alors qu'un second cofondateur, Alexandre Mulliez, est cité dans un podcast où Bruneau raconte l'histoire de l'entreprise ; et le champ formerNamesOrPivots était vide alors que Koober a connu au moins deux pivots produit (marketplace de résumés communautaires en 2015, puis résumés \"Koobs\" scientifiques, puis format podcast audio). Le statusDetails a été enrichi en conséquence. Les profils LinkedIn individuels des fondateurs n'ont pas pu être localisés faute d'accès aux moteurs de recherche dans cet environnement (quota WebSearch épuisé, moteurs alternatifs bloqués par CAPTCHA), et web.archive.org était inaccessible pour la vérification archivistique obligatoire."
+}

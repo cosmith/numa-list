@@ -1,0 +1,73 @@
+{
+ "id": "s7-welcome-to-the-jungle",
+ "name": "Welcome to the Jungle",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Jérémy Clédat" },
+  { "name": "Bertrand Uzeel" }
+ ],
+ "status": "active",
+ "activityDescription": "Welcome to the Jungle est une plateforme de recrutement qui met en relation entreprises et candidats via des profils d'entreprise enrichis (vidéos, contenus culture) et, depuis 2026, des outils de sourcing et de matching propulsés par l'IA (Welcome Hiring Suite).",
+ "statusDetails": "Média et plateforme de recrutement toujours en activité en 2026 : environ 40 millions d'euros de revenu récurrent annuel en France et au Royaume-Uni, 4 500 entreprises clientes, objectif de 15 000 clients d'ici 2029. Le cofondateur Jérémy Clédat a quitté la direction générale le 1er juillet 2026 pour rejoindre Alan comme directeur de la création, restant administrateur ; un processus de recrutement d'un nouveau PDG est en cours. Le cofondateur Bertrand Uzeel avait quitté l'entreprise plusieurs années auparavant pour se consacrer à une carrière dans l'humour/le stand-up.",
+ "website": "https://www.welcometothejungle.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://fr.wikipedia.org/wiki/Welcome_to_the_Jungle_(entreprise)",
+   "titre": "Welcome to the Jungle (entreprise)",
+   "annee": "2026",
+   "soutient": ["founders", "identity", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2026/05/28/jeremy-cledat-va-lacher-les-commandes-de-welcome-to-the-jungle/",
+   "titre": "Jérémy Clédat va lâcher les commandes de Welcome to the Jungle",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2026/07/06/le-patron-sortant-de-welcome-to-the-jungle-rejoint-alan/",
+   "titre": "Le patron sortant de Welcome to the Jungle rejoint Alan",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2026/04/15/welcome-to-the-jungle-change-de-braquet-pour-se-reinventer-sur-un-marche-du-recrutement-bouleverse-par-lia/",
+   "titre": "Welcome to the Jungle change de braquet pour se réinventer sur un marché du recrutement bouleversé par l'IA",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.welcometothejungle.com",
+   "titre": "Site officiel Welcome to the Jungle",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Le Wayback Machine (web.archive.org) était inaccessible depuis cet environnement (connexion réinitialisée par le proxy réseau) : impossible de vérifier une capture d'archive de 2015 du site welcometothejungle.co ni une page de cohorte archivée de lecamping.org/numa.co listant la saison 7. Le nom de domaine historique semble avoir été welcometothejungle.co (TLD .co) avant la migration vers .com.",
+  "Aucune URL LinkedIn personnelle (linkedin.com/in/...) n'a pu être trouvée pour Jérémy Clédat ni Bertrand Uzeel : tous les moteurs de recherche testés (Google, Bing, DuckDuckGo, Ecosia) ont renvoyé des pages de captcha, des résultats non pertinents ou des blocages 403 depuis cet environnement ; le budget WebSearch de la session était également épuisé.",
+  "La page LinkedIn de l'entreprise (linkedin.com/company/welcometothejungle) a renvoyé une erreur 404 lors de la tentative de récupération directe.",
+  "Bertrand Uzeel semble avoir quitté l'entreprise plusieurs années avant 2026 (selon Maddyness) pour une carrière dans l'humour ; la date exacte de son départ n'a pas été établie précisément.",
+  "Le nom exact du programme NUMA de la saison 7 (2015) est désigné par Journal du Net comme un « nouveau programme d'accélération » (probablement le programme « Sprint ») plutôt que sous un numéro de saison explicite dans la presse ; le numéro de saison 7 provient de la cohérence interne de data.json (liste exacte des 25 lauréats correspondant à l'article)."
+ ],
+ "summary": "Tous les champs du dossier sont confirmés par des sources indépendantes : la cohorte (les 25 lauréats de la saison 7/2015 de NUMA cités par Journal du Net correspondent exactement à la liste de data.json), l'identité et l'absence de pivot de nom, les deux fondateurs Jérémy Clédat et Bertrand Uzeel (confirmés par Wikipédia et deux articles Maddyness de 2026), le statut actif (site officiel vivant en 2026, ~40 M€ d'ARR, 4500 clients, pivot IA en cours) et le site web welcometothejungle.com. Aucune correction nécessaire. Deux limites techniques de recherche : Internet Archive (web.archive.org) inaccessible depuis cet environnement, et aucune URL LinkedIn personnelle des fondateurs n'a pu être localisée malgré plusieurs moteurs de recherche essayés."
+}

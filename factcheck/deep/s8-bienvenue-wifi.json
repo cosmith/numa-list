@@ -1,0 +1,63 @@
+{
+ "id": "s8-bienvenue-wifi",
+ "name": "Bienvenue WiFi",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Jean-Baptiste Queromes" }
+   ],
+   "apres": [
+    { "name": "Jean-Baptiste Queromes" },
+    { "name": "Fabrice" }
+   ],
+   "preuves": [
+    "https://b-connect.io/about-us"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Jean-Baptiste Queromes" },
+  { "name": "Fabrice" }
+ ],
+ "status": "exit",
+ "activityDescription": "Bienvenue WiFi est un opérateur de connectivité mobile qui loue aux voyageurs en France un boîtier WiFi portable (miniBox) pour rester connectés sans frais d'itinérance, et propose aussi des solutions de connexion temporaire pour des événements professionnels.",
+ "statusDetails": "Acquisition par DHI Telecom (Houston, Texas) annoncée le 11 mars 2020 ; la société, fondée en mai 2014, travaillait alors avec plus de 250 partenaires B2B/B2B2C (Coca-Cola, Chanel, Veuve Clicquot). C'était la 5e acquisition de DHI Telecom en 18 mois, visant à renforcer son offre Travelwifi en Europe.",
+ "acquirer": "DHI Telecom",
+ "website": "https://b-connect.io",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les 17 startups de sa 8e saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20200311005836/en/DHI-Telecom-Acquires-Paris-based-Bienvenue-WiFi-for-Travelers",
+   "titre": "DHI Telecom Acquires Paris-based Bienvenue WiFi for Travelers",
+   "annee": "2020",
+   "soutient": ["status", "founders", "identity"]
+  }
+ ],
+ "openQuestions": [
+  "Nom de famille du deuxième cofondateur 'Fabrice' non trouvé (mentionné uniquement par son prénom sur la page 'About Us' de b-connect.io) ; aucun profil LinkedIn identifié pour lui.",
+  "Aucun profil LinkedIn public trouvé pour Jean-Baptiste Queromes malgré plusieurs tentatives (LinkedIn a bloqué toutes les requêtes directes avec un statut anti-bot ; les moteurs de recherche accessibles via WebFetch ont tous renvoyé des pages de CAPTCHA ou des résultats non pertinents, et le quota WebSearch de la session était épuisé).",
+  "web.archive.org (Wayback Machine) était totalement inaccessible dans cet environnement (host bloqué par l'outil WebFetch) : impossible de consulter l'historique des captures du domaine historique bienvenuewifi.com ni des pages de cohorte archivées de lecamping.org/numa.co pour la saison 8. La vérification du cohort repose donc sur l'article de presse Maddyness de 2016 plutôt que sur une capture archivée.",
+  "Le domaine historique bienvenuewifi.com ne renvoie aucune capture dans l'API de disponibilité de la Wayback Machine (archive.org/wayback/available) — la marque a peut-être toujours utilisé b-connect.io comme domaine technique, à vérifier.",
+  "Aucune mention de DHI Telecom ou de TravelWifi sur le site b-connect.io lui-même (toujours au nom 'Bienvenue WiFi', copyright 2019) : le site semble laissé en ligne tel quel après l'acquisition plutôt qu'activement maintenu par DHI."
+ ],
+ "linkedinCompany": null,
+ "summary": "L'appartenance à la saison 8 de NUMA (2016) est confirmée par un article Maddyness de février 2016 qui liste Bienvenue WiFi parmi les 17 startups, avec la même description d'opérateur de connectivité mobile pour voyageurs. L'acquisition par DHI Telecom (Houston) en mars 2020 est confirmée par le communiqué BusinessWire, qui identifie Jean-Baptiste Queromes comme CEO/fondateur. Correction : la page 'About Us' du site officiel b-connect.io (toujours en ligne en 2026, sous la marque Bienvenue WiFi) révèle un second cofondateur prénommé 'Fabrice', absent de la fiche actuelle — son nom de famille reste à confirmer. Le site web du champ 'website' (b-connect.io) est vérifié : il est toujours actif aujourd'hui et affiche bien la marque Bienvenue WiFi. Aucun profil LinkedIn n'a pu être confirmé pour les fondateurs en raison de blocages anti-bot sur LinkedIn et les moteurs de recherche disponibles via les outils de cette session, et web.archive.org était inaccessible tout au long de la vérification."
+}

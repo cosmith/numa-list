@@ -1,0 +1,55 @@
+{
+ "id": "s8-bretzel",
+ "name": "Bretzel",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Projet non retrouvé comme activité actuelle.",
+   "apres": "Bretzel (bretzel.co) était encore au stade « idea stage » lors de sa présentation dans la promotion 8 de NUMA (2016) ; le nom de domaine bretzel.co ne résout plus aujourd'hui (NXDOMAIN) et aucune trace de presse, de levée de fonds ou de poursuite d'activité n'a été retrouvée après 2016, ce qui confirme l'arrêt du projet.",
+   "preuves": [
+    "https://startupxplore.com/en/startups/bretzel",
+    "https://www.maddyness.com/2016/02/18/numa-8eme-saison/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Guillaume Tessier" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Bretzel est une plateforme en ligne qui permet de structurer et de partager des connaissances (avis, comparatifs, guides, recettes) sous forme de tableaux simples, dans une logique de content marketing et de génération de trafic.",
+ "statusDetails": "Bretzel (bretzel.co) était encore au stade « idea stage » lors de sa présentation dans la promotion 8 de NUMA (2016) ; le nom de domaine bretzel.co ne résout plus aujourd'hui (NXDOMAIN) et aucune trace de presse, de levée de fonds ou de poursuite d'activité n'a été retrouvée après 2016, ce qui confirme l'arrêt du projet.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "Découvrez les 17 jeunes pousses qui composent la nouvelle promotion du NUMA",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://startupxplore.com/en/startups/bretzel",
+   "titre": "Bretzel — profil startupxplore",
+   "annee": "2015-2016",
+   "soutient": ["identity", "founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/bretzel",
+ "openQuestions": [
+  "Le site web.archive.org (Internet Archive) était inaccessible via les outils de récupération disponibles pendant cette vérification (erreur systématique du fetcher pour ce domaine) : les captures d'écran/CDX de bretzel.co n'ont donc pas pu être consultées directement comme l'exige la méthodologie ; le nom de domaine bretzel.co ne résout plus (NXDOMAIN), ce qui est cohérent avec un site disparu mais n'a pas pu être corroboré par une capture archivée.",
+  "Le quota de recherche web (WebSearch) de la session a été épuisé avant que les requêtes ciblées sur 'Bretzel' + 'Guillaume Tessier' + LinkedIn n'aient pu être lancées ; les recherches de repli via Bing/DuckDuckGo/Ecosia n'ont renvoyé que des résultats génériques sur le mot 'bretzel' (pâtisserie), sans lien exploitable.",
+  "Aucun profil LinkedIn personnel (linkedin.com/in/...) n'a pu être identifié avec certitude pour Guillaume Tessier (nom trop commun, pas de résultat de recherche exploitable) ; seule la page LinkedIn de l'entreprise (linkedin.com/company/bretzel) a été localisée, via le profil startupxplore, et son contenu n'a pas pu être vérifié de façon fiable (LinkedIn bloque la récupération directe du contenu réel).",
+  "Impossible de confirmer s'il y a eu d'autres cofondateurs que Guillaume Tessier : aucune source indépendante supplémentaire n'a été trouvée."
+ ],
+ "summary": "Bretzel (bretzel.co), présentée dans la 8e promotion de NUMA (annoncée par Maddyness le 18/02/2016), était une plateforme permettant de structurer et partager des connaissances sous forme de tableaux, fondée par Guillaume Tessier. Le profil startupxplore la décrit encore au stade 'idea stage' en 2015-2016. Le nom de domaine bretzel.co ne résout plus aujourd'hui et aucune activité, presse ou levée de fonds postérieure à 2016 n'a été retrouvée : le statut 'stopped' déjà présent dans data.json est confirmé et sa justification (statusDetails) a été précisée avec ces éléments. La vérification via Internet Archive n'a pas pu être menée (domaine web.archive.org inaccessible aux outils de récupération pendant cette session) et le quota de recherche web a été épuisé en cours de vérification, ce qui limite la profondeur de l'enquête sur d'éventuels cofondateurs ou profils LinkedIn."
+}

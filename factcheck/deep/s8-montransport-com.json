@@ -1,0 +1,54 @@
+{
+ "id": "s8-montransport-com",
+ "name": "MonTransport.com",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — l'article Maddyness du 18/02/2016 annonçant les 17 startups de la 8e promotion NUMA liste explicitement MonTransport.com.",
+  "name": "verified — le nom \"MonTransport.com\" est confirmé par l'article Maddyness (saison 8) et par le site officiel actuel montransport.com.",
+  "formerNamesOrPivots": "verified — aucune source (site actuel, article de 2016, registre du commerce) ne mentionne de nom antérieur ni de pivot ; l'activité (marketplace de taxis/VTC) est cohérente entre 2016 et 2026.",
+  "founders": "verified — Albéric de Bernis est identifié comme dirigeant sur le site officiel (page \"about\") et confirmé par le registre du commerce (societe.com) sous le nom complet \"Albéric DE PIERRE DE BERNIS\", né en 1984, président de la société depuis sa création le 3 juin 2015 ; aucun autre cofondateur n'est mentionné par aucune source consultée.",
+  "status": "verified — le site montransport.com est en ligne et pleinement fonctionnel en août 2026 (réservations, +38 800 chauffeurs, avis clients récents, 4,8/5 sur Google avec 8 600 avis) et le registre du commerce (societe.com) indique la société \"MONTRANSPORT\" (SIREN 811 699 933) comme active (PME active).",
+  "statusDetails": "corrected — précisé et étayé par des preuves supplémentaires (registre du commerce + contenu du site en direct) plutôt que changé sur le fond.",
+  "website": "verified — https://www.montransport.com est accessible et correspond bien à l'entreprise (mêmes coordonnées : 118 rue de Vaugirard, 75006 Paris, SIRET 81169993300016)."
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Albéric de Bernis"
+  }
+ ],
+ "status": "active",
+ "activityDescription": "MonTransport.com est une place de marché en ligne qui permet de comparer, réserver et payer à prix fixe des trajets en taxi, VTC, minibus, autocar ou mototaxi avec chauffeur en France et dans quelques pays voisins, en mettant les voyageurs en relation avec des milliers de sociétés de transport partenaires.",
+ "statusDetails": "Le site montransport.com est toujours en ligne et opérationnel en 2026 (réservations actives, plus de 38 800 chauffeurs référencés, avis clients récents), et la société MONTRANSPORT (SIREN 811 699 933, créée le 1er juin 2015) apparaît comme active dans le registre du commerce, avec Albéric de Bernis (état civil complet : Albéric de Pierre de Bernis) comme président depuis le 3 juin 2015.",
+ "website": "https://www.montransport.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les startups sélectionnées pour sa 8e saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.montransport.com/en/about.html",
+   "titre": "monTransport.com — About",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/montransport-811699933.html",
+   "titre": "MONTRANSPORT — fiche société",
+   "annee": "2026",
+   "soutient": ["founders", "status", "identity"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Impossible d'interroger l'Internet Archive (web.archive.org) : le proxy réseau de cet environnement bloque explicitement ce domaine (connexion réinitiisée / 'unable to fetch from web.archive.org' sur toutes les tentatives, y compris l'API CDX et les snapshots directs), donc aucune capture historique 2015-2016 du site n'a pu être consultée directement pour ce rapport — la vérification de la cohorte et de l'identité du produit s'appuie donc sur la presse d'époque (Maddyness) plutôt que sur des captures d'archive.",
+  "Le budget de recherche web (WebSearch) de la session était déjà épuisé (200/200) au moment de traiter cette fiche ; les moteurs de recherche alternatifs interrogés via WebFetch (Google, Bing, DuckDuckGo, Qwant, Startpage, Mojeek, Marginalia) ont renvoyé des pages de blocage/CAPTCHA ou des résultats visiblement hors-sujet (mise en cache ou détection anti-bot), empêchant de retrouver un profil LinkedIn personnel pour Albéric de Bernis ou une page LinkedIn d'entreprise pour MonTransport.com.",
+  "Aucune source ne confirme ni n'infirme l'existence d'un ou plusieurs cofondateurs en plus d'Albéric de Bernis ; seule sa qualité de président/dirigeant unique déclaré est documentée."
+ ],
+ "summary": "Fiche globalement exacte : la saison 8 est confirmée par l'article Maddyness de février 2016 listant les 17 startups de cette promotion NUMA, dont MonTransport.com ; l'unique fondateur cité (Albéric de Bernis) est corroboré par le registre du commerce (société MONTRANSPORT, SIREN 811699933, président depuis juin 2015, nom complet Albéric de Pierre de Bernis) ; le statut \"active\" est confirmé à la fois par un site web pleinement fonctionnel en 2026 et par le registre du commerce indiquant une PME active. Aucun ancien nom ni pivot trouvé. Limites : accès à l'Internet Archive bloqué par le proxy de l'environnement, budget WebSearch épuisé, et aucun profil LinkedIn individuel ou page LinkedIn d'entreprise retrouvé malgré plusieurs tentatives via d'autres moteurs de recherche."
+}

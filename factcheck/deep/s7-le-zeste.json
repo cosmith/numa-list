@@ -1,0 +1,98 @@
+{
+ "id": "s7-le-zeste",
+ "name": "Le Zeste",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "corrected",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "founders": {
+   "avant": [
+    { "name": "Pol Maire" }
+   ],
+   "apres": [
+    { "name": "Pol Maire" },
+    { "name": "Julian Guerin" },
+    { "name": "Noé Malzieu" }
+   ],
+   "preuves": [
+    "https://tracxn.com/d/companies/le-zeste/__uZpBFLuyTllSiSSg9oN6Xts_f3Kodjlg-Sz1_W8hX-M",
+    "https://golden.com/wiki/Le_Zeste-5KK9B4K",
+    "https://www.linkedin.com/in/noemalzieu",
+    "https://www.societe.com/societe/le-zeste-808789242.html",
+    "https://lezeste.wordpress.com/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Service de livraison de repas revendu à Frichti.",
+   "apres": "La SAS Le Zeste (SIREN 808 789 242, créée le 12 janvier 2015 à Paris) a cessé son activité en 2016 : liquidation judiciaire ouverte en octobre 2016 puis société radiée le 15 novembre 2018. Ses équipes ont rejoint Frichti en septembre 2016 (opération de type « acqui-hire »), sans qu'un rachat formel de la société elle-même ne soit documenté.",
+   "preuves": [
+    "https://business.ladn.eu/news-business/actualites-startups/les-equipes-de-le-zeste-rejoignent-frichti/",
+    "https://www.societe.com/societe/le-zeste-808789242.html",
+    "https://www.infogreffe.fr/entreprise-societe/808789242-le-zeste-808789242.html"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Pol Maire", "linkedin": "https://www.linkedin.com/in/polmaire" },
+  { "name": "Julian Guerin" },
+  { "name": "Noé Malzieu", "linkedin": "https://www.linkedin.com/in/noemalzieu" }
+ ],
+ "status": "exit",
+ "activityDescription": "Le Zeste est un service parisien de livraison de repas qui propose chaque soir des plats cuisinés par un chef avec des produits de saison, commandés en quelques clics et livrés à vélo à Paris en moins de 20 minutes.",
+ "statusDetails": "La SAS Le Zeste (SIREN 808 789 242, créée le 12 janvier 2015) a cessé son activité en 2016 : liquidation judiciaire ouverte en octobre 2016, société radiée le 15 novembre 2018. Ses équipes (dont le chef Mehdi Favri) ont rejoint Frichti en septembre 2016, dans une opération de type acqui-hire, sans qu'un rachat formel de la société ne soit documenté dans la presse.",
+ "acquirer": "Frichti",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/web/20190129163022/https://lezeste.wordpress.com/",
+   "montre": "Capture confirmée via l'API officielle archive.org/wayback/available (snapshot du 29/01/2019, statut 200). L'accès direct à web.archive.org était bloqué par l'environnement d'outils de cette session (host entièrement refusé par l'outil WebFetch) ; le contenu du blog a donc été vérifié via une récupération en direct du site toujours hébergé (miroir de lecture, pas via la Wayback Machine) : il présente le concept (repas de chef livrés à vélo en moins de 20 minutes), l'histoire des trois fondateurs amis d'école (Pol, Noé, Julian), l'adresse du local au 39 rue du Caire à Paris, la sélection par NUMA en mai 2015, et une pause estivale annoncée en juillet 2015 — sans aucune mention d'un changement de nom ou d'un rachat à cette date."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://business.ladn.eu/news-business/actualites-startups/les-equipes-de-le-zeste-rejoignent-frichti/",
+   "titre": "Les équipes de Le Zeste rejoignent Frichti",
+   "annee": "2016",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/le-zeste-808789242.html",
+   "titre": "LE ZESTE (Paris 10) - fiche registre Societe.com",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.infogreffe.fr/entreprise-societe/808789242-le-zeste-808789242.html",
+   "titre": "LE ZESTE - fiche Infogreffe (SIREN 808789242)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/le-zeste/__uZpBFLuyTllSiSSg9oN6Xts_f3Kodjlg-Sz1_W8hX-M",
+   "titre": "Le Zeste - Company Profile (Tracxn)",
+   "annee": "2026",
+   "soutient": ["founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/le-zeste/",
+ "openQuestions": [
+  "Accès direct à web.archive.org et aux moteurs de recherche standards (Google/Bing/DuckDuckGo) bloqué par l'environnement d'outils de cette session ; les vérifications ont été faites via un proxy de lecture tiers (r.jina.ai) sur les pages en direct ou via l'API archive.org/wayback/available. À recouper si l'accès direct à la Wayback Machine redevient possible.",
+  "Aucun profil LinkedIn personnel retrouvé pour Julian Guerin ; seules des fiches registre (Pappers, Infonet, Societe.com) le mentionnent, associées à son mandat ultérieur chez Work For Good. Une mention isolée de l'agrégateur North Data suggérant que « Work For Good » serait une renommée de « Le Zeste » n'est pas confirmée et contredite par la fiche officielle Infogreffe (aucun historique de changement de nom pour le SIREN 808789242) ; traitée comme non fiable.",
+  "La présence de Le Zeste sur une photographie de promotion (champ seenInPhoto du dataset) n'a pas pu être vérifiée avec les outils disponibles (pas d'accès à une image ou à une source la décrivant)."
+ ],
+ "summary": "Le Zeste (SAS créée le 12/01/2015, SIREN 808789242) est confirmé comme faisant partie de la première promotion « NUMA Sprint » (saison 7) lancée en mai 2015 : un service parisien de repas de chef livrés à vélo en moins de 20 minutes. Trois fondateurs sont identifiés et corroborés par plusieurs sources indépendantes (Tracxn, Golden, LinkedIn, registre du commerce) : Pol Maire, Julian Guerin et Noé Malzieu — le dataset n'en listait qu'un seul, d'où une correction. Le statut « exit » et l'acquéreur « Frichti » sont confirmés par un article de presse de septembre 2016 (L'ADN), mais la formulation « revendu à Frichti » est imprécise : il s'agit d'une reprise d'équipe (acqui-hire) après la mise en liquidation judiciaire de la société (liquidation ouverte en octobre 2016, société radiée en novembre 2018), sans rachat formel documenté de l'entité elle-même."
+}

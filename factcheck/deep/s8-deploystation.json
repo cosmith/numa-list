@@ -1,0 +1,92 @@
+{
+ "id": "s8-deploystation",
+ "name": "DeployStation",
+ "season": 8,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Service de déploiement non retrouvé comme activité actuelle.",
+   "apres": "DeployStation (SAS, SIREN 820465029, créée le 1er juin 2016 à partir du projet lancé en 2015) a été dissoute et radiée du RCS le 20 novembre 2018 après liquidation ; son site deploystation.com est mort et redirige aujourd'hui vers une place de marché de noms de domaine (atom.com). Aucune trace d'acquisition.",
+   "preuves": [
+    "https://www.societe.com/societe/deploystation-820465029.html",
+    "https://deploystation.com"
+   ]
+  }
+ },
+ "founders": [
+  {
+   "name": "Oksana Voronova",
+   "linkedin": "https://ua.linkedin.com/in/voronovaoksana"
+  },
+  {
+   "name": "Christian Dyl"
+  }
+ ],
+ "status": "stopped",
+ "activityDescription": "DeployStation est une application multiplateforme permettant de créer et gérer facilement, dans le cloud, des serveurs de jeux multijoueurs (Minecraft, Counter-Strike, etc.) pour jouer entre amis.",
+ "statusDetails": "DeployStation (SAS, SIREN 820465029) a été dissoute et radiée du RCS le 20 novembre 2018 après une procédure de liquidation ; le site deploystation.com ne fonctionne plus et redirige vers une place de marché de noms de domaine (atom.com). L'application mobile n'a plus été mise à jour depuis novembre 2016. Aucune acquisition n'a été identifiée.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2016/02/18/numa-8eme-saison/",
+   "titre": "NUMA dévoile les 17 startups de sa 8ème saison",
+   "annee": "2016",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.myfrenchstartup.com/fr/startup-france/138323/deploystation",
+   "titre": "Startup DEPLOYSTATION",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/deploystation-820465029.html",
+   "titre": "DEPLOYSTATION - fiche société (SIREN 820465029)",
+   "annee": "2026",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/deploystation",
+   "titre": "DeployStation | LinkedIn",
+   "annee": "2026",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://theorg.com/org/adminix/org-chart/oksana-voronova",
+   "titre": "Oksana Voronova - Co-founder & CEO at Adminix | The Org",
+   "annee": "2026",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://apkpure.com/deploystation/com.deploystation.app",
+   "titre": "DeployStation APK",
+   "annee": "2016",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://www.cbinsights.com/company/deploystation",
+   "titre": "Deploystation - CB Insights",
+   "annee": "2026",
+   "soutient": ["identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/deploystation",
+ "openQuestions": [
+  "Internet Archive / Wayback Machine est totalement inaccessible dans cet environnement (bloqué au niveau réseau/proxy) : impossible de consulter des captures d'écran archivées du site deploystation.com ou des pages de cohorte lecamping.org/numa.co pour la saison 8.",
+  "Orthographe du cofondateur : la presse et les annuaires de startups (Maddyness, MyFrenchStartup) écrivent « Christian Dyl », tandis que le registre officiel du commerce (societe.com, à partir des données RCS/INSEE) indique « Kristian DYL » comme président de la SAS de 2017 à 2018. Il s'agit vraisemblablement de la même personne mais la graphie exacte n'a pas pu être confirmée à 100 %.",
+  "Profil LinkedIn personnel de Christian/Kristian Dyl non localisé : les moteurs de recherche accessibles (DuckDuckGo, Bing, Yandex, Mojeek, Startpage) ont renvoyé des CAPTCHA ou des pages bloquées, et Brave Search a été fortement limité en débit (429) après quelques requêtes ; seul le profil d'Oksana Voronova a pu être identifié avant la limitation.",
+  "Le registre officiel mentionne un « Florent Nicol » comme président de la SAS DeployStation de juin 2016 à mars 2017 (avant Kristian Dyl et Oksana Voronova). Aucune source presse ou annuaire de startups ne le mentionne comme cofondateur produit : il pourrait s'agir d'un mandataire lié à la structuration juridique plutôt que d'un fondateur du projet présenté à NUMA en 2015-2016.",
+  "CBInsights affiche un statut générique « Alive » pour DeployStation, ce qui contredit la radiation officielle de 2018 constatée sur societe.com ; conformément à la méthodologie, cet annuaire communautaire n'est pas retenu seul comme preuve de statut actif."
+ ],
+ "summary": "DeployStation, présente dans la saison 8 de NUMA (2015-2016, confirmée par Maddyness), proposait une application multiplateforme pour créer et gérer des serveurs de jeux multijoueurs dans le cloud (Minecraft, CS:GO...). Fondée par Oksana Voronova et Christian (Kristian) Dyl en 2015, la société (SAS, SIREN 820465029) a été liquidée et radiée du RCS le 20 novembre 2018 ; son site et son application n'ont plus été mis à jour depuis fin 2016. Statut « stopped » confirmé avec une preuve officielle précise (radiation), sans indice d'acquisition. Recherche freinée par le blocage total de l'Internet Archive dans cet environnement et par la limitation des moteurs de recherche, empêchant de retrouver le LinkedIn du second cofondateur."
+}

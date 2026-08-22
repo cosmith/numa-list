@@ -1,0 +1,85 @@
+{
+ "id": "s7-gorgias",
+ "name": "Gorgias",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  {
+   "name": "Romain Lapeyre",
+   "linkedin": "https://www.linkedin.com/in/romainlapeyre"
+  },
+  {
+   "name": "Alex Plugaru"
+  }
+ ],
+ "status": "active",
+ "activityDescription": "Gorgias est une plateforme de support client propulsée par l'intelligence artificielle (helpdesk + agent IA) qui aide les marques e-commerce, notamment sur Shopify, à automatiser et unifier leur service client multicanal (email, chat, réseaux sociaux, SMS).",
+ "statusDetails": "Gorgias est toujours en activité et a nettement grandi depuis son passage à NUMA : la société, basée à San Francisco, a levé plusieurs tours de financement (1,5M$ en 2016, 14M$ en série A en 2019, 25M$ en série B en 2020, puis 30M$ en série C en 2022 valorisant l'entreprise 710M$) et affiche environ 200-500 employés sur LinkedIn ainsi que plus de 15 000 marchands clients. Aucune trace d'acquisition ni de cessation d'activité.",
+ "website": "https://www.gorgias.com",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20150315030945/https://gorgias.io/",
+   "montre": "Snapshot du domaine historique gorgias.io daté du 15 mars 2015 (capturé avec succès, statut 200), confirmant que la société était en ligne sous ce nom pendant l'année de la promotion 7 de NUMA. Contenu de la page non consultable directement (web.archive.org bloqué pour le fetch de contenu dans cet environnement), mais l'existence et la date de la capture sont confirmées via l'API Wayback 'available'."
+  },
+  {
+   "url": "http://web.archive.org/web/20191207020854/https://www.gorgias.io/",
+   "montre": "Nouvelle capture Wayback de gorgias.io en décembre 2019, montrant que le domaine est resté actif plusieurs années après la promotion NUMA, avant la migration vers gorgias.com (domaine actuel, vérifié en ligne en 2026)."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de NUMA",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2016/02/11/gorgias-uses-machine-learning-to-suggest-customer-support-answers/",
+   "titre": "Gorgias Uses Machine Learning To Suggest Customer Support Answers",
+   "annee": "2016",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://techcrunch.com/2019/11/26/gorgias-raises-14m-to-help-e-commerce-companies-deliver-faster-and-more-lucrative-customer-service/",
+   "titre": "Gorgias raises $14M to help e-commerce companies deliver faster (and more lucrative) customer service",
+   "annee": "2019",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://techcrunch.com/2020/12/10/customer-support-startup-gorgias-raises-25m/",
+   "titre": "Customer support startup Gorgias raises $25M",
+   "annee": "2020",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://techcrunch.com/2022/08/15/gorgias-valuation-rises-to-710m-with-30m-series-c-for-e-commerce-customer-support/",
+   "titre": "Gorgias' valuation rises to $710M with $30M Series C for e-commerce customer support",
+   "annee": "2022",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.gorgias.com/about-us",
+   "titre": "About Us - Gorgias",
+   "annee": "2026",
+   "soutient": ["identity", "founders", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/gorgias",
+ "openQuestions": [
+  "Profil LinkedIn personnel d'Alex Plugaru non localisé avec certitude dans cet environnement (LinkedIn bloque les recherches automatisées) ; à confirmer manuellement.",
+  "Le nom exact du projet Chrome extension initial (avant le pivot vers le helpdesk 'Gorgias') n'est pas documenté publiquement ; il ne s'agit toutefois pas d'un ancien nom de société distinct, la marque 'Gorgias' semble avoir été utilisée dès l'origine.",
+  "Aucune mention explicite de NUMA/Le Camping sur le site officiel de Gorgias (about-us) ; la seule preuve du passage par le programme reste l'article Journal du Net de 2015 listant les 25 lauréats de la promotion 7."
+ ],
+ "summary": "Gorgias (promotion NUMA n°7, 2015) est confirmé : fondé par Romain Lapeyre et Alex Plugaru, la startup est passée d'une extension Chrome d'aide à la rédaction d'e-mails à une plateforme de support client par IA pour l'e-commerce. Toujours active en 2026, basée à San Francisco, elle a levé plusieurs tours de financement jusqu'à une série C en 2022 (valorisation 710M$) et sert plus de 15 000 marchands. Aucune acquisition ni cessation d'activité constatée. Site web officiel actuel : gorgias.com (l'ancien domaine gorgias.io, actif dès 2015, a bien été capturé par Internet Archive). Tous les champs de l'enregistrement existant sont vérifiés sans correction nécessaire."
+}
