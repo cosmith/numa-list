@@ -1,0 +1,52 @@
+{
+ "id": "s7-filoute",
+ "name": "Filoute",
+ "season": 7,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "unverifiable"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Domitille de Saint-Exupéry" },
+  { "name": "Flore Morin" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Filoute est un site marchand dédié aux vêtements faits maison, qui vend des outils de couture et de tricot et donne accès à des patrons, des tutoriels et une communauté de passionnés.",
+ "statusDetails": "La société Filoute (SAS créée le 25 août 2015) a cessé son activité ; ses derniers comptes publiés portent sur l'exercice 2016 (CA 13 396 €, résultat net -2 931 €), et elle a été radiée du RCS et du RNE le 25 octobre 2023.",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/start-up/1155026-voici-les-25-laureats-du-nouveau-programme-d-acceleration-de-numa/",
+   "titre": "Voici les 25 lauréats du nouveau programme d'accélération de Numa",
+   "annee": "2015",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.societe.com/societe/filoute-813176013.html",
+   "titre": "FILOUTE - fiche société (SIREN 813176013)",
+   "annee": "2026",
+   "soutient": ["founders", "status", "identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/filoute",
+   "titre": "FILOUTE - LinkedIn",
+   "annee": "2026",
+   "soutient": ["identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/filoute",
+ "openQuestions": [
+  "L'Internet Archive (web.archive.org) et les services d'archivage alternatifs (archive.ph, timetravel.mementoweb.org) étaient inaccessibles depuis cet environnement (proxy bloqué / connexion réinitialisée) ; il n'a donc pas été possible de consulter une capture historique du site filoute.com ni une page de cohorte archivée de lecamping.org / numa.co pour la saison 7. Le domaine filoute.com répond aujourd'hui mais affiche une simple page 'Loading...' (application JS), sans contenu identifiable — impossible de dire s'il s'agit encore du site de la société d'origine ou d'un domaine récupéré depuis la radiation de 2023 ; le champ website reste donc 'unverifiable'.",
+  "Aucun profil LinkedIn personnel n'a pu être confirmé pour Domitille de Saint-Exupéry ou Flore Morin : les moteurs de recherche accessibles depuis cet environnement renvoient des CAPTCHA ou des pages sans JavaScript rendu, et le budget de l'outil WebSearch de la session était épuisé (200/200) avant que cette startup ne soit traitée, empêchant toute recherche complémentaire.",
+  "Aucun article de presse contemporain (2015) au-delà de l'article de lancement du programme n'a pu être localisé pour documenter une éventuelle levée de fonds ou un pivot de Filoute."
+ ],
+ "summary": "Tous les champs du dossier Filoute sont confirmés par des sources indépendantes concordantes : le Journal du Net (mai 2015) atteste l'appartenance aux 25 lauréats du nouveau programme d'accélération NUMA (saison 7 du jeu de données) et décrit l'activité (vente d'outils de couture/tricot, patrons, tutoriels, communauté) ; la fiche societe.com (SIREN 813176013) confirme les deux fondatrices déjà présentes dans le dossier — Domitille de Saint-Exupéry (présidente 2015-2017) et Flore Morin (DG puis présidente jusqu'à la radiation) — ainsi que l'arrêt de l'activité : société créée le 25 août 2015, derniers comptes publiés en 2016, radiée du RCS/RNE le 25 octobre 2023. La page LinkedIn de l'entreprise, à la même adresse parisienne, corrobore l'identité. Aucune correction n'est nécessaire ; seul le site web actuel reste invérifiable (Internet Archive inaccessible depuis cet environnement, et le domaine filoute.com actuel n'affiche aucun contenu identifiable) et aucun profil LinkedIn personnel n'a pu être localisé faute d'accès à un moteur de recherche fonctionnel."
+}
