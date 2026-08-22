@@ -11,7 +11,8 @@
       "Certaines communications ultérieures mentionnent 116 startups effectivement passées par le programme.",
       "Les champs non vérifiés sont représentés par null ou un tableau vide.",
       "Second passage de fact-check le 22 août 2026 : un audit approfondi par startup (presse d'époque, Internet Archive quand accessible, profils LinkedIn, actes d'acquisition), piste d'audit dans factcheck/deep/.",
-      "Depuis le partage de cette liste aux fondateurs, quelques fiches hors du périmètre initial (promotions 1 à 9) sont ajoutées sur signalement direct des fondateurs concernés ; elles sont identifiées via leur champ \"notes\"."
+      "Depuis le partage de cette liste aux fondateurs, quelques fiches hors du périmètre initial (promotions 1 à 9) sont ajoutées sur signalement direct des fondateurs concernés ; elles sont identifiées via leur champ \"notes\".",
+      "Quatrième passage le 22 août 2026 : les 21 fiches des saisons 10 à 13, d'abord documentées sommairement, ont reçu le même audit approfondi que les saisons 1 à 9 (un agent de recherche par startup, presse d'époque, base alumni NUMA archivée, profils LinkedIn, registres publics)."
     ],
     "factCheckedAt": "2026-08-22",
     "factCheckMethodology": "factcheck/README.md",
@@ -150,7 +151,7 @@
           "title": "Bankin' réduit ses pertes en 2024"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -348,7 +349,7 @@
           "title": "Capture la plus proche pour dabla.fr est datée du 11/11/2008, soit avant la création de la société (2011) : dabla.fr appartenait à un autre usage/propriétaire et n'est pas le domaine historique du pro"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -550,7 +551,7 @@
           "title": "Itipic - Crunchbase Company Profile & Funding"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -1334,7 +1335,7 @@
           "title": "Numa Paris — Accelerate Startups Season 1 (liste)"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -1564,7 +1565,7 @@
           "title": "Infinit - Crunchbase Company Profile & Funding"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -1708,7 +1709,7 @@
           "title": "La capture la plus récente connue (17 juin 2023) répond aussi en 200 selon l'API de disponibilité, mais une tentative directe d'ouverture de http://oleapark.com et https://oleapark.com aujourd'hui abo"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -1867,7 +1868,7 @@
           "title": "Site officiel Pictarine (consulté en 2026)"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -1998,7 +1999,7 @@
           "title": "Confirme l'existence d'une capture Wayback de babbleplanet.com au 6 janvier 2013 (http://web.archive.org/web/20130106064932/http://www.babbleplanet.com:80/?, status 200), cohérent avec le lancement de"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -2100,7 +2101,7 @@
           "title": "Le domaine qunb.com, vérifié en direct aujourd'hui, n'a plus aucun rapport avec la startup : il héberge désormais un site tiers sans rapport (guide de solutions pour le jeu Wordscapes), confirmant que"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -2328,7 +2329,7 @@
           "title": "The 2013 List: 20 Hot French Entrepreneurs Under 30"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -2438,7 +2439,7 @@
           "title": "Whip Media"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -2557,7 +2558,7 @@
           "title": "WeeCook : la nutrition, ça rapporte"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -2771,7 +2772,7 @@
           "title": "Explee Revenue 2025: $990K Est. ARR"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -2894,7 +2895,7 @@
           "title": "Supporting entrepreneurship in France at Le Camping"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -3255,7 +3256,7 @@
           "title": "Où en est Lima, la success-story française du cloud ?"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -3377,7 +3378,7 @@
           "title": "Felix Winckler - Team - White Star Capital"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -3470,7 +3471,7 @@
           "title": "Le Camping sélectionne 12 nouvelles start-ups (mention de la présentation de la promotion incluant Sketchfab, juin 2012)"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -3697,7 +3698,7 @@
           "title": "En 2026, le domaine redirige (307) vers forsale.godaddy.com : le nom de domaine est en vente, confirmant l'absence d'activité actuelle."
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -4024,7 +4025,7 @@
           "title": "Interview de François Dupayrat, directeur technique d'Auticiel"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -4541,7 +4542,7 @@
           "title": "En 2026, le domaine historique pricingassistant.com redirige (301) vers https://contentsquare.com/pricing-assistant/, ce qui confirme que le site indépendant n'existe plus et que la marque a été absor"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -4699,7 +4700,7 @@
           "title": "Fiche App Store Znappit — retournée en erreur 404"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -4955,7 +4956,7 @@
           "title": "Smartway — site officiel"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -5609,7 +5610,7 @@
           "title": "TENTATIVE ÉCHOUÉE — web.archive.org est inaccessible depuis cet environnement d'exécution : la connexion TLS est réinitialisée (Recv failure: Connection reset by peer) à la fois via l'outil WebFetch ("
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -6321,7 +6322,7 @@
           "title": "Un domaine distinct soundsgood.fm a des captures dès 2012 et jusqu'en 2024 ; son lien avec la startup n'a pas pu être confirmé (contenu inaccessible) — probablement un nom de domaine annexe ou parking"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -6755,7 +6756,7 @@
           "title": "Capture Wayback Machine du 24 décembre 2014 du site www.pulpix.co, confirmant l'existence du site pendant la saison 6 de Le Camping (contenu non consultable en détail : le domaine web.archive.org a ét"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -6843,7 +6844,7 @@
           "title": "Capture du 21 juillet 2019, avec un écart de ~4 ans sans capture entre 2015 et 2019 d'après l'API 'available' — compatible avec un abandon du site avant 2019, mais non confirmé faute d'accès au conten"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -7288,7 +7289,7 @@
           "title": "Site personnel de Marjolaine Grondin"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -7348,7 +7349,7 @@
           "title": "Addr, l'application qui redonne du sens à la lecture sur tablette"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -7531,7 +7532,7 @@
           "title": "Dernière capture connue le 27 décembre 2025 (statut 200) ; aucune capture plus récente au moment du contrôle (site vivant en direct testé le 22 août 2026 renvoie 404)."
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -7624,7 +7625,7 @@
           "title": "BODACC — Radiation au RCS de Paris de CLOUDORBIT"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -7698,7 +7699,7 @@
           "title": "SWOOPIN (COURSIERPRIVE.COM) — fiche registre"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -7775,7 +7776,7 @@
           "title": "L'API Wayback confirme aussi une capture de corilla.co (nom de domaine court utilisé par Journal du Net) au 11 janvier 2016 (statut HTTP 200)."
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -7843,7 +7844,7 @@
           "title": "FILOUTE - LinkedIn"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -8070,7 +8071,7 @@
           "title": "L'API Wayback (accessible, contrairement au domaine web.archive.org lui-même qui a été bloqué par l'outil de récupération malgré plusieurs méthodes essayées) confirme l'existence d'une capture du site"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -8173,7 +8174,7 @@
           "title": "Nouvelle capture Wayback de gorgias.io en décembre 2019, montrant que le domaine est resté actif plusieurs années après la promotion NUMA, avant la migration vers gorgias.com (domaine actuel, vérifié "
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -8224,7 +8225,7 @@
           ]
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -8468,7 +8469,7 @@
           "title": "Capture confirmée via l'API officielle archive.org/wayback/available (snapshot du 29/01/2019, statut 200). L'accès direct à web.archive.org était bloqué par l'environnement d'outils de cette session ("
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -8702,7 +8703,7 @@
           "title": "POPMYDAY - fiche registre (societe.com)"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -8861,7 +8862,7 @@
           "title": "Zest et Supermood s'associent pour créer le champion européen de l'engagement et de la performance collaborateurs"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -8993,7 +8994,7 @@
           ]
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -9276,7 +9277,7 @@
           "title": "Welcome to the Jungle change de braquet pour se réinventer sur un marché du recrutement bouleversé par l'IA"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -9513,7 +9514,7 @@
           ]
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -9775,7 +9776,7 @@
           "title": "Confirme l'existence d'une capture Wayback Machine du domaine hopfab.com datée du 20 novembre 2016 (http://web.archive.org/web/20161120021920/http://hopfab.com:80/), cohérente avec une présence en lig"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "notes": "Distinguer la société Hopfab, liquidée en 2023, de la marque et du réseau toujours exploités avec La Conciergerie de l'Architecture.",
       "factCheck": {
         "verdict": "verified",
@@ -10038,7 +10039,7 @@
           "title": "Capture la plus récente indexée par Wayback (07/03/2026) selon l'API 'available'. Correspond très probablement à la page de parking du registrar NetZone constatée en accès direct sur meloflow.com en a"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
@@ -10106,7 +10107,7 @@
           "title": "MONTRANSPORT — fiche société"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -10295,7 +10296,7 @@
           "title": "Dashdoc — plateforme lancée par les fondateurs de Truckfly après la vente à Michelin"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "notes": "Maxime Legardez, précédemment attribué à cette fiche, est le fondateur de Convargo et non de Truckfly.",
       "factCheck": {
         "verdict": "verified",
@@ -10595,7 +10596,7 @@
           ]
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -10803,7 +10804,7 @@
           "title": "Charles DE PELLEPORT | Airkit | F6S Member Profile"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "notes": "Le projet NUMA concernait la réservation d'activités touristiques, pas le partage de données mobiles. Société juridiquement active mais pivot actuel non totalement documenté.",
       "factCheck": {
         "verdict": "corrected",
@@ -11057,7 +11058,7 @@
           ]
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -11198,7 +11199,7 @@
           ]
         }
       ],
-      "confidence": "high",
+      "confidence": "low",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -11233,7 +11234,7 @@
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Toujours en activité selon les fondateurs : Hello Charly (éditée par la société OVVY) exploite une application et un site actifs, revendique environ un million de jeunes accompagnés dans leur orientation scolaire et professionnelle, est labellisée « entreprise solidaire d'utilité sociale » (ESUS) depuis 2022 et a été la première ressource d'orientation certifiée GAR par l'Éducation nationale en 2021.",
+      "statusDetails": "Toujours en activité : Hello Charly (éditée par la société OVVY, SIREN 813174695, créée le 18 août 2015) est enregistrée comme active dans le registre national des entreprises, avec Fatma Chouaieb (état civil « Fatma François ») présidente et Laurent Deambrogio directeur général — les deux cofondateurs d'origine, toujours en poste. La société comptait environ 12 salariés en 2023 et exploite un site et une application actifs revendiquant près d'un million de jeunes accompagnés dans leur orientation. Elle est labellisée « entreprise solidaire d'utilité sociale » (ESUS, fin 2022/janvier 2023 selon les sources) et a été la première ressource d'orientation certifiée GAR par l'Éducation nationale en 2021. Sa page entreprise LinkedIn (5 449 abonnés, 11-50 salariés) est également active.",
       "website": "https://www.hello-charly.com",
       "sources": [
         {
@@ -11280,9 +11281,28 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=OVVY",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Fiche entreprise OVVY (Recherche d'entreprises, API officielle data.gouv.fr)"
+        },
+        {
+          "url": "https://www.linkedin.com/company/hello-charly",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Hello Charly — page entreprise LinkedIn"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "notes": "Startup remontée directement par ses fondateurs (Laurent Deambrogio et Fatma Chouaieb) lors du partage de cette liste. Saison 12 de NUMA (rentrée du 16 octobre 2017) : hors du périmètre initial \"promotions 1 à 9, 2011–2016\", ajoutée ici sur la base de ce signalement direct.",
       "factCheck": {
         "verdict": "verified",
@@ -11296,7 +11316,7 @@
           "statusDetails": "verified",
           "website": "verified"
         },
-        "evidenceCount": 5,
+        "evidenceCount": 7,
         "auditFile": "factcheck/deep/s12-hello-charly.json"
       },
       "activityDescription": "Hello Charly est une application qui s'appuie sur un chatbot pour accompagner les 14-24 ans dans leur orientation scolaire et professionnelle, via un parcours conversationnel qui explore leurs centres d'intérêt."
@@ -11372,7 +11392,7 @@
           "accessedAt": "2026-08-22"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "notes": "Startup identifiée comme saison 6 par le blog NUMA lui-même (émission « Crash Test » consacrée à Deepomatic) et par la liste alumni de NUMA, mais absente de l'annonce de presse contemporaine des 12 startups officiellement sélectionnées pour cette saison (Journal du Net, sept. 2014). Ajoutée malgré cette divergence, la source NUMA elle-même faisant foi en priorité.",
       "factCheck": {
         "verdict": "corrected",
@@ -11399,19 +11419,22 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Jérémie Catez"
+          "name": "Jérémie Catez",
+          "linkedin": "https://www.linkedin.com/in/jeremiecatez/"
         },
         {
-          "name": "Sébastien Trouillet"
+          "name": "Sébastien Trouillet",
+          "linkedin": "https://www.linkedin.com/in/sebastien-trouillet-aa24583/"
         },
         {
-          "name": "Gabriel Munch-Andersen"
+          "name": "Gabriel Munch-Andersen",
+          "linkedin": "https://www.linkedin.com/in/gmunchandersen/"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Marketplace de location d'espaces hôteliers inoccupés en journée pour voyageurs d'affaires ; CB Insights classe la société « Dead » et le domaine beewake.com héberge désormais un contenu de jeux d'argent en ligne sans rapport, signe d'un abandon suivi d'une reprise du nom de domaine.",
+      "statusDetails": "La SAS BEEWAKE (SIREN 827 909 946, créée le 24 février 2017 à Vanves, présidée par Sébastien Trouillet puis avec Jérémie Catez comme directeur général à partir de 2020) a été dissoute et radiée du registre du commerce le 10 mars 2025, confirmant l'arrêt définitif de l'activité. CB Insights classait déjà la société « Dead » et le nom de domaine beewake.com héberge aujourd'hui un blog de jeux d'argent en ligne sans rapport (beewake.fr héberge de son côté un site éditorial généraliste sur l'immobilier/l'entreprise) — signe d'une reprise opportuniste des noms de domaine après abandon.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -11436,35 +11459,90 @@
             "founders"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.cbinsights.com/investor/numa",
+          "supports": [
+            "cohort"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "NUMA Portfolio Investments, Numa Funds, Numa Exits (cite un article du 24 janvier 2017 sur le Demo Day de la saison 10 : Beewake, Coding Days, Goodeed, Ma Coiffeuse Afro, Medelse)"
+        },
+        {
+          "url": "https://www.phocuswire.com/Startup-pitch-Beewake-helps-hotels-sell-out-rooms-in-increments-to-business-travelers",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Startup pitch: Beewake helps hotels sell out rooms in increments to business travelers"
+        },
+        {
+          "url": "https://www.alleywatch.com/2016/08/nyc-startup-beewake-is-tapping-in-to-this-market-to-create-work-spaces-everywhere/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "NYC Startup Beewake is Tapping into This Market to Create Work Spaces Everywhere"
+        },
+        {
+          "url": "https://www.societe.com/societe/beewake-827909946.html",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Registre du commerce — BEEWAKE SIREN 827909946 (Vanves), dissolution/liquidation clôturée le 10/03/2025"
+        },
+        {
+          "url": "https://www.crunchbase.com/person/sebastien-trouillet",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Sebastien Trouillet - CEO - Co Founder @ Beewake"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "notes": "Rattachement à la saison 10 corroboré par la base alumni officielle de NUMA (co-occurrence avec Medelse, dont la « 10ème promotion » est confirmée par une source de presse indépendante) plutôt que par une annonce de presse dédiée à Beewake elle-même.",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
-          "season": "partially_verified",
+          "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
           "founders": "verified",
-          "status": "verified",
-          "statusDetails": "verified"
+          "status": "corrected",
+          "statusDetails": "corrected",
+          "website": "verified"
         },
-        "evidenceCount": 3
+        "evidenceCount": 8,
+        "auditFile": "factcheck/deep/s10-beewake.json"
       },
-      "activityDescription": "Beewake était une marketplace permettant de réserver des espaces hôteliers inoccupés en journée (chambres, salles de réunion) pour les voyageurs d'affaires et freelances."
+      "activityDescription": "Beewake était une marketplace permettant aux voyageurs d'affaires et freelances de réserver à l'heure ou à la journée des chambres et salles de réunion inoccupées dans des hôtels partenaires (Marriott, Starwood, AccorHotels...)."
     },
     {
       "id": "s10-coding-days",
       "season": 10,
       "name": "Coding Days",
-      "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "formerNamesOrPivots": [
+        "Matha (Matha.io)"
+      ],
+      "founders": [
+        {
+          "name": "Alexandre Zana",
+          "linkedin": "https://fr.linkedin.com/in/alexandre-zana-51b28912b"
+        },
+        {
+          "name": "Thomas Jeanneau",
+          "linkedin": "https://fr.linkedin.com/in/thomasjeanneauentrepreneur"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Présente dans le portfolio NUMA Paris et dans la base alumni officielle de NUMA (saison 10, tag « Alive » en 2018), mais aucune information vérifiable (fondateurs, activité précise) n'a pu être retrouvée au-delà de cette présence : le domaine codingdays.fr a disparu et codingdays.com redirige vers une page de vente de domaine GoDaddy en 2026.",
+      "statusDetails": "La société CODING DAYS SAS (SIREN 828400333, créée le 01/03/2017 à Boulogne-Billancourt) a changé de nom pour devenir MATHA le 01/09/2020, pivotant vers une plateforme d'e-learning et de mentorat pour entrepreneurs (Matha.io). Un jugement du tribunal de commerce de Bobigny du 17/03/2026 a clôturé la liquidation judiciaire pour insuffisance d'actif, entraînant la radiation d'office de la société le 17/03/2026. Les sites coding-days.com et codingdays.fr ne résolvent plus, et matha.io renvoie une erreur serveur en 2026.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -11481,23 +11559,115 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2018/06/07/onateste-coding-days/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Coding Days, une journée pour apprendre à coder"
+        },
+        {
+          "url": "https://www.lemondeinformatique.fr/actualites/lire-coding-days-leve-600-000-eteuro-pour-accelerer-dans-le-b2b-72774.html",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Coding Days lève 600 000 € pour accélérer dans le B2B"
+        },
+        {
+          "url": "https://lespepitestech.com/startup-de-la-french-tech/coding-days",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Coding Days - Startup France French Tech Grand Paris"
+        },
+        {
+          "url": "https://www.jaimelesstartups.fr/coding-days/",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Découvrez l'histoire de la startup Coding Days"
+        },
+        {
+          "url": "https://www.maddyness.com/entreprise/coding-days/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Coding Days : actu, infos, fiche entreprise"
+        },
+        {
+          "url": "https://www.crunchbase.com/person/alexandre-zana",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Alexandre Zana - Co-Founder and CEO @ Coding Days"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Q6XDwm8Qjy8",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Alexandre Zana - CEO et fondateur de Matha.io (ex Coding Days)"
+        },
+        {
+          "url": "https://www.societe.com/societe/coding-days-828400333.html",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société MATHA (ex CODING DAYS), SIREN 828400333"
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/matha-828400333",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société MATHA (828400333) : statuts, extrait d'immatriculation"
+        },
+        {
+          "url": "https://www.infogreffe.fr/entreprise-societe/828400333-coding-days-920117B02637.html",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "CODING DAYS à BOULOGNE-BILLANCOURT (828400333) - Infogreffe"
         }
       ],
-      "confidence": "low",
+      "confidence": "high",
       "notes": "Fondateurs et activité précise non retrouvés malgré recherche ; fiche volontairement minimale plutôt qu'incomplète par extrapolation.",
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
-          "season": "partially_verified",
+          "season": "verified",
           "name": "verified",
-          "formerNamesOrPivots": "verified",
-          "founders": "unverifiable",
-          "status": "unverifiable",
-          "statusDetails": "unverifiable"
+          "formerNamesOrPivots": "corrected",
+          "founders": "corrected",
+          "status": "verified",
+          "statusDetails": "corrected",
+          "website": "verified"
         },
-        "evidenceCount": 2
-      }
+        "evidenceCount": 12,
+        "auditFile": "factcheck/deep/s10-coding-days.json"
+      },
+      "activityDescription": "Coding Days est un bootcamp qui initiait particuliers et salariés d'entreprises aux fondamentaux du développement web (HTML5, CSS3, méthodes agiles) lors de sessions intensives d'une journée ou d'un week-end."
     },
     {
       "id": "s10-goodeed",
@@ -11506,16 +11676,21 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Vincent Touboul"
+          "name": "Vincent Touboul Flachaire",
+          "linkedin": "https://www.linkedin.com/in/vincent-touboul-flachaire-87857564/"
         },
         {
-          "name": "Thierry Théophile"
+          "name": "Théophile Thiery",
+          "linkedin": "https://www.linkedin.com/in/theophilethiery/"
+        },
+        {
+          "name": "Shao-Yun Tang"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "« Webmarketing solidaire » actif : regarder de courtes publicités génère des dons (60%+ du budget publicitaire) pour des associations partenaires. Fusionnée un temps avec KissKissBankBank (~2018), l'équipe fondatrice a depuis racheté la société pour retrouver son indépendance. Revendique 300+ partenaires annonceurs, plus de 10 M$ reversés, certifiée B Corp depuis 2014.",
+      "statusDetails": "Publicité solidaire active : les internautes regardent de courtes publicités dont une partie du budget est reversée à des associations. Rachetée en mars 2018 par KissKissBankBank & Co (filiale de La Banque Postale), Goodeed a été rachetée en 2025 par son fondateur Vincent Touboul Flachaire, entouré d'une quinzaine d'investisseurs (dont Céline Lazorthes, Antoine Martel, Xavier Durant et Clément Lebras). Toujours immatriculée et active (SIREN 809 819 394, SAS, Paris), Vincent Touboul Flachaire en est président depuis mai 2025. Revendique une équipe d'une trentaine de personnes, 300+ partenaires annonceurs, plus de 10 M$ reversés à environ 800 projets solidaires, certifiée B Corp.",
       "website": "https://en.goodeed.com",
       "sources": [
         {
@@ -11542,24 +11717,129 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.frenchweb.fr/la-start-up-du-jour-goodeed-quand-les-internautes-font-des-dons-sans-depenser-dargent/147507",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "La start-up du jour : Goodeed, quand les internautes font des dons sans dépenser d'argent"
+        },
+        {
+          "url": "https://www.bonjouridee.com/goodeed/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "#startup : Goodeed, quand la pub que vous regardez finance vos dons"
+        },
+        {
+          "url": "https://wydden.com/france-start-up-entreprise-goodeed/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "[La France a d'incroyable start-up] Goodeed"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Goodeed",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Goodeed — Wikipédia"
+        },
+        {
+          "url": "https://www.maddyness.com/2018/03/21/la-banque-postale-rachete-goodeed-via-kisskissbankbank/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "La Banque Postale rachète Goodeed via KissKissBankBank"
+        },
+        {
+          "url": "https://business.ladn.eu/news-business/actualites-startups/goodeed-rejoint-la-banque-postale-et-kisskissbankbank/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Goodeed rejoint La Banque Postale et KissKissBankBank"
+        },
+        {
+          "url": "https://www.usine-digitale.fr/article/kisskissbankbank-s-offre-la-start-up-goodeed-specialiste-des-dons-par-la-publicite.N669679",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "KissKissBankBank s'offre la start-up Goodeed, spécialiste des dons par la publicité"
+        },
+        {
+          "url": "https://www.maddyness.com/2025/04/09/le-fondateur-de-goodeed-retrouve-sa-startup-7-ans-apres-lavoir-cede-a-la-banque-postale/",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Le fondateur de Goodeed retrouve sa startup 7 ans après l'avoir cédée à la Banque Postale"
+        },
+        {
+          "url": "https://www.societe.com/societe/goodeed-809819394.html",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "GOODEED — fiche société.com (SIREN 809 819 394)"
+        },
+        {
+          "url": "https://archive.org/wayback/available?url=goodeed.com&timestamp=2017",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "L'API de disponibilité Wayback confirme l'existence d'une capture de goodeed.com au 21 janvier 2018 (http://web.archive.org/web/20180121210233/https://www.goodeed.com/). Le contenu de la capture elle-"
+        },
+        {
+          "url": "https://archive.org/wayback/available?url=hub.numa.co/public/alumni&timestamp=2017",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "L'API de disponibilité Wayback confirme l'existence d'une capture de hub.numa.co/public/alumni au 28 septembre 2017 (http://web.archive.org/web/20170928193537/https://hub.numa.co/public/alumni). Conte"
+        },
+        {
+          "url": "https://hub.numa.co/public/jobs/374",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "URL d'une offre d'emploi « Business Developer (super-héros commercial) at Goodeed » hébergée sur le hub NUMA (public/jobs), retrouvée via recherche — preuve directe du lien portefeuille NUMA/Goodeed. "
         }
       ],
       "confidence": "medium",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
-          "season": "partially_verified",
+          "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
-          "statusDetails": "verified",
+          "statusDetails": "corrected",
           "website": "verified"
         },
-        "evidenceCount": 3
+        "evidenceCount": 15,
+        "auditFile": "factcheck/deep/s10-goodeed.json"
       },
-      "activityDescription": "Goodeed est une plateforme de « webmarketing solidaire » : les internautes regardent de courtes publicités dont la majorité du budget est reversée à des associations et causes environnementales choisies par l'utilisateur."
+      "activityDescription": "Goodeed est une plateforme de publicité solidaire : les internautes regardent de courtes publicités dont une partie du budget publicitaire est reversée à des associations et projets solidaires choisis par l'utilisateur."
     },
     {
       "id": "s10-ma-coiffeuse-afro",
@@ -11568,16 +11848,18 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Rebecca Cathline"
+          "name": "Rebecca Cathline",
+          "linkedin": "https://www.linkedin.com/in/rebecca-cathline/"
         },
         {
-          "name": "Emmanuel Derozin"
+          "name": "Didier Emmanuel Derozin",
+          "linkedin": "https://www.linkedin.com/in/didier-derozin-emmanuel-56767061/"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme active mettant en relation des femmes aux cheveux texturés/afro avec des coiffeurs spécialisés (tresses, soins naturels, à domicile) ; revendique 200 000+ membres. A levé 350 K€ en novembre 2019 (CRE.VC, Denis Fayolle) ; fondatrice distinguée parmi les « 10 femmes digitales de l'année » en 2020.",
+      "statusDetails": "Plateforme active (site officiel en ligne en 2026, confirmé par récupération directe), fondée en 2016 par Rebecca Cathline (CEO) et Didier Emmanuel Derozin, dit Emmanuel Derozin (CTO), et accélérée par NUMA Paris (25 K€ de financement d'amorçage via l'accélérateur selon le témoignage du CTO). Revendique 130 000 à 200 000+ utilisatrices, 9,9 millions de pages vues et plus de 160 000 abonnés Instagram. A levé 350 K€ en novembre 2019 (CRE.VC, investisseur Denis Fayolle), puis un tour d'amorçage complémentaire en mars 2022 mené par OBRATORI (montant non communiqué). A lancé en 2019 la marque de compléments capillaires In Haircare, toujours active. La fondatrice a été distinguée parmi les « 10 femmes digitales de l'année » en 2020 et a reçu le Prix Marie-Claire Beauty Excellence pour In Haircare la même année.",
       "website": "https://macoiffeuseafro.com",
       "sources": [
         {
@@ -11611,6 +11893,52 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://macoiffeuseafro.com/pages/qui-sommes-nous",
+          "supports": [
+            "cohort",
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "A propos de nous | Ma Coiffeuse Afro — page équipe, mention explicite de l'accélération par NUMA (« ont été accélérés au NUMA, l'un des accélérateurs d'entreprise les plus sélectifs de France »)"
+        },
+        {
+          "url": "https://cto.pizza/pizza-with-emmanuel-derozin-cto-ma-coiffeuse-afro-2c834dc7ad32",
+          "supports": [
+            "cohort",
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "A passion for numbers & technology - Emmanuel Derozin (Ma Coiffeuse Afro) | CTO.Pizza"
+        },
+        {
+          "url": "https://www.jeuneafrique.com/663482/economie/rebecca-cathline-la-french-tech-se-diversifie/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Rebecca Cathline : la French Tech se diversifie"
+        },
+        {
+          "url": "https://www.crunchbase.com/organization/ma-coiffeuse-afro",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Ma Coiffeuse Afro - Crunchbase Company Profile & Funding"
+        },
+        {
+          "url": "https://www.crunchbase.com/person/emmanuel-derozin",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Emmanuel Derozin - Co-Founder and CTO @ Ma Coiffeuse Afro - Crunchbase Person Profile"
         }
       ],
       "confidence": "medium",
@@ -11619,17 +11947,18 @@
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
-          "season": "partially_verified",
+          "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "conflicting",
+          "founders": "corrected",
           "status": "verified",
           "statusDetails": "verified",
           "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 9,
+        "auditFile": "factcheck/deep/s10-ma-coiffeuse-afro.json"
       },
-      "activityDescription": "Ma Coiffeuse Afro est une plateforme qui met en relation les femmes aux cheveux texturés ou afro avec des coiffeurs et coiffeuses spécialisés, pour des prestations en salon ou à domicile."
+      "activityDescription": "Ma Coiffeuse Afro est une plateforme web et mobile qui met en relation les personnes aux cheveux texturés, bouclés ou afro avec des coiffeurs et coiffeuses spécialisés, pour des prestations en salon ou à domicile."
     },
     {
       "id": "s10-medelse",
@@ -11638,7 +11967,8 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Thomas Gendron"
+          "name": "Thomas Gendron",
+          "linkedin": "https://fr.linkedin.com/in/thomasgendron"
         },
         {
           "name": "Tristan Renoul"
@@ -11647,7 +11977,7 @@
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme de mise en relation entre professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) et établissements pour des missions de remplacement. Rachat des actifs par Synergie Care, dont le site officiel indique explicitement : « Synergie Care a acquis les actifs de la société Medelse » ; medelse.com redirige vers synergie-care.fr.",
+      "statusDetails": "Medelse mettait en relation des professionnels de santé libéraux (dentistes, kinésithérapeutes, infirmiers, puis médecins généralistes) avec des établissements de santé pour des missions de remplacement et de renfort. La société a levé des fonds auprès notamment de FJ Labs, Angelsquare puis du fonds Extens (janvier 2020), et son application a servi au recrutement de renforts pour des centres de vaccination pendant la crise Covid-19. Elle a ensuite été rachetée par Synergie Care (filiale santé du groupe Synergie, ex-Aile Médicale) : le site synergie-care.fr indique que « Synergie Care a acquis les actifs de la société Medelse » et présente la continuité des missions sous sa propre plateforme. Au 22/08/2026, medelse.com redirige (301) vers la page synergie-care.fr/vos-missions-continuent-avec-synergie-care, confirmant l'arrêt de l'exploitation sous la marque Medelse.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -11680,11 +12010,37 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/150225/medelse",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Fiche MyFrenchStartup Medelse — fondateurs, Station F, Wilco, description"
+        },
+        {
+          "url": "https://tracxn.com/d/companies/medelse/__vWawILxovow8ITLRUTwQo7hyJNr3cqY8Ru_nMHPzOtg",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Fiche Tracxn Medelse — fondateurs (Thomas Gendron, Tristan Renoul), NUMA Paris et Station F cités, Audrey Delval indiquée comme « Manager » (non fondatrice)"
+        },
+        {
+          "url": "https://www.synergie-care.fr/vos-missions-continuent-avec-synergie-care",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "« Vos missions continuent, avec Synergie Care » — page de transition confirmant le rachat des actifs de Medelse"
         }
       ],
       "confidence": "high",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -11692,11 +12048,12 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "corrected"
         },
-        "evidenceCount": 4
+        "evidenceCount": 7,
+        "auditFile": "factcheck/deep/s10-medelse.json"
       },
-      "activityDescription": "Medelse était une plateforme mettant en relation les professionnels de santé (dentistes, kinésithérapeutes, infirmiers, puis médecins) avec des établissements pour des missions de remplacement.",
+      "activityDescription": "Medelse était une plateforme de mise en relation entre professionnels de santé libéraux (dentistes, kinésithérapeutes, infirmiers, puis médecins) et établissements de santé pour des missions de remplacement et de renfort.",
       "acquirer": "Synergie Care"
     },
     {
@@ -11720,7 +12077,7 @@
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Fondée en 2014 comme application d'approvisionnement des restaurants en produits frais, la société a pivoté pour devenir l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable.",
+      "statusDetails": "Fondée le 27 juin 2014 (SAS, SIREN 803 658 137, Chevilly-Larue) par Pierre Levy (président/CEO), Simon Bussy (directeur général/CTO, docteur en machine learning) et Ross Lawrence (COO), Califrais était à l'origine une application d'approvisionnement des restaurants parisiens en produits frais issus du marché de Rungis, incubée aussi par Rungis&Co. Chiffre d'affaires en forte croissance dès les débuts (1 M€ en 2017, 1,8 M€ en 2018, 3,3 M€ en 2019). Pendant la crise du Covid-19, pivot temporaire vers la livraison aux particuliers (« Rungis livré chez vous »). La société est ensuite devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis (rungismarket.com), avec un modèle de recherche partagé (LabCom LOPF, CNRS/Sorbonne Université/Université Paris Cité). A levé 10 M€ en juin 2025 (STEF, Coactiv Partners, Gilles Babinet), pour un chiffre d'affaires 2024 d'environ 20 M€ et une activité déjà rentable. Société toujours active au registre (fiche Pappers/annuaire-entreprises.data.gouv.fr consultée en 2026, aucune mention de cessation).",
       "website": "https://www.califrais.fr",
       "sources": [
         {
@@ -11755,11 +12112,55 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.rungisinternational.com/portraits/califrais",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Portrait Califrais — Rungis International"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/205236/califrais",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Califrais — My French Startup"
+        },
+        {
+          "url": "https://www.actuia.com/actualite/logistique-transport-intelligent-la-societe-califrais-leve-15-million-deuros-aupres-du-groupe-stef/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Logistique & transport intelligent : la société Califrais lève 1,5 million d'euros auprès du groupe STEF"
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/califrais-803658137",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société CALIFRAIS : Chiffre d'affaires, statuts, extrait d'immatriculation"
+        },
+        {
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/califrais-803658137",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société CALIFRAIS à 94550 CHEVILLY-LARUE - SIREN 803 658 137"
         }
       ],
       "confidence": "high",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -11770,7 +12171,8 @@
           "statusDetails": "verified",
           "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 9,
+        "auditFile": "factcheck/deep/s11-califrais.json"
       },
       "activityDescription": "Califrais est une foodtech française, à l'origine une application d'approvisionnement des restaurants en produits frais, devenue l'opérateur numérique et logistique officiel du marché de gros de Rungis."
     },
@@ -11785,7 +12187,8 @@
           "linkedin": "https://www.linkedin.com/in/pierreantoineroy/"
         },
         {
-          "name": "Guillaume Giudicelli"
+          "name": "Guillaume Giudicelli",
+          "linkedin": "https://www.linkedin.com/in/guillaumegiudicelli/"
         },
         {
           "name": "Emmanuel Chaffraix",
@@ -11795,7 +12198,7 @@
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "HR tech française passée du prêt de compétences entre entreprises à une « cartographie dynamique des compétences ». Rachetée par Talentsoft le 16 juin 2020 (prix non divulgué), équipe intégrée à la R&D de Talentsoft. La société Crafty SAS a été dissoute le 15 décembre 2020 ; crafty.im ne résout plus. Talentsoft a lui-même été absorbé par Cegid (talentsoft.com redirige vers cegid.com).",
+      "statusDetails": "HR tech française passée du prêt de compétences entre entreprises (marketplace inter-entreprises) à une « cartographie dynamique des compétences » en SaaS, pivot opéré pendant l'accélération NUMA en 2017 à la demande de clients qui voulaient réutiliser la technologie de détection de compétences en interne. Crafty a ensuite rejoint la première promotion du Founders Program de STATION F (2017-2019) avant de prendre ses propres bureaux. Rachetée par Talentsoft le 16 juin 2020 (prix non divulgué, clientèle incluant EDF et Spie Batignolles), équipe et fondateurs intégrés à la R&D de Talentsoft. Guillaume Giudicelli, cofondateur en 2016, avait quitté la société en octobre 2017 (il est aujourd'hui Sales Director chez Botify) ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique et est resté jusqu'au rachat. La société Crafty SAS a été dissoute le 15 décembre 2020 ; le domaine crafty.im ne résout plus (DNS mort). Talentsoft a lui-même été absorbé par Cegid (talentsoft.com redirige vers cegid.com).",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -11837,24 +12240,89 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://stationf.co/news/pierre-antoine-roy-former-ceo-of-crafty-at-station-f-we-benefited-from-an-ecosystem-and-not-just-a-place",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Pierre-Antoine Roy, former CEO of Crafty: at STATION F we benefited from an ecosystem and not just a place"
+        },
+        {
+          "url": "https://www.imt-starter.fr/actualite/crafty-talentsoft",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Crafty : start-up incubée IMT Starter rachetée par Talentsoft"
+        },
+        {
+          "url": "https://www.lejournaldesrh.fr/gestion-des-talents-internes-talentsoft-soffre-la-technologie-de-matching-de-la-startup-crafty/",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Gestion des talents internes : Talentsoft s'offre la technologie de matching de la startup Crafty"
+        },
+        {
+          "url": "https://www.lejournaldesrh.fr/crafty-veut-denicher-les-meilleurs-profils-tech/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Crafty veut dénicher les meilleurs profils Tech"
+        },
+        {
+          "url": "https://www.maddyness.com/2017/02/17/fastpitch-crafty-ca-compte-pour-moi-savemypaquet-yoyo-et-delicorner/",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Les 5 startups de la semaine : Crafty, Ça compte pour moi, SaveMyPaquet, Yoyo et Delicorner"
+        },
+        {
+          "url": "https://www.hr-voice.com/communiques-presse/talentsoft-annonce-lacquisition-de-crafty-start-up-francaise-de-la-tech-rh-au-service-du-developpement-des-talents/2020/07/06/",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Talentsoft annonce l'acquisition de Crafty, start-up française de la Tech RH"
+        },
+        {
+          "url": "https://www.rhmatin.com/sirh/gestion-talents/cartographie-des-competences-talentsoft-fait-le-matching-avec-crafty.html",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Cartographie des compétences : Talentsoft fait le matching avec Crafty"
         }
       ],
       "confidence": "high",
       "notes": "Guillaume Giudicelli a quitté la société en octobre 2017, avant le rachat par Talentsoft ; Emmanuel Chaffraix l'a rejoint en avril 2017 comme directeur technique.",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "verified",
+          "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 12,
+        "auditFile": "factcheck/deep/s11-crafty.json"
       },
-      "activityDescription": "Crafty était une startup RH française qui a évolué du prêt de compétences entre entreprises vers une « cartographie dynamique des compétences » pour la mobilité interne et la formation.",
+      "activityDescription": "Crafty était une startup RH française qui a évolué du prêt de compétences entre entreprises vers une « cartographie dynamique des compétences » (matching par IA) pour la mobilité interne, la gestion des talents et la formation.",
       "acquirer": "Talentsoft"
     },
     {
@@ -11868,13 +12336,18 @@
           "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en"
         },
         {
-          "name": "Xavier Coudert"
+          "name": "Xavier Coudert",
+          "linkedin": "https://fr.linkedin.com/in/xavier-coudert-b45b6830"
+        },
+        {
+          "name": "Patrick Rousset",
+          "linkedin": "https://fr.linkedin.com/in/patrick-r-17240a32"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme d'accompagnement énergétique (suivi de consommation, comparateur de fournisseurs, rénovation) toujours active : levée de 12 M€ en série A en novembre 2023, expansion en Espagne (Valence) fin 2024, citée parmi les « 50 startups où postuler en 2026 » par Maddyness. Plus de 250 salariés.",
+      "statusDetails": "Plateforme d'accompagnement énergétique (suivi de consommation, comparateur de fournisseurs, rénovation) toujours active : levée de 12 M€ en série A en novembre 2023, expansion en Espagne (Valence) fin 2024, citée parmi les « 50 startups où postuler en 2026 » par Maddyness. Plus de 250 salariés, plus de 3 millions de téléchargements de l'application ; société HELLO WATT (SIREN 820585123) toujours immatriculée et active à Paris d'après le registre des entreprises.",
       "website": "https://www.hellowatt.fr",
       "sources": [
         {
@@ -11914,25 +12387,68 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=hDRk7kOJlL0",
+          "supports": [
+            "cohort",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Startup Of NUMA - Hello Watt - Saison 11"
+        },
+        {
+          "url": "https://x.com/centralesupelec/status/1100694001286635520",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Tweet CentraleSupélec présentant Hello Watt, « créé par 3 de nos ingénieurs : Sylvain Le Falher, Patrick Rousset et Xavier Coudert »"
+        },
+        {
+          "url": "https://www.thegood.fr/hello-watt/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Étude de cas Hello Watt — historique et fondateurs"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/223826/hello_watt",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Startup Hello Watt — comparateur fournisseurs électricité et gaz"
+        },
+        {
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/hello-watt-820585123",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société HELLO WATT (SIREN 820585123) — annuaire des entreprises"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "notes": "Année de création divergente selon les sources (2016 en création légale d'après Wikipédia, 2017 d'après le site officiel de Hello Watt lui-même) ; sans incidence sur le rattachement à la saison 11 (2017).",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
           "statusDetails": "verified",
           "website": "verified"
         },
-        "evidenceCount": 5
+        "evidenceCount": 10,
+        "auditFile": "factcheck/deep/s11-hello-watt.json"
       },
-      "activityDescription": "Hello Watt est une plateforme française qui aide les ménages à suivre et réduire leurs factures d'électricité et de gaz, comparer les fournisseurs d'énergie et accéder à des services de rénovation énergétique."
+      "activityDescription": "Hello Watt est une plateforme française qui aide les ménages à suivre et réduire leurs factures d'électricité et de gaz, comparer les fournisseurs d'énergie et accéder à des services de rénovation énergétique (isolation, pompes à chaleur, photovoltaïque)."
     },
     {
       "id": "s11-izifret",
@@ -11941,19 +12457,21 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Stéphane Raynal"
+          "name": "Stéphane Raynal",
+          "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-r-26895458/"
         },
         {
           "name": "Mahsum Yildirim"
         },
         {
-          "name": "Guillaume Deslandes"
+          "name": "Guillaume Deslandes",
+          "linkedin": "https://fr.linkedin.com/in/deslandesgui"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises »). Liquidation judiciaire ouverte le 30 juillet 2021 (cessation des paiements au 1er novembre 2020), clôturée pour insuffisance d'actif le 24 septembre 2024, société radiée le 1er octobre 2024, confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »).",
+      "statusDetails": "Marketplace B2B de fret routier/multimodal (« l'Airbnb du transport de marchandises lourdes »), fondée le 5 mai 2017. Liquidation judiciaire prononcée par le Tribunal de commerce de Bobigny le 30 juillet 2021 (jugement n°2021J00737, cessation des paiements fixée au 1er novembre 2020, liquidateur SELARLU Bally M.J.), clôturée pour insuffisance d'actif et société radiée d'office le 24 septembre 2024 (art. R.123-129 du Code de commerce), confirmé par le registre officiel des entreprises (SIREN 829380062, état « cessée »). Le nom de domaine izifret.com affiche aujourd'hui une simple page de maintenance WordPress par défaut, sans lien avec une reprise d'activité.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -11980,11 +12498,44 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://lespepitestech.com/blog/2017/07/17/top-10-des-startups-fran-aises-de-la-semaine-10-au-16-juillet-2017-par-les-p-pites",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Top 10 des startups françaises de la semaine : 10 au 16 juillet 2017 (Les Pépites Tech)"
+        },
+        {
+          "url": "https://lespepitestech.com/startup-de-la-french-tech/izifret",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "IZIFRET - Startup France French Tech Grand Paris"
+        },
+        {
+          "url": "https://www.pappers.fr/entreprise/izifret-829380062",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société IZIFRET (829380062) : Chiffre d'affaires, statuts, extrait d'immatriculation"
+        },
+        {
+          "url": "https://www.societe.com/societe/izifret-829380062.html",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société IZIFRET à SAINT-DENIS (93200)"
         }
       ],
       "confidence": "high",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -11992,11 +12543,13 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "corrected",
+          "website": "verified"
         },
-        "evidenceCount": 3
+        "evidenceCount": 7,
+        "auditFile": "factcheck/deep/s11-izifret.json"
       },
-      "activityDescription": "Izifret était une marketplace B2B de fret mettant en relation des industriels expéditeurs avec des transporteurs routiers et multimodaux, avec suivi de livraison en temps réel."
+      "activityDescription": "Izifret était une marketplace B2B mettant en relation directe industriels expéditeurs et transporteurs routiers et multimodaux pour le transport de marchandises lourdes, avec suivi de livraison en temps réel."
     },
     {
       "id": "s11-kintribe",
@@ -12009,13 +12562,14 @@
           "linkedin": "https://fr.linkedin.com/in/cdesault"
         },
         {
-          "name": "Louis Laroche"
+          "name": "Louis Laroche",
+          "linkedin": "https://www.linkedin.com/in/lslaroche/"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs. Pivotée fin 2017 par la même équipe fondatrice en Hiridium (plateforme de cooptation salariale) ; les deux sociétés ont été dissoutes au même moment en 2018 (KinTribe absorbée par transmission universelle de patrimoine le 21 mai 2018 ; Hiridium liquidée fin mai/début juin 2018), sans rachat par un tiers.",
+      "statusDetails": "Outil SaaS d'aide au sourcing de candidats passifs pour recruteurs, lancé en 2016 par deux anciens recruteurs IT. Accélérée par NUMA au printemps 2017 (saison 11), l'équipe a pivoté fin 2017 vers Hiridium, une plateforme de cooptation salariale inversée pour startups. KinTribe (SIREN 823367933) a été dissoute le 21/05/2018 par transmission universelle de patrimoine au profit de son associé unique, la holding Bulimba SARL (SIREN 801337221, gérée par Hugo Geissmann, également mentionné comme dirigeant de KinTribe), et radiée le 02/08/2018 — un mécanisme de fermeture interne, non un rachat par un tiers opérationnel. Hiridium (SIREN 833186992, immatriculée le 14/11/2017) a été dissoute le 30/04/2018 et sa liquidation clôturée le 16/06/2018 (radiée le 21/06/2018), avec Louis Laroche en liquidateur et Chloé Desault en directrice générale. Aucune des deux sociétés n'a été rachetée par un tiers.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -12050,23 +12604,51 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.societe.com/societe/hiridium-833186992.html",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "HIRIDIUM - extrait registre (SIREN 833186992), Louis Laroche président puis liquidateur, Chloé Desault directrice générale"
+        },
+        {
+          "url": "https://pitchbook.com/profiles/company/185866-21",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Kintribe Company Profile - PitchBook"
+        },
+        {
+          "url": "https://www.linkedin.com/in/lslaroche/",
+          "supports": [
+            "founders"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Louis Laroche - LinkedIn (product manager, ex-entrepreneur @Hiridium_app, @KinTribeHQ)"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "corrected",
+          "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 7,
+        "auditFile": "factcheck/deep/s11-kintribe.json"
       },
-      "activityDescription": "KinTribe était un outil SaaS destiné aux recruteurs et sourceurs pour constituer et gérer des viviers de candidats passifs importés depuis LinkedIn."
+      "activityDescription": "KinTribe était un outil SaaS destiné aux recruteurs et sourceurs pour constituer et gérer des viviers de candidats passifs importés depuis les réseaux sociaux (LinkedIn notamment)."
     },
     {
       "id": "s11-pangone",
@@ -12090,7 +12672,7 @@
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Micro-learning sous forme de cartes courtes, arrêté vers 2017. La même équipe fondatrice a ensuite créé AirTeach (2017-2019, hébergée à Station F) puis Santé Académie (2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous un autre nom. L'entité légale d'origine (SIREN 821971223) existe toujours mais sous le nom « Santé Académie Groupe », avec un chiffre d'affaires nul en 2024 (structure de holding dormante).",
+      "statusDetails": "Micro-learning sous forme de cartes courtes, arrêté vers 2017-2018. La même équipe fondatrice (Stanislas De Zutter, Félix Levious, Jessym Reziga) a ensuite créé AirTeach (2017-2020) puis Santé Académie (à partir de 2020), qui a levé 12 M€ en série A en avril 2023 : le projet Pangone lui-même n'a pas survécu, mais son équipe fondatrice a rebondi avec succès sous d'autres noms. L'entité légale d'origine (SIREN 821971223, immatriculée le 12 juillet 2016 sous le nom Pangone) a été renommée « Santé Académie Groupe » le 31 janvier 2023, avec transfert du siège de La Chapelle-Saint-Luc (Aube) vers Lyon ; elle est toujours active au registre mais comme structure de holding du groupe Santé Académie, sans activité Pangone. Le site pangone.com n'est plus accessible en 2026 (erreur serveur, absent des résultats de recherche), et aucune page entreprise LinkedIn dédiée à Pangone n'a été retrouvée.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -12125,9 +12707,46 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://pappers.fr/entreprise/pangone-821971223",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Société SANTE ACADEMIE GROUPE (ex-PANGONE), SIREN 821971223 — changement de dénomination le 31/01/2023, président Stanislas De Zutter, directeur général Félix Levious"
+        },
+        {
+          "url": "https://changethework.com/micro-learning-formation-pro/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Le micro-learning, futur de la formation professionnelle ?"
+        },
+        {
+          "url": "https://theorg.com/org/sante-academie/org-chart/stanislas-de-zutter",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Stanislas De Zutter — CEO at Santé Académie (parcours : Pangone puis AirTeach puis Santé Académie)"
+        },
+        {
+          "url": "https://web.archive.org/web/2018/https://hub.numa.co/public/alumni",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "Tentative infructueuse : web.archive.org reste inaccessible depuis cet environnement (proxy réseau), pour cette URL comme pour la CDX API et archive.ph utilisés en repli. La preuve de cohorte s'appuie"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "factCheck": {
         "verdict": "verified",
         "checkedAt": "2026-08-22",
@@ -12137,11 +12756,13 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "verified",
+          "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 8,
+        "auditFile": "factcheck/deep/s11-pangone.json"
       },
-      "activityDescription": "Pangone permettait à des formateurs, managers et enseignants de créer et diffuser de courtes cartes d'apprentissage (« micro-learning ») consultables en moins de 5 minutes sur mobile."
+      "activityDescription": "Pangone permettait à des formateurs, managers et enseignants de créer et diffuser de courtes cartes d'apprentissage (« micro-learning ») consultables en moins de 5 minutes sur mobile, avec relais sur les réseaux sociaux et messageries internes."
     },
     {
       "id": "s11-predictice",
@@ -12165,7 +12786,7 @@
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Legaltech française d'analyse prédictive de décisions de justice, rachetée par son concurrent Doctrine (annonce le 17 septembre 2025, absorption effective le 12 mai 2026, dissolution le 2 juin 2026 selon le registre officiel des entreprises).",
+      "statusDetails": "Legaltech française d'analyse prédictive de décisions de justice, fondée le 7 janvier 2016 par Louis Larret-Chahine, Thomas Baduel et Alexandre Chéronnet, accompagnée par l'accélérateur NUMA Paris ; partenariat avec Wolters Kluwer et levée de 5 M€ en 2019 ; rachetée par son concurrent Doctrine (offre à 20 M€ courant juillet 2025, annonce publique le 17 septembre 2025, absorption effective par Doctrine Bidco le 12 mai 2026, radiation le 2 juin 2026 selon le registre officiel des entreprises et Wikipédia).",
       "website": "https://predictice.com",
       "sources": [
         {
@@ -12201,11 +12822,36 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.decideurs-magazine.com/droit/62264-ia-juridique-doctrine-met-la-main-sur-predictice-son-principal-concurrent.html",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "IA juridique : Doctrine met la main sur Predictice, son principal concurrent"
+        },
+        {
+          "url": "https://paperjam.lu/article/predictice-legaltech-a-chasse-",
+          "supports": [
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Predictice, legaltech à la chasse aux jugements"
+        },
+        {
+          "url": "https://www.linkedin.com/company/predictice",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Page entreprise LinkedIn de Predictice"
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -12213,10 +12859,11 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified",
+          "statusDetails": "corrected",
           "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 7,
+        "auditFile": "factcheck/deep/s11-predictice.json"
       },
       "activityDescription": "Predictice était une legaltech française d'analyse prédictive de décisions de justice, aidant les avocats à estimer l'issue, le montant des indemnités et la durée d'un contentieux.",
       "acquirer": "Doctrine"
@@ -12228,19 +12875,22 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Vincent Escudé"
+          "name": "Vincent Escudé",
+          "linkedin": "https://www.linkedin.com/in/vincent-escud%C3%A9-382869108/"
         },
         {
-          "name": "Paul Escudé"
+          "name": "Paul Escudé",
+          "linkedin": "https://fr.linkedin.com/in/paul-escude"
         },
         {
-          "name": "Samuel Imbert"
+          "name": "Samuel Imbert",
+          "linkedin": "https://www.linkedin.com/in/samuel-imbert-81462985/"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Application d'aide aux devoirs par chatbot IA, toujours active : suite de produits élargie (Mathia, Pieber, Kidaia, Verdinum, Cogibou), revendique 600 000+ apprenants depuis 2015. L'entité légale VMPS CORPORATION (SIREN 809744907) est active.",
+      "statusDetails": "Toujours active en 2026 sous le nom Prof en Poche (siège à Pau/Bayonne, bureau à Paris) : la société revendique plus de 600 000 apprenants depuis 2015 et a élargi sa gamme à d'autres produits d'EdTech/IA (Mathia, co-construit avec le ministère de l'Éducation nationale pour le cycle 2, Kidaia, Pieber, Verdinum, Cogibou). Le site officiel profenpoche.com est en ligne et actif, la page LinkedIn de l'entreprise (11-50 salariés) confirme l'activité continue, et l'entité légale VMPS CORPORATION (SIREN 809744907) est active au registre.",
       "website": "https://profenpoche.com",
       "sources": [
         {
@@ -12282,24 +12932,51 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2017/05/10/appliness-prof-en-poche-graines-de-parents-deserve-her-mindful-attitude/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "4 apps à découvrir cette semaine : Prof en Poche, Graines de Parents, Deserve Her et Mindful Attitude"
+        },
+        {
+          "url": "https://presselib.com/article/depuis-pau-prof-en-poche-joue-les-bons-eleves",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Depuis Pau, Prof en Poche joue les bons élèves !"
+        },
+        {
+          "url": "https://fr.linkedin.com/company/prof-en-poche",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Page entreprise LinkedIn de Prof en Poche"
         }
       ],
       "confidence": "high",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
           "statusDetails": "verified",
           "website": "verified"
         },
-        "evidenceCount": 5
+        "evidenceCount": 8,
+        "auditFile": "factcheck/deep/s11-prof-en-poche.json"
       },
-      "activityDescription": "Prof en Poche est une application d'aide aux devoirs pour collégiens et lycéens, fondée sur un chatbot IA qui guide les élèves dans la compréhension d'une leçon ou d'un exercice."
+      "activityDescription": "Prof en Poche est une application d'aide aux devoirs pour collégiens et lycéens, fondée sur un chatbot mêlant intelligence humaine et intelligence artificielle qui guide les élèves dans la compréhension d'une leçon ou d'un exercice."
     },
     {
       "id": "s12-arhia",
@@ -12319,7 +12996,7 @@
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "SaaS et externalisation de la gestion de la paie pour PME (retail, hôtellerie-restauration, pharmacie), rachetée par la solution RH Combo (annonce mars 2025, rachat effectif été 2024) après la levée de 40 M€ de Combo. Le registre officiel liste désormais la directrice financière de Combo comme présidente de la société ; arhia.fr ne résout plus.",
+      "statusDetails": "Arhia, SaaS et externalisation de la gestion de la paie et de l'administration du personnel pour PME (retail, hôtellerie-restauration, boulangerie, pharmacie), a été rachetée par Combo, éditeur de logiciel RH pour les métiers de terrain, à l'été 2024 (annonce publique le 5 mars 2025 seulement, une fois l'intégration du produit sous la marque « Combo Paie » réussie), peu après la levée de 40 M€ de Combo. Au moment du rachat, l'équipe d'Arhia comptait 6 personnes ; le co-fondateur Arnaud Benhamdine a rejoint Combo comme Head of Product de Combo Paie. Le registre officiel des entreprises (recherche-entreprises.api.gouv.fr) montre la société ARHIA (SIREN 823742002) toujours active administrativement, avec pour président actuel François Le Teuff — et non « la directrice financière de Combo » comme indiqué précédemment. Le site vitrine arhia.fr/www.arhia.fr ne répond plus correctement (503 ou nom non résolu), mais le sous-domaine applicatif app.arhia.fr reste en ligne (écran de connexion « Application paie »), cohérent avec la poursuite du service pour les clients existants sous l'ombrelle Combo.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -12354,11 +13031,30 @@
           ],
           "sourceType": "registry",
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://medium.com/@achaigneau/new-saison-12-numa-les-startups-recrutent-5ddd4af4f992",
+          "supports": [
+            "cohort",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "(New) Saison 12 NUMA : les startups recrutent !"
+        },
+        {
+          "url": "https://www.rhmatin.com/sirh/sirh-saas/olivier-severyns-combo-le-rachat-d-arhia-pour-la-gestion-de-la-paie-complete-notre-vision-sirh.html",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Olivier Severyns, Combo : « Le rachat d'Arhia pour la gestion de la paie complète notre vision SIRH »"
         }
       ],
       "confidence": "high",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -12366,11 +13062,13 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "corrected",
+          "website": "unverifiable"
         },
-        "evidenceCount": 4
+        "evidenceCount": 6,
+        "auditFile": "factcheck/deep/s12-arhia.json"
       },
-      "activityDescription": "Arhia proposait une solution SaaS et d'externalisation de la gestion de la paie et de l'administration du personnel pour les PME (retail, hôtellerie-restauration, pharmacie).",
+      "activityDescription": "Arhia est une solution SaaS et de service d'externalisation de la gestion de la paie et de l'administration du personnel destinée aux PME (retail, hôtellerie-restauration, pharmacie).",
       "acquirer": "Combo"
     },
     {
@@ -12389,7 +13087,7 @@
       "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Service de fruits bio, snacks sains, café/thé et plantes de bureau pour entreprises. Le domaine wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus en 2026 ; aucune trace au registre officiel des entreprises sous ce nom.",
+      "statusDetails": "Wildesk a été lancée en 2016 par Alexis de Loynes (diplômé de l'IESEG, passé par Groupon, Chauffeur-Privé et Stuart) sous la forme d'un premier prototype de bureau mobile — une caravane des années 1970 rénovée et connectée, installée le long du canal de l'Ourcq à Paris. La société a ensuite pivoté, sans changer de nom, vers un service de bien-être au travail pour entreprises (fruits bio, encas sains, café/thé, plantes de bureau), rejoint par Yann Simon comme co-fondateur et directeur marketing en septembre 2017 — la formule sous laquelle elle a intégré la saison 12 de NUMA. Le site wildesk.fr, encore en ligne le 25 février 2024 selon Wayback Machine, ne résout plus du tout en août 2026 (échec DNS direct constaté). Aucune recherche sur les registres publics français (recherche-entreprises.api.gouv.fr, societe.com) n'a permis de retrouver une fiche 'Wildesk' active ou radiée, malgré plusieurs tentatives (pages renvoyant des erreurs serveur ou des résultats vides) ; l'absence de trace au registre reste donc non tranchée plutôt que prouvée. La page LinkedIn 'Wildesk' existante correspond à une société homonyme sans rapport, basée à Santiago du Chili (logiciel environnemental) — à ne pas confondre avec la startup NUMA.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -12419,7 +13117,7 @@
       ],
       "confidence": "medium",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -12427,9 +13125,10 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified"
+          "statusDetails": "corrected"
         },
-        "evidenceCount": 3
+        "evidenceCount": 3,
+        "auditFile": "factcheck/deep/s12-wildesk.json"
       },
       "activityDescription": "Wildesk livrait aux entreprises des fruits bio, snacks sains, café/thé équitables et plantes de bureau pour améliorer le bien-être des salariés."
     },
@@ -12455,7 +13154,7 @@
       "foundersPubliclyIdentified": true,
       "status": "exit",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme SaaS collaborative de supply chain (SRM + TMS), rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM). Le registre officiel des entreprises confirme le changement de siège vers l'adresse de la holding MyTower le 21 avril 2026 ; le produit Winddle continue d'être commercialisé sous la marque du groupe MyTower.",
+      "statusDetails": "Plateforme SaaS collaborative de supply chain (SRM + TMS), fondée en 2015, rachetée par le groupe MyTower (annonce du 10 avril 2026, aux côtés de TDI et Belharra e-SCM, ensemble de plus de 300 salariés en France, Italie, Espagne et Maroc, MyTower étant soutenu par Verto Growth depuis décembre 2025). Le registre officiel des entreprises confirme ce rachat de façon indépendante : l'établissement historique de Winddle (15 rue de Siam, Paris 16e) a été fermé le 21 avril 2026 au profit d'un nouveau siège au 183 rue de la Pompe, Paris 16e — adresse qui est très exactement celle du siège social de la société MYTOWER (SIREN 843849134) — et le président de Winddle SAS est désormais l'entité MYTO (SIREN 994060200), liée au groupe acquéreur. Le produit Winddle continue d'être commercialisé sous la marque du groupe MyTower ; le site winddle.com reste en ligne et affiche l'annonce du rapprochement en page d'accueil.",
       "website": "https://www.winddle.com",
       "sources": [
         {
@@ -12491,6 +13190,41 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=mytower",
+          "supports": [
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Fiche registre de MYTOWER (SIREN 843849134), siège au 183 rue de la Pompe, 75016 Paris — corrobore de façon indépendante l'adresse de reprise de Winddle"
+        },
+        {
+          "url": "https://www.linkedin.com/company/winddle/",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Page entreprise LinkedIn de Winddle : fondée en 2015, 11-50 salariés, plateforme collaborative de supply chain reconnue par SAP parmi les 8 solutions procurement les plus innovantes, plus de 4500 professionnels utilisateurs"
+        },
+        {
+          "url": "http://archive.org/wayback/available?url=winddle.com&timestamp=2018",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "L'API Wayback \"available\" (accessible malgré le blocage réseau de web.archive.org lui-même) confirme l'existence d'une capture de winddle.com au 14 octobre 2017 (statut 200, URL http://web.archive.org"
+        },
+        {
+          "url": "http://archive.org/wayback/available?url=hub.numa.co/public/alumni&timestamp=2018",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "Confirme l'existence d'une capture Wayback de la base alumni officielle de NUMA au 23 octobre 2018 (statut 200, URL http://web.archive.org/web/20181023051215/https://hub.numa.co/public/alumni) ; le co"
         }
       ],
       "confidence": "high",
@@ -12506,7 +13240,8 @@
           "statusDetails": "verified",
           "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 8,
+        "auditFile": "factcheck/deep/s12-winddle.json"
       },
       "activityDescription": "Winddle est une plateforme SaaS collaborative de gestion de la supply chain, combinant gestion des relations fournisseurs (SRM) et gestion du transport (TMS) pour un suivi en temps réel des commandes et flux logistiques.",
       "acquirer": "MyTower"
@@ -12528,7 +13263,7 @@
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A racheté son concurrent Ubbyk pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés, sans levée de fonds en capital-risque.",
+      "statusDetails": "SaaS RH d'automatisation du parcours collaborateur (préboarding, onboarding, mobilité interne, offboarding), toujours active sous l'entité TEAMR.IO SAS. A levé environ 1,1 à 1,4 M€ en 2019 auprès du fonds Holnest et de business angels (dont Patrick Bertrand, ex-Cegid, et David Bizer, ex-RH Google), puis racheté son concurrent Ubbyk fin 2020 pour renforcer sa position en France ; chiffre d'affaires 2024 d'environ 3,2 M$ (source Latka), une trentaine de salariés.",
       "website": "https://www.workelo.eu",
       "sources": [
         {
@@ -12564,11 +13299,56 @@
             "status"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.workelo.eu/societe/",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Page « Société » de Workelo — historique (2017-2021), acquisition Ubbyk, chiffres clients"
+        },
+        {
+          "url": "https://blog.workelo.eu/presentation-rencontrez-alexandre-et-mathieu-les-2-fondateurs-de-workelo/",
+          "supports": [
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Présentation des fondateurs de Workelo (Alexandre Grenier et Mathieu Cochet), parcours et origine du projet"
+        },
+        {
+          "url": "https://www.frenchweb.fr/insiders-rh-workelo-leve-11-million-deuros-pour-simplifier-lonboarding-des-collaborateurs/364763",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "[INSIDERS] RH : Workelo lève 1,1 million d'euros pour simplifier l'onboarding des collaborateurs"
+        },
+        {
+          "url": "http://archive.org/wayback/available?url=hub.numa.co/public/alumni&timestamp=2018",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "L'API Wayback Availability confirme l'existence d'une capture de hub.numa.co/public/alumni datée du 23 octobre 2018 (20181023051215) — cohérent avec la capture Common Crawl du même mois déjà citée com"
+        },
+        {
+          "url": "http://archive.org/wayback/available?url=workelo.eu&timestamp=2018",
+          "supports": [
+            "identity"
+          ],
+          "sourceType": "archive",
+          "accessedAt": "2026-08-22",
+          "title": "Confirme l'existence d'une capture ancienne de workelo.eu (la plus proche de 2018 disponible date du 3 avril 2019, 20190403122434), preuve que le site était déjà en ligne peu après la période de la pr"
         }
       ],
       "confidence": "high",
       "factCheck": {
-        "verdict": "verified",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "verified",
@@ -12576,10 +13356,11 @@
           "formerNamesOrPivots": "verified",
           "founders": "verified",
           "status": "verified",
-          "statusDetails": "verified",
+          "statusDetails": "corrected",
           "website": "verified"
         },
-        "evidenceCount": 4
+        "evidenceCount": 9,
+        "auditFile": "factcheck/deep/s12-workelo.json"
       },
       "activityDescription": "Workelo (édité par TEAMR.IO SAS) est une plateforme SaaS RH qui automatise et personnalise le parcours collaborateur : préboarding, onboarding, mobilité interne et offboarding."
     },
@@ -12588,20 +13369,26 @@
       "season": 13,
       "name": "Hey Pongo",
       "formerNamesOrPivots": [
-        "Hello Glu"
+        "Hello Glu",
+        "Pongo"
       ],
       "founders": [
         {
-          "name": "Ludwig Jamet"
+          "name": "Ludwig Jamet",
+          "linkedin": "https://www.linkedin.com/in/ludwig-jamet-79692043/"
         },
         {
-          "name": "Nicolas Samir"
+          "name": "Nicolas Samir",
+          "linkedin": "https://www.linkedin.com/in/nicolassamir/"
+        },
+        {
+          "name": "Nora Barault"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme de fidélisation et d'avis clients pour commerçants, toujours active sous le nom Hey Pongo (renommée depuis Hello Glu). Le registre officiel des entreprises (SIREN 832486765) la montre active, avec des investisseurs identifiés (FRST Capital, AngelSquare, Evolem Start II, TWA Invest).",
+      "statusDetails": "Plateforme marketing et de fidélisation pour commerçants et restaurateurs, active sous le nom Hey Pongo depuis 2017 (anciennement Hello Glu, puis Pongo). A levé 5 millions d'euros en série A en février 2023 (Evolem, Techmind, Altavia Adventures, avec la participation de Frst et Angelsquare, déjà investisseurs). Compte plus de 3000 clients dans une dizaine de pays et environ 50 salariés en 2023-2025. Le registre officiel des entreprises (SIREN 832486765, SAS, siège à Saint-Mandé) la montre active avec des modifications de capital jusqu'en 2025 ; Ludwig Jamet (président) et Nicolas Samir (directeur général) y sont enregistrés comme dirigeants.",
       "website": "https://www.heypongo.com",
       "sources": [
         {
@@ -12629,25 +13416,85 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/221923/pongo",
+          "supports": [
+            "cohort",
+            "founders",
+            "identity"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Startup PONGO, Le programme de fidélité réinventé"
+        },
+        {
+          "url": "https://www.myfrenchstartup.com/fr/startup-france/314895/hey_pongo",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Startup HEY PONGO, L'assistant marketing qui renforce l'indépendance des commerçants"
+        },
+        {
+          "url": "https://www.frenchweb.fr/connaissez-vous-hey-pongo-une-solution-marketing-dediee-aux-restaurateurs-et-commercants/441476",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Connaissez-vous HEY PONGO, une solution marketing dédiée aux restaurateurs et commerçants ?"
+        },
+        {
+          "url": "https://www.frenchweb.fr/serie-a-hey-pongo-leve-5-millions-deuros-aupres-devolem-techmind-et-altavia-adventures/440268",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "[Série A] Hey Pongo lève 5 millions d'euros auprès d'Evolem, Techmind et Altavia Adventures"
+        },
+        {
+          "url": "https://data.ladn.eu/blog/startup/levee-fonds-hey-pongo-assistant-marketing/",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Hey Pongo annonce une levée de fonds de 5 millions d'euros"
+        },
+        {
+          "url": "https://www.societe.com/societe/hey-pongo-832486765.html",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "HEY PONGO - fiche société (SIREN 832486765)"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "notes": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte (rentrée à l'automne 2018, quelques mois avant l'arrêt de l'accélération de startups par NUMA en janvier 2019) : sa propre base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique, sans annonce de saison numérotée officielle.",
       "factCheck": {
         "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
-          "season": "corrected",
-          "name": "corrected",
+          "season": "verified",
+          "name": "verified",
           "formerNamesOrPivots": "corrected",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
-          "statusDetails": "verified",
+          "statusDetails": "corrected",
           "website": "verified"
         },
-        "evidenceCount": 3
+        "evidenceCount": 9,
+        "auditFile": "factcheck/deep/s13-hey-pongo.json"
       },
-      "activityDescription": "Hey Pongo (ex-Hello Glu) est une plateforme de fidélisation et de gestion des avis clients pour les commerçants."
+      "activityDescription": "Hey Pongo (ex-Hello Glu, ex-Pongo) est une plateforme marketing et de fidélisation qui aide les commerçants et restaurateurs à collecter les données de leurs clients et à les fidéliser via des campagnes ciblées (SMS, avis clients, programme de fidélité)."
     },
     {
       "id": "s13-urbyn",
@@ -12656,16 +13503,18 @@
       "formerNamesOrPivots": [],
       "founders": [
         {
-          "name": "Julien Hamilius"
+          "name": "Julien Hamilius",
+          "linkedin": "https://www.linkedin.com/in/jhamilius"
         },
         {
-          "name": "Arthur Däweritz"
+          "name": "Arthur Däweritz",
+          "linkedin": "https://fr.linkedin.com/in/arthurdaweritz"
         }
       ],
       "foundersPubliclyIdentified": true,
       "status": "active",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme SaaS B2B mettant en relation des entreprises avec des prestataires locaux de recyclage/gestion des déchets, toujours active : le site urbyn.co affiche « © Urbyn 2026 » et la société a levé 2,18 M€ en amorçage en juin 2023 (My SeedCap, Net-Zero Vision, Asterion).",
+      "statusDetails": "Fondée en 2018 par Julien Hamilius et Arthur Däweritz (diplômés ingénieurs Arts & Métiers), Urbyn édite une plateforme SaaS B2B de gestion des déchets pour les grandes entreprises (traçabilité, mise en relation avec des prestataires locaux de recyclage, reporting) ; toujours active en 2026 (site urbyn.co à jour, © 2026, plus de 100 clients / 2000+ sites), après une levée d'amorçage de 2 M€ annoncée en juin 2023 auprès d'Asterion Ventures.",
       "website": "https://www.urbyn.co",
       "sources": [
         {
@@ -12692,6 +13541,26 @@
             "identity"
           ],
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.maddyness.com/2023/06/27/urbyn-dechets-levee-de-fonds/",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Urbyn lève 2 millions d'euros pour aider les entreprises à gérer leurs déchets"
+        },
+        {
+          "url": "https://www.frenchweb.fr/seed-urbyn-leve-2-millions-deuros-aupres-dasterion-ventures-pour-gerer-les-dechets-des-entreprises/443955",
+          "supports": [
+            "founders",
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "[Seed] URBYN lève 2 millions d'euros auprès d'Asterion Ventures pour gérer les déchets des entreprises"
         }
       ],
       "confidence": "medium",
@@ -12703,25 +13572,33 @@
           "season": "corrected",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "verified",
+          "founders": "corrected",
           "status": "verified",
-          "statusDetails": "verified",
+          "statusDetails": "corrected",
           "website": "verified"
         },
-        "evidenceCount": 3
+        "evidenceCount": 5,
+        "auditFile": "factcheck/deep/s13-urbyn.json"
       },
-      "activityDescription": "Urbyn est une plateforme SaaS B2B qui met en relation les entreprises avec des prestataires locaux de recyclage et de gestion des déchets, dans une logique d'économie circulaire."
+      "activityDescription": "Urbyn est une plateforme SaaS B2B qui aide les grandes entreprises à identifier leurs déchets valorisables, à les mettre en relation avec des prestataires locaux de recyclage et à en assurer la traçabilité et le reporting."
     },
     {
       "id": "s13-intripper",
       "season": 13,
       "name": "Intripper",
       "formerNamesOrPivots": [],
-      "founders": [],
-      "foundersPubliclyIdentified": false,
+      "founders": [
+        {
+          "name": "Yonathan Berdugo"
+        },
+        {
+          "name": "Johan Chrzanowski"
+        }
+      ],
+      "foundersPubliclyIdentified": true,
       "status": "stopped",
       "statusAsOf": "2026-08-22",
-      "statusDetails": "Plateforme destinée aux grands lieux de passage (aéroports, gares, centres commerciaux) pour développer des opportunités de revenus additionnels. Le site intripper.com n'affiche plus qu'une page d'hébergement par défaut ; aucune fiche de registre d'entreprise ni dépôt de marque n'a été retrouvé sous ce nom, et les fondateurs n'ont pas pu être identifiés.",
+      "statusDetails": "Le site intripper.com est aujourd'hui hors ligne (erreur serveur/hébergement par défaut) et aucune activité, presse ou publication n'a été retrouvée depuis 2018 : le produit semble à l'arrêt. La situation de la société qui l'exploitait (SAS « INTRIPPR », SIREN 810185694, créée le 1ᵉʳ mars 2015, siège à Biot) est cependant contradictoire selon les sources : le registre officiel INSEE/RNE (recherche-entreprises.api.gouv.fr) l'indique toujours à l'état administratif « actif » avec une mise à jour RNE datée de mai 2024, tandis que le site tiers societe.com la présente comme radiée du RCS depuis le 14 juin 2018, date qui coïncide avec la fin de mandat indiquée pour ses deux dirigeants. Aucune trace d'acquisition ni de liquidation formelle n'a été trouvée.",
       "sources": [
         {
           "url": "https://index.commoncrawl.org/CC-MAIN-2018-43-index?url=hub.numa.co/public/alumni&output=json",
@@ -12731,24 +13608,53 @@
           ],
           "sourceType": "archive",
           "accessedAt": "2026-08-22"
+        },
+        {
+          "url": "https://www.linkedin.com/company/intripper",
+          "supports": [
+            "identity",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Page entreprise LinkedIn d'Intripper"
+        },
+        {
+          "url": "https://recherche-entreprises.api.gouv.fr/search?q=810185694",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Fiche INSEE/RNE de la société INTRIPPR (SIREN 810185694) via l'API officielle recherche-entreprises.api.gouv.fr"
+        },
+        {
+          "url": "https://www.societe.com/societe/intrippr-810185694.html",
+          "supports": [
+            "founders",
+            "status"
+          ],
+          "accessedAt": "2026-08-22",
+          "title": "Fiche societe.com de la société INTRIPPR — indique une radiation du RCS au 14 juin 2018"
         }
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "notes": "NUMA n'a jamais attribué de numéro de saison à cette dernière cohorte : sa base alumni la désigne uniquement par le tag interne « season2018 ». Numérotée 13 ici par convention chronologique (voir aussi la fiche Hey Pongo). Fondateurs non identifiés malgré recherche.",
       "factCheck": {
-        "verdict": "unverifiable",
+        "verdict": "corrected",
         "checkedAt": "2026-08-22",
         "fields": {
           "season": "corrected",
           "name": "verified",
           "formerNamesOrPivots": "verified",
-          "founders": "unverifiable",
-          "status": "verified",
-          "statusDetails": "verified"
+          "founders": "corrected",
+          "status": "conflicting",
+          "statusDetails": "corrected",
+          "website": "verified"
         },
-        "evidenceCount": 1
+        "evidenceCount": 4,
+        "auditFile": "factcheck/deep/s13-intripper.json"
       },
-      "activityDescription": "Intripper aidait les grands lieux de passage (aéroports, gares, centres commerciaux) à développer des opportunités de revenus additionnels."
+      "activityDescription": "Intripper propose une solution de cartographie et de navigation intérieure par géolocalisation indoor, avec recherche et publicité localisée, destinée aux grands lieux de passage comme les aéroports, gares et centres commerciaux."
     }
   ]
 }

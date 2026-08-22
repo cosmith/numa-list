@@ -1,0 +1,577 @@
+[
+ {
+  "id": "s12-hello-charly",
+  "name": "Hello Charly",
+  "diff": {
+   "statusDetails": true,
+   "sourcesAdded": 2,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 4
+ },
+ {
+  "id": "s10-beewake",
+  "name": "Beewake",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Jérémie Catez"
+     },
+     {
+      "name": "Sébastien Trouillet"
+     },
+     {
+      "name": "Gabriel Munch-Andersen"
+     }
+    ],
+    [
+     {
+      "name": "Jérémie Catez",
+      "linkedin": "https://www.linkedin.com/in/jeremiecatez/"
+     },
+     {
+      "name": "Sébastien Trouillet",
+      "linkedin": "https://www.linkedin.com/in/sebastien-trouillet-aa24583/"
+     },
+     {
+      "name": "Gabriel Munch-Andersen",
+      "linkedin": "https://www.linkedin.com/in/gmunchandersen/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s10-coding-days",
+  "name": "Coding Days",
+  "diff": {
+   "formerNamesOrPivots": [
+    [],
+    [
+     "Matha (Matha.io)"
+    ]
+   ],
+   "founders": [
+    [],
+    [
+     {
+      "name": "Alexandre Zana",
+      "linkedin": "https://fr.linkedin.com/in/alexandre-zana-51b28912b"
+     },
+     {
+      "name": "Thomas Jeanneau",
+      "linkedin": "https://fr.linkedin.com/in/thomasjeanneauentrepreneur"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 10,
+   "confidence": [
+    "low",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s10-goodeed",
+  "name": "Goodeed",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Vincent Touboul"
+     },
+     {
+      "name": "Thierry Théophile"
+     }
+    ],
+    [
+     {
+      "name": "Vincent Touboul Flachaire",
+      "linkedin": "https://www.linkedin.com/in/vincent-touboul-flachaire-87857564/"
+     },
+     {
+      "name": "Théophile Thiery",
+      "linkedin": "https://www.linkedin.com/in/theophilethiery/"
+     },
+     {
+      "name": "Shao-Yun Tang"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 12
+  },
+  "verdict": "corrected",
+  "openQuestions": 6
+ },
+ {
+  "id": "s10-ma-coiffeuse-afro",
+  "name": "Ma Coiffeuse Afro",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Rebecca Cathline"
+     },
+     {
+      "name": "Emmanuel Derozin"
+     }
+    ],
+    [
+     {
+      "name": "Rebecca Cathline",
+      "linkedin": "https://www.linkedin.com/in/rebecca-cathline/"
+     },
+     {
+      "name": "Didier Emmanuel Derozin",
+      "linkedin": "https://www.linkedin.com/in/didier-derozin-emmanuel-56767061/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s10-medelse",
+  "name": "Medelse",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Thomas Gendron"
+     },
+     {
+      "name": "Tristan Renoul"
+     }
+    ],
+    [
+     {
+      "name": "Thomas Gendron",
+      "linkedin": "https://fr.linkedin.com/in/thomasgendron"
+     },
+     {
+      "name": "Tristan Renoul"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s11-califrais",
+  "name": "Califrais",
+  "diff": {
+   "statusDetails": true,
+   "sourcesAdded": 5,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s11-crafty",
+  "name": "Crafty",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Pierre-Antoine Roy",
+      "linkedin": "https://www.linkedin.com/in/pierreantoineroy/"
+     },
+     {
+      "name": "Guillaume Giudicelli"
+     },
+     {
+      "name": "Emmanuel Chaffraix",
+      "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix"
+     }
+    ],
+    [
+     {
+      "name": "Pierre-Antoine Roy",
+      "linkedin": "https://www.linkedin.com/in/pierreantoineroy/"
+     },
+     {
+      "name": "Guillaume Giudicelli",
+      "linkedin": "https://www.linkedin.com/in/guillaumegiudicelli/"
+     },
+     {
+      "name": "Emmanuel Chaffraix",
+      "linkedin": "https://fr.linkedin.com/in/emmanuelchaffraix"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 7,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s11-hello-watt",
+  "name": "Hello Watt",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Sylvain Le Falher",
+      "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en"
+     },
+     {
+      "name": "Xavier Coudert"
+     }
+    ],
+    [
+     {
+      "name": "Sylvain Le Falher",
+      "linkedin": "https://fr.linkedin.com/in/sylvain-le-falher-22148436/en"
+     },
+     {
+      "name": "Xavier Coudert",
+      "linkedin": "https://fr.linkedin.com/in/xavier-coudert-b45b6830"
+     },
+     {
+      "name": "Patrick Rousset",
+      "linkedin": "https://fr.linkedin.com/in/patrick-r-17240a32"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 5
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s11-izifret",
+  "name": "IZIFRET",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Stéphane Raynal"
+     },
+     {
+      "name": "Mahsum Yildirim"
+     },
+     {
+      "name": "Guillaume Deslandes"
+     }
+    ],
+    [
+     {
+      "name": "Stéphane Raynal",
+      "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-r-26895458/"
+     },
+     {
+      "name": "Mahsum Yildirim"
+     },
+     {
+      "name": "Guillaume Deslandes",
+      "linkedin": "https://fr.linkedin.com/in/deslandesgui"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 4
+ },
+ {
+  "id": "s11-kintribe",
+  "name": "KinTribe",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Chloé Desault",
+      "linkedin": "https://fr.linkedin.com/in/cdesault"
+     },
+     {
+      "name": "Louis Laroche"
+     }
+    ],
+    [
+     {
+      "name": "Chloé Desault",
+      "linkedin": "https://fr.linkedin.com/in/cdesault"
+     },
+     {
+      "name": "Louis Laroche",
+      "linkedin": "https://www.linkedin.com/in/lslaroche/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s11-pangone",
+  "name": "Pangone",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 4,
+   "confidence": [
+    "medium",
+    "high"
+   ]
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s11-predictice",
+  "name": "Predictice",
+  "diff": {
+   "statusDetails": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s11-prof-en-poche",
+  "name": "Prof en Poche",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Vincent Escudé"
+     },
+     {
+      "name": "Paul Escudé"
+     },
+     {
+      "name": "Samuel Imbert"
+     }
+    ],
+    [
+     {
+      "name": "Vincent Escudé",
+      "linkedin": "https://www.linkedin.com/in/vincent-escud%C3%A9-382869108/"
+     },
+     {
+      "name": "Paul Escudé",
+      "linkedin": "https://fr.linkedin.com/in/paul-escude"
+     },
+     {
+      "name": "Samuel Imbert",
+      "linkedin": "https://www.linkedin.com/in/samuel-imbert-81462985/"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s12-arhia",
+  "name": "Arhia",
+  "diff": {
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s12-wildesk",
+  "name": "Wildesk",
+  "diff": {
+   "statusDetails": true
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s12-winddle",
+  "name": "Winddle",
+  "diff": {
+   "statusDetails": true,
+   "sourcesAdded": 4
+  },
+  "verdict": "verified",
+  "openQuestions": 3
+ },
+ {
+  "id": "s12-workelo",
+  "name": "Workelo",
+  "diff": {
+   "statusDetails": true,
+   "sourcesAdded": 5,
+   "confidence": [
+    "high",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s13-hey-pongo",
+  "name": "Hey Pongo",
+  "diff": {
+   "formerNamesOrPivots": [
+    [
+     "Hello Glu"
+    ],
+    [
+     "Hello Glu",
+     "Pongo"
+    ]
+   ],
+   "founders": [
+    [
+     {
+      "name": "Ludwig Jamet"
+     },
+     {
+      "name": "Nicolas Samir"
+     }
+    ],
+    [
+     {
+      "name": "Ludwig Jamet",
+      "linkedin": "https://www.linkedin.com/in/ludwig-jamet-79692043/"
+     },
+     {
+      "name": "Nicolas Samir",
+      "linkedin": "https://www.linkedin.com/in/nicolassamir/"
+     },
+     {
+      "name": "Nora Barault"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 6
+  },
+  "verdict": "corrected",
+  "openQuestions": 3
+ },
+ {
+  "id": "s13-urbyn",
+  "name": "Urbyn",
+  "diff": {
+   "founders": [
+    [
+     {
+      "name": "Julien Hamilius"
+     },
+     {
+      "name": "Arthur Däweritz"
+     }
+    ],
+    [
+     {
+      "name": "Julien Hamilius",
+      "linkedin": "https://www.linkedin.com/in/jhamilius"
+     },
+     {
+      "name": "Arthur Däweritz",
+      "linkedin": "https://fr.linkedin.com/in/arthurdaweritz"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 2
+  },
+  "verdict": "corrected",
+  "openQuestions": 5
+ },
+ {
+  "id": "s13-intripper",
+  "name": "Intripper",
+  "diff": {
+   "founders": [
+    [],
+    [
+     {
+      "name": "Yonathan Berdugo"
+     },
+     {
+      "name": "Johan Chrzanowski"
+     }
+    ]
+   ],
+   "statusDetails": true,
+   "activityDescription": true,
+   "sourcesAdded": 3,
+   "confidence": [
+    "low",
+    "medium"
+   ]
+  },
+  "verdict": "corrected",
+  "openQuestions": 7
+ }
+]
