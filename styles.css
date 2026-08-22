@@ -395,8 +395,9 @@ h1 span {
   z-index: 10;
   display: none;
   max-width: 340px;
-  padding: 0.3rem 0.55rem;
+  padding: 0.55rem 0.6rem;
   overflow: hidden;
+  border: 1px solid var(--paper);
   background: var(--ink);
   color: white;
   font-size: 0.72rem;
@@ -518,13 +519,30 @@ footer p { margin: 0; }
     padding: 0.9rem 0;
   }
 
-  .startup-index { grid-row: 1 / span 2; }
-  .startup-identity { min-width: 0; }
+  .startup-index {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .startup-identity {
+    grid-column: 2;
+    grid-row: 1;
+    min-width: 0;
+  }
   .startup-mobile-meta { display: block; margin-top: 0.25rem; color: var(--muted); }
   .startup-season,
   .startup-founders { display: none; }
-  .startup-status { align-self: start; font-weight: 700; text-align: right; }
-  .details-label { grid-column: 3; }
+  .startup-status {
+    grid-column: 3;
+    grid-row: 1;
+    align-self: start;
+    font-weight: 700;
+    text-align: right;
+  }
+  .details-label {
+    grid-column: 3;
+    grid-row: 1;
+    align-self: end;
+  }
   .startup-details { padding-left: 1rem; }
 }
 
