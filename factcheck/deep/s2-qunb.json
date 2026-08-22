@@ -1,0 +1,90 @@
+{
+ "id": "s2-qunb",
+ "name": "qunb",
+ "season": 2,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "verified"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Acquisition par Ve Global en 2014.",
+   "apres": "Qunb a été racheté en novembre 2014 par Ve Interactive (société britannique d'e-commerce, rebaptisée Ve Global après sa restructuration financière de 2017), dans le cadre d'un « multi-million pound cash and shares deal ». L'équipe de qunb (une dizaine de personnes) a rejoint le bureau parisien de Ve, et la marque qunb a été intégrée au nouveau service « VeInsights », dirigé par le cofondateur Cyrille Vincey.",
+   "preuves": [
+    "http://tech.eu/news/ve-acquires-french-data-visualisation-qunb/",
+    "https://en.wikipedia.org/wiki/Qunb",
+    "https://en.wikipedia.org/wiki/Ve_Interactive"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Cyrille Vincey" },
+  { "name": "Jean-Baptiste Théard" }
+ ],
+ "status": "exit",
+ "activityDescription": "Qunb est un service SaaS de visualisation de données qui permet aux entreprises de transformer leurs données (Google Analytics, Salesforce, fichiers importés) en graphiques, rapports et « data stories » générés automatiquement en quelques secondes.",
+ "statusDetails": "Qunb a été racheté en novembre 2014 par Ve Interactive (société britannique d'e-commerce, rebaptisée Ve Global après sa restructuration financière de 2017), dans le cadre d'un « multi-million pound cash and shares deal ». L'équipe de qunb (une dizaine de personnes) a rejoint le bureau parisien de Ve, et la marque qunb a été intégrée au nouveau service « VeInsights », dirigé par le cofondateur Cyrille Vincey.",
+ "acquirer": "Ve Global",
+ "archiveEvidence": [
+  {
+   "url": "http://archive.org/wayback/available?url=qunb.com&timestamp=20130101",
+   "montre": "L'API Wayback Availability confirme l'existence d'une capture du site qunb.com datée du 30 décembre 2012 (statut 200), preuve que le site était en ligne pendant la saison 2 de Le Camping. Le proxy réseau de cet environnement bloque toutefois toute requête directe vers le sous-domaine web.archive.org, empêchant la consultation du contenu de la capture elle-même (limitation technique de session, pas absence de preuve)."
+  },
+  {
+   "url": "https://qunb.com",
+   "montre": "Le domaine qunb.com, vérifié en direct aujourd'hui, n'a plus aucun rapport avec la startup : il héberge désormais un site tiers sans rapport (guide de solutions pour le jeu Wordscapes), confirmant que qunb n'exploite plus ce nom de domaine."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/ebusiness/le-net/1092387-le-camping-se-renouvelle-avec-douze-nouvelles-start-up/",
+   "titre": "Le Camping se renouvelle avec douze nouvelles start-up",
+   "annee": "2011",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://techcrunch.com/2012/12/06/data-visualisation-startup-qunb-wins-leweb-paris-2012-startup-competition/",
+   "titre": "Data Visualisation Startup Qunb Wins LeWeb Paris 2012 Startup Competition",
+   "annee": "2012",
+   "soutient": ["identity"]
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Qunb",
+   "titre": "Qunb (article Wikipédia, avec section historique et liste de références)",
+   "annee": "2026",
+   "soutient": ["cohort", "founders", "status", "identity"]
+  },
+  {
+   "url": "http://tech.eu/news/ve-acquires-french-data-visualisation-qunb/",
+   "titre": "After GDM, Ve acquires French data visualisation software startup qunb in \"multi-million pound deal\"",
+   "annee": "2014",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ve_Interactive",
+   "titre": "Ve Interactive / Ve Global (article Wikipédia)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/qunb",
+   "titre": "Page LinkedIn de l'entreprise qunb",
+   "annee": "2026",
+   "soutient": ["identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/qunb",
+ "openQuestions": [
+  "Les profils LinkedIn personnels de Cyrille Vincey et Jean-Baptiste Théard n'ont pas pu être localisés durant cette session : LinkedIn bloque les requêtes automatisées sur les pages /in/ (erreur HTTP 999), et tous les moteurs de recherche alternatifs testés (Google, Bing, DuckDuckGo, Yandex, Ecosia, Mojeek, Brave, Startpage) ont renvoyé des CAPTCHA, des résultats non pertinents ou des blocages ; le budget WebSearch de la session était par ailleurs déjà épuisé. La page LinkedIn de l'entreprise qunb, elle, a pu être consultée avec succès.",
+  "Le proxy de cet environnement bloque intégralement le sous-domaine web.archive.org (toutes les requêtes WebFetch vers ce domaine échouent), empêchant la consultation directe des captures d'écran historiques du site qunb.com et des pages de cohortes archivées de lecamping.org/numa.co ; seule l'API archive.org/wayback/available a pu confirmer l'existence de captures.",
+  "Le nom exact de l'acquéreur au moment du rachat (novembre 2014) était « Ve Interactive » ; « Ve Global » est le nom adopté par la même entité après sa restructuration de 2017. Les deux désignent la même société, mais data.json ne précise pas ce changement de nom."
+ ],
+ "summary": "Le dossier de qunb (saison 2, 2011) est globalement solide : la promotion (saison 2, Le Camping, annoncée en septembre 2011), le nom, l'absence de pivot de nom, les deux fondateurs (Cyrille Vincey et Jean-Baptiste Théard) et le statut « exit » sont confirmés par des sources concordantes (Journal du Net, TechCrunch, Wikipédia, tech.eu, LinkedIn). La correction porte sur statusDetails : le rachat a eu lieu en novembre 2014 par Ve Interactive (renommée Ve Global depuis 2017), pour un montant non divulgué en cash et actions, avec intégration de l'équipe et de la marque qunb dans le service VeInsights de Ve. Le site qunb.com est aujourd'hui totalement dépossédé de son contenu d'origine. Point non résolu : impossible de localiser les profils LinkedIn personnels des deux fondateurs pendant cette session (blocages techniques des moteurs de recherche et de LinkedIn, budget WebSearch épuisé), bien que la page LinkedIn de l'entreprise ait été retrouvée."
+}
