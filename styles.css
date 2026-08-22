@@ -317,13 +317,13 @@ h1 span {
 .startup-mobile-meta a:hover { text-decoration-color: var(--magenta); }
 
 .details-label {
+  display: flex;
+  justify-content: flex-end;
   color: var(--magenta);
-  font-family: var(--display);
-  font-size: 0.78rem;
-  font-weight: 800;
-  text-align: right;
-  text-transform: uppercase;
 }
+
+.details-label svg { transition: transform 160ms ease; }
+.startup-entry.is-open .details-label svg { transform: rotate(180deg); }
 
 .startup-details {
   display: flex;
@@ -494,7 +494,7 @@ footer p { margin: 0; }
   .startup-season,
   .startup-founders { display: none; }
   .startup-status { align-self: start; font-weight: 700; text-align: right; }
-  .details-label { grid-column: 3; text-align: right; }
+  .details-label { grid-column: 3; }
   .startup-details { padding-left: 1rem; }
 }
 
@@ -533,7 +533,6 @@ footer p { margin: 0; }
   .startup-index { padding-left: 0.5rem; }
   .startup-status { max-width: 7rem; font-size: 0.83rem; }
   .startup-name { font-size: 1.25rem; }
-  .details-label { font-size: 0.7rem; }
   .detail-lead { font-size: 1.15rem; }
   .detail-meta { gap: 0.85rem 1.75rem; }
 

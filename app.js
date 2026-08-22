@@ -123,7 +123,6 @@ const render = () => {
       const isOpen = toggle.getAttribute("aria-expanded") === "true";
       toggle.setAttribute("aria-expanded", String(!isOpen));
       article.classList.toggle("is-open", !isOpen);
-      row.querySelector(".details-label").textContent = isOpen ? "Voir" : "Fermer";
       details.hidden = isOpen;
     });
 
