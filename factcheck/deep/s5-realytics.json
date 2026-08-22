@@ -1,0 +1,73 @@
+{
+  "id": "s5-realytics",
+  "name": "Realytics",
+  "season": 5,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "corrected",
+    "website": "verified"
+  },
+  "corrections": {
+    "statusDetails": {
+      "avant": "Acquise par smartclip (groupe RTL) en 2022; marque et offre maintenues lors de l'acquisition.",
+      "apres": "Acquise par smartclip (filiale adtech du groupe RTL) le 12 mai 2022, avec maintien de la marque Realytics et de sa plateforme Adkymia (lancée en 2019) après le rachat; smartclip a toutefois annoncé sur la page LinkedIn de l'entreprise la cessation des activités de Realytics/Adkymia au 24 mai 2026, après 13 ans d'existence. Le site realytics.io affiche désormais une page de cessation d'activité.",
+      "preuves": [
+        "https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/",
+        "https://www.linkedin.com/company/realytics",
+        "https://www.realytics.io"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Guillaume Belmas" },
+    { "name": "Sébastien Monteil" },
+    { "name": "Vincent Nguyen-Huu" },
+    { "name": "Gregory Bittan" }
+  ],
+  "status": "exit",
+  "activityDescription": "Realytics est une plateforme d'analytique publicitaire qui mesure en temps réel l'impact des campagnes de publicité télévisée sur le trafic et les conversions des sites web des annonceurs.",
+  "statusDetails": "Acquise par smartclip (filiale adtech du groupe RTL) le 12 mai 2022, avec maintien de la marque Realytics et de sa plateforme Adkymia (lancée en 2019) après le rachat; smartclip a toutefois annoncé sur la page LinkedIn de l'entreprise la cessation des activités de Realytics/Adkymia au 24 mai 2026, après 13 ans d'existence. Le site realytics.io affiche désormais une page de cessation d'activité.",
+  "acquirer": "smartclip (groupe RTL)",
+  "website": "https://www.realytics.io",
+  "archiveEvidence": [],
+  "pressEvidence": [
+    {
+      "url": "https://smartclip.tv/newsroom/press-release/realytics-acquisition-eng/",
+      "titre": "smartclip Acquires Realytics",
+      "annee": "2022",
+      "soutient": ["status", "founders", "identity"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json",
+      "titre": "startups.json — LeCamping Mafia (base communautaire des startups de Le Camping)",
+      "annee": "n.d. (consulté 2026)",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.realytics.io",
+      "titre": "Site officiel Realytics — page de cessation d'activité",
+      "annee": "2026",
+      "soutient": ["status"]
+    },
+    {
+      "url": "https://www.linkedin.com/company/realytics",
+      "titre": "Page entreprise LinkedIn de Realytics — annonce de cessation d'activité au 24 mai 2026",
+      "annee": "2026",
+      "soutient": ["status"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/realytics",
+  "openQuestions": [
+    "web.archive.org est inaccessible depuis cet environnement d'exécution (échec systématique de WebFetch) : impossible de consulter les captures Wayback Machine du site realytics.io en 2013-2014, ni les pages de cohorte archivées de lecamping.org/numa.co listant la saison 5.",
+    "Aucun profil LinkedIn individuel des 4 fondateurs n'a pu être localisé : les moteurs de recherche disponibles (Bing, DuckDuckGo, Google) ont renvoyé des pages de CAPTCHA ou des résultats non pertinents via WebFetch, et le budget WebSearch de la session était épuisé avant le début de la recherche. Seule la page entreprise LinkedIn a pu être consultée.",
+    "Aucun article de presse française contemporaine (2013-2014, ex. Rude Baguette, Maddyness) mentionnant explicitement Realytics et Le Camping n'a pu être retrouvé avec les outils disponibles ; l'appartenance à la saison 5 et la description du produit reposent sur la base communautaire lecampingmafia/startups.json, cohérente avec la description produit ultérieure de smartclip.",
+    "Le statut de l'entreprise au registre du commerce français (Pappers, Societe.com) n'a pas pu être consulté (accès bloqué/403) pour confirmer une éventuelle radiation liée à la cessation d'activité annoncée pour mai 2026."
+  ],
+  "summary": "Fiche globalement fiable : saison 5, nom, absence de pivot de nom, les 4 fondateurs et le statut « exit » (rachat par smartclip/RTL en mai 2022) sont confirmés par le communiqué officiel de l'acquéreur, qui nomme les 4 mêmes fondateurs avec leurs fonctions (CEO, CTO, 2x Senior Engineering Manager). Correction apportée sur statusDetails : une information récente et significative, non présente dans la fiche, montre que Realytics/Adkymia cesse effectivement toute activité le 24 mai 2026 selon la page LinkedIn de l'entreprise et le site officiel (qui affiche désormais une page de cessation d'activité) — l'exit de 2022 reste valide mais l'entreprise rachetée n'existe plus en tant que telle depuis peu. Web Archive et les moteurs de recherche web étaient indisponibles dans cet environnement, limitant la vérification indépendante de la période 2013-2014 et la recherche de profils LinkedIn individuels."
+}

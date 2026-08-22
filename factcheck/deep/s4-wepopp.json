@@ -1,0 +1,146 @@
+{
+ "id": "s4-wepopp",
+ "name": "Wepopp",
+ "season": 4,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "corrected",
+  "founders": "verified",
+  "status": "corrected",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": ["Popp!"],
+   "apres": ["Popp!", "WeTime", "Julie Desk"],
+   "preuves": [
+    "https://www.maddyness.com/2014/10/02/wetime/",
+    "https://www.maddyness.com/2015/02/19/julie-desk/",
+    "https://www.maddyness.com/2015/07/16/julie-desk-wepopp/"
+   ]
+  },
+  "status": {
+   "avant": "stopped",
+   "apres": "active",
+   "preuves": [
+    "https://www.maddyness.com/2015/07/16/julie-desk-wepopp/",
+    "https://www.maddyness.com/2017/06/01/ia-assistante-virtuelle-julie-desk-leve-2-5-millions-euros/",
+    "https://www.juliedesk.com",
+    "https://www.linkedin.com/company/julie-desk"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Outil d'organisation de sorties non retrouvé comme activité actuelle.",
+   "apres": "L'équipe fondatrice (Julien Hobeika, Nicolas Marlier, Guillaume Michiels) a fait évoluer l'entreprise WePopp à travers trois projets successifs : Wepopp (2013, sorties entre amis), WeTime (2014, synchronisation Gmail/Google Calendar) puis Julie Desk (lancé en janvier 2015, assistant virtuel de prise de rendez-vous par IA, plusieurs levées de fonds dont 2,5 M€ en 2017) et sa marque sœur Slash (2018). Sous la marque Julie Desk, l'entreprise est toujours en activité en 2026 : le site juliedesk.com est opérationnel (essai gratuit, clients affichés) et sa page LinkedIn la déclare active, désormais basée à Londres.",
+   "preuves": [
+    "https://www.maddyness.com/finance/levee-de-fonds/2013/11/25/wepopp-levee-de-fonds/",
+    "https://www.maddyness.com/2014/10/02/wetime/",
+    "https://www.maddyness.com/2015/02/19/julie-desk/",
+    "https://www.maddyness.com/2015/07/16/julie-desk-wepopp/",
+    "https://www.maddyness.com/2017/06/01/ia-assistante-virtuelle-julie-desk-leve-2-5-millions-euros/",
+    "https://www.juliedesk.com",
+    "https://www.linkedin.com/company/julie-desk"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "https://www.juliedesk.com",
+   "preuves": [
+    "https://www.juliedesk.com",
+    "https://www.maddyness.com/2015/07/16/julie-desk-wepopp/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Julien Hobeika" },
+  { "name": "Nicolas Marlier" },
+  { "name": "Guillaume Michiels" }
+ ],
+ "status": "active",
+ "activityDescription": "Wepopp est une application mobile qui permet à un groupe d'amis d'organiser facilement une sortie ou un événement en votant collectivement sur la date, l'heure et le lieu, sans que les invités n'aient besoin d'installer l'application.",
+ "statusDetails": "L'équipe fondatrice (Julien Hobeika, Nicolas Marlier, Guillaume Michiels) a fait évoluer l'entreprise WePopp à travers trois projets successifs : Wepopp (2013, sorties entre amis), WeTime (2014, synchronisation Gmail/Google Calendar) puis Julie Desk (lancé en janvier 2015, assistant virtuel de prise de rendez-vous par IA, plusieurs levées de fonds dont 2,5 M€ en 2017) et sa marque sœur Slash (2018). Sous la marque Julie Desk, l'entreprise est toujours en activité en 2026 : le site juliedesk.com est opérationnel (essai gratuit, clients affichés) et sa page LinkedIn la déclare active, désormais basée à Londres.",
+ "website": "https://www.juliedesk.com",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://www.maddyness.com/2013/02/28/le-camping-devoile-ses-nouveaux-campeurs/",
+   "titre": "Le Camping dévoile ses nouveaux campeurs",
+   "annee": "2013",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/en/2013/10/wepopp-looks-to-mobile-to-disrupt-how-we-organize-events-with-friends/",
+   "titre": "WePopp looks to mobile to disrupt how we organize events with friends",
+   "annee": "2013",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/bon-app-wepopp-pour-mieux-gerer-ses-soirees-entre-amis/132708",
+   "titre": "[Bon App'] Wepopp, pour mieux gérer ses soirées entre amis",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/finance/levee-de-fonds/2013/11/25/wepopp-levee-de-fonds/",
+   "titre": "Wepopp lève 130 000 euros",
+   "annee": "2013",
+   "soutient": ["founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2014/10/02/wetime/",
+   "titre": "WeTime, l'application qui fait communiquer Gmail et Google Calendar",
+   "annee": "2014",
+   "soutient": ["founders", "status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/02/19/julie-desk/",
+   "titre": "Julie Desk, l'assistante virtuelle qui comprend la complexité de votre calendrier",
+   "annee": "2015",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.maddyness.com/2015/07/16/julie-desk-wepopp/",
+   "titre": "Julie Desk, l'assistante virtuelle à intelligence artificielle, lève 200 000 euros",
+   "annee": "2015",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/2017/06/01/ia-assistante-virtuelle-julie-desk-leve-2-5-millions-euros/",
+   "titre": "L'assistante virtuelle Julie Desk lève 2,5 millions d'euros",
+   "annee": "2017",
+   "soutient": ["status", "founders"]
+  },
+  {
+   "url": "https://www.maddyness.com/?s=Julie+Desk",
+   "titre": "Résultats de recherche Maddyness \"Julie Desk\" (référence à l'article \"Slash, le petit frère de Julie Desk '100% IA'\", 10/12/2018)",
+   "annee": "2018",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.juliedesk.com",
+   "titre": "Site JulieDesk (consulté en direct)",
+   "annee": "2026",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/julie-desk",
+   "titre": "Page LinkedIn Julie Desk",
+   "annee": "2026",
+   "soutient": ["status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/julie-desk",
+ "openQuestions": [
+  "Internet Archive (web.archive.org) et archive.ph étaient inaccessibles depuis cet environnement d'exécution (requêtes bloquées) : impossible de consulter des captures historiques du site wepopp.com ou des pages de cohorte lecamping.org/numa.co pour corroborer visuellement.",
+  "wepopp.com renvoie une erreur 503 aujourd'hui ; cela ne prouve rien en soi (protection anti-bot possible) mais confirme que le produit d'origine n'est plus le canal actif de l'entreprise, désormais opérée sous la marque Julie Desk.",
+  "Aucun profil LinkedIn personnel n'a pu être confirmé pour Julien Hobeika, Nicolas Marlier ou Guillaume Michiels : les requêtes vers linkedin.com/in/... ont systématiquement échoué (blocage anti-bot, code 999) et le quota WebSearch de la session était épuisé avant que je puisse obtenir des extraits de résultats de recherche pointant vers leurs profils.",
+  "Aucune page LinkedIn dédiée à \"Wepopp\" n'existe (404) ; seule la page de la marque actuelle Julie Desk a été retrouvée.",
+  "Le statut détaillé de la marque sœur \"Slash\" (slashdesk.com, lancée en 2018) n'a pas été vérifié indépendamment au-delà de sa mention sur la page LinkedIn de Julie Desk et d'un résultat de recherche Maddyness.",
+  "Aucune entrée séparée \"Julie Desk\"/\"WeTime\"/\"Slash\" n'existe dans data.json : la lignée complète est donc documentée uniquement via ce dossier Wepopp, ce qui semble correct puisqu'il s'agit de la même entité fondatrice."
+ ],
+ "summary": "Saison 4 et nom \"Wepopp\" confirmés (Maddyness, RudeBaguette, FrenchWeb, 2013). Les trois fondateurs (Julien Hobeika, Nicolas Marlier, Guillaume Michiels) et le pivot depuis \"Popp!\" sont vérifiés et inchangés. Découverte majeure : l'entreprise WePopp n'a pas cessé son activité en 2013 mais a enchaîné WeTime (2014) puis Julie Desk (dès 2015, assistant virtuel IA, plusieurs levées de fonds dont 2,5 M€ en 2017) et Slash (2018) ; sous la marque Julie Desk, elle est toujours active en 2026 (site juliedesk.com opérationnel, page LinkedIn active, siège à Londres). Le statut \"stopped\" du dossier est donc corrigé en \"active\", avec ajout de WeTime et Julie Desk aux anciens noms/pivots et un site web (juliedesk.com). Aucun profil LinkedIn personnel des fondateurs n'a pu être confirmé dans cet environnement (Internet Archive et LinkedIn étaient inaccessibles, quota de recherche web épuisé)."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "s6-pulpix",
+  "name": "Pulpix",
+  "season": 6,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "corrected",
+    "founders": "verified",
+    "status": "verified",
+    "statusDetails": "verified",
+    "website": "verified"
+  },
+  "corrections": {
+    "formerNamesOrPivots": {
+      "avant": [],
+      "apres": [
+        "Pivot produit sous le même nom : outil d'enrichissement vidéo interactif à la saison 6 de Le Camping (2014, ajout d'éléments cliquables dans les vidéos pour l'engagement et la monétisation) devenu une technologie de personnalisation vidéo par intelligence artificielle (« binge-watching technology ») lors du passage par Y Combinator (promotion Winter 2016, société relocalisée à New York)."
+      ],
+      "preuves": [
+        "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+        "https://www.ycombinator.com/companies/pulpix",
+        "https://www.linkedin.com/company/pulpix"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Sabry Otmani" },
+    { "name": "Denis Vilar" }
+  ],
+  "status": "exit",
+  "activityDescription": "Pulpix est un outil permettant aux créateurs de vidéos d'y ajouter des éléments interactifs pour augmenter l'engagement des spectateurs et la monétisation, avant d'évoluer vers une technologie propulsée par l'intelligence artificielle offrant une expérience vidéo personnalisée de type « binge-watching » aux plateformes de vidéo en ligne.",
+  "statusDetails": "Pulpix a été rachetée par la régie publicitaire Adyoulike (devenue depuis OpenWeb) : la biographie du fondateur Sabry Otmani sur la page Y Combinator de l'entreprise date l'acquisition de 2019, tandis que la page LinkedIn officielle de Pulpix indique 2018 ; les deux sources s'accordent en revanche sur l'acquéreur.",
+  "acquirer": "Adyoulike",
+  "archiveEvidence": [
+    {
+      "url": "http://web.archive.org/web/20141224081822/https://www.pulpix.co/",
+      "montre": "Capture Wayback Machine du 24 décembre 2014 du site www.pulpix.co, confirmant l'existence du site pendant la saison 6 de Le Camping (contenu non consultable en détail : le domaine web.archive.org a été bloqué par l'outil de récupération de cette session ; seule l'existence de la capture, via l'API 'wayback/available', a pu être confirmée)."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://www.maddyness.com/2014/09/04/lecamping-saison6/",
+      "titre": "Le Camping, saison 6",
+      "annee": "2014",
+      "soutient": ["cohort", "identity"]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/pulpix",
+      "titre": "Pulpix (Y Combinator company page)",
+      "annee": "2016",
+      "soutient": ["founders", "status", "identity"]
+    },
+    {
+      "url": "https://www.linkedin.com/company/pulpix",
+      "titre": "Pulpix — page entreprise LinkedIn",
+      "annee": "2026 (page consultée)",
+      "soutient": ["status", "identity"]
+    },
+    {
+      "url": "https://techcrunch.com/2016/03/23/y-combinator-winter-2016/",
+      "titre": "Here are the 59 startups that demoed at Y Combinator Winter '16 Demo Day 2",
+      "annee": "2016",
+      "soutient": ["identity"]
+    }
+  ],
+  "linkedinCompany": "https://www.linkedin.com/company/pulpix",
+  "openQuestions": [
+    "Année exacte du rachat par Adyoulike : 2019 selon la bio du fondateur sur Y Combinator, 2018 selon la page LinkedIn de Pulpix — non tranché.",
+    "Profils LinkedIn personnels de Sabry Otmani et Denis Vilar non localisés : le quota WebSearch de la session était épuisé (utilisé par d'autres vérifications en parallèle) et les moteurs de recherche accessibles via WebFetch (Google, Bing, DuckDuckGo, Ecosia, Mojeek) ont tous renvoyé des CAPTCHA, des blocages 403 ou des pages sans rapport. Une recherche dédiée avec quota WebSearch disponible permettrait probablement de les trouver.",
+    "Les domaines pulpix.co et pulpix.com ne résolvent plus (DNS mort), cohérent avec l'arrêt de l'activité après le rachat, mais non consulté en détail via Wayback Machine (domaine web.archive.org bloqué par l'outil de fetch de cette session)."
+  ],
+  "summary": "Pulpix (saison 6 de Le Camping, 2014) est confirmée par l'article Maddyness annonçant la cohorte et par la page Y Combinator de l'entreprise (promotion Winter 2016, après relocalisation à New York). Fondateurs confirmés : Sabry Otmani et Denis Vilar, conformes à la précédente correction. Statut « exit » confirmé : rachat par Adyoulike, daté 2019 par la bio du fondateur sur YC et 2018 par la page LinkedIn de l'entreprise (écart mineur non résolu). Nouveauté : le produit a nettement évolué entre la saison Le Camping (outil d'enrichissement vidéo interactif) et Y Combinator (personnalisation vidéo par IA), sous le même nom — ajouté comme pivot. Aucun site web actif aujourd'hui (pulpix.co et pulpix.com ne résolvent plus). Profils LinkedIn individuels des fondateurs non trouvés faute de quota de recherche disponible dans cette session."
+}

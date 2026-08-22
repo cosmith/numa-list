@@ -1,0 +1,60 @@
+{
+ "id": "s5-localeyes",
+ "name": "LocalEyes",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — confirmé par le dépôt communautaire GitHub lecamping/lecampingmafia (liste des startups par saison), cohérent avec la fiche existante et avec 'Founded 2013' sur la page LinkedIn de l'entreprise.",
+  "name": "verified — 'LocalEyes' correspond au nom d'usage sur GitHub (lecampingmafia), sur la page LinkedIn de l'entreprise ('LocalEyes App') et dans la presse (TechCrunch, blog BeMyEye).",
+  "formerNamesOrPivots": "verified — aucune source consultée ne mentionne de nom antérieur ni de pivot ; la description produit est restée stable (application de crowdsourcing terrain / retail execution) de la fiche GitHub de la saison jusqu'à l'acquisition en 2016.",
+  "founders": "verified pour Colin Valière et Livio Lumbroso, explicitement cités par TechCrunch comme fondateurs de LocalEyes (Colin Valière, fondateur et CTO ; Livio Lumbroso, fondateur, devenu VP Product du groupe fusionné). La présence d'Olivier Mougenot comme troisième fondateur n'a pas pu être recoupée par une source web indépendante dans cet environnement (voir openQuestions) mais n'est contredite par aucune source trouvée, et la fiche d'origine s'appuyait notamment sur une photographie de la promotion (seenInPhoto=true).",
+  "status": "verified — l'acquisition par BeMyEye est confirmée par un article TechCrunch daté du 19 mai 2016 et par le titre d'un billet du blog officiel de BeMyEye ('LocalEyes Series B funding' / annonce d'acquisition), soutenue par le fait que BeMyEye est toujours une société active en 2026 (site bemyeye.com en ligne, positionné sur le 'retail execution').",
+  "statusDetails": "verified — TechCrunch précise que l'opération est un rachat 100% en actions incluant équipe, base d'utilisateurs, technologie et portefeuille clients de LocalEyes, avec intégration des deux plateformes (Colin Valière a piloté la fusion technique, Livio Lumbroso est devenu VP Product du groupe combiné, qui revendiquait 250 000 membres crowd après fusion).",
+  "website": "verified — aucun site web actif à documenter : le domaine historique www.localeyes-app.com renvoie une erreur HTTP 503 en 2026 (indisponible), cohérent avec une activité absorbée par BeMyEye depuis 2016 ; l'absence du champ 'website' dans la fiche est donc correcte."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Olivier Mougenot" },
+  { "name": "Colin Valière" },
+  { "name": "Livio Lumbroso" }
+ ],
+ "status": "exit",
+ "activityDescription": "LocalEyes est une application mobile de crowdsourcing qui permet à des particuliers de gagner de l'argent en répondant à des questionnaires et en prenant des photos en magasin, afin de vérifier pour des marques et des distributeurs la bonne exécution de leurs campagnes marketing et l'état des rayons (retail execution).",
+ "statusDetails": "LocalEyes a été racheté par le londonien BeMyEye en mai 2016 (opération 100% en actions incluant équipe, utilisateurs, technologie et clients) ; les plateformes ont été fusionnées et deux fondateurs de LocalEyes ont rejoint la direction du groupe combiné (Colin Valière a piloté la fusion technique, Livio Lumbroso est devenu VP Product), l'activité de crowdsourcing terrain se poursuivant depuis au sein de BeMyEye.",
+ "acquirer": "BeMyEye",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/cdx/search/cdx?url=localeyes-app.com&output=json&collapse=timestamp:4&limit=50",
+   "montre": "TENTATIVE ÉCHOUÉE — web.archive.org est inaccessible depuis cet environnement d'exécution : la connexion TLS est réinitialisée (Recv failure: Connection reset by peer) à la fois via l'outil WebFetch ('Claude Code is unable to fetch from web.archive.org') et via curl à travers le proxy réseau imposé. Plusieurs formats d'URL ont été essayés (API CDX, snapshot horodaté précis, wildcard '2014*') sans succès. Impossible de confirmer directement par capture archivée le contenu du site localeyes-app.com pendant la saison 2013-2014 ou une éventuelle page de cohorte lecamping.org/numa.co listant la promotion 5."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://techcrunch.com/2016/05/19/keep-your-eyes-on-the-prize/",
+   "titre": "BeMyEye acquires French competitor LocalEyes",
+   "annee": "2016",
+   "soutient": ["status", "founders", "identity"]
+  },
+  {
+   "url": "https://content.bemyeye.com/blog/localeyes-series-b-funding/",
+   "titre": "Annonce (blog officiel BeMyEye) liée à l'acquisition de LocalEyes et à la levée Série B",
+   "annee": "2016",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json",
+   "titre": "lecamping/lecampingmafia — base communautaire des startups de Le Camping, entrée LocalEyes (saison 5, site www.localeyes-app.com)",
+   "annee": "n/a (archive communautaire continue)",
+   "soutient": ["cohort", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/localeyes-app",
+ "openQuestions": [
+  "Le rôle de fondateur d'Olivier Mougenot n'a pas pu être recoupé par une source web indépendante dans cet environnement : l'article TechCrunch de 2016 ne mentionne que Colin Valière et Livio Lumbroso comme fondateurs restés chez BeMyEye après le rachat. Rien ne contredit sa présence (déjà signalée 'seenInPhoto' dans la fiche d'origine), mais rien ne la confirme non plus de façon indépendante.",
+  "Les profils LinkedIn personnels des trois fondateurs n'ont pas pu être localisés : les moteurs de recherche disponibles dans cet environnement (Bing, Google, DuckDuckGo) ont renvoyé des résultats hors-sujet ou des pages de CAPTCHA, le quota WebSearch de la session était épuisé, et LinkedIn bloque la récupération directe des pages /in/ (erreur anti-bot HTTP 999). Seule la page LinkedIn de l'entreprise ('LocalEyes App') a pu être récupérée avec succès.",
+  "Internet Archive (web.archive.org) est resté inaccessible tout au long de la recherche (réinitialisation réseau côté proxy), empêchant toute vérification par capture d'écran archivée du site ou d'une page de cohorte historique lecamping.org / numa.co pour la saison 5.",
+  "Les montants de la levée Série B de BeMyEye (6,5 M€, mentionnée par TechCrunch comme concomitante de l'acquisition) et les conditions financières précises du rachat de LocalEyes lui-même (non divulguées selon TechCrunch) n'ont pas pu être recoupés par une deuxième source de presse indépendante."
+ ],
+ "summary": "La fiche LocalEyes (saison 5, 2013-2014) est confirmée dans ses éléments essentiels : cohorte, nom, absence de pivot, statut de sortie par acquisition, détail du statut et absence de site web actif. L'acquisition par BeMyEye en mai 2016 est solidement sourcée par TechCrunch, qui identifie nommément deux des trois fondateurs (Colin Valière, CTO ; Livio Lumbroso, futur VP Product du groupe) et décrit l'intégration des deux plateformes de crowdsourcing terrain (retail execution). La page LinkedIn de l'entreprise corrobore l'identité, le produit et la date de fondation (2013). Le troisième fondateur listé (Olivier Mougenot) n'a pas pu être recoupé indépendamment faute d'accès à Internet Archive, à des moteurs de recherche fonctionnels et à LinkedIn personnel dans cet environnement, mais rien ne le contredit. Aucune correction n'est proposée à la fiche existante."
+}

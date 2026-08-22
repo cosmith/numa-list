@@ -1,0 +1,66 @@
+{
+ "id": "s5-hublo",
+ "name": "Hublo",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified — le fichier officiel des alumni de Le Camping (dépôt GitHub lecamping/lecampingmafia, startups.json) indique explicitement \"season\": \"5\" pour Hublo.",
+  "name": "verified — le nom \"Hublo\" est confirmé à la fois par le dépôt alumni et par l'article TechCrunch de mars 2014.",
+  "formerNamesOrPivots": "verified — aucune source (TechCrunch, dépôt alumni) ne mentionne de nom antérieur ou de pivot ; le produit décrit (analytics sans code) est cohérent sur toute la période documentée (2013-2014).",
+  "founders": "verified — Cyril Gantzer est identifié nommément comme co-fondateur et CEO par TechCrunch (mars 2014). Léo-Paul Goffic et Etienne Le Scaon sont corroborés par le dépôt alumni officiel de Le Camping, dont l'entrée Hublo relie l'équipe à facebook.com/leo.goffic et linkedin.com/in/lescaon. Je n'ai pas pu ouvrir les pages LinkedIn elles-mêmes (LinkedIn bloque les requêtes automatisées dans cet environnement), donc la correspondance exacte nom complet / URL n'est pas confirmée au-delà de la cohérence des identifiants (lescaon ~ Le Scaon).",
+  "status": "verified — aucune trace de levée de fonds, de presse ou d'activité pour cette startup après l'article TechCrunch de mars 2014. Le domaine hublo.com est aujourd'hui occupé par une société de RH pour la santé totalement différente (homonyme), dont la presse (RudeBaguette, Maddyness) situe la création et les levées de fonds à partir de ~2015-2021, ce qui confirme qu'il s'agit d'une entité distincte et corrobore l'hypothèse d'un arrêt de la startup analytics d'origine.",
+  "statusDetails": "unverifiable (détail précis) — je n'ai pas pu accéder aux registres publics français (pappers.fr, societe.com) ni aux archives web (web.archive.org, archive.ph étaient inaccessibles depuis cet environnement) pour confirmer indépendamment la date exacte de radiation \"juin 2016\". Aucune source trouvée ne contredit cette date ; elle reste toutefois non re-confirmée par mes propres recherches.",
+  "website": "verified — il est correct de ne pas renseigner de champ website : le domaine hublo.com d'origine (visité par TechCrunch en 2014) est aujourd'hui réutilisé par l'entreprise homonyme de RH santé (confirmé en visitant hublo.com aujourd'hui), donc l'indiquer comme site de la startup s5-hublo serait trompeur."
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Léo-Paul Goffic" },
+  { "name": "Cyril Gantzer", "linkedin": "https://www.linkedin.com/in/cyrilgantzer" },
+  { "name": "Etienne Le Scaon", "linkedin": "https://www.linkedin.com/in/lescaon" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Hublo était un outil d'analytics web sans code permettant aux équipes marketing, vente et support de suivre clics, formulaires et vidéos et de construire des tunnels de conversion sans écrire de code.",
+ "statusDetails": "Hublo (l'analytics tool de la promotion 5 de Le Camping) a cessé son activité ; la société aurait été radiée en juin 2016 selon la fiche existante, date que je n'ai pas pu reconfirmer indépendamment faute d'accès aux registres depuis cet environnement. À ne pas confondre avec l'actuelle medtech/HR-tech Hublo (gestion du personnel des établissements de santé), société distincte fondée plus tard et ayant levé des fonds importants (22 M€ en 2021, 20 M€ via Bpifrance en 2025) — un pur homonyme qui a depuis repris le nom de domaine hublo.com.",
+ "website": "",
+ "archiveEvidence": [],
+ "pressEvidence": [
+  {
+   "url": "https://techcrunch.com/2014/03/19/hublo-is-the-web-analytics-tool-for-the-rest-of-us/",
+   "titre": "Hublo Is The Web Analytics Tool For The Rest Of Us",
+   "annee": "2014",
+   "soutient": ["identity", "founders", "cohort"]
+  },
+  {
+   "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json",
+   "titre": "startups.json — dépôt alumni officiel de Le Camping",
+   "annee": "n/a (dépôt communautaire des anciens de Le Camping)",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.rudebaguette.com/?s=hublo",
+   "titre": "La medtech française Hublo lève 22 millions d'euros en série A",
+   "annee": "2021",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.maddyness.com/?s=hublo",
+   "titre": "Hublo lève 20 millions d'euros via Bpifrance",
+   "annee": "2025",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.hublo.com",
+   "titre": "Site actuel hublo.com (Hublo, plateforme RH pour la santé)",
+   "annee": "2026",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "",
+ "openQuestions": [
+  "Confirmer la date exacte de radiation (juin 2016 selon la fiche existante) via un registre français (pappers.fr, infogreffe, societe.com) — inaccessibles depuis cet environnement de recherche.",
+  "Confirmer directement, via une capture Wayback Machine de hublo.com entre 2013 et 2015, l'identité complète des trois fondateurs et une page équipe éventuelle — web.archive.org et archive.ph étaient tous deux inaccessibles (erreurs réseau) depuis cet environnement au moment de l'audit.",
+  "Confirmer par une visite directe des profils LinkedIn (bloqués aux requêtes automatisées) que https://www.linkedin.com/in/lescaon correspond bien à Etienne Le Scaon et que Léo-Paul Goffic possède un profil LinkedIn identifiable."
+ ],
+ "summary": "Hublo (saison 5, ~2013-2014) était un outil d'analytics web no-code cofondé par Cyril Gantzer (CEO, confirmé par TechCrunch), Léo-Paul Goffic et Etienne Le Scaon (corroborés par le dépôt alumni officiel de Le Camping). Aucune trace d'activité après mars 2014 ; la startup a cessé d'exister (statut \"stopped\"), sans lien avec l'actuelle medtech Hublo (gestion RH des établissements de santé) qui est un pur homonyme plus récent et bien financé, ayant repris le nom de domaine hublo.com. La date précise de radiation (juin 2016) n'a pas pu être reconfirmée indépendamment, les registres français et les archives web (web.archive.org, archive.ph) étant inaccessibles depuis cet environnement de recherche ; aucune source ne la contredit cependant. Aucune correction n'est apportée au dossier existant."
+}

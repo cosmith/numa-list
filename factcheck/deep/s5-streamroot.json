@@ -1,0 +1,64 @@
+{
+ "id": "s5-streamroot",
+ "name": "Streamroot",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "verified",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Pierre-Louis Théron" },
+  { "name": "Nikolay Rodionov" },
+  { "name": "Axel Delmas" }
+ ],
+ "status": "exit",
+ "activityDescription": "Streamroot est une solution de streaming vidéo en pair-à-pair (P2P) qui réduit fortement les coûts de bande passante des plateformes de diffusion vidéo tout en améliorant la qualité de service pour les utilisateurs finaux.",
+ "statusDetails": "Acquisition par CenturyLink (devenu Lumen Technologies) en 2019 ; les technologies de livraison vidéo de Streamroot ont été intégrées à l'offre de diffusion média de Lumen.",
+ "acquirer": "CenturyLink (devenu Lumen)",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=streamroot.io&timestamp=2014",
+   "montre": "L'API Wayback (archive.org) confirme une capture fonctionnelle (statut 200) de streamroot.io le 25 décembre 2014 (http://web.archive.org/web/20141225042718/http://www.streamroot.io/), donc le site était bien en ligne pendant/juste après la saison 5 (2013-2014). Note méthodologique : le domaine web.archive.org lui-même est bloqué pour la récupération directe de contenu dans cet environnement (erreur systématique 'unable to fetch from web.archive.org'), donc seule l'URL de capture a pu être confirmée via l'API archive.org, pas le contenu détaillé de la page."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json",
+   "titre": "LeCamping Mafia - startups.json (entrée StreamRoot)",
+   "annee": "n/a (archive communautaire)",
+   "soutient": ["cohort", "identity"]
+  },
+  {
+   "url": "https://www.linkedin.com/company/streamroot",
+   "titre": "Page LinkedIn de l'entreprise Streamroot",
+   "annee": "2026 (page consultée)",
+   "soutient": ["status", "identity"]
+  },
+  {
+   "url": "https://recherche-entreprises.api.gouv.fr/search?q=streamroot",
+   "titre": "Annuaire des Entreprises (data.gouv.fr) - fiche STREAMROOT SAS, SIREN 800354144",
+   "annee": "2026 (fiche consultée)",
+   "soutient": ["status"]
+  },
+  {
+   "url": "https://www.societe.com/societe/streamroot-800354144.html",
+   "titre": "Societe.com - fiche STREAMROOT (SIREN 800354144), historique des dirigeants",
+   "annee": "2026 (fiche consultée, historique remontant à 2014)",
+   "soutient": ["founders", "cohort", "status"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/streamroot",
+ "openQuestions": [
+  "Les profils LinkedIn personnels des trois fondateurs n'ont pas pu être récupérés directement (LinkedIn renvoie une erreur de blocage automatisé - statut 999 - pour toute URL /in/... dans cet environnement), et le budget de recherche web (WebSearch) de la session était déjà épuisé au moment de cette vérification, empêchant une recherche par snippets. Impossible donc de fournir des URLs linkedin.com/in/... vérifiées pour Pierre-Louis Théron, Nikolay Rodionov ou Axel Delmas dans ce passage ; une vérification ultérieure avec un budget de recherche disponible est recommandée.",
+  "Le contenu détaillé des captures Wayback Machine (page d'accueil, page équipe) n'a pas pu être inspecté car web.archive.org est bloqué pour la récupération de contenu dans cet environnement ; seule l'existence et la date des captures ont pu être confirmées via l'API archive.org."
+ ],
+ "summary": "Tous les champs du dossier Streamroot (saison 5, nom, absence de pivot de nom, trois fondateurs, statut 'exit', détail du statut, absence de site web actif) sont confirmés par des sources indépendantes de bonne qualité : l'archive communautaire LeCamping Mafia (saison 5, description P2P du produit), la page LinkedIn de l'entreprise (fondée en 2013, acquise par Lumen en 2019), et surtout le Registre national des entreprises français (via l'Annuaire des Entreprises et Societe.com, SIREN 800354144), qui liste nommément Nikolay Rodionov, Pierre-Louis Théron et Axel Delmas comme dirigeants de la société de sa création (19 février 2014) jusqu'à leur remplacement progressif par des dirigeants rattachés à Lumen entre 2021 et 2024 - une preuve très solide et indépendante de la composition des fondateurs et de la réalité du rachat. Le domaine streamroot.io ne résout plus (DNS introuvable), cohérent avec un statut 'exit' plutôt qu'un site actif. Aucune correction n'a été nécessaire au dossier existant ; seuls les profils LinkedIn individuels des fondateurs restent à documenter faute d'accès direct à LinkedIn et de budget de recherche web disponible."
+}

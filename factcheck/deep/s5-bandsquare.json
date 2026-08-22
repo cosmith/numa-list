@@ -1,0 +1,93 @@
+{
+ "id": "s5-bandsquare",
+ "name": "BandSquare",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified — l'annonce d'origine des 12 startups de la saison 5 de Le Camping (wydden.com, 22/11/2013) cite explicitement « Bandsquare » avec ses deux fondateurs.",
+  "name": "verified — orthographe « BandSquare » confirmée par la page LinkedIn de l'entreprise, les articles de presse et l'ancien domaine bandsquare.com/.fr.",
+  "formerNamesOrPivots": "corrected — pas de changement de nom, mais un pivot produit documenté (financement participatif de concerts en 2013 → plateforme SaaS de conversion d'audience en 2015-2017) que la fiche ne mentionnait pas.",
+  "founders": "verified — Antoine Labbé et Chloé Julien confirmés par l'annonce officielle de sélection de la saison 5 (nov. 2013) ; Chloé Julien confirmée en outre par son propre profil LinkedIn (« Founder & ex-CEO - BandSquare, exit in 2017 »).",
+  "status": "verified — rachat par Fimalac confirmé indépendamment par FrenchWeb (interview de Chloé Julien, avril 2017 : « La start-up a été rachetée en début d'année par Fimalac ») et par la page LinkedIn officielle de l'entreprise (« Acquired by Fimalac in 2017 »).",
+  "statusDetails": "corrected — précisé avec la date (début 2017) et le fait que le site officiel n'existe plus.",
+  "website": "verified_absent — aucun site officiel actif aujourd'hui : bandsquare.com redirige désormais (301) vers un domaine parqué sans rapport (dicksoldtime5and10.com) et bandsquare.fr renvoie une erreur 503."
+ },
+ "corrections": {
+  "formerNamesOrPivots": {
+   "avant": [],
+   "apres": [
+    "Pivot produit : lancée en 2013 comme plateforme de financement participatif dédiée aux concerts de musiciens indépendants, BandSquare est devenue vers 2015-2016 une plateforme SaaS aidant labels, marques, clubs sportifs, organisateurs d'événements et YouTubeurs à convertir leurs abonnés/followers en clients et à constituer des bases d'e-mails qualifiées."
+   ],
+   "preuves": [
+    "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+    "https://www.linkedin.com/company/bandsquare",
+    "https://www.maddyness.com/2016/06/15/bandsquare/"
+   ]
+  },
+  "statusDetails": {
+   "avant": "Société signalée comme acquise; marque autonome arrêtée.",
+   "apres": "BandSquare a été rachetée par le groupe Fimalac au début de l'année 2017. La marque n'a pas survécu comme entité autonome : son site officiel (bandsquare.com / bandsquare.fr) n'est plus en ligne en 2026 (bandsquare.com redirige vers un domaine parqué sans rapport, bandsquare.fr renvoie une erreur serveur).",
+   "preuves": [
+    "https://www.frenchweb.fr/beyondthepitch-chloe-julien-ceo-de-bandsquare/289527",
+    "https://www.linkedin.com/company/bandsquare",
+    "https://www.bandsquare.com",
+    "https://www.bandsquare.fr"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "Antoine Labbé" },
+  { "name": "Chloé Julien", "linkedin": "https://fr.linkedin.com/in/chloejulien" }
+ ],
+ "status": "exit",
+ "activityDescription": "BandSquare est, à ses débuts (saison 5, 2013), une plateforme de financement participatif dédiée aux concerts de musiciens indépendants, avant de devenir vers 2015-2016 une plateforme SaaS aidant labels, marques et organisateurs d'événements à convertir leurs abonnés en clients et en bases d'e-mails qualifiées.",
+ "statusDetails": "BandSquare a été rachetée par le groupe Fimalac au début de l'année 2017. La marque n'a pas survécu comme entité autonome : son site officiel (bandsquare.com / bandsquare.fr) n'est plus en ligne en 2026 (bandsquare.com redirige vers un domaine parqué sans rapport, bandsquare.fr renvoie une erreur serveur).",
+ "acquirer": "Fimalac",
+ "archiveEvidence": [
+  {
+   "url": "http://web.archive.org/web/20141224114618/https://www.bandsquare.com/",
+   "montre": "Capture confirmée disponible (24/12/2014, HTTP 200) via l'API archive.org/wayback/available. Le contenu de la capture elle-même n'a pas pu être récupéré dans cette session : l'outil de fetch et curl refusent systématiquement toute requête vers le domaine web.archive.org (erreur outil / connexion réinitialisée par le proxy), contrairement au domaine archive.org qui reste accessible. Cette capture confirme au minimum que le domaine bandsquare.com était bien actif fin 2014, en cohérence avec la période de la saison 5 (2013-2014)."
+  },
+  {
+   "url": "http://web.archive.org/web/20140816115452/http://www.bandsquare.fr:80/",
+   "montre": "Capture confirmée disponible (16/08/2014, HTTP 200) via l'API archive.org/wayback/available, même limitation d'accès au contenu que ci-dessus. Confirme l'existence du domaine .fr en parallèle du .com durant la saison 5."
+  },
+  {
+   "url": "https://www.bandsquare.com",
+   "montre": "Vérifié le 22/08/2026 : redirection HTTP 301 vers https://www.dicksoldtime5and10.com/, un domaine sans rapport (revente/expiration du nom de domaine). Confirme que le site officiel n'existe plus."
+  },
+  {
+   "url": "https://www.bandsquare.fr",
+   "montre": "Vérifié le 22/08/2026 : erreur HTTP 503, site indisponible."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://wydden.com/12-start-up-selectionnees-saison-5-le-camping/",
+   "titre": "12 start-up sélectionnées – saison 5 – Le Camping",
+   "annee": "2013",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2016/06/15/bandsquare/",
+   "titre": "Comment la startup BandSquare a pu visiter les locaux de Kickstarter, Google X, Facebook et Netflix",
+   "annee": "2016",
+   "soutient": ["identity", "status"]
+  },
+  {
+   "url": "https://www.frenchweb.fr/beyondthepitch-chloe-julien-ceo-de-bandsquare/289527",
+   "titre": "BeyondThePitch: Chloé Julien, CEO de BandSquare",
+   "annee": "2017",
+   "soutient": ["status", "founders", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/bandsquare",
+ "openQuestions": [
+  "Le profil LinkedIn personnel d'Antoine Labbé n'a pas pu être identifié avec certitude : le budget WebSearch de la session était épuisé dès le début de cette recherche, et les moteurs alternatifs interrogés via WebFetch (Bing, DuckDuckGo, Ecosia, Qwant, Yandex, Mojeek, Startpage) ont renvoyé des CAPTCHA, des résultats non pertinents (nombreux homonymes) ou des pages vides ; Brave Search a fonctionné une fois (confirmant le profil de Chloé Julien) puis a été bloqué par des erreurs 429 persistantes pour le reste de la session.",
+  "Le rôle exact d'Antoine Labbé après 2013 n'est pas documenté par la presse : à partir de 2016-2017, seule Chloé Julien est citée comme fondatrice/CEO, ce qui suggère un possible départ d'Antoine Labbé en cours de route, sans confirmation directe.",
+  "Le montant et les conditions précises du rachat par Fimalac (début 2017) n'ont pas été rendus publics dans les sources consultées ; seule la mention générale « rachetée en début d'année par Fimalac » a été trouvée.",
+  "Le dépôt communautaire GitHub lecamping/lecampingmafia indique par erreur la saison 7 pour BandSquare, en contradiction avec l'annonce officielle datée du 22/11/2013 de la sélection de la saison 5 (source contemporaine retenue comme faisant foi, conformément à la méthodologie qui déconseille de s'appuyer seule sur un annuaire communautaire)."
+ ],
+ "summary": "BandSquare est confirmée comme startup de la saison 5 de Le Camping (annonce officielle du 22/11/2013 citant Antoine Labbé et Chloé Julien comme fondateurs), lancée comme plateforme de financement participatif pour concerts de musiciens indépendants avant de pivoter vers une plateforme SaaS de conversion d'audience pour labels/marques/organisateurs d'événements. Le statut « exit » et l'acquéreur « Fimalac » de la fiche sont confirmés par deux sources indépendantes et concordantes : l'interview de la CEO Chloé Julien sur FrenchWeb (avril 2017, « rachetée en début d'année par Fimalac ») et la page LinkedIn officielle de l'entreprise (« Acquired by Fimalac in 2017 »), qui confirme aussi le passage par NUMA Paris. Aucun site officiel n'est plus en ligne en 2026 (bandsquare.com revendu à un tiers, bandsquare.fr en erreur 503). Le profil LinkedIn de Chloé Julien a été localisé et confirme son rôle de fondatrice ; celui d'Antoine Labbé reste introuvable faute d'accès fiable aux moteurs de recherche dans cette session (budget WebSearch épuisé, la plupart des moteurs alternatifs bloqués par CAPTCHA/429). Verdict global : corrigé, principalement pour enrichir la description d'activité, documenter le pivot produit et préciser la date/le contexte de l'acquisition."
+}

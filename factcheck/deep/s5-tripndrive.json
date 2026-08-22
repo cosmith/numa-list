@@ -1,0 +1,75 @@
+{
+ "id": "s5-tripndrive",
+ "name": "Tripndrive",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "corrected",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "corrected",
+  "website": "corrected"
+ },
+ "corrections": {
+  "statusDetails": {
+   "avant": "Activité d'autopartage intégrée/consolidée dans TravelCar.",
+   "apres": "Tripndrive a été racheté par son concurrent TravelCar en avril 2017 ; le site tripndrive.com reste en ligne aujourd'hui comme page historique affichant la mention « Tripndrive devient TravelCar ». TravelCar (fondé en 2012 sous le nom TravelerCar, racheté à 99 % par le groupe PSA en 2019) a lui-même été renommé Free2Move.",
+   "preuves": [
+    "https://fr.wikipedia.org/wiki/TravelCar",
+    "https://www.tripndrive.com/en/news/",
+    "https://www.linkedin.com/company/travelcar"
+   ]
+  },
+  "website": {
+   "avant": null,
+   "apres": "https://www.tripndrive.com",
+   "preuves": [
+    "https://www.tripndrive.com/en/",
+    "https://www.tripndrive.com/en/news/"
+   ]
+  }
+ },
+ "founders": [
+  { "name": "François-Xavier Leduc" },
+  { "name": "Arthur de Keyzer" },
+  { "name": "Nicolas Cosme" }
+ ],
+ "status": "exit",
+ "activityDescription": "Tripndrive est une plateforme d'autopartage entre voyageurs à l'aéroport ou en gare : les propriétaires qui partent en voyage prêtent leur voiture et bénéficient d'un stationnement gratuit, tandis que les voyageurs qui arrivent la louent environ 60 % moins cher qu'une location classique.",
+ "statusDetails": "Tripndrive a été racheté par TravelCar en avril 2017, son principal concurrent français sur l'autopartage aéroportuaire ; le site tripndrive.com est toujours en ligne aujourd'hui mais figé sur son contenu d'origine (dernière actualité datée de 2015) avec la mention « Tripndrive devient TravelCar ». TravelCar a ensuite été renommé Free2Move (racheté à 99 % par Groupe PSA en 2019).",
+ "acquirer": "TravelCar",
+ "website": "https://www.tripndrive.com",
+ "archiveEvidence": [
+  {
+   "url": "https://web.archive.org/cdx/search/cdx?url=tripndrive.com&output=json&collapse=timestamp:4&limit=50",
+   "montre": "Non consultable dans cette session : l'outil de fetch a explicitement refusé les requêtes vers web.archive.org (erreur outil systématique, y compris pour l'API CDX et pour des captures ponctuelles comme /web/2014/http://www.tripndrive.com). Contournement : le site tripndrive.com est resté en ligne sans changement depuis son rachat (dernière actualité 2015), ce qui fournit un contenu équivalent à une capture d'archive de l'époque."
+  },
+  {
+   "url": "https://www.tripndrive.com/en/news/",
+   "montre": "Page toujours en ligne en 2026, listant les communiqués de presse d'origine (2014-2015) : levée de fonds ISAI (800 K€, nov. 2014), déploiements Biarritz, Grenoble, Marne-la-Vallée, Paris ; bandeau « Tripndrive devient TravelCar » en en-tête ; description des fondateurs (François-Xavier Leduc, Arthur de Keyzer, Nicolas Cosme, fondée en juillet 2013) et du modèle (autopartage aéroport/gare)."
+  },
+  {
+   "url": "https://www.tripndrive.com/en/",
+   "montre": "Page d'accueil toujours en ligne en 2026, toujours brandée « Tripndrive - Autopartage pour les voyageurs », avec transition visuelle vers le logo TravelCar."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://fr.wikipedia.org/wiki/TravelCar",
+   "titre": "TravelCar (Wikipédia)",
+   "annee": "2017",
+   "soutient": ["status", "identity"]
+  }
+ ],
+ "linkedinCompany": "https://www.linkedin.com/company/travelcar",
+ "openQuestions": [
+  "Aucun profil LinkedIn personnel n'a pu être trouvé pour les trois fondateurs (François-Xavier Leduc, Arthur de Keyzer, Nicolas Cosme) : le budget WebSearch de la session était épuisé et les moteurs alternatifs (Bing, DuckDuckGo, Mojeek, Google) ont renvoyé des CAPTCHA ou des pages sans résultats exploitables via WebFetch. Une recherche LinkedIn dédiée reste à faire.",
+  "Aucune page LinkedIn dédiée à « Tripndrive » (linkedin.com/company/tripndrive) n'a été trouvée (404) ; seule la page LinkedIn de TravelCar a pu être consultée.",
+  "Internet Archive (web.archive.org) a été totalement inaccessible dans cette session (erreur outil), donc les captures officielles des pages de cohorte Le Camping/NUMA saison 5 n'ont pas pu être vérifiées directement ; la confirmation de la saison 5 repose sur le dépôt GitHub lecamping/lecampingmafia (startups.json) plutôt que sur une capture archive.org.",
+  "Le montant et les conditions précises du rachat par TravelCar (avril 2017) n'ont pas été confirmés par un communiqué de presse dédié à Tripndrive ; seule la page Wikipédia de TravelCar mentionne l'opération."
+ ],
+ "summary": "Le rachat de Tripndrive par TravelCar est confirmé de façon indépendante par deux sources primaires : le site tripndrive.com lui-même (toujours en ligne en 2026, bandeau « Tripndrive devient TravelCar », fondateurs et description du service confirmés mot pour mot) et l'article Wikipédia sur TravelCar qui date précisément le rachat à avril 2017 et retrace l'historique de l'acquéreur (TravelerCar 2012 → TravelCar 2017 → Free2Move, racheté à 99 % par Groupe PSA en 2019). Saison 5, nom, absence de pivot de nom et liste des trois fondateurs sont tous vérifiés. Seul le champ website manquait dans data.json alors que le site est bien vivant aujourd'hui ; il est ajouté. Aucun profil LinkedIn de fondateur n'a pu être localisé faute d'accès aux moteurs de recherche dans cette session ; Internet Archive était également inaccessible (erreur outil), compensé par le fait que le site d'origine n'a jamais été modifié depuis le rachat."
+}

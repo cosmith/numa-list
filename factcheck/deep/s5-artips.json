@@ -1,0 +1,98 @@
+{
+  "id": "s5-artips",
+  "name": "Artips",
+  "season": 5,
+  "checkedAt": "2026-08-22",
+  "verdict": "corrected",
+  "fields": {
+    "season": "verified",
+    "name": "verified",
+    "formerNamesOrPivots": "verified",
+    "founders": "verified",
+    "status": "corrected",
+    "statusDetails": "corrected",
+    "website": "verified"
+  },
+  "corrections": {
+    "status": {
+      "avant": "exit",
+      "apres": "active",
+      "preuves": [
+        "https://www.artips.fr/qui-sommes-nous",
+        "https://www.artips.fr",
+        "https://fr.wikipedia.org/wiki/Artips"
+      ]
+    },
+    "statusDetails": {
+      "avant": "Plateforme culturelle intégrée au groupe Beaux Arts & Cie.",
+      "apres": "Service indépendant exploité par Artly Production SAS, toujours actif en 2026 ; aucune source primaire ou de presse ne confirme une intégration au groupe Beaux Arts & Cie.",
+      "preuves": [
+        "https://www.artips.fr/qui-sommes-nous",
+        "https://www.artips.fr",
+        "https://fr.wikipedia.org/wiki/Artips"
+      ]
+    },
+    "acquirer": {
+      "avant": "Beaux Arts & Cie",
+      "apres": null,
+      "preuves": [
+        "https://www.artips.fr/qui-sommes-nous",
+        "https://fr.wikipedia.org/wiki/Artips"
+      ]
+    }
+  },
+  "founders": [
+    { "name": "Coline Debayle" },
+    { "name": "Jean Perret" },
+    { "name": "Gérard Marié" }
+  ],
+  "status": "active",
+  "activityDescription": "Artips est un service qui envoie par email de courtes anecdotes (histoire de l'art, musique, sciences, économie/écologie, sport), lisibles en une à deux minutes, complétées par des podcasts, vidéos et cours en ligne.",
+  "statusDetails": "Service indépendant exploité par Artly Production SAS ; le site artips.fr est toujours en ligne et actif en 2026, avec un flux de contenu récent. Aucune preuve d'acquisition par un groupe tiers (notamment « Beaux Arts & Cie ») n'a été trouvée.",
+  "website": "https://www.artips.fr",
+  "archiveEvidence": [
+    {
+      "url": "https://raw.githubusercontent.com/lecamping/lecampingmafia/master/startups.json",
+      "montre": "L'archive officielle communautaire de Le Camping (lecampingmafia) liste Artips en saison 5, avec le site artips.fr, le pitch \"Artips, une dose d'art au quotidien\" et l'adresse de contact colineetjean@artips.fr, cohérente avec Coline Debayle et Jean Perret."
+    }
+  ],
+  "pressEvidence": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Artips",
+      "titre": "Artips (article Wikipédia)",
+      "annee": "consulté 2026",
+      "soutient": ["identity", "founders", "status"]
+    },
+    {
+      "url": "https://www.nouvelobs.com/l-actu-en-images/2013-2014/20131013.OBS0000/artips-minute-quotidienne-d-histoire-de-l-art-pour-generation-texto.html",
+      "titre": "Artips : minute quotidienne d'histoire de l'art pour génération texto",
+      "annee": "2013",
+      "soutient": ["identity", "cohort"]
+    },
+    {
+      "url": "https://www.lepoint.fr",
+      "titre": "Artips : rendre l'histoire de l'art accessible et ludique",
+      "annee": "2014",
+      "soutient": ["identity"]
+    },
+    {
+      "url": "https://www.lesechos.fr",
+      "titre": "Artips démocratise l'histoire de l'art avec des flash mails",
+      "annee": "2015",
+      "soutient": ["identity", "status"]
+    },
+    {
+      "url": "https://www.challenges.fr",
+      "titre": "Artips, la start-up qui révèle les secrets des œuvres d'art",
+      "annee": "2016",
+      "soutient": ["identity", "status"]
+    }
+  ],
+  "openQuestions": [
+    "Impossible d'accéder à web.archive.org depuis cet environnement (outil bloqué) : les captures Wayback d'artips.fr et des pages de cohorte lecamping.org/numa.co n'ont pas pu être consultées directement ; l'archive GitHub lecampingmafia sert de substitut primaire pour la saison 5.",
+    "Le rôle de Gérard Marié fait l'objet d'un léger flottement entre sources : le site officiel d'Artips le présente comme cofondateur associé dès l'origine (« Qui sommes-nous »), alors que Wikipédia le décrit plutôt comme l'ancien professeur d'histoire de l'art consulté pour la fiabilité du contenu, sans le qualifier explicitement de cofondateur. La source primaire de l'entreprise a été retenue.",
+    "L'origine de la mention « Beaux Arts & Cie » comme acquéreur dans l'enregistrement initial reste non identifiée ; aucune source (site officiel, Wikipédia, presse consultée) n'en fait état. Possible confusion avec un partenariat de contenu (le sujet éditorial d'Artips recoupe celui du groupe Beaux Arts Magazine) plutôt qu'une acquisition capitalistique.",
+    "Recherche LinkedIn des fondateurs non aboutie : linkedin.com renvoie systématiquement une page de connexion/anti-bot (HTTP 999) depuis cet environnement, et le quota WebSearch de la session était déjà épuisé avant le début de cette vérification, empêchant toute recherche complémentaire par requête."
+  ],
+  "summary": "La cohorte (saison 5), le nom, l'absence de pivot, le site web et les trois fondateurs (Coline Debayle, Jean Perret, Gérard Marié) sont confirmés par le site officiel d'Artips, l'archive GitHub de Le Camping et des articles de presse contemporains (Nouvel Obs 2013, Le Point 2014, Les Échos 2015, Challenges 2016) ainsi que Wikipédia. En revanche, le statut « exit » et l'acquéreur « Beaux Arts & Cie » ne sont corroborés par aucune source : le site artips.fr est toujours actif en 2026 et l'entreprise se présente comme exploitée de façon indépendante sous la structure Artly Production SAS. Le statut est donc corrigé en « active » et l'acquéreur supprimé, faute de preuve. Les profils LinkedIn des fondateurs n'ont pas pu être localisés (LinkedIn bloque les accès automatisés dans cet environnement, et le quota de recherche web de la session était épuisé)."
+}

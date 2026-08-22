@@ -1,0 +1,64 @@
+{
+ "id": "s5-takes",
+ "name": "Takes",
+ "season": 5,
+ "checkedAt": "2026-08-22",
+ "verdict": "verified",
+ "fields": {
+  "season": "verified",
+  "name": "verified",
+  "formerNamesOrPivots": "verified",
+  "founders": "verified",
+  "status": "verified",
+  "statusDetails": "unverifiable",
+  "website": "verified"
+ },
+ "corrections": {},
+ "founders": [
+  { "name": "Jonathan Asquier" },
+  { "name": "Alexis Ohayon" },
+  { "name": "Anaël Beutot" },
+  { "name": "Elie Siauve" }
+ ],
+ "status": "stopped",
+ "activityDescription": "Takes (anciennement TakeTracker) est un outil en ligne permettant aux équipes de production audiovisuelle (réalisateurs, agences, monteurs) de partager rapidement rushes, storyboards et moodboards pour recueillir des retours (feedback) sur leurs vidéos.",
+ "statusDetails": "La société TakeTracker/Takes n'est plus en activité : ses deux domaines historiques (taketracker.com et takes.io) sont aujourd'hui expirés et revendus sur des places de marché de noms de domaine (GoDaddy et Atom.com), et aucune trace d'activité, de levée de fonds ou de mention presse n'existe après 2013-2014. La mention antérieure d'une radiation du RCS en juin 2015 n'a pas pu être re-confirmée cette session (accès aux registres pappers.fr, societe.com et infogreffe.fr bloqués : 403/404/503), mais rien ne la contredit.",
+ "archiveEvidence": [
+  {
+   "url": "https://archive.org/wayback/available?url=taketracker.com&timestamp=2014",
+   "montre": "API Wayback confirme une capture de taketracker.com le 8 février 2014 (statut 200), cohérent avec l'existence du site pendant la saison 5 (2013-2014)."
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=takes.io&timestamp=2015",
+   "montre": "API Wayback confirme une capture de takes.io le 30 juin 2017 (statut 200), montrant que le site sous le nom 'Takes' a existé après le pivot de nom."
+  },
+  {
+   "url": "https://taketracker.com",
+   "montre": "Le domaine taketracker.com redirige aujourd'hui (2026) vers une page de vente GoDaddy (forsale.godaddy.com) : domaine expiré et revendu, le site n'est plus exploité."
+  },
+  {
+   "url": "https://takes.io",
+   "montre": "Le domaine takes.io redirige aujourd'hui (2026) vers atom.com/name/takes.io, une place de marché de noms de domaine : domaine également expiré/revendu."
+  }
+ ],
+ "pressEvidence": [
+  {
+   "url": "https://www.journaldunet.com/web-tech/start-up/1131258-video-decouvrez-les-start-up-de-la-5e-saison-du-camping/1131278-taketracker",
+   "titre": "Vidéo : découvrez les start-up de la 5e saison du Camping - TakeTracker",
+   "annee": "2013",
+   "soutient": ["cohort", "founders", "identity"]
+  },
+  {
+   "url": "https://www.maddyness.com/2013/10/28/startups-melusyn-moviemotion-taketracker-moviechainer/",
+   "titre": "[Focus] 4 startups se regroupent avec comme ambition de révolutionner l'industrie audiovisuelle",
+   "annee": "2013",
+   "soutient": ["identity", "founders"]
+  }
+ ],
+ "openQuestions": [
+  "Les moteurs de recherche (Google, Bing, DuckDuckGo, Yandex, Mojeek, Brave) et LinkedIn ont bloqué ou renvoyé des CAPTCHA/erreurs pour toutes les requêtes de cette session ; il n'a donc pas été possible de retrouver les profils LinkedIn personnels des 4 fondateurs ni une page LinkedIn de l'entreprise (les URLs devinées linkedin.com/company/taketracker et /takes-io renvoient 404, donc probablement inexistantes sous ces identifiants).",
+  "La date précise de radiation du RCS (juin 2015, mentionnée dans le dossier existant) n'a pas pu être re-vérifiée cette session : pappers.fr a renvoyé 403, societe.com 404, infogreffe.fr 503. Une vérification via un registre officiel reste à faire.",
+  "web.archive.org (pages HTML des snapshots) était inaccessible au fetch direct dans cet environnement (seule l'API JSON archive.org/wayback/available a fonctionné) ; le contenu visuel exact des captures n'a donc pas pu être inspecté directement, seule leur existence est confirmée."
+ ],
+ "summary": "Toutes les informations du dossier existant sont confirmées par des sources primaires indépendantes : l'article du Journal du Net (21 nov. 2013) sur la saison 5 du Camping liste les 4 fondateurs (Jonathan Asquier, Alexis Ohayon, Anaël Beutot, Elie Siauve) et décrit TakeTracker comme un outil de suivi de production audiovisuelle ; l'article Maddyness (28 oct. 2013) confirme l'identité et Alexis Ohayon comme porteur du projet ; le fichier startups.json du dépôt communautaire lecamping/lecampingmafia confirme la saison 5, le pivot de nom TakeTracker -> Takes et le site takes.io. Les deux domaines historiques (taketracker.com, takes.io) sont aujourd'hui expirés et revendus, confirmant que le service n'est plus en activité (statut 'stopped'). La date exacte de radiation RCS n'a pas pu être re-confirmée via les registres publics (accès bloqués), et aucun profil LinkedIn n'a pu être localisé du fait du blocage des moteurs de recherche et de LinkedIn dans cette session. Verdict global : verified (aucune correction nécessaire), avec deux points en suspens documentés (LinkedIn, date RCS)."
+}
